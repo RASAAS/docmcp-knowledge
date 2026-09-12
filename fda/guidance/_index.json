@@ -8,7 +8,7 @@
       "id": "fda-dental-curing-lights-premarket-notification-510k-submissions",
       "title": {
         "en": "Dental Curing Lights - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "dental-curing-lights-premarket-notification-510k-submissions",
       "status": "active",
@@ -28,7 +28,7 @@
       "id": "fda-dental-composite-resin-devices-premarket-notification-510k-submissions",
       "title": {
         "en": "Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "牙科复合树脂器械 - 上市前通知(510(k))提交：行业与FDA工作人员指南"
       },
       "slug": "dental-composite-resin-devices-premarket-notification-510k-submissions",
       "status": "active",
@@ -48,7 +48,7 @@
       "id": "fda-applying-human-factors-and-usability-engineering-medical-devices",
       "title": {
         "en": "Applying Human Factors and Usability Engineering to Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南"
+        "zh": "将人因工程和可用性工程应用于医疗器械：行业与FDA工作人员指南"
       },
       "slug": "applying-human-factors-and-usability-engineering-medical-devices",
       "status": "active",
@@ -70,7 +70,7 @@
       "id": "fda-hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions",
       "title": {
         "en": "Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions",
       "status": "active",
@@ -90,7 +90,7 @@
       "id": "fda-intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements",
       "title": {
         "en": "Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南"
+        "zh": "拟豁免某些未分类医疗器械上市前通知要求：行业与FDA工作人员指南"
       },
       "slug": "intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements",
       "status": "active",
@@ -109,7 +109,7 @@
       "id": "fda-content-human-factors-information-medical-device-marketing-submissions",
       "title": {
         "en": "Content of Human Factors Information in Medical Device Marketing Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械市场营销提交中的人体因素信息内容：行业与FDA工作人员指南"
       },
       "slug": "content-human-factors-information-medical-device-marketing-submissions",
       "status": "active",
@@ -130,7 +130,7 @@
       "id": "fda-patient-matched-guides-orthopedic-implants",
       "title": {
         "en": "Patient-Matched Guides for Orthopedic Implants: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南"
+        "zh": "整形植入器的患者匹配指南：行业与FDA工作人员指南"
       },
       "slug": "patient-matched-guides-orthopedic-implants",
       "status": "active",
@@ -149,7 +149,7 @@
       "id": "fda-incorporating-voluntary-patient-preference-information-over-total-product-life-cycle",
       "title": {
         "en": "Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle: Guidance for Industry, Food and Drug Administration Staff, and Other Interested Parties",
-        "zh": "整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南"
+        "zh": "整体产品生命周期中自愿患者偏好信息的集成：行业、FDA工作人员及其他相关方指南"
       },
       "slug": "incorporating-voluntary-patient-preference-information-over-total-product-life-cycle",
       "status": "active",
@@ -165,7 +165,7 @@
       "id": "fda-medical-devices-indications-associated-weight-loss-premarket-considerations",
       "title": {
         "en": "Medical Devices with Indications Associated with Weight Loss - Premarket Considerations: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与食品药品管理局工作人员指南"
+        "zh": "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与FDA工作人员指南"
       },
       "slug": "medical-devices-indications-associated-weight-loss-premarket-considerations",
       "status": "active",
@@ -203,7 +203,7 @@
       "id": "fda-computer-software-assurance-production-and-quality-management-system-software",
       "title": {
         "en": "Computer Software Assurance for Production and Quality Management System Software: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "生产与质量管理体系软件的计算机软件保证：行业与食品药品管理局工作人员指南"
+        "zh": "生产与质量管理体系软件的计算机软件保证：行业与FDA工作人员指南"
       },
       "slug": "computer-software-assurance-production-and-quality-management-system-software",
       "status": "active",
@@ -223,7 +223,7 @@
       "id": "fda-clinical-decision-support-software",
       "title": {
         "en": "Clinical Decision Support Software: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "临床决策支持软件：行业与食品药品管理局工作人员指南"
+        "zh": "临床决策支持软件：行业与FDA工作人员指南"
       },
       "slug": "clinical-decision-support-software",
       "status": "active",
@@ -242,7 +242,7 @@
       "id": "fda-general-wellness-policy-low-risk-devices",
       "title": {
         "en": "General Wellness: Policy for Low Risk Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "一般健康：低风险器械政策：行业与食品药品管理局工作人员指南"
+        "zh": "一般健康：低风险器械政策：行业与FDA工作人员指南"
       },
       "slug": "general-wellness-policy-low-risk-devices",
       "status": "active",
@@ -261,7 +261,7 @@
       "id": "fda-use-real-world-evidence-support-regulatory-decision-making-medical-devices",
       "title": {
         "en": "Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "实实世界证据的使用,支持医疗器械的监管决策：行业与食品药品管理局工作人员指南"
+        "zh": "利用真实世界证据支持医疗器械监管决策：行业与FDA工作人员指南"
       },
       "slug": "use-real-world-evidence-support-regulatory-decision-making-medical-devices",
       "status": "active",
@@ -281,7 +281,7 @@
       "id": "fda-ecopy-program-medical-device-submissions",
       "title": {
         "en": "eCopy Program for Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械提交的eCopy计划：行业与FDA工作人员指南"
       },
       "slug": "ecopy-program-medical-device-submissions",
       "status": "active",
@@ -302,7 +302,7 @@
       "id": "fda-consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency",
       "title": {
         "en": "Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南"
+        "zh": "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与FDA工作人员指南"
       },
       "slug": "consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency",
       "status": "active",
@@ -321,7 +321,7 @@
       "id": "fda-animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions",
       "title": {
         "en": "Animal Studies for Dental Bone Grafting Material Devices - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "牙科骨移植材料器械的动物研究 - 上市前通知(510(k))提交：行业与FDA工作人员指南"
       },
       "slug": "animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions",
       "status": "active",
@@ -341,7 +341,7 @@
       "id": "fda-marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence",
       "title": {
         "en": "Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与食品药品管理局工作人员指南"
+        "zh": "人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与FDA工作人员指南"
       },
       "slug": "marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence",
       "status": "active",
@@ -360,7 +360,7 @@
       "id": "fda-medical-device-user-fee-small-business-qualification-and-determination",
       "title": {
         "en": "Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments",
-        "zh": "医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南"
+        "zh": "医疗器械用户费 小企业资格和确定性：行业、FDA工作人员及外国政府指南"
       },
       "slug": "medical-device-user-fee-small-business-qualification-and-determination",
       "status": "active",
@@ -379,7 +379,7 @@
       "id": "fda-requests-feedback-and-meetings-medical-device-submissions-q-submission-program",
       "title": {
         "en": "Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program: - Final Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南"
+        "zh": "医疗器械提交的反请求和会议:Q提交计划：行业与FDA工作人员最终指南"
       },
       "slug": "requests-feedback-and-meetings-medical-device-submissions-q-submission-program",
       "status": "active",
@@ -398,7 +398,7 @@
       "id": "fda-evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug",
       "title": {
         "en": "Evaluation of Sex-Specific Data in Medical Device Clinical Studies - Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在医疗器械临床研究中评估性别特定数据：行业与食品药品管理局工作人员指南"
+        "zh": "在医疗器械临床研究中评估性别特定数据：行业与FDA工作人员指南"
       },
       "slug": "evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug",
       "status": "active",
@@ -417,7 +417,7 @@
       "id": "fda-premarket-approval-application-and-humanitarian-device-exemption-modular-review",
       "title": {
         "en": "Premarket Approval Application and Humanitarian Device Exemption Modular Review: Guidance for Industry and FDA Staff",
-        "zh": "预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南"
+        "zh": "上市前批准申请和人道主义器械豁免模块化审查：行业与FDA工作人员指南"
       },
       "slug": "premarket-approval-application-and-humanitarian-device-exemption-modular-review",
       "status": "active",
@@ -435,7 +435,7 @@
       "id": "fda-notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc",
       "title": {
         "en": "Notifying FDA of a Permanent Discontinuance or Interruption in Manufacturing of a Device Under Section 506J of the FD&C Act: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "根据FD&C法第506J条,通知FDA关于设备生产永久停产或中断：行业与食品药品管理局工作人员指南"
+        "zh": "根据FD&C法第506J条通知FDA器械生产的永久停产或中断：行业与FDA工作人员指南"
       },
       "slug": "notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc",
       "status": "active",
@@ -453,7 +453,7 @@
       "id": "fda-global-unique-device-identification-database-gudid",
       "title": {
         "en": "Global Unique Device Identification Database (GUDID): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "全球独特设备识别数据库 (GUDID)：行业与食品药品管理局工作人员指南"
+        "zh": "全球唯一器械标识数据库(GUDID)：行业与FDA工作人员指南"
       },
       "slug": "global-unique-device-identification-database-gudid",
       "status": "active",
@@ -473,7 +473,7 @@
       "id": "fda-transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices",
       "title": {
         "en": "Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "乙烯氧化物灭菌设施的过渡执行政策变化：行业与食品药品管理局工作人员指南"
+        "zh": "III类器械环氧乙烷灭菌设施变更的过渡性执法政策：行业与FDA工作人员指南"
       },
       "slug": "transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices",
       "status": "active",
@@ -492,7 +492,7 @@
       "id": "fda-orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance",
       "title": {
         "en": "Orthopedic Non-Spinal Metallic Bone Screws and Washers - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与FDA工作人员指南"
       },
       "slug": "orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance",
       "status": "active",
@@ -512,7 +512,7 @@
       "id": "fda-orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions",
       "title": {
         "en": "Orthopedic Non-Spinal Bone Plates, Screws, and Washers - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions",
       "status": "active",
@@ -532,7 +532,7 @@
       "id": "fda-510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review",
       "title": {
         "en": "510(k) Third Party Review Program and Third Party Emergency Use Authorization (EUA) Review: Guidance for Industry, Food and Drug Administration Staff, and Third Party Review Organizations",
-        "zh": "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南"
+        "zh": "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南"
       },
       "slug": "510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review",
       "status": "active",
@@ -552,7 +552,7 @@
       "id": "fda-endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and",
       "title": {
         "en": "Endosseous Dental Implants and Endosseous Dental Implant Abutments - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南"
       },
       "slug": "endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and",
       "status": "active",
@@ -572,7 +572,7 @@
       "id": "fda-dental-impression-materials-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Dental Impression Materials - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙印花材料 - 安全性和性能标准的基础路径：行业与食品药品管理局工作人员指南"
+        "zh": "牙印花材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南"
       },
       "slug": "dental-impression-materials-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -592,7 +592,7 @@
       "id": "fda-dental-ceramics-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Dental Ceramics - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙科陶 -安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "牙科陶 -安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "dental-ceramics-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -612,7 +612,7 @@
       "id": "fda-dental-cements-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Dental Cements - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "dental-cements-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -632,7 +632,7 @@
       "id": "fda-air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based",
       "title": {
         "en": "Air Powered Dental Handpieces and Air Motors - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南"
       },
       "slug": "air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based",
       "status": "active",
@@ -652,7 +652,7 @@
       "id": "fda-clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment",
       "title": {
         "en": "Clarification of Radiation Control Regulations For Manufacturers of Diagnostic X-Ray Equipment: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "诊断X射线设备制造商的辐射控制条例的澄清：行业与食品药品管理局工作人员指南"
+        "zh": "诊断X射线设备制造商的辐射控制条例的澄清：行业与FDA工作人员指南"
       },
       "slug": "clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment",
       "status": "active",
@@ -673,7 +673,7 @@
       "id": "fda-appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions",
       "title": {
         "en": "Appeal Options Available to Mammography Facilities Concerning Adverse Accreditation Decisions, Suspension/Revocation of Certificates, or Patient and Referring Provider Notification Orders: Guidance for Mammography Facilities and Food and Drug Administration Staff",
-        "zh": "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南"
+        "zh": "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和FDA人员指南"
       },
       "slug": "appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions",
       "status": "active",
@@ -694,7 +694,7 @@
       "id": "fda-voluntary-malfunction-summary-reporting-vmsr-program-manufacturers",
       "title": {
         "en": "Voluntary Malfunction Summary Reporting (VMSR) Program for Manufacturers: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "制造商自愿故障总结报告 (VMSR) 计划：行业与食品药品管理局工作人员指南"
+        "zh": "制造商自愿故障总结报告 (VMSR) 计划：行业与FDA工作人员指南"
       },
       "slug": "voluntary-malfunction-summary-reporting-vmsr-program-manufacturers",
       "status": "active",
@@ -710,7 +710,7 @@
       "id": "fda-fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic",
       "title": {
         "en": "FDA and Industry Procedures for Section 513(g) Requests for Information under the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南"
+        "zh": "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南"
       },
       "slug": "fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic",
       "status": "active",
@@ -730,7 +730,7 @@
       "id": "fda-electronic-submission-template-medical-device-de-novo-requests",
       "title": {
         "en": "Electronic Submission Template for Medical Device De Novo Requests: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南"
+        "zh": "电子提交医疗器械的模板 De Novo 要求：行业与FDA工作人员指南"
       },
       "slug": "electronic-submission-template-medical-device-de-novo-requests",
       "status": "active",
@@ -765,7 +765,7 @@
       "id": "fda-clinical-considerations-studies-devices-intended-treat-opioid-use-disorder",
       "title": {
         "en": "Clinical Considerations for Studies of Devices Intended to Treat Opioid Use Disorder: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南"
+        "zh": "治疗阿片类药物使用障碍的器械临床考量：行业与FDA工作人员指南"
       },
       "slug": "clinical-considerations-studies-devices-intended-treat-opioid-use-disorder",
       "status": "active",
@@ -799,7 +799,7 @@
       "id": "fda-submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled",
       "title": {
         "en": "Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南"
+        "zh": "以无菌标记器械的上市前通知(510(k))提交中无菌信息的提交和审查：行业与FDA工作人员指南"
       },
       "slug": "submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled",
       "status": "active",
@@ -818,7 +818,7 @@
       "id": "fda-assessing-credibility-computational-modeling-and-simulation-medical-device-submissions",
       "title": {
         "en": "Assessing the Credibility of Computational Modeling and Simulation in Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械提交中计算建模与仿真可信度评估：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械提交中计算建模与仿真可信度评估：行业与FDA工作人员指南"
       },
       "slug": "assessing-credibility-computational-modeling-and-simulation-medical-device-submissions",
       "status": "active",
@@ -837,7 +837,7 @@
       "id": "fda-process-request-review-fdas-decision-not-issue-certain-export-certificates-devices",
       "title": {
         "en": "Process to Request a Review of FDA's Decision Not to Issue Certain Export Certificates for Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南"
+        "zh": "申请复审FDA不颁发某些器械出口证书决定的程序：行业与FDA工作人员指南"
       },
       "slug": "process-request-review-fdas-decision-not-issue-certain-export-certificates-devices",
       "status": "active",
@@ -857,7 +857,7 @@
       "id": "fda-enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device",
       "title": {
         "en": "Enforcement Policy for Certain Supplements for Approved Premarket Approval (PMA) or Humanitarian Device Exemption (HDE) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南"
+        "zh": "已批准上市前批准(PMA)或人道主义器械豁免(HDE)申请的某些补充申请的执法政策：行业与FDA工作人员指南"
       },
       "slug": "enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device",
       "status": "active",
@@ -876,7 +876,7 @@
       "id": "fda-enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring",
       "title": {
         "en": "Enforcement Policy for Non-Invasive Remote Monitoring Devices Used to Support Patient Monitoring: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南"
+        "zh": "用于支持患者监测的非侵入式远程监测器械执法政策：行业与FDA工作人员指南"
       },
       "slug": "enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring",
       "status": "active",
@@ -896,7 +896,7 @@
       "id": "fda-testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment",
       "title": {
         "en": "Testing and Labeling Medical Devices for Safety in the Magnetic Resonance (MR) Environment: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在磁共振环境中安全性检测和标签医疗器械：行业与食品药品管理局工作人员指南"
+        "zh": "在磁共振环境中安全性检测和标签医疗器械：行业与FDA工作人员指南"
       },
       "slug": "testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment",
       "status": "active",
@@ -918,7 +918,7 @@
       "id": "fda-submission-premarket-notifications-magnetic-resonance-diagnostic-devices",
       "title": {
         "en": "Submission of Premarket Notifications for Magnetic Resonance Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南"
+        "zh": "磁共振诊断器械上市前通知提交：行业与FDA工作人员指南"
       },
       "slug": "submission-premarket-notifications-magnetic-resonance-diagnostic-devices",
       "status": "active",
@@ -939,7 +939,7 @@
       "id": "fda-electronic-submission-template-medical-device-510k-submissions",
       "title": {
         "en": "Electronic Submission Template for Medical Device 510(k) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "电子提交医疗器械模板 510(k) 提交：行业与FDA工作人员指南"
       },
       "slug": "electronic-submission-template-medical-device-510k-submissions",
       "status": "active",
@@ -955,7 +955,7 @@
       "id": "fda-technical-considerations-medical-devices-physiologic-closed-loop-control-technology",
       "title": {
         "en": "Technical Considerations for Medical Devices with Physiologic Closed-Loop Control Technology: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "具有生理闭环控制技术的医疗器械技术考量：行业与食品药品管理局工作人员指南"
+        "zh": "具有生理闭环控制技术的医疗器械技术考量：行业与FDA工作人员指南"
       },
       "slug": "technical-considerations-medical-devices-physiologic-closed-loop-control-technology",
       "status": "active",
@@ -976,7 +976,7 @@
       "id": "fda-antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling",
       "title": {
         "en": "Antimicrobial Susceptibility Test (AST) System Devices – Updating Breakpoints in Device Labeling: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南"
+        "zh": "抗菌药敏试验(AST)系统器械 - 更新器械标签中的折点：行业与FDA工作人员指南"
       },
       "slug": "antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling",
       "status": "active",
@@ -994,7 +994,7 @@
       "id": "fda-fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program",
       "title": {
         "en": "Fostering Medical Device Improvement: FDA Activities and Engagement with the Voluntary Improvement Program: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与食品药品管理局工作人员指南"
+        "zh": "促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与FDA工作人员指南"
       },
       "slug": "fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program",
       "status": "active",
@@ -1013,7 +1013,7 @@
       "id": "fda-breakthrough-devices-program",
       "title": {
         "en": "Breakthrough Devices Program: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "突破性设备计划：行业与食品药品管理局工作人员指南"
+        "zh": "突破性器械计划：行业与FDA工作人员指南"
       },
       "slug": "breakthrough-devices-program",
       "status": "active",
@@ -1029,7 +1029,7 @@
       "id": "fda-use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and",
       "title": {
         "en": "Use of International Standard ISO 10993-1, \"Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process\" : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "国际标准ISO 10993-1的使用\"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试\"：行业与食品药品管理局工作人员指南"
+        "zh": "国际标准ISO 10993-1的使用\"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试\"：行业与FDA工作人员指南"
       },
       "slug": "use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and",
       "status": "active",
@@ -1054,7 +1054,7 @@
       "id": "fda-enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public",
       "title": {
         "en": "Enforcement Policy for Face Masks and Barrier Face Coverings During the Coronavirus Disease (COVID-19) Public Health Emergency : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南"
+        "zh": "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南"
       },
       "slug": "enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public",
       "status": "active",
@@ -1073,7 +1073,7 @@
       "id": "fda-shelf-software-use-medical-devices",
       "title": {
         "en": "Off-The-Shelf Software Use in Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械中的现成软件使用：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械中的现成软件使用：行业与FDA工作人员指南"
       },
       "slug": "shelf-software-use-medical-devices",
       "status": "active",
@@ -1092,7 +1092,7 @@
       "id": "fda-hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket",
       "title": {
         "en": "Hydrogen Peroxide-Based Contact Lens Care Products: Consumer Labeling Recommendations - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket",
       "status": "active",
@@ -1113,7 +1113,7 @@
       "id": "fda-qualification-medical-device-development-tools",
       "title": {
         "en": "Qualification of Medical Device Development Tools: Guidance for Industry, Tool Developers, and Food and Drug Administration Staff",
-        "zh": "医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南"
+        "zh": "医疗器械开发工具的认定：行业、工具开发者与FDA工作人员指南"
       },
       "slug": "qualification-medical-device-development-tools",
       "status": "active",
@@ -1133,7 +1133,7 @@
       "id": "fda-content-premarket-submissions-device-software-functions",
       "title": {
         "en": "Content of Premarket Submissions for Device Software Functions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "器械软件功能上市前提交内容：行业与食品药品管理局工作人员指南"
+        "zh": "器械软件功能上市前提交内容：行业与FDA工作人员指南"
       },
       "slug": "content-premarket-submissions-device-software-functions",
       "status": "active",
@@ -1152,7 +1152,7 @@
       "id": "fda-non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation",
       "title": {
         "en": "Non-Clinical Performance Assessment of Tissue Containment Systems Used During Power Morcellation Procedures: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南"
+        "zh": "在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南"
       },
       "slug": "non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation",
       "status": "active",
@@ -1173,7 +1173,7 @@
       "id": "fda-peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification",
       "title": {
         "en": "Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification",
       "status": "active",
@@ -1194,7 +1194,7 @@
       "id": "fda-soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南"
       },
       "slug": "soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -1214,7 +1214,7 @@
       "id": "fda-general-considerations-animal-studies-intended-evaluate-medical-devices",
       "title": {
         "en": "General Considerations for Animal Studies Intended to Evaluate Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南"
+        "zh": "动物研究的一般考虑因素,用于评估医疗器械：行业与FDA工作人员指南"
       },
       "slug": "general-considerations-animal-studies-intended-evaluate-medical-devices",
       "status": "active",
@@ -1236,7 +1236,7 @@
       "id": "fda-transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease",
       "title": {
         "en": "Transition Plan for Medical Devices That Fall Within Enforcement Policies Issued During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency: Guidance for Industry, Other Stakeholders, and Food and Drug Administration Staff",
-        "zh": "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南"
+        "zh": "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与FDA工作人员指南"
       },
       "slug": "transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease",
       "status": "active",
@@ -1255,7 +1255,7 @@
       "id": "fda-transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease",
       "title": {
         "en": "Transition Plan for Medical Devices Issued Emergency Use Authorizations (EUAs) Related to Coronavirus Disease 2019 (COVID-19): Guidance for Industry, Other Stakeholders, and Food and Drug Administration Staff",
-        "zh": "关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南"
+        "zh": "关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与FDA工作人员指南"
       },
       "slug": "transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease",
       "status": "active",
@@ -1274,7 +1274,7 @@
       "id": "fda-policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices",
       "title": {
         "en": "Policy Clarification and Premarket Notification [510(k)] Submissions for Ultrasonic Diathermy Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "政策澄清和上市前通知 [510(k) ] 超声波透膜设备的申请：行业与食品药品管理局工作人员指南"
+        "zh": "超声透热器械的政策澄清和上市前通知[510(k)]提交：行业与FDA工作人员指南"
       },
       "slug": "policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices",
       "status": "active",
@@ -1294,7 +1294,7 @@
       "id": "fda-medical-x-ray-imaging-devices-conformance-iec-standards",
       "title": {
         "en": "Medical X-Ray Imaging Devices Conformance with IEC Standards: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗X射线成像设备符合IEC标准：行业与食品药品管理局工作人员指南"
+        "zh": "医疗X射线成像器械符合IEC标准：行业与FDA工作人员指南"
       },
       "slug": "medical-x-ray-imaging-devices-conformance-iec-standards",
       "status": "active",
@@ -1315,7 +1315,7 @@
       "id": "fda-marketing-clearance-diagnostic-ultrasound-systems-and-transducers",
       "title": {
         "en": "Marketing Clearance of Diagnostic Ultrasound Systems and Transducers : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "诊断超声波系统和转换器的市场许可：行业与食品药品管理局工作人员指南"
+        "zh": "诊断超声波系统和转换器的市场许可：行业与FDA工作人员指南"
       },
       "slug": "marketing-clearance-diagnostic-ultrasound-systems-and-transducers",
       "status": "active",
@@ -1336,7 +1336,7 @@
       "id": "fda-laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56",
       "title": {
         "en": "Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 (Laser Notice No. 56): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与食品药品管理局工作人员指南"
+        "zh": "激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与FDA工作人员指南"
       },
       "slug": "laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56",
       "status": "active",
@@ -1358,7 +1358,7 @@
       "id": "fda-guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment",
       "title": {
         "en": "Guidance for Industry and Food and Drug Administration Staff - Assembler's Guide to Diagnostic X-Ray Equipment",
-        "zh": "工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南"
+        "zh": "诊断X射线设备组装指南：行业与FDA工作人员指南"
       },
       "slug": "guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment",
       "status": "active",
@@ -1374,7 +1374,7 @@
       "id": "fda-surveying-leveling-and-alignment-laser-products",
       "title": {
         "en": "Surveying, Leveling, and Alignment Laser Products: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "测量,水平和配列激光产品：行业与食品药品管理局工作人员指南"
+        "zh": "测量,水平和配列激光产品：行业与FDA工作人员指南"
       },
       "slug": "surveying-leveling-and-alignment-laser-products",
       "status": "active",
@@ -1393,7 +1393,7 @@
       "id": "fda-policy-evaluating-impact-viral-mutations-covid-19-tests-revised",
       "title": {
         "en": "Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests (Revised): Guidance for Test Developers and Food and Drug Administration Staff",
-        "zh": "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南"
+        "zh": "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与FDA工作人员指南"
       },
       "slug": "policy-evaluating-impact-viral-mutations-covid-19-tests-revised",
       "status": "active",
@@ -1412,7 +1412,7 @@
       "id": "fda-policy-coronavirus-disease-2019-tests-revised",
       "title": {
         "en": "Policy for Coronavirus Disease-2019 Tests (Revised): Guidance for Developers and Food and Drug Administration Staff",
-        "zh": "关于2019年新冠病毒检测政策 (修订)：开发者与食品药品管理局工作人员指南"
+        "zh": "关于2019年新冠病毒检测政策 (修订)：开发者与FDA工作人员指南"
       },
       "slug": "policy-coronavirus-disease-2019-tests-revised",
       "status": "active",
@@ -1433,7 +1433,7 @@
       "id": "fda-referencing-definition-device-federal-food-drug-and-cosmetic-act-guidance-regulatory-documents",
       "title": {
         "en": "Referencing the Definition of \"Device\" in the Federal Food, Drug, and Cosmetic Act in Guidance, Regulatory Documents, Communications, and Other Public Documents: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "参考\"食品,药品和化妆品法\"中的\"设备\"定义,指导,监管文件,通信和其他公共文件：行业与食品药品管理局工作人员指南"
+        "zh": "在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的\"器械\"定义：行业与FDA工作人员指南"
       },
       "slug": "referencing-definition-device-federal-food-drug-and-cosmetic-act-guidance-regulatory-documents",
       "status": "active",
@@ -1449,7 +1449,7 @@
       "id": "fda-developing-and-responding-deficiencies-accordance-least-burdensome-provisions",
       "title": {
         "en": "Developing and Responding to Deficiencies in Accordance with the Least Burdensome Provisions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "根据最轻重的规定,制定和应对缺陷：行业与食品药品管理局工作人员指南"
+        "zh": "根据最轻重的规定,制定和应对缺陷：行业与FDA工作人员指南"
       },
       "slug": "developing-and-responding-deficiencies-accordance-least-burdensome-provisions",
       "status": "active",
@@ -1468,7 +1468,7 @@
       "id": "fda-procedures-handling-post-approval-studies-imposed-pma-order",
       "title": {
         "en": "Procedures for Handling Post-Approval Studies Imposed by PMA Order: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "通过PMA命令强制执行批准后研究处理程序：行业与食品药品管理局工作人员指南"
+        "zh": "通过PMA命令强制执行批准后研究处理程序：行业与FDA工作人员指南"
       },
       "slug": "procedures-handling-post-approval-studies-imposed-pma-order",
       "status": "active",
@@ -1484,7 +1484,7 @@
       "id": "fda-postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act",
       "title": {
         "en": "Postmarket Surveillance Under Section 522 of the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与食品药品管理局工作人员指南"
+        "zh": "根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与FDA工作人员指南"
       },
       "slug": "postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act",
       "status": "active",
@@ -1500,7 +1500,7 @@
       "id": "fda-user-fees-513g-requests-information",
       "title": {
         "en": "User Fees for 513(g) Requests for Information: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于513的用户费用：行业与食品药品管理局工作人员指南"
+        "zh": "对于513的用户费用：行业与FDA工作人员指南"
       },
       "slug": "user-fees-513g-requests-information",
       "status": "active",
@@ -1519,7 +1519,7 @@
       "id": "fda-user-fees-and-refunds-premarket-notification-submissions-510ks",
       "title": {
         "en": "User Fees and Refunds for Premarket Notification Submissions (510(k)s): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于上市前通知提交的用户费用和退款 (510(k)：行业与食品药品管理局工作人员指南"
+        "zh": "对于上市前通知提交的用户费用和退款 (510(k)：行业与FDA工作人员指南"
       },
       "slug": "user-fees-and-refunds-premarket-notification-submissions-510ks",
       "status": "active",
@@ -1539,7 +1539,7 @@
       "id": "fda-user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications",
       "title": {
         "en": "User Fees and Refunds for Premarket Approval Applications and Device Biologics License Applications: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "上市前许可申请和设备生物技术许可申请的用户费用和退款：行业与食品药品管理局工作人员指南"
+        "zh": "上市前批准申请和器械生物制品许可申请的用户费和退款：行业与FDA工作人员指南"
       },
       "slug": "user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications",
       "status": "active",
@@ -1558,7 +1558,7 @@
       "id": "fda-user-fees-and-refunds-de-novo-classification-requests",
       "title": {
         "en": "User Fees and Refunds for De Novo Classification Requests : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于De Novo分类申请的用户费用和退款：行业与食品药品管理局工作人员指南"
+        "zh": "对于De Novo分类申请的用户费用和退款：行业与FDA工作人员指南"
       },
       "slug": "user-fees-and-refunds-de-novo-classification-requests",
       "status": "active",
@@ -1578,7 +1578,7 @@
       "id": "fda-fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals",
       "title": {
         "en": "FDA and Industry Actions on Premarket Notification (510(k)) Submissions: Effect on FDA Review Clock and Goals: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南"
+        "zh": "食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南"
       },
       "slug": "fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals",
       "status": "active",
@@ -1597,7 +1597,7 @@
       "id": "fda-fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals",
       "title": {
         "en": "FDA and Industry Actions on Premarket Approval Applications (PMAs): Effect on FDA Review Clock and Goals: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南"
+        "zh": "食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南"
       },
       "slug": "fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals",
       "status": "active",
@@ -1616,7 +1616,7 @@
       "id": "fda-fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals",
       "title": {
         "en": "FDA and Industry Actions on De Novo Classification Requests: Effect on FDA Review Clock and Goals: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "食品和工业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南"
+        "zh": "食品和工业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南"
       },
       "slug": "fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals",
       "status": "active",
@@ -1635,7 +1635,7 @@
       "id": "fda-policy-device-software-functions-and-mobile-medical-applications",
       "title": {
         "en": "Policy for Device Software Functions and Mobile Medical Applications: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "器械软件功能与移动医疗应用政策：行业与食品药品管理局工作人员指南"
+        "zh": "器械软件功能与移动医疗应用政策：行业与FDA工作人员指南"
       },
       "slug": "policy-device-software-functions-and-mobile-medical-applications",
       "status": "active",
@@ -1654,7 +1654,7 @@
       "id": "fda-medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices",
       "title": {
         "en": "Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与FDA工作人员指南"
       },
       "slug": "medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices",
       "status": "active",
@@ -1672,7 +1672,7 @@
       "id": "fda-display-devices-diagnostic-radiology",
       "title": {
         "en": "Display Devices for Diagnostic Radiology: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "诊断放射学显示器：行业与食品药品管理局工作人员指南"
+        "zh": "诊断放射学显示器：行业与FDA工作人员指南"
       },
       "slug": "display-devices-diagnostic-radiology",
       "status": "active",
@@ -1694,7 +1694,7 @@
       "id": "fda-computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket",
       "title": {
         "en": "Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与食品药品管理局工作人员指南"
+        "zh": "应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与FDA工作人员指南"
       },
       "slug": "computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket",
       "status": "active",
@@ -1735,7 +1735,7 @@
       "id": "fda-policy-monkeypox-tests-address-public-health-emergency",
       "title": {
         "en": "Policy for Monkeypox Tests to Address the Public Health Emergency: Guidance for Laboratories, Commercial Manufacturers and Food and Drug Administration Staff",
-        "zh": "解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和食品药品管理局工作人员的指导"
+        "zh": "解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和FDA工作人员的指导"
       },
       "slug": "policy-monkeypox-tests-address-public-health-emergency",
       "status": "active",
@@ -1769,7 +1769,7 @@
       "id": "fda-regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products",
       "title": {
         "en": "Regulatory Requirements for Hearing Aid Devices and Personal Sound Amplification Products: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南"
+        "zh": "助听器械和个人声音放大产品的监管要求：行业与FDA工作人员指南"
       },
       "slug": "regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products",
       "status": "active",
@@ -1787,7 +1787,7 @@
       "id": "fda-unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices",
       "title": {
         "en": "Unique Device Identification: Policy Regarding Compliance Dates for Class I and Unclassified Devices, Direct Marking, and Global Unique Device Identification Database Requirements for Certain Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南"
+        "zh": "唯一器械标识：关于I类和未分类器械合规日期、直接标记及某些器械全球唯一器械标识数据库要求的政策：行业与FDA工作人员指南"
       },
       "slug": "unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices",
       "status": "active",
@@ -1806,7 +1806,7 @@
       "id": "fda-technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions",
       "title": {
         "en": "Technical Performance Assessment of Quantitative Imaging in Radiological Device Premarket Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "放射性设备上市前的数量成像技术性能评估：行业与食品药品管理局工作人员指南"
+        "zh": "放射学器械上市前提交中定量成像的技术性能评估：行业与FDA工作人员指南"
       },
       "slug": "technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions",
       "status": "active",
@@ -1825,7 +1825,7 @@
       "id": "fda-electromagnetic-compatibility-emc-medical-devices",
       "title": {
         "en": "Electromagnetic Compatibility (EMC) of Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械的电磁兼容性 (EMC)：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械的电磁兼容性 (EMC)：行业与FDA工作人员指南"
       },
       "slug": "electromagnetic-compatibility-emc-medical-devices",
       "status": "active",
@@ -1848,7 +1848,7 @@
       "id": "fda-feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically",
       "title": {
         "en": "Feasibility and Early Feasibility Clinical Studies for Certain Medical Devices Intended to Therapeutically Improve Glycemic Control in Patients with Type 2 Diabetes Mellitus: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与食品药品管理局工作人员指南"
+        "zh": "可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与FDA工作人员指南"
       },
       "slug": "feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically",
       "status": "active",
@@ -1868,7 +1868,7 @@
       "id": "fda-refuse-accept-policy-510ks",
       "title": {
         "en": "Refuse to Accept Policy for 510(k)s: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "拒绝接受510k政策：行业与食品药品管理局工作人员指南"
+        "zh": "拒绝接受510k政策：行业与FDA工作人员指南"
       },
       "slug": "refuse-accept-policy-510ks",
       "status": "active",
@@ -1888,7 +1888,7 @@
       "id": "fda-facet-screw-systems-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Facet Screw Systems - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "面系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "面系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "facet-screw-systems-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -1907,7 +1907,7 @@
       "id": "fda-denture-base-resins-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Denture Base Resins - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "牙基树脂 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "牙基树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "denture-base-resins-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -1926,7 +1926,7 @@
       "id": "fda-surgical-sutures-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Surgical Sutures - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "术接 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "外科缝合线 - 安全性与性能路径的性能标准：行业与FDA工作人员指南"
       },
       "slug": "surgical-sutures-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -1945,7 +1945,7 @@
       "id": "fda-orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Orthopedic Fracture Fixation Plates - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "整形骨折固定板 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "整形骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -1964,7 +1964,7 @@
       "id": "fda-center-devices-and-radiological-health-cdrh-appeals-processes",
       "title": {
         "en": "Center for Devices and Radiological Health (CDRH) Appeals Processes: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南"
+        "zh": "器械和放射卫生中心(CDRH)申诉流程：行业与FDA工作人员指南"
       },
       "slug": "center-devices-and-radiological-health-cdrh-appeals-processes",
       "status": "active",
@@ -1982,7 +1982,7 @@
       "id": "fda-principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use",
       "title": {
         "en": "Principles for Selecting, Developing, Modifying, and Adapting Patient-Reported Outcome Instruments for Use in Medical Device Evaluation: Guidance for Industry and Food and Drug Administration Staff, And Other Stakeholders",
-        "zh": "选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与食品药品管理局工作人员指南"
+        "zh": "选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与FDA工作人员指南"
       },
       "slug": "principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use",
       "status": "active",
@@ -2001,7 +2001,7 @@
       "id": "fda-patient-engagement-design-and-conduct-medical-device-clinical-studies",
       "title": {
         "en": "Patient Engagement in the Design and Conduct of Medical Device Clinical Studies: Guidance for Industry, Food and Drug Administration Staff, and Other Stakeholders",
-        "zh": "患者参与医疗器械临床研究,食品药品管理局工作人员和其他利益相关者设计和进行：行业指南"
+        "zh": "患者参与医疗器械临床研究,FDA工作人员和其他利益相关者设计和进行：行业指南"
       },
       "slug": "patient-engagement-design-and-conduct-medical-device-clinical-studies",
       "status": "active",
@@ -2020,7 +2020,7 @@
       "id": "fda-non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph",
       "title": {
         "en": "Non-Clinical and Clinical Investigation of Devices Used for the Treatment of Benign Prostatic Hyperplasia (BPH): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "用于治疗良性前列腺高血压 (BPH) 的设备的非临床和临床研究：行业与食品药品管理局工作人员指南"
+        "zh": "用于治疗良性前列腺增生(BPH)器械的非临床和临床研究：行业与FDA工作人员指南"
       },
       "slug": "non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph",
       "status": "active",
@@ -2040,7 +2040,7 @@
       "id": "fda-arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions",
       "title": {
         "en": "Arthroscopy Pump Tubing Sets Intended for Multiple Patient Use - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions",
       "status": "active",
@@ -2060,7 +2060,7 @@
       "id": "fda-surgical-staplers-and-staples-internal-use-labeling-recommendations",
       "title": {
         "en": "Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南"
+        "zh": "内部使用的手术具和具 - 标签建议：行业与FDA工作人员指南"
       },
       "slug": "surgical-staplers-and-staples-internal-use-labeling-recommendations",
       "status": "active",
@@ -2080,7 +2080,7 @@
       "id": "fda-de-novo-classification-process-evaluation-automatic-class-iii-designation",
       "title": {
         "en": "De Novo Classification Process (Evaluation of Automatic Class III Designation): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "德诺级分类过程 (自动级 III 名称的评估)：行业与食品药品管理局工作人员指南"
+        "zh": "德诺级分类过程 (自动级 III 名称的评估)：行业与FDA工作人员指南"
       },
       "slug": "de-novo-classification-process-evaluation-automatic-class-iii-designation",
       "status": "active",
@@ -2099,7 +2099,7 @@
       "id": "fda-acceptance-review-de-novo-classification-requests",
       "title": {
         "en": "Acceptance Review for De Novo Classification Requests: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于De Novo分类申请的接受审查：行业与食品药品管理局工作人员指南"
+        "zh": "对于De Novo分类申请的接受审查：行业与FDA工作人员指南"
       },
       "slug": "acceptance-review-de-novo-classification-requests",
       "status": "active",
@@ -2117,7 +2117,7 @@
       "id": "fda-technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol",
       "title": {
         "en": "Technical Considerations for Non-Clinical Assessment of Medical Devices Containing Nitinol: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与食品药品管理局工作人员指南"
+        "zh": "含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南"
       },
       "slug": "technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol",
       "status": "active",
@@ -2136,7 +2136,7 @@
       "id": "fda-unique-device-identification-system-form-and-content-unique-device-identifier-udi",
       "title": {
         "en": "Unique Device Identification System: Form and Content of the Unique Device Identifier (UDI): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南"
+        "zh": "唯一器械标识系统：唯一器械标识符(UDI)的形式和内容：行业与FDA工作人员指南"
       },
       "slug": "unique-device-identification-system-form-and-content-unique-device-identifier-udi",
       "status": "active",
@@ -2155,7 +2155,7 @@
       "id": "fda-peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions",
       "title": {
         "en": "Peripheral Vascular Atherectomy Devices - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与食品药品管理局工作人员指南"
+        "zh": "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南"
       },
       "slug": "peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions",
       "status": "active",
@@ -2176,7 +2176,7 @@
       "id": "fda-implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing",
       "title": {
         "en": "Implanted Brain-Computer Interface (BCI) Devices for Patients with Paralysis or Amputation - Non-clinical Testing and Clinical Considerations: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "或截肢患者的脑电脑接口设备 - 非临床测试和临床考虑：行业与食品药品管理局工作人员指南"
+        "zh": "瘫痪或截肢患者植入式脑机接口(BCI)器械 - 非临床测试和临床考量：行业与FDA工作人员指南"
       },
       "slug": "implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing",
       "status": "active",
@@ -2196,7 +2196,7 @@
       "id": "fda-safer-technologies-program-medical-devices",
       "title": {
         "en": "Safer Technologies Program for Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械安全技术计划：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械安全技术计划：行业与FDA工作人员指南"
       },
       "slug": "safer-technologies-program-medical-devices",
       "status": "active",
@@ -2216,7 +2216,7 @@
       "id": "fda-mouse-embryo-assay-assisted-reproduction-technology-devices",
       "title": {
         "en": "Mouse Embryo Assay for Assisted Reproduction Technology Devices",
-        "zh": "鼠胚胎测试辅助生殖技术设备"
+        "zh": "辅助生殖技术器械的小鼠胚胎试验"
       },
       "slug": "mouse-embryo-assay-assisted-reproduction-technology-devices",
       "status": "active",
@@ -2238,7 +2238,7 @@
       "id": "fda-product-labeling-laparoscopic-power-morcellators",
       "title": {
         "en": "Product Labeling for Laparoscopic Power Morcellators: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南"
+        "zh": "拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南"
       },
       "slug": "product-labeling-laparoscopic-power-morcellators",
       "status": "active",
@@ -2264,7 +2264,7 @@
       "id": "fda-spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Spinal Plating Systems - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "脊柱涂层系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "脊柱涂层系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南"
       },
       "slug": "spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -2284,7 +2284,7 @@
       "id": "fda-magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Magnetic Resonance (MR) Receive-only Coil - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南"
+        "zh": "仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南"
       },
       "slug": "magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -2304,7 +2304,7 @@
       "id": "fda-regulatory-considerations-microneedling-products",
       "title": {
         "en": "Regulatory Considerations for Microneedling Products: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "微针制品的监管考虑：行业与食品药品管理局工作人员指南"
+        "zh": "微针制品的监管考虑：行业与FDA工作人员指南"
       },
       "slug": "regulatory-considerations-microneedling-products",
       "status": "active",
@@ -2323,7 +2323,7 @@
       "id": "fda-self-monitoring-blood-glucose-test-systems-over-counter-use",
       "title": {
         "en": "Self-Monitoring Blood Glucose Test Systems for Over-the-Counter Use: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "无需过分使用的血糖检测系统：行业与食品药品管理局工作人员指南"
+        "zh": "无需过分使用的血糖检测系统：行业与FDA工作人员指南"
       },
       "slug": "self-monitoring-blood-glucose-test-systems-over-counter-use",
       "status": "active",
@@ -2364,7 +2364,7 @@
       "id": "fda-breast-implants-certain-labeling-recommendations-improve-patient-communication",
       "title": {
         "en": "Breast Implants - Certain Labeling Recommendations to Improve Patient Communication: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与食品药品管理局工作人员指南"
+        "zh": "乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与FDA工作人员指南"
       },
       "slug": "breast-implants-certain-labeling-recommendations-improve-patient-communication",
       "status": "active",
@@ -2384,7 +2384,7 @@
       "id": "fda-blood-glucose-monitoring-test-systems-prescription-point-care-use",
       "title": {
         "en": "Blood Glucose Monitoring Test Systems for Prescription Point-of-Care Use: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "处方医疗保健处使用的血糖监测测试系统：行业与食品药品管理局工作人员指南"
+        "zh": "处方医疗保健处使用的血糖监测测试系统：行业与FDA工作人员指南"
       },
       "slug": "blood-glucose-monitoring-test-systems-prescription-point-care-use",
       "status": "active",
@@ -2406,7 +2406,7 @@
       "id": "fda-accreditation-scheme-conformity-assessment-asca-pilot-program",
       "title": {
         "en": "The Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program: Guidance for Industry, Accreditation Bodies, Testing Laboratories, and Food and Drug Administration Staff",
-        "zh": "认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与食品药品管理局工作人员指南"
+        "zh": "认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与FDA工作人员指南"
       },
       "slug": "accreditation-scheme-conformity-assessment-asca-pilot-program",
       "status": "active",
@@ -2424,7 +2424,7 @@
       "id": "fda-biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme",
       "title": {
         "en": "Biocompatibility Testing of Medical Devices - Standards Specific Information for the Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program: Guidance for Industry, Accreditation Bodies, Testing Laboratories, and Food and Drug Administration Staff",
-        "zh": "医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南"
+        "zh": "医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与FDA工作人员指南"
       },
       "slug": "biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme",
       "status": "active",
@@ -2442,7 +2442,7 @@
       "id": "fda-basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and",
       "title": {
         "en": "Basic Safety and Essential Performance of Medical Electrical Equipment, Medical Electrical Systems, and Laboratory Medical Equipment - Standards Specific Information for the Accreditation Scheme for Conformity Assessment (ASCA) Pilot Program: Guidance for Industry, Accreditation Bodies, Testing Laboratories, and Food and Drug Administration Staff",
-        "zh": "医疗电气设备,医疗电气系统和实验室医疗器械基本安全和基本性能 -标准 标准 认证符合性评估计划 (ASCA) 试点计划的具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南"
+        "zh": "医用电气设备、医用电气系统和实验室医疗器械的基本安全和基本性能 - 认证符合性评估计划(ASCA)试点计划的具体信息：行业、认可机构、检测实验室与FDA工作人员指南"
       },
       "slug": "basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and",
       "status": "active",
@@ -2460,7 +2460,7 @@
       "id": "fda-recognition-and-withdrawal-voluntary-consensus-standards",
       "title": {
         "en": "Recognition and Withdrawal of Voluntary Consensus Standards: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南"
+        "zh": "自愿性协调标准的认可和撤销：行业与FDA工作人员指南"
       },
       "slug": "recognition-and-withdrawal-voluntary-consensus-standards",
       "status": "active",
@@ -2478,7 +2478,7 @@
       "id": "fda-cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Cutaneous Electrodes for Recording Purposes - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与食品药品管理局工作人员指南"
+        "zh": "记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与FDA工作人员指南"
       },
       "slug": "cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -2498,7 +2498,7 @@
       "id": "fda-conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway",
       "title": {
         "en": "Conventional Foley Catheters - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与食品药品管理局工作人员指南"
+        "zh": "传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与FDA工作人员指南"
       },
       "slug": "conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway",
       "status": "active",
@@ -2518,7 +2518,7 @@
       "id": "fda-multiple-function-device-products-policy-and-considerations",
       "title": {
         "en": "Multiple Function Device Products: Policy and Considerations: Guidance for Industry and Food and Drug Administration",
-        "zh": "多功能器械产品：政策与考量：行业与食品药品管理局指南"
+        "zh": "多功能器械产品：政策与考量：行业与FDA指南"
       },
       "slug": "multiple-function-device-products-policy-and-considerations",
       "status": "active",
@@ -2539,7 +2539,7 @@
       "id": "fda-providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab",
       "title": {
         "en": "Providing Regulatory Submissions for Medical Devices in Electronic Format - Submissions Under Section 745A(b) of the Federal Food, Drug, and Cosmetic Act: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与食品药品管理局工作人员指南"
+        "zh": "提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与FDA工作人员指南"
       },
       "slug": "providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab",
       "status": "active",
@@ -2557,7 +2557,7 @@
       "id": "fda-clinical-investigations-prostate-tissue-ablation-devices",
       "title": {
         "en": "Clinical Investigations for Prostate Tissue Ablation Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "前列腺组织摘除设备的临床研究：行业与食品药品管理局工作人员指南"
+        "zh": "前列腺组织消融器械的临床研究：行业与FDA工作人员指南"
       },
       "slug": "clinical-investigations-prostate-tissue-ablation-devices",
       "status": "active",
@@ -2579,7 +2579,7 @@
       "id": "fda-nonbinding-feedback-after-certain-fda-inspections-device-establishments",
       "title": {
         "en": "Nonbinding Feedback After Certain FDA Inspections of Device Establishments: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南"
+        "zh": "FDA对器械生产机构特定检查后的非约束性反馈：行业与FDA工作人员指南"
       },
       "slug": "nonbinding-feedback-after-certain-fda-inspections-device-establishments",
       "status": "active",
@@ -2597,7 +2597,7 @@
       "id": "fda-center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a",
       "title": {
         "en": "Center for Devices and Radiological Health (CDRH) Appeals Processes: Questions and Answers About 517A: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南"
+        "zh": "器械和放射卫生中心(CDRH)申诉流程：关于517A条的问答：行业与FDA工作人员指南"
       },
       "slug": "center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a",
       "status": "active",
@@ -2617,7 +2617,7 @@
       "id": "fda-premarket-notification-510k-submissions-electrosurgical-devices-general-surgery",
       "title": {
         "en": "Premarket Notification (510(k)) Submissions for Electrosurgical Devices for General Surgery: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "上市前通知 (510(k)) 关于一般外科电脑设备的申请：行业与食品药品管理局工作人员指南"
+        "zh": "普通外科电外科器械上市前通知(510(k))提交：行业与FDA工作人员指南"
       },
       "slug": "premarket-notification-510k-submissions-electrosurgical-devices-general-surgery",
       "status": "active",
@@ -2640,7 +2640,7 @@
       "id": "fda-bone-anchors-premarket-notification-510k-submissions",
       "title": {
         "en": "Bone Anchors - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "骨 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "骨 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "bone-anchors-premarket-notification-510k-submissions",
       "status": "active",
@@ -2660,7 +2660,7 @@
       "id": "fda-recommendations-dual-510k-and-clia-waiver-application-studies",
       "title": {
         "en": "Recommendations for Dual 510(k) and CLIA Waiver by Application Studies: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "申请研究的双重510 ((k) 和CLIA豁免建议：行业与食品药品管理局工作人员指南"
+        "zh": "申请研究的双重510 ((k) 和CLIA豁免建议：行业与FDA工作人员指南"
       },
       "slug": "recommendations-dual-510k-and-clia-waiver-application-studies",
       "status": "active",
@@ -2681,7 +2681,7 @@
       "id": "fda-recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications",
       "title": {
         "en": "Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "临床实验室改进的建议1988年 (CLIA) 免除在室内诊断设备制造商的申请：行业与食品药品管理局工作人员指南"
+        "zh": "1988年临床实验室改进修正案(CLIA)体外诊断器械制造商豁免申请的建议：行业与FDA工作人员指南"
       },
       "slug": "recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications",
       "status": "active",
@@ -2699,7 +2699,7 @@
       "id": "fda-recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket",
       "title": {
         "en": "Recommended Content and Format of Non-Clinical Bench Performance Testing Information in Premarket Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在上市前提交的非临床位性能测试信息中建议内容和格式：行业与食品药品管理局工作人员指南"
+        "zh": "在上市前提交的非临床位性能测试信息中建议内容和格式：行业与FDA工作人员指南"
       },
       "slug": "recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket",
       "status": "active",
@@ -2738,7 +2738,7 @@
       "id": "fda-annual-reports-approved-premarket-approval-applications-pma",
       "title": {
         "en": "Annual Reports for Approved Premarket Approval Applications (PMA) : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "批准前市场批准申请的年度报告：行业与食品药品管理局工作人员指南"
+        "zh": "批准前市场批准申请的年度报告：行业与FDA工作人员指南"
       },
       "slug": "annual-reports-approved-premarket-approval-applications-pma",
       "status": "active",
@@ -2759,7 +2759,7 @@
       "id": "fda-acceptance-and-filing-reviews-premarket-approval-applications-pmas",
       "title": {
         "en": "Acceptance and Filing Reviews for Premarket Approval Applications (PMAs): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于市场前批准申请 (PMA) 的接受和提交审查：行业与食品药品管理局工作人员指南"
+        "zh": "对于市场前批准申请 (PMA) 的接受和提交审查：行业与FDA工作人员指南"
       },
       "slug": "acceptance-and-filing-reviews-premarket-approval-applications-pmas",
       "status": "active",
@@ -2779,7 +2779,7 @@
       "id": "fda-30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption",
       "title": {
         "en": "30-Day Notices, 135-Day Premarket Approval (PMA) Supplements and 75-Day Humanitarian Device Exemption (HDE) Supplements for Manufacturing Method or Process Changes: Guidance for Industry and FDA Staff",
-        "zh": "关于生产方法或工艺变化的30天通知,135天的上市前许可补充剂和75天的人道主义设备豁免补充剂：行业与FDA工作人员指南"
+        "zh": "关于生产方法或工艺变更的30天通知、135天上市前批准(PMA)补充申请和75天人道主义器械豁免(HDE)补充申请：行业与FDA工作人员指南"
       },
       "slug": "30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption",
       "status": "active",
@@ -2801,7 +2801,7 @@
       "id": "fda-intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations",
       "title": {
         "en": "Intravascular Catheters, Wires, and Delivery Systems with Lubricious Coatings - Labeling Considerations: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南"
+        "zh": "膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南"
       },
       "slug": "intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations",
       "status": "active",
@@ -2823,7 +2823,7 @@
       "id": "fda-coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling",
       "title": {
         "en": "Coronary, Peripheral, and Neurovascular Guidewires - Performance Tests and Recommended Labeling: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "冠状病毒,外围和神经血管导线 - 性能测试和建议标签：行业与食品药品管理局工作人员指南"
+        "zh": "冠状动脉、外周和神经血管导丝 - 性能测试和推荐标签：行业与FDA工作人员指南"
       },
       "slug": "coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling",
       "status": "active",
@@ -2844,7 +2844,7 @@
       "id": "fda-changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act",
       "title": {
         "en": "Changes to Existing Medical Software Policies Resulting from Section 3060 of the 21st Century Cures Act: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与食品药品管理局工作人员指南"
+        "zh": "因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与FDA工作人员指南"
       },
       "slug": "changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act",
       "status": "active",
@@ -2864,7 +2864,7 @@
       "id": "fda-safety-and-performance-based-pathway",
       "title": {
         "en": "Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration",
-        "zh": "基于安全性和性能的路径：行业与食品药品管理局指南"
+        "zh": "基于安全性和性能的路径：行业与FDA指南"
       },
       "slug": "safety-and-performance-based-pathway",
       "status": "active",
@@ -2883,7 +2883,7 @@
       "id": "fda-special-510k-program",
       "title": {
         "en": "The Special 510(k) Program: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "特别510 (k) 计划：行业与食品药品管理局工作人员指南"
+        "zh": "特别510 (k) 计划：行业与FDA工作人员指南"
       },
       "slug": "special-510k-program",
       "status": "active",
@@ -2903,7 +2903,7 @@
       "id": "fda-abbreviated-510k-program",
       "title": {
         "en": "The Abbreviated 510(k) Program: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "简称510 (k) 计划：行业与食品药品管理局工作人员指南"
+        "zh": "简称510 (k) 计划：行业与FDA工作人员指南"
       },
       "slug": "abbreviated-510k-program",
       "status": "active",
@@ -2922,7 +2922,7 @@
       "id": "fda-humanitarian-device-exemption-hde-program",
       "title": {
         "en": "Humanitarian Device Exemption (HDE) Program: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "人道主义设备豁免计划：行业与食品药品管理局工作人员指南"
+        "zh": "人道主义器械豁免计划：行业与FDA工作人员指南"
       },
       "slug": "humanitarian-device-exemption-hde-program",
       "status": "active",
@@ -2943,7 +2943,7 @@
       "id": "fda-factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de",
       "title": {
         "en": "Factors to Consider When Making Benefit-Risk Determinations in Medical Device Premarket Approval and De Novo Classifications: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械上市前批准和De Novo分类中受益-风险评估考量因素：行业与FDA工作人员指南"
       },
       "slug": "factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de",
       "status": "active",
@@ -2962,7 +2962,7 @@
       "id": "fda-consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de",
       "title": {
         "en": "Consideration of Uncertainty in Making Benefit-Risk Determinations in Medical Device Premarket Approvals, De Novo Classifications, and Humanitarian Device Exemptions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在医疗器械上市前许可,De Novo分类和人道主义设备豁免中,考虑对利风险确定时的不确定性：行业与食品药品管理局工作人员指南"
+        "zh": "在医疗器械上市前批准、De Novo分类和人道主义器械豁免中受益-风险评估时考量不确定性：行业与FDA工作人员指南"
       },
       "slug": "consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de",
       "status": "active",
@@ -2982,7 +2982,7 @@
       "id": "fda-metal-expandable-biliary-stents-premarket-notification-510k-submissions",
       "title": {
         "en": "Metal Expandable Biliary Stents - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南"
+        "zh": "金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南"
       },
       "slug": "metal-expandable-biliary-stents-premarket-notification-510k-submissions",
       "status": "active",
@@ -3002,7 +3002,7 @@
       "id": "fda-live-case-presentations-during-investigational-device-exemption-ide-clinical-trials",
       "title": {
         "en": "Live Case Presentations During Investigational Device Exemption (IDE) Clinical Trials: Guidance for Institutional Review Boards, Industry, Clinical Investigators, and Food and Drug Administration Staff",
-        "zh": "实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导"
+        "zh": "研究用器械豁免(IDE)临床试验期间的实况病例演示：机构审查委员会、行业、临床研究者与FDA工作人员指南"
       },
       "slug": "live-case-presentations-during-investigational-device-exemption-ide-clinical-trials",
       "status": "active",
@@ -3023,7 +3023,7 @@
       "id": "fda-utilizing-animal-studies-evaluate-organ-preservation-devices",
       "title": {
         "en": "Utilizing Animal Studies to Evaluate Organ Preservation Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "使用动物研究评估器官保护设备：行业与食品药品管理局工作人员指南"
+        "zh": "利用动物研究评估器官保存器械：行业与FDA工作人员指南"
       },
       "slug": "utilizing-animal-studies-evaluate-organ-preservation-devices",
       "status": "active",
@@ -3043,7 +3043,7 @@
       "id": "fda-policy-clarification-certain-fluoroscopic-equipment-requirements",
       "title": {
         "en": "Policy Clarification for Certain Fluoroscopic Equipment Requirements: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南"
+        "zh": "某些透视设备要求的政策澄清：行业与FDA工作人员指南"
       },
       "slug": "policy-clarification-certain-fluoroscopic-equipment-requirements",
       "status": "active",
@@ -3061,7 +3061,7 @@
       "id": "fda-classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57",
       "title": {
         "en": "Classification and Requirements for Laser Illuminated Projectors (LIPs) (Laser Notice No. 57): Guidance for Industry and Food and Drug Administration",
-        "zh": "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南"
+        "zh": "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与FDA指南"
       },
       "slug": "classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57",
       "status": "active",
@@ -3079,7 +3079,7 @@
       "id": "fda-unique-device-identification-convenience-kits",
       "title": {
         "en": "Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南"
+        "zh": "唯一器械标识：便利套件：行业与FDA工作人员指南"
       },
       "slug": "unique-device-identification-convenience-kits",
       "status": "active",
@@ -3098,7 +3098,7 @@
       "id": "fda-characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices",
       "title": {
         "en": "Characterization of Ultrahigh Molecular Weight Polyethylene (UHMWPE) Used in Orthopedic Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果：行业与食品药品管理局工作人员指南"
+        "zh": "骨科器械用超高分子量聚乙烯(UHMWPE)表征：行业与FDA工作人员指南"
       },
       "slug": "characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices",
       "status": "active",
@@ -3119,7 +3119,7 @@
       "id": "fda-medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices",
       "title": {
         "en": "Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "含有动物来源材料的医疗器械 (除了体诊断设备)：行业与食品药品管理局工作人员指南"
+        "zh": "含有动物来源材料的医疗器械(体外诊断器械除外)：行业与FDA工作人员指南"
       },
       "slug": "medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices",
       "status": "active",
@@ -3156,7 +3156,7 @@
       "id": "fda-coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices",
       "title": {
         "en": "Coordinated Development of Antimicrobial Drugs and Antimicrobial Susceptibility Test Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "抗微生物药物和抗微生物敏感性测试设备的协调开发：行业与食品药品管理局工作人员指南"
+        "zh": "抗菌药物和抗菌药敏试验器械的协调开发：行业与FDA工作人员指南"
       },
       "slug": "coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices",
       "status": "active",
@@ -3176,7 +3176,7 @@
       "id": "fda-manufacturing-site-change-supplements-content-and-submission",
       "title": {
         "en": "Manufacturing Site Change Supplements: Content and Submission: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "制造场所变更补充剂:内容和提交：行业与食品药品管理局工作人员指南"
+        "zh": "制造场所变更补充申请:内容和提交：行业与FDA工作人员指南"
       },
       "slug": "manufacturing-site-change-supplements-content-and-submission",
       "status": "active",
@@ -3195,7 +3195,7 @@
       "id": "fda-benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k",
       "title": {
         "en": "Benefit-Risk Factors to Consider When Determining Substantial Equivalence in Premarket Notifications (510(k)) with Different Technological Characteristics: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与食品药品管理局工作人员指南"
+        "zh": "在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与FDA工作人员指南"
       },
       "slug": "benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k",
       "status": "active",
@@ -3213,7 +3213,7 @@
       "id": "fda-heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety",
       "title": {
         "en": "Heparin-Containing Medical Devices and Combination Products: Recommendations for Labeling and Safety Testing: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "含素的医疗器械和组合产品:标签和安全测试的建议：行业与食品药品管理局工作人员指南"
+        "zh": "含素的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南"
       },
       "slug": "heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety",
       "status": "active",
@@ -3235,7 +3235,7 @@
       "id": "fda-appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices",
       "title": {
         "en": "Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械前销售的自愿共识标准的适当使用：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械前销售的自愿共识标准的适当使用：行业与FDA工作人员指南"
       },
       "slug": "appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices",
       "status": "active",
@@ -3255,7 +3255,7 @@
       "id": "fda-logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests",
       "title": {
         "en": "Logical Observation Identifiers Names and Codes for In Vitro Diagnostic Tests : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南"
+        "zh": "体外诊断检测的逻辑观察标识符名称与代码(LOINC)：行业与FDA工作人员指南"
       },
       "slug": "logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests",
       "status": "active",
@@ -3276,7 +3276,7 @@
       "id": "fda-use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro",
       "title": {
         "en": "Use of Public Human Genetic Variant Databases to Support Clinical Validity for Genetic and Genomic-Based In Vitro Diagnostics : Guidance for Stakeholders and Food and Drug Administration Staff",
-        "zh": "公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与食品药品管理局工作人员指南"
+        "zh": "公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与FDA工作人员指南"
       },
       "slug": "use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro",
       "status": "active",
@@ -3297,7 +3297,7 @@
       "id": "fda-considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based",
       "title": {
         "en": "Considerations for Design, Development, and Analytical Validation of Next Generation Sequencing (NGS) - Based In Vitro Diagnostics (IVDs) Intended to Aid in the Diagnosis of Suspected Germline Diseases: Guidance for Stakeholders and Food and Drug Administration Staff",
-        "zh": "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南"
+        "zh": "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与FDA工作人员指南"
       },
       "slug": "considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based",
       "status": "active",
@@ -3313,7 +3313,7 @@
       "id": "fda-acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked",
       "title": {
         "en": "Acceptance of Clinical Data to Support Medical Device Applications and Submissions: Frequently Asked Questions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "接受临床数据支持医疗器械申请和提交:常见问题：行业与食品药品管理局工作人员指南"
+        "zh": "接受临床数据支持医疗器械申请和提交:常见问题：行业与FDA工作人员指南"
       },
       "slug": "acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked",
       "status": "active",
@@ -3353,7 +3353,7 @@
       "id": "fda-technical-considerations-additive-manufactured-medical-devices",
       "title": {
         "en": "Technical Considerations for Additive Manufactured Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "添加剂制造医疗器械的技术考虑因素：行业与食品药品管理局工作人员指南"
+        "zh": "添加剂制造医疗器械的技术考虑因素：行业与FDA工作人员指南"
       },
       "slug": "technical-considerations-additive-manufactured-medical-devices",
       "status": "active",
@@ -3378,7 +3378,7 @@
       "id": "fda-fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid",
       "title": {
         "en": "FDA Categorization of Investigational Device Exemption (IDE) Devices to Assist the Centers for Medicare and Medicaid Services (CMS) with Coverage Decisions: Guidance for Sponsors, Clinical Investigators, Industry, Institutional Review Boards, and Food and Drug Administration Staff",
-        "zh": "医疗保险和医疗补助服务中心 (CMS) 提供覆盖决策的研究设备豁免 (IDE) 设备的FDA分类:赞助商,临床调查人员,工业,机构审查委员会和食品药品管理局工作人员的指导"
+        "zh": "FDA对研究用器械豁免(IDE)器械的分类以协助医疗保险和医疗补助服务中心(CMS)作出覆盖决策：申办者、临床研究者、行业、机构审查委员会与FDA工作人员指南"
       },
       "slug": "fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid",
       "status": "active",
@@ -3396,7 +3396,7 @@
       "id": "fda-pediatric-information-x-ray-imaging-device-premarket-notifications",
       "title": {
         "en": "Pediatric Information for X-ray Imaging Device Premarket Notifications: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "儿童X射线成像设备上市前通知：行业与食品药品管理局工作人员指南"
+        "zh": "X射线成像器械上市前通知中的儿科信息：行业与FDA工作人员指南"
       },
       "slug": "pediatric-information-x-ray-imaging-device-premarket-notifications",
       "status": "active",
@@ -3417,7 +3417,7 @@
       "id": "fda-unique-device-identification-direct-marking-devices",
       "title": {
         "en": "Unique Device Identification: Direct Marking of Devices : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "唯一的设备识别:直接标记设备：行业与食品药品管理局工作人员指南"
+        "zh": "唯一器械标识：器械直接标记：行业与FDA工作人员指南"
       },
       "slug": "unique-device-identification-direct-marking-devices",
       "status": "active",
@@ -3436,7 +3436,7 @@
       "id": "fda-product-labeling-certain-ultrasonic-surgical-aspirator-devices",
       "title": {
         "en": "Product Labeling for Certain Ultrasonic Surgical Aspirator Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南"
+        "zh": "某些超声波外科吸尘器的产品标签：行业与FDA工作人员指南"
       },
       "slug": "product-labeling-certain-ultrasonic-surgical-aspirator-devices",
       "status": "active",
@@ -3461,7 +3461,7 @@
       "id": "fda-manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request",
       "title": {
         "en": "Manufacturers Sharing Patient-Specific Information from Medical Devices with Patients Upon Request: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械的患者特定信息与患者分享：行业与FDA工作人员指南"
       },
       "slug": "manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request",
       "status": "active",
@@ -3479,7 +3479,7 @@
       "id": "fda-deciding-when-submit-510k-software-change-existing-device",
       "title": {
         "en": "Deciding When to Submit a 510(k) for a Software Change to an Existing Device: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "判定既有器械软件变更何时需提交510(k)：行业与食品药品管理局工作人员指南"
+        "zh": "判定既有器械软件变更何时需提交510(k)：行业与FDA工作人员指南"
       },
       "slug": "deciding-when-submit-510k-software-change-existing-device",
       "status": "active",
@@ -3502,7 +3502,7 @@
       "id": "fda-deciding-when-submit-510k-change-existing-device",
       "title": {
         "en": "Deciding When to Submit a 510(k) for a Change to an Existing Device: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "决定何时提交510k) 对于已有的设备的更改：行业与食品药品管理局工作人员指南"
+        "zh": "决定何时就现有器械的变更提交510(k)：行业与FDA工作人员指南"
       },
       "slug": "deciding-when-submit-510k-change-existing-device",
       "status": "active",
@@ -3524,7 +3524,7 @@
       "id": "fda-administrative-procedures-clia-categorization",
       "title": {
         "en": "Administrative Procedures for CLIA Categorization: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于CLI类别的行政程序：行业与食品药品管理局工作人员指南"
+        "zh": "关于CLI类别的行政程序：行业与FDA工作人员指南"
       },
       "slug": "administrative-procedures-clia-categorization",
       "status": "active",
@@ -3544,7 +3544,7 @@
       "id": "fda-establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0",
       "title": {
         "en": "Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection or Detection and Differentiation of Human Papillomaviruses: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "建立人类瘤病毒检测或检测和区分的内置诊断设备的性能特性：行业与食品药品管理局工作人员指南"
+        "zh": "确定人乳头瘤病毒检测或检测和分型用体外诊断器械的性能特性：行业与FDA工作人员指南"
       },
       "slug": "establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0",
       "status": "active",
@@ -3566,7 +3566,7 @@
       "id": "fda-evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies",
       "title": {
         "en": "Evaluation and Reporting of Age-, Race-, and Ethnicity-Specific Data in Medical Device Clinical Studies: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与食品药品管理局工作人员指南"
+        "zh": "在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与FDA工作人员指南"
       },
       "slug": "evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies",
       "status": "active",
@@ -3612,7 +3612,7 @@
       "id": "fda-design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices",
       "title": {
         "en": "Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "可互操作医疗器械的设计考量与上市前提交建议：行业与食品药品管理局工作人员指南"
+        "zh": "可互操作医疗器械的设计考量与上市前提交建议：行业与FDA工作人员指南"
       },
       "slug": "design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices",
       "status": "active",
@@ -3637,7 +3637,7 @@
       "id": "fda-procedures-meetings-medical-devices-advisory-committee",
       "title": {
         "en": "Procedures for Meetings of the Medical Devices Advisory Committee: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械咨询委员会会议程序：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械咨询委员会会议程序：行业与FDA工作人员指南"
       },
       "slug": "procedures-meetings-medical-devices-advisory-committee",
       "status": "active",
@@ -3685,7 +3685,7 @@
       "id": "fda-factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device",
       "title": {
         "en": "Factors to Consider When Making Benefit-Risk Determinations for Medical Device Investigational Device Exemptions: Guidance for Investigational Device Exemption Sponsors, Sponsor-Investigators and Food and Drug Administration Staff",
-        "zh": "医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和食品药品管理局工作人员的指导"
+        "zh": "医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和FDA工作人员的指导"
       },
       "slug": "factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device",
       "status": "active",
@@ -3731,7 +3731,7 @@
       "id": "fda-factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and",
       "title": {
         "en": "Factors to Consider Regarding Benefit-Risk in Medical Device Product Availability, Compliance, and Enforcement Decisions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与FDA工作人员指南"
       },
       "slug": "factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and",
       "status": "active",
@@ -3761,7 +3761,7 @@
       "id": "fda-public-notification-emerging-postmarket-medical-device-signals-emerging-signals",
       "title": {
         "en": "Public Notification of Emerging Postmarket Medical Device Signals (\"Emerging Signals\"): Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与食品药品管理局工作人员指南"
+        "zh": "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与FDA工作人员指南"
       },
       "slug": "public-notification-emerging-postmarket-medical-device-signals-emerging-signals",
       "status": "active",
@@ -3782,7 +3782,7 @@
       "id": "fda-mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible",
       "title": {
         "en": "Mitigating the Risk of Cross-Contamination from Valves and Accessories Used for Irrigation Through Flexible Gastrointestinal Endoscopes: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与食品药品管理局工作人员指南"
+        "zh": "通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与FDA工作人员指南"
       },
       "slug": "mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible",
       "status": "active",
@@ -3801,7 +3801,7 @@
       "id": "fda-medical-device-reporting-manufacturers",
       "title": {
         "en": "Medical Device Reporting for Manufacturers : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械报告：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械报告：行业与FDA工作人员指南"
       },
       "slug": "medical-device-reporting-manufacturers",
       "status": "active",
@@ -3821,7 +3821,7 @@
       "id": "fda-clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting",
       "title": {
         "en": "Clinical Considerations for Investigational Device Exemptions (IDEs) for Neurological Devices Targeting Disease Progression and Clinical Outcomes: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "针对疾病进展和临床结果的神经系统的研究设备豁免的临床考虑：行业与食品药品管理局工作人员指南"
+        "zh": "针对疾病进展和临床结局的神经系统器械研究用器械豁免(IDE)临床考量：行业与FDA工作人员指南"
       },
       "slug": "clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting",
       "status": "active",
@@ -3851,7 +3851,7 @@
       "id": "fda-labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization",
       "title": {
         "en": "Labeling for Permanent Hysteroscopically-Placed Tubal Implants Intended for Sterilization: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "菌的永久性管植入物标签：行业与食品药品管理局工作人员指南"
+        "zh": "菌的永久性管植入物标签：行业与FDA工作人员指南"
       },
       "slug": "labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization",
       "status": "active",
@@ -3875,7 +3875,7 @@
       "id": "fda-reporting-computational-modeling-studies-medical-device-submissions",
       "title": {
         "en": "Reporting of Computational Modeling Studies in Medical Device Submissions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "报告医疗器械提交的计算建模研究：行业与食品药品管理局工作人员指南"
+        "zh": "报告医疗器械提交的计算建模研究：行业与FDA工作人员指南"
       },
       "slug": "reporting-computational-modeling-studies-medical-device-submissions",
       "status": "active",
@@ -3896,7 +3896,7 @@
       "id": "fda-guidance-submission-510ks-solid-state-x-ray-imaging-devices",
       "title": {
         "en": "Guidance for the Submission of 510(k)s for Solid State X-ray Imaging Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南"
+        "zh": "固态X射线成像器械510(k)提交指南：行业与FDA工作人员指南"
       },
       "slug": "guidance-submission-510ks-solid-state-x-ray-imaging-devices",
       "status": "active",
@@ -3917,7 +3917,7 @@
       "id": "fda-premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery",
       "title": {
         "en": "Premarket Notification (510(k)) Submissions for Bipolar Electrosurgical Vessel Sealers for General Surgery: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与食品药品管理局工作人员指南"
+        "zh": "上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与FDA工作人员指南"
       },
       "slug": "premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery",
       "status": "active",
@@ -3940,7 +3940,7 @@
       "id": "fda-adaptive-designs-medical-device-clinical-studies",
       "title": {
         "en": "Adaptive Designs for Medical Device Clinical Studies: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "适应性设计用于医疗器械临床研究：行业与食品药品管理局工作人员指南"
+        "zh": "适应性设计用于医疗器械临床研究：行业与FDA工作人员指南"
       },
       "slug": "adaptive-designs-medical-device-clinical-studies",
       "status": "active",
@@ -3962,7 +3962,7 @@
       "id": "fda-leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices",
       "title": {
         "en": "Leveraging Existing Clinical Data for Extrapolation to Pediatric Uses of Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "利用现有临床数据将其用于儿童医疗器械的使用：行业与食品药品管理局工作人员指南"
+        "zh": "利用现有临床数据将其用于儿童医疗器械的使用：行业与FDA工作人员指南"
       },
       "slug": "leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices",
       "status": "active",
@@ -3984,7 +3984,7 @@
       "id": "fda-technical-performance-assessment-digital-pathology-whole-slide-imaging-devices",
       "title": {
         "en": "Technical Performance Assessment of Digital Pathology Whole Slide Imaging Devices : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "数字病理整体幻灯片成像设备的技术性能评估：行业与食品药品管理局工作人员指南"
+        "zh": "数字病理全切片成像器械的技术性能评估：行业与FDA工作人员指南"
       },
       "slug": "technical-performance-assessment-digital-pathology-whole-slide-imaging-devices",
       "status": "active",
@@ -4006,7 +4006,7 @@
       "id": "fda-radiation-biodosimetry-medical-countermeasure-devices",
       "title": {
         "en": "Radiation Biodosimetry Medical Countermeasure Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "放射生物计量医疗反措施设备：行业与食品药品管理局工作人员指南"
+        "zh": "放射生物剂量测定医学对策器械：行业与FDA工作人员指南"
       },
       "slug": "radiation-biodosimetry-medical-countermeasure-devices",
       "status": "active",
@@ -4028,7 +4028,7 @@
       "id": "fda-assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration",
       "title": {
         "en": "Assessment of Radiofrequency-Induced Heating in the Magnetic Resonance (MR) Environment for Multi-Configuration Passive Medical Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与食品药品管理局工作人员指南"
+        "zh": "对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与FDA工作人员指南"
       },
       "slug": "assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration",
       "status": "active",
@@ -4067,7 +4067,7 @@
       "id": "fda-medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected",
       "title": {
         "en": "Medical Devices and Clinical Trial Design for the Treatment or Improvement in the Appearance of Fungally-Infected Nails: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与FDA工作人员指南"
       },
       "slug": "medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected",
       "status": "active",
@@ -4092,7 +4092,7 @@
       "id": "fda-recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays",
       "title": {
         "en": "Recommendations for Premarket Notifications for Lamotrigine and Zonisamide Assays: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南"
+        "zh": "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与FDA工作人员指南"
       },
       "slug": "recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays",
       "status": "active",
@@ -4111,7 +4111,7 @@
       "id": "fda-implanted-blood-access-devices-hemodialysis",
       "title": {
         "en": "Implanted Blood Access Devices for Hemodialysis: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南"
+        "zh": "血液透析植入式血管通路器械：行业与FDA工作人员指南"
       },
       "slug": "implanted-blood-access-devices-hemodialysis",
       "status": "active",
@@ -4127,7 +4127,7 @@
       "id": "fda-premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices",
       "title": {
         "en": "Premarket Studies of Implantable Minimally Invasive Glaucoma Surgical (MIGS) Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "植入式最小入侵性血瘤手术设备 (MIGS) 的前市场研究：行业与食品药品管理局工作人员指南"
+        "zh": "植入式微创青光眼手术(MIGS)器械的上市前研究：行业与FDA工作人员指南"
       },
       "slug": "premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices",
       "status": "active",
@@ -4147,7 +4147,7 @@
       "id": "fda-premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings",
       "title": {
         "en": "Premarket Notification Requirements Concerning Gowns Intended for Use in Health Care Settings: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南"
+        "zh": "关于卫生保健环境中使用的服装的上市前通知要求：行业与FDA工作人员指南"
       },
       "slug": "premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings",
       "status": "active",
@@ -4163,7 +4163,7 @@
       "id": "fda-select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and",
       "title": {
         "en": "Select Updates for Non-Clinical Engineering Tests and Recommended Labeling for Intravascular Stents and Associated Delivery Systems: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与食品药品管理局工作人员指南"
+        "zh": "选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与FDA工作人员指南"
       },
       "slug": "select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and",
       "status": "active",
@@ -4200,7 +4200,7 @@
       "id": "fda-content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ",
       "title": {
         "en": "Content and Format for Abbreviated 510(k)s for Early Growth Response 1 (EGR1) Gene Fluorescence In-Situ Hybridization (FISH) Test System for Specimen Characterization Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南"
+        "zh": "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与FDA工作人员指南"
       },
       "slug": "content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ",
       "status": "active",
@@ -4224,7 +4224,7 @@
       "id": "fda-balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval",
       "title": {
         "en": "Balancing Premarket and Postmarket Data Collection for Devices Subject to Premarket Approval: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "产品前销售和后销售数据收集的平衡：行业与食品药品管理局工作人员指南"
+        "zh": "产品前销售和后销售数据收集的平衡：行业与FDA工作人员指南"
       },
       "slug": "balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval",
       "status": "active",
@@ -4244,7 +4244,7 @@
       "id": "fda-reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling",
       "title": {
         "en": "Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗保健环境中医疗器械的重工:验证方法和标签：行业与食品药品管理局工作人员指南"
+        "zh": "医疗保健环境中医疗器械的重工:验证方法和标签：行业与FDA工作人员指南"
       },
       "slug": "reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling",
       "status": "active",
@@ -4265,7 +4265,7 @@
       "id": "fda-safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral",
       "title": {
         "en": "Safety Considerations to Mitigate the Risks of Misconnections with Small-bore Connectors Intended for Enteral Applications: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与食品药品管理局工作人员指南"
+        "zh": "为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与FDA工作人员指南"
       },
       "slug": "safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral",
       "status": "active",
@@ -4284,7 +4284,7 @@
       "id": "fda-minimizing-risk-childrens-toy-laser-products",
       "title": {
         "en": "Minimizing Risk for Children's Toy Laser Products: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "降低儿童玩具激光产品的风险：行业与食品药品管理局工作人员指南"
+        "zh": "降低儿童玩具激光产品的风险：行业与FDA工作人员指南"
       },
       "slug": "minimizing-risk-childrens-toy-laser-products",
       "status": "active",
@@ -4302,7 +4302,7 @@
       "id": "fda-recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural",
       "title": {
         "en": "Recommendations for Labeling Medical Products to Inform Users that the Product or Product Container is not Made with Natural Rubber Latex: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南"
+        "zh": "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与FDA工作人员指南"
       },
       "slug": "recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural",
       "status": "active",
@@ -4339,7 +4339,7 @@
       "id": "fda-design-considerations-devices-intended-home-use",
       "title": {
         "en": "Design Considerations for Devices Intended for Home Use: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "设计设计方法:为家庭使用的 设备：行业与食品药品管理局工作人员指南"
+        "zh": "家用器械设计考量：行业与FDA工作人员指南"
       },
       "slug": "design-considerations-devices-intended-home-use",
       "status": "active",
@@ -4357,7 +4357,7 @@
       "id": "fda-molecular-diagnostic-instruments-combined-functions",
       "title": {
         "en": "Molecular Diagnostic Instruments with Combined Functions: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "具有组合功能的分子诊断 仪器：行业与食品药品管理局工作人员指南"
+        "zh": "具有组合功能的分子诊断 仪器：行业与FDA工作人员指南"
       },
       "slug": "molecular-diagnostic-instruments-combined-functions",
       "status": "active",
@@ -4375,7 +4375,7 @@
       "id": "fda-distinguishing-medical-device-recalls-medical-device-enhancements",
       "title": {
         "en": "Distinguishing Medical Device Recalls from Medical Device Enhancements: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "区分医疗器械提醒与医疗器械改进：行业与食品药品管理局工作人员指南"
+        "zh": "区分医疗器械提醒与医疗器械改进：行业与FDA工作人员指南"
       },
       "slug": "distinguishing-medical-device-recalls-medical-device-enhancements",
       "status": "active",
@@ -4393,7 +4393,7 @@
       "id": "fda-custom-device-exemption",
       "title": {
         "en": "Custom Device Exemption: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "专用设备豁免：行业与食品药品管理局工作人员指南"
+        "zh": "定制器械豁免：行业与FDA工作人员指南"
       },
       "slug": "custom-device-exemption",
       "status": "active",
@@ -4411,7 +4411,7 @@
       "id": "fda-highly-multiplexed-microbiologicalmedical-countermeasure-in-vitro-nucleic-acid-based-diagnostic-devices",
       "title": {
         "en": "Highly Multiplexed Microbiological/Medical Countermeasure In Vitro Nucleic Acid Based Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "基于核酸的诊断设备中高度多元化的微生物/医学反措施：行业与食品药品管理局工作人员指南"
+        "zh": "高通量多重微生物/医学对策体外核酸诊断器械：行业与FDA工作人员指南"
       },
       "slug": "highly-multiplexed-microbiologicalmedical-countermeasure-in-vitro-nucleic-acid-based-diagnostic-devices",
       "status": "active",
@@ -4430,7 +4430,7 @@
       "id": "fda-unique-device-identifier-system-frequently-asked-questions-vol-1",
       "title": {
         "en": "Unique Device Identifier System: Frequently Asked Questions, Vol. 1 : Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "如何 帮助 孩子 了解 方式?：行业与食品药品管理局工作人员指南"
+        "zh": "唯一器械标识符系统常见问题(第1卷)"
       },
       "slug": "unique-device-identifier-system-frequently-asked-questions-vol-1",
       "status": "active",
@@ -4449,7 +4449,7 @@
       "id": "fda-fda-decisions-investigational-device-exemption-clinical-investigations",
       "title": {
         "en": "FDA Decisions for Investigational Device Exemption Clinical Investigations: Guidance for Sponsors, Clinical Investigators, Institutional Review Boards, and Food and Drug Administration Staff",
-        "zh": "美国食品药品管理局 (FDA) 关于研究设备豁免的决定 临床调查:赞助商,临床调查人员,机构审查委员会和食品药品管理局工作人员的指导"
+        "zh": "FDA关于研究用器械豁免临床研究的决定：申办者、临床研究者、机构审查委员会与FDA工作人员指南"
       },
       "slug": "fda-decisions-investigational-device-exemption-clinical-investigations",
       "status": "active",
@@ -4468,7 +4468,7 @@
       "id": "fda-in-vitro-companion-diagnostic-devices",
       "title": {
         "en": "In Vitro Companion Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "在\"维特罗伴侣\"诊断设备中：行业与食品药品管理局工作人员指南"
+        "zh": "体外伴随诊断器械：行业与FDA工作人员指南"
       },
       "slug": "in-vitro-companion-diagnostic-devices",
       "status": "active",
@@ -4486,7 +4486,7 @@
       "id": "fda-510k-program-evaluating-substantial-equivalence-premarket-notifications-510k",
       "title": {
         "en": "The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "项目:在上市前通知中评估 等效性 [510(k]：行业与食品药品管理局工作人员指南"
+        "zh": "项目:在上市前通知中评估 等效性 [510(k]：行业与FDA工作人员指南"
       },
       "slug": "510k-program-evaluating-substantial-equivalence-premarket-notifications-510k",
       "status": "active",
@@ -4506,7 +4506,7 @@
       "id": "fda-criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and",
       "title": {
         "en": "Criteria for Significant Risk Investigations of Magnetic Resonance Diagnostic Devices - Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南"
+        "zh": "磁共振诊断器械重大风险研究标准：行业与FDA工作人员指南"
       },
       "slug": "criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and",
       "status": "active",
@@ -4657,7 +4657,7 @@
       "id": "fda-investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including",
       "title": {
         "en": "Investigational Device Exemptions (IDEs) for Early Feasibility Medical Device Clinical Studies, Including Certain First in Human (FIH) Studies: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "早期可行性医疗器械临床研究的研究设备豁免 (IDEs),包括人类研究中的某些首次 (FIH)：行业与食品药品管理局工作人员指南"
+        "zh": "早期可行性医疗器械临床研究的研究用器械豁免(IDE)，含某些首次人体(FIH)研究：行业与FDA工作人员指南"
       },
       "slug": "investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including",
       "status": "active",
@@ -4696,7 +4696,7 @@
       "id": "fda-assay-migration-studies-in-vitro-diagnostic-devices",
       "title": {
         "en": "Assay Migration Studies for In Vitro Diagnostic Devices: Guidance for Industry and FDA Staff",
-        "zh": "试验在内体诊断设备 的迁移研究：行业与FDA工作人员指南"
+        "zh": "体外诊断器械的检测方法迁移研究：行业与FDA工作人员指南"
       },
       "slug": "assay-migration-studies-in-vitro-diagnostic-devices",
       "status": "active",
@@ -4716,7 +4716,7 @@
       "id": "fda-medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff",
       "title": {
         "en": "Medical Device Classification Product Codes - Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "医疗器械分类产品代码：行业与食品药品管理局工作人员指南"
+        "zh": "医疗器械分类产品代码：行业与FDA工作人员指南"
       },
       "slug": "medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff",
       "status": "active",
@@ -4734,7 +4734,7 @@
       "id": "fda-establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia",
       "title": {
         "en": "Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection of Antibodies to Borrelia burgdorferi - Guidance for Industry and FDA Staff",
-        "zh": "确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南"
+        "zh": "确定伯氏疏螺旋体抗体检测用体外诊断器械的性能特性：行业与FDA工作人员指南"
       },
       "slug": "establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia",
       "status": "active",
@@ -4753,7 +4753,7 @@
       "id": "fda-investigational-device-exemption-ide-guidance-retinal-prostheses",
       "title": {
         "en": "Investigational Device Exemption (IDE) Guidance for Retinal Prostheses: Guidance for Industry and FDA Staff",
-        "zh": "视网膜假肢的检查设备豁免 (IDE) 指南：行业与FDA工作人员指南"
+        "zh": "视网膜假肢的研究用器械豁免 (IDE) 指南：行业与FDA工作人员指南"
       },
       "slug": "investigational-device-exemption-ide-guidance-retinal-prostheses",
       "status": "active",
@@ -4772,7 +4772,7 @@
       "id": "fda-pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug",
       "title": {
         "en": "Pulse Oximeters - Premarket Notification Submissions [510(k)s]: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与食品药品管理局工作人员指南"
+        "zh": "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与FDA工作人员指南"
       },
       "slug": "pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug",
       "status": "active",
@@ -4791,7 +4791,7 @@
       "id": "fda-clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and",
       "title": {
         "en": "Clinical Study Designs for Surgical Ablation Devices for Treatment of Atrial Fibrillation - Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南"
+        "zh": "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与FDA工作人员指南"
       },
       "slug": "clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and",
       "status": "active",
@@ -4809,7 +4809,7 @@
       "id": "fda-content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial",
       "title": {
         "en": "The Content of Investigational Device Exemption (IDE) and Premarket Approval (PMA) Applications for Artificial Pancreas Device Systems: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "关于人工胰腺装置系统的研究 豁免和预销售许可申请 (PMA) 的内容：行业与食品药品管理局工作人员指南"
+        "zh": "人工胰腺装置系统的研究用器械豁免(IDE)和上市前批准(PMA)申请内容：行业与FDA工作人员指南"
       },
       "slug": "content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial",
       "status": "active",
@@ -4829,7 +4829,7 @@
       "id": "fda-establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and",
       "title": {
         "en": "Establishing the Performance Characteristics of In Vitro Diagnostic Devices for the Detection or Detection and Differentiation of Influenza Viruses - Guidance for Industry and FDA Staff",
-        "zh": "建立用于检测或检测和 流感病毒的内置诊断设备的性能特性：行业与FDA工作人员指南"
+        "zh": "确定流感病毒检测或检测和分型用体外诊断器械的性能特性：行业与FDA工作人员指南"
       },
       "slug": "establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and",
       "status": "active",
@@ -4847,7 +4847,7 @@
       "id": "fda-clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda",
       "title": {
         "en": "Clinical Investigations of Devices Indicated for the Treatment of Urinary Incontinence - Guidance for Industry and FDA Staff",
-        "zh": "针对尿液不的治疗指 的设备的临床研究：行业与FDA工作人员指南"
+        "zh": "用于尿失禁治疗的器械临床研究：行业与FDA工作人员指南"
       },
       "slug": "clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda",
       "status": "active",
@@ -4866,7 +4866,7 @@
       "id": "fda-blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff",
       "title": {
         "en": "Blood Lancet Labeling - Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "血兰塞标签：行业与食品药品管理局工作人员指南"
+        "zh": "血兰塞标签：行业与FDA工作人员指南"
       },
       "slug": "blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff",
       "status": "active",
@@ -4919,7 +4919,7 @@
       "id": "fda-contact-lens-care-products-labeling",
       "title": {
         "en": "Contact Lens Care Products Labeling: Guidance for Industry and Food and Drug Administration Staff",
-        "zh": "接触镜头护理产品标 ：行业与食品药品管理局工作人员指南"
+        "zh": "接触镜头护理产品标 ：行业与FDA工作人员指南"
       },
       "slug": "contact-lens-care-products-labeling",
       "status": "active",
@@ -4996,7 +4996,7 @@
       "id": "fda-guidance-use-bayesian-statistics-medical-device-clinical-trials",
       "title": {
         "en": "Guidance for the Use of Bayesian Statistics in Medical Device Clinical Trials",
-        "zh": "医疗器械临床试验中使用 的指南"
+        "zh": "医疗器械临床试验中使用贝叶斯统计的指南"
       },
       "slug": "guidance-use-bayesian-statistics-medical-device-clinical-trials",
       "status": "active",
@@ -5014,7 +5014,7 @@
       "id": "fda-radiation-safety-considerations-x-ray-equipment-designed-hand-held-use",
       "title": {
         "en": "Radiation Safety Considerations for X-Ray Equipment Designed for Hand-Held Use",
-        "zh": "专为手动使用的X射线 设备的辐射安全考虑因素"
+        "zh": "手持式X射线设备的辐射安全考量"
       },
       "slug": "radiation-safety-considerations-x-ray-equipment-designed-hand-held-use",
       "status": "active",
@@ -5032,7 +5032,7 @@
       "id": "fda-modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process",
       "title": {
         "en": "Modifications to Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process: Guidance for Industry and FDA Staff",
-        "zh": "适用于产品的产品,可 (以) 预销售批准 (PMA) 的变更 - PMA补充决策过程：行业与FDA工作人员指南"
+        "zh": "适用上市前批准(PMA)器械的变更 - PMA补充申请决策流程：行业与FDA工作人员指南"
       },
       "slug": "modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process",
       "status": "active",
@@ -5125,7 +5125,7 @@
       "id": "fda-investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis",
       "title": {
         "en": "Investigational Device Exemptions (IDEs) for Devices Indicated for Nocturnal Home Hemodialysis: Guidance for Industry and FDA Staff",
-        "zh": "对于夜间家庭血分析所指向的设备的调查设备豁免 (IDE)：行业与FDA工作人员指南"
+        "zh": "用于夜间家庭血液透析器械的研究用器械豁免(IDE)：行业与FDA工作人员指南"
       },
       "slug": "investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis",
       "status": "active",
@@ -5144,7 +5144,7 @@
       "id": "fda-preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs",
       "title": {
         "en": "Preparation and Review of Investigational Device Exemption Applications (IDEs) for Total Artificial Discs: Guidance for Industry and FDA Staff",
-        "zh": "准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南"
+        "zh": "准备和审查对整体人工盘 (Total Artificial Discs) 的研究用器械豁免申请：行业与FDA工作人员指南"
       },
       "slug": "preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs",
       "status": "active",
@@ -5164,7 +5164,7 @@
       "id": "fda-coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions",
       "title": {
         "en": "Coronary and Carotid Embolic Protection Devices - Premarket Notification [510(k)] Submissions : Guidance for Industry and FDA Staff",
-        "zh": "冠状病毒和状体保护 (冠状病毒) 设备 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南"
+        "zh": "冠状动脉和颈动脉栓子保护器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南"
       },
       "slug": "coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions",
       "status": "active",
@@ -5343,7 +5343,7 @@
       "id": "fda-bundling-multiple-devices-or-multiple-indications-single-submission",
       "title": {
         "en": "Bundling Multiple Devices or Multiple Indications in a Single Submission: Guidance for Industry and FDA Staff",
-        "zh": "单个提交单个设备或多个 标示的捆绑：行业与FDA工作人员指南"
+        "zh": "在单个提交中捆绑多个器械或多个适应症：行业与FDA工作人员指南"
       },
       "slug": "bundling-multiple-devices-or-multiple-indications-single-submission",
       "status": "active",
@@ -5361,7 +5361,7 @@
       "id": "fda-pre-clinical-and-clinical-studies-neurothrombectomy-devices",
       "title": {
         "en": "Pre-Clinical and Clinical Studies for Neurothrombectomy Devices: Guidance for Industry and FDA Staff",
-        "zh": "对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南"
+        "zh": "神经血栓切除器械的临床前和临床研究：行业与FDA工作人员指南"
       },
       "slug": "pre-clinical-and-clinical-studies-neurothrombectomy-devices",
       "status": "active",
@@ -5487,7 +5487,7 @@
       "id": "fda-guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not",
       "title": {
         "en": "Guidance on Informed Consent for In Vitro Diagnostic Device Studies Using Leftover Human Specimens that are Not Individually Identifiable : Guidance for Sponsors, Institutional Review Boards, and Food and Drug Administration Staff",
-        "zh": "关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导"
+        "zh": "使用非个人可识别的剩余人类样本进行体外诊断器械研究的知情同意指南：申办者、机构审查委员会与FDA工作人员指南"
       },
       "slug": "guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not",
       "status": "active",
@@ -5776,7 +5776,7 @@
       "id": "fda-guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k",
       "title": {
         "en": "Guidance for Industry and FDA Staff: Vocal Fold Medialization Devices - Premarket Notification [510(k)] Submissions",
-        "zh": "产业和FDA工作人员的指导:声折媒体化设备 - 上市前通知 [510(k) ] 提交"
+        "zh": "声带内移器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南"
       },
       "slug": "guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k",
       "status": "active",
@@ -5794,7 +5794,7 @@
       "id": "fda-premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff",
       "title": {
         "en": "Premarket Notification [510(k)] Submissions for Chemical Indicators - Guidance for Industry and FDA Staff",
-        "zh": "预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南"
+        "zh": "化学指示剂上市前通知[510(k)]提交：行业与FDA工作人员指南"
       },
       "slug": "premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff",
       "status": "active",
@@ -5830,7 +5830,7 @@
       "id": "fda-frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0",
       "title": {
         "en": "Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors - Three Additional Questions: Guidance for Industry, FDA Staff, Third-Party and Hospital Reprocessors",
-        "zh": "关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南"
+        "zh": "第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题 - 三个附加问题：行业、FDA工作人员、第三方和医院再处理器指南"
       },
       "slug": "frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0",
       "status": "active",
@@ -5884,7 +5884,7 @@
       "id": "fda-determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1",
       "title": {
         "en": "Determination of Intended Use for 510(k) Devices - Guidance for CDRH Staff (Update to K98-1)",
-        "zh": "确定510(k设备的预期使用 - CDRH人员的指导 (更新至K98-1)"
+        "zh": "510(k)器械预期用途的确定 - CDRH工作人员指南(更新至K98-1)"
       },
       "slug": "determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1",
       "status": "active",
@@ -5936,7 +5936,7 @@
       "id": "fda-guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry",
       "title": {
         "en": "Guidance for Resorbable Adhesion Barrier Devices for Use in Abdominal and/or Pelvic Surgery - Guidance for Industry",
-        "zh": "腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南"
+        "zh": "用于腹部和/或盆腔手术的可吸收防粘连屏障器械指南：行业指南"
       },
       "slug": "guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry",
       "status": "active",
@@ -5992,7 +5992,7 @@
       "id": "fda-labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals",
       "title": {
         "en": "Labeling Recommendations for Single-Use Devices Reprocessed by Third Parties and Hospitals: Final Guidance for Industry and FDA",
-        "zh": "标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导"
+        "zh": "第三方和医院再处理的一次性使用器械的标签建议：行业与FDA最终指南"
       },
       "slug": "labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals",
       "status": "active",
@@ -6008,7 +6008,7 @@
       "id": "fda-frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital",
       "title": {
         "en": "Frequently-Asked-Questions about the Reprocessing and Reuse of Single-Use Devices by Third-Party and Hospital Reprocessors: Final Guidance for Industry and FDA Staff",
-        "zh": "关于第三方和医院处理器重工和重复使用一次性设备的常见问题: 工业和FDA工作人员的最终指导"
+        "zh": "第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题：行业与FDA工作人员最终指南"
       },
       "slug": "frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital",
       "status": "active",
@@ -6135,7 +6135,7 @@
       "id": "fda-guidance-document-dura-substitute-devices-guidance-industry",
       "title": {
         "en": "Guidance Document for Dura Substitute Devices - Guidance for Industry",
-        "zh": "杜拉替代设备的指南：行业指南"
+        "zh": "硬脑膜替代器械指南：行业指南"
       },
       "slug": "guidance-document-dura-substitute-devices-guidance-industry",
       "status": "active",
@@ -6169,7 +6169,7 @@
       "id": "fda-guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry",
       "title": {
         "en": "Guidance for the Submission of Premarket Notifications for Photon-Emitting Brachytherapy Sources - Guidance for Industry",
-        "zh": "关于向光子发射疗源提交预销售通知的指南：行业指南"
+        "zh": "光子发射近距离放射治疗源上市前通知提交指南：行业指南"
       },
       "slug": "guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry",
       "status": "active",
@@ -6205,7 +6205,7 @@
       "id": "fda-1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers",
       "title": {
         "en": "1-Consolidated Annual Report for a Device product line (1-CARD) - Guidance for Industry and CDRH Reviewers",
-        "zh": "1-设备产品线的综合年度报告 (1-CARD)：行业与CDRH审评人员指南"
+        "zh": "1-器械产品线综合年度报告(1-CARD)：行业与CDRH审评人员指南"
       },
       "slug": "1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers",
       "status": "active",
@@ -6275,7 +6275,7 @@
       "id": "fda-guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide",
       "title": {
         "en": "Guidance Document for Premarket Notification Submissions for Nitric Oxide Delivery Apparatus, Nitric Oxide Analyzer and Nitrogen Dioxide Analyzer: Guidance for Industry and for FDA Reviewers",
-        "zh": "关于氧化物输送设备,氧化物分析仪和二氧化物分析仪以及FDA审查人员的上市前通知提交指南：行业指南"
+        "zh": "一氧化氮输送装置、一氧化氮分析仪和二氧化氮分析仪上市前通知提交指南：行业与FDA审评人员指南"
       },
       "slug": "guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide",
       "status": "active",
@@ -6332,7 +6332,7 @@
       "id": "fda-content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level",
       "title": {
         "en": "Content and Format of Premarket Notification [510(k)] Submissions for Liquid Chemical Sterilants/High Level Disinfectants - Guidance for Industry and FDA Reviewers",
-        "zh": "预销售通知的内容和形式 [510(k) ] 液化消毒剂/高水平消毒剂的申请：行业与FDA审评人员指南"
+        "zh": "液体化学灭菌剂/高水平消毒剂上市前通知[510(k)]提交的内容和格式：行业与FDA审评人员指南"
       },
       "slug": "content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level",
       "status": "active",
@@ -6475,7 +6475,7 @@
       "id": "fda-guidance-dermabrasion-devices-guidance-industry",
       "title": {
         "en": "Guidance for Dermabrasion Devices - Guidance for Industry",
-        "zh": "皮肤磨损设备的指南：行业指南"
+        "zh": "皮肤磨削器械指南：行业指南"
       },
       "slug": "guidance-dermabrasion-devices-guidance-industry",
       "status": "active",
@@ -6511,7 +6511,7 @@
       "id": "fda-guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories",
       "title": {
         "en": "Guidance for the Submission of Premarket Notifications for Emission Computed Tomography Devices and Accessories (SPECT and PET) and Nuclear Tomography Systems : Guidance for Industry",
-        "zh": "关于发射计算机镜设备和配件 (SPECT和 PET) 和核镜系统的上市前通知提交指南：行业指南"
+        "zh": "发射计算机断层扫描器械和附件(SPECT和PET)及核断层扫描系统上市前通知提交指南：行业指南"
       },
       "slug": "guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories",
       "status": "active",
@@ -6584,7 +6584,7 @@
       "id": "fda-fda-animal-products-database-data-entry-form",
       "title": {
         "en": "FDA Animal Products Database Data Entry Form",
-        "zh": "食品药品管理局动物产品数据库数据输入表"
+        "zh": "FDA动物产品数据库数据输入表"
       },
       "slug": "fda-animal-products-database-data-entry-form",
       "status": "active",
@@ -6853,7 +6853,7 @@
       "id": "fda-procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff",
       "title": {
         "en": "Procedures for Class II Device Exemptions from Premarket Notification, Guidance for Industry and CDRH Staff",
-        "zh": "对于二级设备免于上市前通知,行业指导和CDRH人员的程序"
+        "zh": "II类器械免除上市前通知的程序：行业与CDRH工作人员指南"
       },
       "slug": "procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff",
       "status": "active",
@@ -6961,7 +6961,7 @@
       "id": "fda-third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k",
       "title": {
         "en": "Third Party Review Guidance for Phacofragmentation System Device Premarket Notification (510(k))",
-        "zh": "关于断系统设备上市前通知的第三方审查指南 (510(k))"
+        "zh": "超声乳化碎核系统器械上市前通知510(k)第三方审查指南"
       },
       "slug": "third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k",
       "status": "active",
@@ -6977,7 +6977,7 @@
       "id": "fda-third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k",
       "title": {
         "en": "Third Party Review Guidance For Vitreous Aspiration and Cutting Device Premarket Notification (510(k))",
-        "zh": "关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))"
+        "zh": "玻璃体抽吸和切割器械上市前通知510(k)第三方审查指南"
       },
       "slug": "third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k",
       "status": "active",
@@ -7011,7 +7011,7 @@
       "id": "fda-checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive",
       "title": {
         "en": "Checklist of Information Usually Submitted in an Investigational Device Exemptions (IDE) Application for Refractive Surgery Lasers [excimer]",
-        "zh": "检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]"
+        "zh": "屈光手术激光器研究用器械豁免(IDE)申请通常提交的信息清单[准分子]"
       },
       "slug": "checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive",
       "status": "active",
@@ -7260,7 +7260,7 @@
       "id": "fda-guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices",
       "title": {
         "en": "Guidance Document for the Preparation of Premarket Notification [510(k)] Applications for Heating and Cooling Devices",
-        "zh": "上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用"
+        "zh": "加热和冷却器械上市前通知[510(k)]申请准备指南"
       },
       "slug": "guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices",
       "status": "active",
@@ -7278,7 +7278,7 @@
       "id": "fda-guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment",
       "title": {
         "en": "Guidance Document for the Preparation of Premarket Notification [510(K)] Applications for Exercise Equipment",
-        "zh": "准备上市前通知的指南 [510(K) ]运动设备申请"
+        "zh": "运动设备上市前通知[510(K)]申请准备指南"
       },
       "slug": "guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment",
       "status": "active",
@@ -7405,7 +7405,7 @@
       "id": "fda-guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters",
       "title": {
         "en": "Guidance for the Content of Premarket Notifications for Conventional and Antimicrobial Foley Catheters",
-        "zh": "对于常规和抗微生物片片类的预销售通知内容的指导"
+        "zh": "常规和抗菌弗利导尿管上市前通知内容指南"
       },
       "slug": "guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters",
       "status": "active",
@@ -7442,7 +7442,7 @@
       "id": "fda-points-consider-cervical-cytology-devices",
       "title": {
         "en": "Points to Consider for Cervical Cytology Devices",
-        "zh": "关于宫细胞学设备的注意点"
+        "zh": "宫颈细胞学器械注意要点"
       },
       "slug": "points-consider-cervical-cytology-devices",
       "status": "active",
@@ -7622,7 +7622,7 @@
       "id": "fda-guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities",
       "title": {
         "en": "Guidance on Premarket Notification 510(k) for Sterilizers Intended for Use in Health Care Facilities",
-        "zh": "关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂"
+        "zh": "医疗保健设施用灭菌器上市前通知510(k)指南"
       },
       "slug": "guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities",
       "status": "active",
@@ -7695,7 +7695,7 @@
       "id": "fda-review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19",
       "title": {
         "en": "Review Criteria For Premarket Approval of In Vitro Diagnostic Devices for Detection of Antibodies to Parvovirus B19",
-        "zh": "检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准"
+        "zh": "检查标准 检测对巴尔沃病毒B19抗体的体外诊断器械的前销售批准"
       },
       "slug": "review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19",
       "status": "active",
@@ -7731,7 +7731,7 @@
       "id": "fda-device-labeling-guidance-g91-1-blue-book-memo",
       "title": {
         "en": "Device Labeling Guidance #G91-1 (Blue Book Memo)",
-        "zh": "设备标签指南#G91-1 (蓝色书记)"
+        "zh": "器械标签指南#G91-1(蓝皮书备忘录)"
       },
       "slug": "device-labeling-guidance-g91-1-blue-book-memo",
       "status": "active",
@@ -8096,7 +8096,7 @@
       "id": "fda-investigational-medical-laser-significant-risk-device-laser-notice-31",
       "title": {
         "en": "Investigational Medical Laser Significant Risk Device (Laser Notice 31)",
-        "zh": "医疗激光研究重大风险设备 (激光通告 31)"
+        "zh": "研究用医疗激光重大风险器械(激光通告31)"
       },
       "slug": "investigational-medical-laser-significant-risk-device-laser-notice-31",
       "status": "active",
@@ -8220,7 +8220,7 @@
       "id": "fda-manufacture-and-certification-laser-kits-laser-notice-13",
       "title": {
         "en": "Manufacture and Certification of Laser Kits (Laser Notice 13)",
-        "zh": "激光设备的制造和认证 (激光设备的通知 13)"
+        "zh": "激光套件的制造和认证(激光通告13)"
       },
       "slug": "manufacture-and-certification-laser-kits-laser-notice-13",
       "status": "active",

@@ -4,7 +4,7 @@ description: "Referencing the Definition of \"Device\" in the Federal Food, Drug
 published: 2022-11-14
 ---
 
-# 在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的
+# 在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的"器械"定义：行业与FDA工作人员指南
 
 **Referencing the Definition of "Device" in the Federal Food, Drug, and Cosmetic Act in Guidance, Regulatory Documents, Communications, and Other Public Documents: Guidance for Industry and Food and Drug Administration Staff**
 

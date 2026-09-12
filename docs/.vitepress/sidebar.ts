@@ -4006,7 +4006,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "生产与质量管理体系软件的计算机软件保证：行业与食品药品管理局工作人员指南",
+          "text": "生产与质量管理体系软件的计算机软件保证：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/computer-software-assurance-production-and-quality-management-system-software"
         },
         {
@@ -4014,47 +4014,47 @@ export default {
           "link": "/zh/fda/guidance/cybersecurity-premarket"
         },
         {
-          "text": "临床决策支持软件：行业与食品药品管理局工作人员指南",
+          "text": "临床决策支持软件：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-decision-support-software"
         },
         {
-          "text": "一般健康：低风险器械政策：行业与食品药品管理局工作人员指南",
+          "text": "一般健康：低风险器械政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/general-wellness-policy-low-risk-devices"
         },
         {
-          "text": "人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与食品药品管理局工作人员指南",
+          "text": "人工智能赋能器械软件功能预定变更控制计划的上市提交建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence"
         },
         {
-          "text": "医疗器械提交中计算建模与仿真可信度评估：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械提交中计算建模与仿真可信度评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/assessing-credibility-computational-modeling-and-simulation-medical-device-submissions"
         },
         {
-          "text": "具有生理闭环控制技术的医疗器械技术考量：行业与食品药品管理局工作人员指南",
+          "text": "具有生理闭环控制技术的医疗器械技术考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-considerations-medical-devices-physiologic-closed-loop-control-technology"
         },
         {
-          "text": "医疗器械中的现成软件使用：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械中的现成软件使用：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/shelf-software-use-medical-devices"
         },
         {
-          "text": "医疗器械开发工具的认定：行业、工具开发者与食品药品管理局工作人员指南",
+          "text": "医疗器械开发工具的认定：行业、工具开发者与FDA工作人员指南",
           "link": "/zh/fda/guidance/qualification-medical-device-development-tools"
         },
         {
-          "text": "器械软件功能上市前提交内容：行业与食品药品管理局工作人员指南",
+          "text": "器械软件功能上市前提交内容：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/content-premarket-submissions-device-software-functions"
         },
         {
-          "text": "应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与食品药品管理局工作人员指南",
+          "text": "应用于放射影像与放射器械数据的计算机辅助检测器械——上市前通知（510(k)）提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket"
         },
         {
-          "text": "器械软件功能与移动医疗应用政策：行业与食品药品管理局工作人员指南",
+          "text": "器械软件功能与移动医疗应用政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-device-software-functions-and-mobile-medical-applications"
         },
         {
-          "text": "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械数据系统、医学影像存储器械与医学影像通信器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices"
         },
         {
@@ -4062,15 +4062,15 @@ export default {
           "link": "/zh/fda/guidance/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology"
         },
         {
-          "text": "多功能器械产品：政策与考量：行业与食品药品管理局指南",
+          "text": "多功能器械产品：政策与考量：行业与FDA指南",
           "link": "/zh/fda/guidance/multiple-function-device-products-policy-and-considerations"
         },
         {
-          "text": "因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与食品药品管理局工作人员指南",
+          "text": "因《21世纪治愈法案》第3060条导致的既有医疗软件政策变更：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act"
         },
         {
-          "text": "体外诊断检测的逻辑观察标识符名称与代码（LOINC）：行业与食品药品管理局工作人员指南",
+          "text": "体外诊断检测的逻辑观察标识符名称与代码(LOINC)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/logical-observation-identifiers-names-and-codes-in-vitro-diagnostic-tests"
         },
         {
@@ -4078,11 +4078,11 @@ export default {
           "link": "/zh/fda/guidance/medical-device-accessories-describing-accessories-and-classification-pathways"
         },
         {
-          "text": "判定既有器械软件变更何时需提交510(k)：行业与食品药品管理局工作人员指南",
+          "text": "判定既有器械软件变更何时需提交510(k)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/deciding-when-submit-510k-software-change-existing-device"
         },
         {
-          "text": "可互操作医疗器械的设计考量与上市前提交建议：行业与食品药品管理局工作人员指南",
+          "text": "可互操作医疗器械的设计考量与上市前提交建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices"
         },
         {
@@ -4100,327 +4100,327 @@ export default {
       ]
     },
     {
-      "text": "上市前（510(k) / PMA / De Novo / IDE） (290)",
+      "text": "上市前 (510(k) / PMA / De Novo / IDE) (290)",
       "collapsed": true,
       "items": [
         {
-          "text": "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "牙科护理灯 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-curing-lights-premarket-notification-510k-submissions"
         },
         {
-          "text": "牙科复合树脂设备 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "牙科复合树脂器械 - 上市前通知(510(k))提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-composite-resin-devices-premarket-notification-510k-submissions"
         },
         {
-          "text": "应用人类因素和可用性工程到医疗器械：行业与食品药品管理局工作人员指南",
+          "text": "将人因工程和可用性工程应用于医疗器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/applying-human-factors-and-usability-engineering-medical-devices"
         },
         {
-          "text": "血液管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions"
         },
         {
-          "text": "意图免除某些未分类的医疗器械的预销售通知要求：行业与食品药品管理局工作人员指南",
+          "text": "拟豁免某些未分类医疗器械上市前通知要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements"
         },
         {
-          "text": "医疗器械市场营销提交中的人体因素信息内容：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械市场营销提交中的人体因素信息内容：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/content-human-factors-information-medical-device-marketing-submissions"
         },
         {
-          "text": "整形植入器的患者匹配指南：行业与食品药品管理局工作人员指南",
+          "text": "整形植入器的患者匹配指南：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/patient-matched-guides-orthopedic-implants"
         },
         {
-          "text": "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与食品药品管理局工作人员指南",
+          "text": "减肥相关的标志性医疗器械 - 上市前考虑因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-devices-indications-associated-weight-loss-premarket-considerations"
         },
         {
-          "text": "实实世界证据的使用,支持医疗器械的监管决策：行业与食品药品管理局工作人员指南",
+          "text": "利用真实世界证据支持医疗器械监管决策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/use-real-world-evidence-support-regulatory-decision-making-medical-devices"
         },
         {
-          "text": "医疗器械提交的eCopy计划：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械提交的eCopy计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/ecopy-program-medical-device-submissions"
         },
         {
-          "text": "牙移植材料设备的动物研究 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "牙科骨移植材料器械的动物研究 - 上市前通知(510(k))提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/animal-studies-dental-bone-grafting-material-devices-premarket-notification-510k-submissions"
         },
         {
-          "text": "医疗器械提交的反请求和会议:Q提交计划：行业与食品药品管理局工作人员最终指南",
+          "text": "医疗器械提交的反请求和会议:Q提交计划：行业与FDA工作人员最终指南",
           "link": "/zh/fda/guidance/requests-feedback-and-meetings-medical-device-submissions-q-submission-program"
         },
         {
-          "text": "在医疗器械临床研究中评估性别特定数据：行业与食品药品管理局工作人员指南",
+          "text": "在医疗器械临床研究中评估性别特定数据：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug"
         },
         {
-          "text": "预销售许可申请和人道主义设备豁免模块化审查：行业与FDA工作人员指南",
+          "text": "上市前批准申请和人道主义器械豁免模块化审查：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-approval-application-and-humanitarian-device-exemption-modular-review"
         },
         {
-          "text": "乙烯氧化物灭菌设施的过渡执行政策变化：行业与食品药品管理局工作人员指南",
+          "text": "III类器械环氧乙烷灭菌设施变更的过渡性执法政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices"
         },
         {
-          "text": "整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions"
         },
         {
-          "text": "整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance"
         },
         {
-          "text": "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、食品药品管理局工作人员与第三方审评组织指南",
+          "text": "510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南",
           "link": "/zh/fda/guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review"
         },
         {
-          "text": "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and"
         },
         {
-          "text": "牙科陶 -安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "牙科陶 -安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙水泥 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙印花材料 - 安全性和性能标准的基础路径：行业与食品药品管理局工作人员指南",
+          "text": "牙印花材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based"
         },
         {
-          "text": "电子提交医疗器械的模板 De Novo 要求：行业与食品药品管理局工作人员指南",
+          "text": "电子提交医疗器械的模板 De Novo 要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/electronic-submission-template-medical-device-de-novo-requests"
         },
         {
-          "text": "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与食品药品管理局工作人员指南",
+          "text": "根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic"
         },
         {
-          "text": "提交和审查产不菌性信息在上市前通知 (510(k)) 提交以无菌标记的设备：行业与食品药品管理局工作人员指南",
+          "text": "以无菌标记器械的上市前通知(510(k))提交中无菌信息的提交和审查：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled"
         },
         {
-          "text": "关于批准预销售许可 (PMA) 或人道主义设备豁免 (HDE) 申请的某些补充剂的执行政策：行业与食品药品管理局工作人员指南",
+          "text": "已批准上市前批准(PMA)或人道主义器械豁免(HDE)申请的某些补充申请的执法政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/enforcement-policy-certain-supplements-approved-premarket-approval-pma-or-humanitarian-device"
         },
         {
-          "text": "支持患者监测的非侵入式远程监测设备的执行政策：行业与食品药品管理局工作人员指南",
+          "text": "用于支持患者监测的非侵入式远程监测器械执法政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/enforcement-policy-non-invasive-remote-monitoring-devices-used-support-patient-monitoring"
         },
         {
-          "text": "在磁共振环境中安全性检测和标签医疗器械：行业与食品药品管理局工作人员指南",
-          "link": "/zh/fda/guidance/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
-        },
-        {
-          "text": "发送磁共振诊断设备的预销售通知：行业与食品药品管理局工作人员指南",
+          "text": "磁共振诊断器械上市前通知提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/submission-premarket-notifications-magnetic-resonance-diagnostic-devices"
         },
         {
-          "text": "电子提交医疗器械模板 510(k) 提交：行业与食品药品管理局工作人员指南",
+          "text": "在磁共振环境中安全性检测和标签医疗器械：行业与FDA工作人员指南",
+          "link": "/zh/fda/guidance/testing-and-labeling-medical-devices-safety-magnetic-resonance-mr-environment"
+        },
+        {
+          "text": "电子提交医疗器械模板 510(k) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/electronic-submission-template-medical-device-510k-submissions"
         },
         {
-          "text": "突破性设备计划：行业与食品药品管理局工作人员指南",
+          "text": "突破性器械计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/breakthrough-devices-program"
         },
         {
-          "text": "国际标准ISO 10993-1的使用\"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试\"：行业与食品药品管理局工作人员指南",
+          "text": "国际标准ISO 10993-1的使用\"医疗器械生物评估 - 第1部分:在风险管理过程中进行评估和测试\"：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and"
         },
         {
-          "text": "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与食品药品管理局工作人员指南",
+          "text": "在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public"
         },
         {
-          "text": "基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket"
         },
         {
-          "text": "在电力结过程中使用的组织控制系统的非临床性能评估：行业与食品药品管理局工作人员指南",
+          "text": "在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation"
         },
         {
-          "text": "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification"
         },
         {
-          "text": "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "动物研究的一般考虑因素,用于评估医疗器械：行业与食品药品管理局工作人员指南",
+          "text": "动物研究的一般考虑因素,用于评估医疗器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/general-considerations-animal-studies-intended-evaluate-medical-devices"
         },
         {
-          "text": "关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与食品药品管理局工...",
+          "text": "关于2019年新冠病毒疾病 (COVID-19) 的医疗器械紧急使用许可证 (EUA) 的过渡计划：行业、其他利益相关方与FDA工作人员指南",
           "link": "/zh/fda/guidance/transition-plan-medical-devices-issued-emergency-use-authorizations-euas-related-coronavirus-disease"
         },
         {
-          "text": "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与食品药品管理局工作人员指南",
+          "text": "2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与FDA工作人员指南",
           "link": "/zh/fda/guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease"
         },
         {
-          "text": "诊断超声波系统和转换器的市场许可：行业与食品药品管理局工作人员指南",
-          "link": "/zh/fda/guidance/marketing-clearance-diagnostic-ultrasound-systems-and-transducers"
-        },
-        {
-          "text": "政策澄清和上市前通知 [510(k) ] 超声波透膜设备的申请：行业与食品药品管理局工作人员指南",
+          "text": "超声透热器械的政策澄清和上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices"
         },
         {
-          "text": "医疗X射线成像设备符合IEC标准：行业与食品药品管理局工作人员指南",
+          "text": "诊断超声波系统和转换器的市场许可：行业与FDA工作人员指南",
+          "link": "/zh/fda/guidance/marketing-clearance-diagnostic-ultrasound-systems-and-transducers"
+        },
+        {
+          "text": "医疗X射线成像器械符合IEC标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-x-ray-imaging-devices-conformance-iec-standards"
         },
         {
-          "text": "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与食品药品管理局工作人员指南",
+          "text": "评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-evaluating-impact-viral-mutations-covid-19-tests-revised"
         },
         {
-          "text": "关于2019年新冠病毒检测政策 (修订)：开发者与食品药品管理局工作人员指南",
+          "text": "关于2019年新冠病毒检测政策 (修订)：开发者与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-coronavirus-disease-2019-tests-revised"
         },
         {
-          "text": "根据最轻重的规定,制定和应对缺陷：行业与食品药品管理局工作人员指南",
+          "text": "根据最轻重的规定,制定和应对缺陷：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/developing-and-responding-deficiencies-accordance-least-burdensome-provisions"
         },
         {
-          "text": "通过PMA命令强制执行批准后研究处理程序：行业与食品药品管理局工作人员指南",
+          "text": "通过PMA命令强制执行批准后研究处理程序：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/procedures-handling-post-approval-studies-imposed-pma-order"
         },
         {
-          "text": "对于上市前通知提交的用户费用和退款 (510(k)：行业与食品药品管理局工作人员指南",
+          "text": "对于上市前通知提交的用户费用和退款 (510(k)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/user-fees-and-refunds-premarket-notification-submissions-510ks"
         },
         {
-          "text": "对于De Novo分类申请的用户费用和退款：行业与食品药品管理局工作人员指南",
+          "text": "对于De Novo分类申请的用户费用和退款：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/user-fees-and-refunds-de-novo-classification-requests"
         },
         {
-          "text": "对于513的用户费用：行业与食品药品管理局工作人员指南",
+          "text": "对于513的用户费用：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/user-fees-513g-requests-information"
         },
         {
-          "text": "上市前许可申请和设备生物技术许可申请的用户费用和退款：行业与食品药品管理局工作人员指南",
+          "text": "上市前批准申请和器械生物制品许可申请的用户费和退款：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications"
         },
         {
-          "text": "食品和工业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南",
+          "text": "食品和工业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals"
         },
         {
-          "text": "食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南",
+          "text": "食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals"
         },
         {
-          "text": "食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与食品药品管理局工作人员指南",
+          "text": "食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals"
         },
         {
-          "text": "诊断放射学显示器：行业与食品药品管理局工作人员指南",
+          "text": "诊断放射学显示器：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/display-devices-diagnostic-radiology"
         },
         {
-          "text": "听力助理设备和个人音响增强产品的监管要求：行业与食品药品管理局工作人员指南",
+          "text": "助听器械和个人声音放大产品的监管要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products"
         },
         {
-          "text": "放射性设备上市前的数量成像技术性能评估：行业与食品药品管理局工作人员指南",
+          "text": "放射学器械上市前提交中定量成像的技术性能评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions"
         },
         {
-          "text": "医疗器械的电磁兼容性 (EMC)：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械的电磁兼容性 (EMC)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/electromagnetic-compatibility-emc-medical-devices"
         },
         {
-          "text": "可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与食品药品管理局工作人员指南",
+          "text": "可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically"
         },
         {
-          "text": "拒绝接受510k政策：行业与食品药品管理局工作人员指南",
+          "text": "拒绝接受510k政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/refuse-accept-policy-510ks"
         },
         {
-          "text": "面系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "面系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙基树脂 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "牙基树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "术接 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
-          "link": "/zh/fda/guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway"
-        },
-        {
-          "text": "整形骨折固定板 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "整形骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与食品药品管理局工作人员指南",
+          "text": "外科缝合线 - 安全性与性能路径的性能标准：行业与FDA工作人员指南",
+          "link": "/zh/fda/guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway"
+        },
+        {
+          "text": "选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use"
         },
         {
-          "text": "患者参与医疗器械临床研究,食品药品管理局工作人员和其他利益相关者设计和进行：行业指南",
+          "text": "患者参与医疗器械临床研究,FDA工作人员和其他利益相关者设计和进行：行业指南",
           "link": "/zh/fda/guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies"
         },
         {
-          "text": "用于治疗良性前列腺高血压 (BPH) 的设备的非临床和临床研究：行业与食品药品管理局工作人员指南",
+          "text": "用于治疗良性前列腺增生(BPH)器械的非临床和临床研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph"
         },
         {
-          "text": "专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions"
         },
         {
-          "text": "德诺级分类过程 (自动级 III 名称的评估)：行业与食品药品管理局工作人员指南",
+          "text": "德诺级分类过程 (自动级 III 名称的评估)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation"
         },
         {
-          "text": "对于De Novo分类申请的接受审查：行业与食品药品管理局工作人员指南",
+          "text": "对于De Novo分类申请的接受审查：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/acceptance-review-de-novo-classification-requests"
         },
         {
-          "text": "含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与食品药品管理局工作人员指南",
+          "text": "含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol"
         },
         {
-          "text": "或截肢患者的脑电脑接口设备 - 非临床测试和临床考虑：行业与食品药品管理局工作人员指南",
+          "text": "瘫痪或截肢患者植入式脑机接口(BCI)器械 - 非临床测试和临床考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing"
         },
         {
-          "text": "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与食品药品管理局工作人员指南",
+          "text": "周边血管除器件 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions"
         },
         {
-          "text": "医疗器械安全技术计划：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械安全技术计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/safer-technologies-program-medical-devices"
         },
         {
-          "text": "鼠胚胎测试辅助生殖技术设备",
+          "text": "辅助生殖技术器械的小鼠胚胎试验",
           "link": "/zh/fda/guidance/mouse-embryo-assay-assisted-reproduction-technology-devices"
         },
         {
-          "text": "拉巴洛斯科普式电力缩器的产品标签：行业与食品药品管理局工作人员指南",
+          "text": "拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/product-labeling-laparoscopic-power-morcellators"
         },
         {
-          "text": "脊柱涂层系统 - 安全性和性能基础的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "脊柱涂层系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与食品药品管理局工作人员指南",
+          "text": "仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "微针制品的监管考虑：行业与食品药品管理局工作人员指南",
+          "text": "微针制品的监管考虑：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/regulatory-considerations-microneedling-products"
         },
         {
@@ -4428,67 +4428,67 @@ export default {
           "link": "/zh/fda/guidance/saline-silicone-gel-and-alternative-breast-implants"
         },
         {
-          "text": "无需过分使用的血糖检测系统：行业与食品药品管理局工作人员指南",
+          "text": "无需过分使用的血糖检测系统：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/self-monitoring-blood-glucose-test-systems-over-counter-use"
         },
         {
-          "text": "处方医疗保健处使用的血糖监测测试系统：行业与食品药品管理局工作人员指南",
+          "text": "处方医疗保健处使用的血糖监测测试系统：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/blood-glucose-monitoring-test-systems-prescription-point-care-use"
         },
         {
-          "text": "乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与食品药品管理局工作人员指南",
+          "text": "乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication"
         },
         {
-          "text": "认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与食品药品管理局工作人员指南",
+          "text": "认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与FDA工作人员指南",
           "link": "/zh/fda/guidance/accreditation-scheme-conformity-assessment-asca-pilot-program"
         },
         {
-          "text": "医疗电气设备,医疗电气系统和实验室医疗器械基本安全和基本性能 -标准 标准 认证符合性评估计划 (ASCA) 试点计划的具体信息：行业、认...",
-          "link": "/zh/fda/guidance/basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and"
-        },
-        {
-          "text": "医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与食品药品管理局工作人员指南",
+          "text": "医疗器械生物兼容性测试 - 标准标准 认证标准评估试点计划 (ASCA) 具体信息：行业、认可机构、检测实验室与FDA工作人员指南",
           "link": "/zh/fda/guidance/biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme"
         },
         {
-          "text": "记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与食品药品管理局工作人员指南",
+          "text": "医用电气设备、医用电气系统和实验室医疗器械的基本安全和基本性能 - 认证符合性评估计划(ASCA)试点计划的具体信息：行业、认可机构、检测...",
+          "link": "/zh/fda/guidance/basic-safety-and-essential-performance-medical-electrical-equipment-medical-electrical-systems-and"
+        },
+        {
+          "text": "记录目的皮肤电极 - 安全性和性能标准的性能基础路径：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与食品药品管理局工作人员指南",
+          "text": "传统的Foley管 - 基于安全与性能路径的性能标准的路径：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "前列腺组织摘除设备的临床研究：行业与食品药品管理局工作人员指南",
+          "text": "前列腺组织消融器械的临床研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-investigations-prostate-tissue-ablation-devices"
         },
         {
-          "text": "电气设备和放射性健康中心 (CDRH) 诉讼程序:关于517A的问题和答案：行业与食品药品管理局工作人员指南",
+          "text": "器械和放射卫生中心(CDRH)申诉流程：关于517A条的问答：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a"
         },
         {
-          "text": "上市前通知 (510(k)) 关于一般外科电脑设备的申请：行业与食品药品管理局工作人员指南",
+          "text": "普通外科电外科器械上市前通知(510(k))提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery"
         },
         {
-          "text": "骨 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "骨 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/bone-anchors-premarket-notification-510k-submissions"
         },
         {
-          "text": "申请研究的双重510 ((k) 和CLIA豁免建议：行业与食品药品管理局工作人员指南",
+          "text": "申请研究的双重510 ((k) 和CLIA豁免建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recommendations-dual-510k-and-clia-waiver-application-studies"
         },
         {
-          "text": "在上市前提交的非临床位性能测试信息中建议内容和格式：行业与食品药品管理局工作人员指南",
+          "text": "在上市前提交的非临床位性能测试信息中建议内容和格式：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket"
         },
         {
-          "text": "批准前市场批准申请的年度报告：行业与食品药品管理局工作人员指南",
+          "text": "批准前市场批准申请的年度报告：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/annual-reports-approved-premarket-approval-applications-pma"
         },
         {
-          "text": "对于市场前批准申请 (PMA) 的接受和提交审查：行业与食品药品管理局工作人员指南",
+          "text": "对于市场前批准申请 (PMA) 的接受和提交审查：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/acceptance-and-filing-reviews-premarket-approval-applications-pmas"
         },
         {
@@ -4496,59 +4496,59 @@ export default {
           "link": "/zh/fda/guidance/real-time-premarket-approval-application-pma-supplements"
         },
         {
-          "text": "关于生产方法或工艺变化的30天通知,135天的上市前许可补充剂和75天的人道主义设备豁免补充剂：行业与FDA工作人员指南",
+          "text": "关于生产方法或工艺变更的30天通知、135天上市前批准(PMA)补充申请和75天人道主义器械豁免(HDE)补充申请：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption"
         },
         {
-          "text": "膜内,电线和膜配送系统 - 标签考虑：行业与食品药品管理局工作人员指南",
+          "text": "膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations"
         },
         {
-          "text": "冠状病毒,外围和神经血管导线 - 性能测试和建议标签：行业与食品药品管理局工作人员指南",
+          "text": "冠状动脉、外周和神经血管导丝 - 性能测试和推荐标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling"
         },
         {
-          "text": "基于安全性和性能的路径：行业与食品药品管理局指南",
+          "text": "基于安全性和性能的路径：行业与FDA指南",
           "link": "/zh/fda/guidance/safety-and-performance-based-pathway"
         },
         {
-          "text": "简称510 (k) 计划：行业与食品药品管理局工作人员指南",
+          "text": "简称510 (k) 计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/abbreviated-510k-program"
         },
         {
-          "text": "特别510 (k) 计划：行业与食品药品管理局工作人员指南",
+          "text": "特别510 (k) 计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/special-510k-program"
         },
         {
-          "text": "人道主义设备豁免计划：行业与食品药品管理局工作人员指南",
+          "text": "人道主义器械豁免计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/humanitarian-device-exemption-hde-program"
         },
         {
-          "text": "在医疗器械上市前许可,De Novo分类和人道主义设备豁免中,考虑对利风险确定时的不确定性：行业与食品药品管理局工作人员指南",
+          "text": "在医疗器械上市前批准、De Novo分类和人道主义器械豁免中受益-风险评估时考量不确定性：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de"
         },
         {
-          "text": "代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码 代码：...",
+          "text": "医疗器械上市前批准和De Novo分类中受益-风险评估考量因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de"
         },
         {
-          "text": "金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与食品药品管理局工作人员指南",
+          "text": "金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions"
         },
         {
-          "text": "实验设备豁免 (IDE) 临床试验期间现场案例演讲:机构审查委员会,工业,临床调查人员和食品药品管理局工作人员的指导",
+          "text": "研究用器械豁免(IDE)临床试验期间的实况病例演示：机构审查委员会、行业、临床研究者与FDA工作人员指南",
           "link": "/zh/fda/guidance/live-case-presentations-during-investigational-device-exemption-ide-clinical-trials"
         },
         {
-          "text": "使用动物研究评估器官保护设备：行业与食品药品管理局工作人员指南",
+          "text": "利用动物研究评估器官保存器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/utilizing-animal-studies-evaluate-organ-preservation-devices"
         },
         {
-          "text": "果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果...",
+          "text": "骨科器械用超高分子量聚乙烯(UHMWPE)表征：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices"
         },
         {
-          "text": "含有动物来源材料的医疗器械 (除了体诊断设备)：行业与食品药品管理局工作人员指南",
+          "text": "含有动物来源材料的医疗器械(体外诊断器械除外)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices"
         },
         {
@@ -4556,135 +4556,135 @@ export default {
           "link": "/zh/fda/guidance/least-burdensome-provisions-concept-and-principles"
         },
         {
-          "text": "抗微生物药物和抗微生物敏感性测试设备的协调开发：行业与食品药品管理局工作人员指南",
+          "text": "抗菌药物和抗菌药敏试验器械的协调开发：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices"
         },
         {
-          "text": "制造场所变更补充剂:内容和提交：行业与食品药品管理局工作人员指南",
+          "text": "制造场所变更补充申请:内容和提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/manufacturing-site-change-supplements-content-and-submission"
         },
         {
-          "text": "在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与食品药品管理局工作人员指南",
+          "text": "在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k"
         },
         {
-          "text": "含素的医疗器械和组合产品:标签和安全测试的建议：行业与食品药品管理局工作人员指南",
+          "text": "含素的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety"
         },
         {
-          "text": "医疗器械前销售的自愿共识标准的适当使用：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械前销售的自愿共识标准的适当使用：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices"
         },
         {
-          "text": "公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与食品药品管理局工作人员指南",
+          "text": "公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与FDA工作人员指南",
           "link": "/zh/fda/guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro"
         },
         {
-          "text": "接受临床数据支持医疗器械申请和提交:常见问题：行业与食品药品管理局工作人员指南",
+          "text": "接受临床数据支持医疗器械申请和提交:常见问题：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked"
         },
         {
-          "text": "添加剂制造医疗器械的技术考虑因素：行业与食品药品管理局工作人员指南",
+          "text": "添加剂制造医疗器械的技术考虑因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-considerations-additive-manufactured-medical-devices"
         },
         {
-          "text": "医疗保险和医疗补助服务中心 (CMS) 提供覆盖决策的研究设备豁免 (IDE) 设备的FDA分类:赞助商,临床调查人员,工业,机构审查委员...",
+          "text": "FDA对研究用器械豁免(IDE)器械的分类以协助医疗保险和医疗补助服务中心(CMS)作出覆盖决策：申办者、临床研究者、行业、机构审查委员会...",
           "link": "/zh/fda/guidance/fda-categorization-investigational-device-exemption-ide-devices-assist-centers-medicare-and-medicaid"
         },
         {
-          "text": "儿童X射线成像设备上市前通知：行业与食品药品管理局工作人员指南",
+          "text": "X射线成像器械上市前通知中的儿科信息：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/pediatric-information-x-ray-imaging-device-premarket-notifications"
         },
         {
-          "text": "某些超声波外科吸尘器的产品标签：行业与食品药品管理局工作人员指南",
+          "text": "某些超声波外科吸尘器的产品标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/product-labeling-certain-ultrasonic-surgical-aspirator-devices"
         },
         {
-          "text": "决定何时提交510k) 对于已有的设备的更改：行业与食品药品管理局工作人员指南",
+          "text": "决定何时就现有器械的变更提交510(k)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/deciding-when-submit-510k-change-existing-device"
         },
         {
-          "text": "建立人类瘤病毒检测或检测和区分的内置诊断设备的性能特性：行业与食品药品管理局工作人员指南",
+          "text": "确定人乳头瘤病毒检测或检测和分型用体外诊断器械的性能特性：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and-0"
         },
         {
-          "text": "在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与食品药品管理局工作人员指南",
+          "text": "在医疗器械临床研究中评估和报告年龄,种族和种族特定数据：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/evaluation-and-reporting-age-race-and-ethnicity-specific-data-medical-device-clinical-studies"
         },
         {
-          "text": "医疗器械咨询委员会会议程序：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械咨询委员会会议程序：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/procedures-meetings-medical-devices-advisory-committee"
         },
         {
-          "text": "医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和食品药品管理局工作人员的指导",
+          "text": "医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和FDA工作人员的指导",
           "link": "/zh/fda/guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device"
         },
         {
-          "text": "医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and"
         },
         {
-          "text": "通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与食品药品管理局工作人员指南",
+          "text": "通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible"
         },
         {
-          "text": "针对疾病进展和临床结果的神经系统的研究设备豁免的临床考虑：行业与食品药品管理局工作人员指南",
+          "text": "针对疾病进展和临床结局的神经系统器械研究用器械豁免(IDE)临床考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting"
         },
         {
-          "text": "菌的永久性管植入物标签：行业与食品药品管理局工作人员指南",
+          "text": "菌的永久性管植入物标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization"
         },
         {
-          "text": "报告医疗器械提交的计算建模研究：行业与食品药品管理局工作人员指南",
+          "text": "报告医疗器械提交的计算建模研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/reporting-computational-modeling-studies-medical-device-submissions"
         },
         {
-          "text": "关于固体X射线成像设备提交510k指南：行业与食品药品管理局工作人员指南",
+          "text": "固态X射线成像器械510(k)提交指南：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/guidance-submission-510ks-solid-state-x-ray-imaging-devices"
         },
         {
-          "text": "上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与食品药品管理局工作人员指南",
+          "text": "上市前通知 (510(k)) 关于一般手术双极电脑器具密封器的申请：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-bipolar-electrosurgical-vessel-sealers-general-surgery"
         },
         {
-          "text": "适应性设计用于医疗器械临床研究：行业与食品药品管理局工作人员指南",
+          "text": "适应性设计用于医疗器械临床研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/adaptive-designs-medical-device-clinical-studies"
         },
         {
-          "text": "利用现有临床数据将其用于儿童医疗器械的使用：行业与食品药品管理局工作人员指南",
+          "text": "利用现有临床数据将其用于儿童医疗器械的使用：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/leveraging-existing-clinical-data-extrapolation-pediatric-uses-medical-devices"
         },
         {
-          "text": "数字病理整体幻灯片成像设备的技术性能评估：行业与食品药品管理局工作人员指南",
+          "text": "数字病理全切片成像器械的技术性能评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-performance-assessment-digital-pathology-whole-slide-imaging-devices"
         },
         {
-          "text": "放射生物计量医疗反措施设备：行业与食品药品管理局工作人员指南",
+          "text": "放射生物剂量测定医学对策器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/radiation-biodosimetry-medical-countermeasure-devices"
         },
         {
-          "text": "对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与食品药品管理局工作人员指南",
+          "text": "对于多配置被动医疗器械,磁共振环境中的射频诱导加热评估：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration"
         },
         {
-          "text": "医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械和临床试验设计,用于治疗或改善菌感染的指的外观：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-devices-and-clinical-trial-design-treatment-or-improvement-appearance-fungally-infected"
         },
         {
-          "text": "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与食品药品管理局工作人员指南",
+          "text": "关于拉莫特里金和尼萨米德试剂的预销通知的建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recommendations-premarket-notifications-lamotrigine-and-zonisamide-assays"
         },
         {
-          "text": "植入式最小入侵性血瘤手术设备 (MIGS) 的前市场研究：行业与食品药品管理局工作人员指南",
+          "text": "植入式微创青光眼手术(MIGS)器械的上市前研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-studies-implantable-minimally-invasive-glaucoma-surgical-migs-devices"
         },
         {
-          "text": "关于卫生保健环境中使用的服装的上市前通知要求：行业与食品药品管理局工作人员指南",
+          "text": "关于卫生保健环境中使用的服装的上市前通知要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-notification-requirements-concerning-gowns-intended-use-health-care-settings"
         },
         {
-          "text": "选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与食品药品管理局工作人员指南",
+          "text": "选择非临床工程测试更新和内血管和相关输送系统的建议标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/select-updates-non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and"
         },
         {
@@ -4692,19 +4692,19 @@ export default {
           "link": "/zh/fda/guidance/endotoxin-testing-recommendations-single-use-intraocular-ophthalmic-devices"
         },
         {
-          "text": "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与食品药品管理局工作人员指南",
+          "text": "早期生长反应1 (EGR1) 基因光性现场混合化 (FISH) 测试系统的缩写510k的内容和格式：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/content-and-format-abbreviated-510ks-early-growth-response-1-egr1-gene-fluorescence-situ"
         },
         {
-          "text": "产品前销售和后销售数据收集的平衡：行业与食品药品管理局工作人员指南",
+          "text": "产品前销售和后销售数据收集的平衡：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/balancing-premarket-and-postmarket-data-collection-devices-subject-premarket-approval"
         },
         {
-          "text": "医疗保健环境中医疗器械的重工:验证方法和标签：行业与食品药品管理局工作人员指南",
+          "text": "医疗保健环境中医疗器械的重工:验证方法和标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling"
         },
         {
-          "text": "为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与食品药品管理局工作人员指南",
+          "text": "为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral"
         },
         {
@@ -4712,35 +4712,35 @@ export default {
           "link": "/zh/fda/guidance/infusion-pumps-total-product-life-cycle"
         },
         {
-          "text": "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与食品药品管理局工作人员指南",
+          "text": "标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural"
         },
         {
-          "text": "设计设计方法:为家庭使用的 设备：行业与食品药品管理局工作人员指南",
+          "text": "家用器械设计考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/design-considerations-devices-intended-home-use"
         },
         {
-          "text": "具有组合功能的分子诊断 仪器：行业与食品药品管理局工作人员指南",
+          "text": "具有组合功能的分子诊断 仪器：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/molecular-diagnostic-instruments-combined-functions"
         },
         {
-          "text": "专用设备豁免：行业与食品药品管理局工作人员指南",
+          "text": "定制器械豁免：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/custom-device-exemption"
         },
         {
-          "text": "美国食品药品管理局 (FDA) 关于研究设备豁免的决定 临床调查:赞助商,临床调查人员,机构审查委员会和食品药品管理局工作人员的指导",
+          "text": "FDA关于研究用器械豁免临床研究的决定：申办者、临床研究者、机构审查委员会与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-decisions-investigational-device-exemption-clinical-investigations"
         },
         {
-          "text": "在\"维特罗伴侣\"诊断设备中：行业与食品药品管理局工作人员指南",
+          "text": "体外伴随诊断器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/in-vitro-companion-diagnostic-devices"
         },
         {
-          "text": "项目:在上市前通知中评估 等效性 [510(k]：行业与食品药品管理局工作人员指南",
+          "text": "项目:在上市前通知中评估 等效性 [510(k]：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k"
         },
         {
-          "text": "磁共振诊断设备的重大 风险调查标准：行业与食品药品管理局工作人员指南",
+          "text": "磁共振诊断器械重大风险研究标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/criteria-significant-risk-investigations-magnetic-resonance-diagnostic-devices-guidance-industry-and"
         },
         {
@@ -4764,47 +4764,47 @@ export default {
           "link": "/zh/fda/guidance/design-considerations-pivotal-clinical-investigations-medical-devices"
         },
         {
-          "text": "早期可行性医疗器械临床研究的研究设备豁免 (IDEs),包括人类研究中的某些首次 (FIH)：行业与食品药品管理局工作人员指南",
+          "text": "早期可行性医疗器械临床研究的研究用器械豁免(IDE)，含某些首次人体(FIH)研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/investigational-device-exemptions-ides-early-feasibility-medical-device-clinical-studies-including"
         },
         {
-          "text": "试验在内体诊断设备 的迁移研究：行业与FDA工作人员指南",
+          "text": "体外诊断器械的检测方法迁移研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/assay-migration-studies-in-vitro-diagnostic-devices"
         },
         {
-          "text": "医疗器械分类产品代码：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械分类产品代码：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff"
         },
         {
-          "text": "确定对虫病菌抗体 检测的直体诊断设备的性能特性：行业与FDA工作人员指南",
+          "text": "确定伯氏疏螺旋体抗体检测用体外诊断器械的性能特性：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia"
         },
         {
-          "text": "视网膜假肢的检查设备豁免 (IDE) 指南：行业与FDA工作人员指南",
+          "text": "视网膜假肢的研究用器械豁免 (IDE) 指南：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/investigational-device-exemption-ide-guidance-retinal-prostheses"
         },
         {
-          "text": "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与食品药品管理局工作人员指南",
+          "text": "脉冲氧化仪 - 预 市场通知提交 [510(k) 项]：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug"
         },
         {
-          "text": "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与食品药品管理局工作人员指南",
+          "text": "临床研究设计用于治疗前 կոչ的外科摘除器件：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and"
         },
         {
-          "text": "关于人工胰腺装置系统的研究 豁免和预销售许可申请 (PMA) 的内容：行业与食品药品管理局工作人员指南",
+          "text": "人工胰腺装置系统的研究用器械豁免(IDE)和上市前批准(PMA)申请内容：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial"
         },
         {
-          "text": "针对尿液不的治疗指 的设备的临床研究：行业与FDA工作人员指南",
+          "text": "用于尿失禁治疗的器械临床研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda"
         },
         {
-          "text": "血兰塞标签：行业与食品药品管理局工作人员指南",
+          "text": "血兰塞标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff"
         },
         {
-          "text": "接触镜头护理产品标 ：行业与食品药品管理局工作人员指南",
+          "text": "接触镜头护理产品标 ：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/contact-lens-care-products-labeling"
         },
         {
@@ -4820,7 +4820,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version"
         },
         {
-          "text": "适用于产品的产品,可 (以) 预销售批准 (PMA) 的变更 - PMA补充决策过程：行业与FDA工作人员指南",
+          "text": "适用上市前批准(PMA)器械的变更 - PMA补充申请决策流程：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process"
         },
         {
@@ -4832,15 +4832,15 @@ export default {
           "link": "/zh/fda/guidance/intravascular-administration-sets-premarket-notification-submissions-510k"
         },
         {
-          "text": "对于夜间家庭血分析所指向的设备的调查设备豁免 (IDE)：行业与FDA工作人员指南",
+          "text": "用于夜间家庭血液透析器械的研究用器械豁免(IDE)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis"
         },
         {
-          "text": "准备和审查对整体人工盘 (Total Artificial Discs) 的检查设备豁免申请：行业与FDA工作人员指南",
+          "text": "准备和审查对整体人工盘 (Total Artificial Discs) 的研究用器械豁免申请：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs"
         },
         {
-          "text": "冠状病毒和状体保护 (冠状病毒) 设备 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南",
+          "text": "冠状动脉和颈动脉栓子保护器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions"
         },
         {
@@ -4860,11 +4860,11 @@ export default {
           "link": "/zh/fda/guidance/commercially-distributed-analyte-specific-reagents-asrs-frequently-asked-questions"
         },
         {
-          "text": "单个提交单个设备或多个 标示的捆绑：行业与FDA工作人员指南",
+          "text": "在单个提交中捆绑多个器械或多个适应症：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/bundling-multiple-devices-or-multiple-indications-single-submission"
         },
         {
-          "text": "对于神经瘤外科设备的 (Neurothrombectomy) 前临床和临床研究：行业与FDA工作人员指南",
+          "text": "神经血栓切除器械的临床前和临床研究：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/pre-clinical-and-clinical-studies-neurothrombectomy-devices"
         },
         {
@@ -4876,7 +4876,7 @@ export default {
           "link": "/zh/fda/guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions"
         },
         {
-          "text": "关于使用非个人可识别的遗留人类样本进行内置诊断设备研究的信息同意指导: 赞助商,机构审查ritionvoj,食品药品管理局工作人员的指导",
+          "text": "使用非个人可识别的剩余人类样本进行体外诊断器械研究的知情同意指南：申办者、机构审查委员会与FDA工作人员指南",
           "link": "/zh/fda/guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not"
         },
         {
@@ -4924,11 +4924,11 @@ export default {
           "link": "/zh/fda/guidance/surgical-masks-premarket-notification-510k-submissions"
         },
         {
-          "text": "产业和FDA工作人员的指导:声折媒体化设备 - 上市前通知 [510(k) ] 提交",
+          "text": "声带内移器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k"
         },
         {
-          "text": "预销售通知 [510(k) 化学指标的申请：行业与FDA工作人员指南",
+          "text": "化学指示剂上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff"
         },
         {
@@ -4936,15 +4936,15 @@ export default {
           "link": "/zh/fda/guidance/quality-system-information-certain-premarket-application-reviews"
         },
         {
-          "text": "确定510(k设备的预期使用 - CDRH人员的指导 (更新至K98-1)",
+          "text": "510(k)器械预期用途的确定 - CDRH工作人员指南(更新至K98-1)",
           "link": "/zh/fda/guidance/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1"
         },
         {
-          "text": "腹和/或骨盆手术使用可吸收的粘合屏障设备的指南：行业指南",
+          "text": "用于腹部和/或盆腔手术的可吸收防粘连屏障器械指南：行业指南",
           "link": "/zh/fda/guidance/guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry"
         },
         {
-          "text": "关于第三方和医院处理器重工和重复使用一次性设备的常见问题: 工业和FDA工作人员的最终指导",
+          "text": "第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题：行业与FDA工作人员最终指南",
           "link": "/zh/fda/guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital"
         },
         {
@@ -4960,11 +4960,11 @@ export default {
           "link": "/zh/fda/guidance/content-investigational-device-exemptions-solutions-hypothermic-flushing-transport-and-storage"
         },
         {
-          "text": "杜拉替代设备的指南：行业指南",
+          "text": "硬脑膜替代器械指南：行业指南",
           "link": "/zh/fda/guidance/guidance-document-dura-substitute-devices-guidance-industry"
         },
         {
-          "text": "关于向光子发射疗源提交预销售通知的指南：行业指南",
+          "text": "光子发射近距离放射治疗源上市前通知提交指南：行业指南",
           "link": "/zh/fda/guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry"
         },
         {
@@ -4980,7 +4980,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-manufacturers-seeking-marketing-clearance-ear-nose-and-throat-endoscope-sheaths-used"
         },
         {
-          "text": "关于氧化物输送设备,氧化物分析仪和二氧化物分析仪以及FDA审查人员的上市前通知提交指南：行业指南",
+          "text": "一氧化氮输送装置、一氧化氮分析仪和二氧化氮分析仪上市前通知提交指南：行业与FDA审评人员指南",
           "link": "/zh/fda/guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide"
         },
         {
@@ -4992,7 +4992,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-document-preparation-ides-spinal-systems-guidance-industry-andor-fda-staff"
         },
         {
-          "text": "预销售通知的内容和形式 [510(k) ] 液化消毒剂/高水平消毒剂的申请：行业与FDA审评人员指南",
+          "text": "液体化学灭菌剂/高水平消毒剂上市前通知[510(k)]提交的内容和格式：行业与FDA审评人员指南",
           "link": "/zh/fda/guidance/content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level"
         },
         {
@@ -5016,7 +5016,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-510k-submissions-keratoprostheses-guidance-industry-and-fda-reviewersstaff"
         },
         {
-          "text": "皮肤磨损设备的指南：行业指南",
+          "text": "皮肤磨削器械指南：行业指南",
           "link": "/zh/fda/guidance/guidance-dermabrasion-devices-guidance-industry"
         },
         {
@@ -5028,7 +5028,7 @@ export default {
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-testing-skin-sensitization-chemicals-natural-rubber-products"
         },
         {
-          "text": "关于发射计算机镜设备和配件 (SPECT和 PET) 和核镜系统的上市前通知提交指南：行业指南",
+          "text": "发射计算机断层扫描器械和附件(SPECT和PET)及核断层扫描系统上市前通知提交指南：行业指南",
           "link": "/zh/fda/guidance/guidance-submission-premarket-notifications-emission-computed-tomography-devices-and-accessories"
         },
         {
@@ -5096,7 +5096,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry"
         },
         {
-          "text": "对于二级设备免于上市前通知,行业指导和CDRH人员的程序",
+          "text": "II类器械免除上市前通知的程序：行业与CDRH工作人员指南",
           "link": "/zh/fda/guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff"
         },
         {
@@ -5120,15 +5120,15 @@ export default {
           "link": "/zh/fda/guidance/510k-information-needed-hydroxyapatite-coated-orthopedic-implants"
         },
         {
-          "text": "关于断系统设备上市前通知的第三方审查指南 (510(k))",
+          "text": "超声乳化碎核系统器械上市前通知510(k)第三方审查指南",
           "link": "/zh/fda/guidance/third-party-review-guidance-phacofragmentation-system-device-premarket-notification-510k"
         },
         {
-          "text": "关于玻璃吸管和切割设备上市前通知的第三方审查指南 (510(k))",
+          "text": "玻璃体抽吸和切割器械上市前通知510(k)第三方审查指南",
           "link": "/zh/fda/guidance/third-party-review-guidance-vitreous-aspiration-and-cutting-device-premarket-notification-510k"
         },
         {
-          "text": "检查信息通常在检查设备豁免 (IDE) 申请中提交的信息检查清单 [豁免]",
+          "text": "屈光手术激光器研究用器械豁免(IDE)申请通常提交的信息清单[准分子]",
           "link": "/zh/fda/guidance/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive"
         },
         {
@@ -5152,16 +5152,16 @@ export default {
           "link": "/zh/fda/guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k"
         },
         {
-          "text": "准备上市前通知的指南 [510(k) ]机械和动力轮椅和动力三轮车辆的应用",
-          "link": "/zh/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered"
-        },
-        {
-          "text": "准备上市前通知的指南 [510(K) ]运动设备申请",
+          "text": "运动设备上市前通知[510(K)]申请准备指南",
           "link": "/zh/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment"
         },
         {
-          "text": "上市前通知的准备指南文件 [510(k) ]供供热和冷却设备的应用",
+          "text": "加热和冷却器械上市前通知[510(k)]申请准备指南",
           "link": "/zh/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices"
+        },
+        {
+          "text": "准备上市前通知的指南 [510(k) ]机械和动力轮椅和动力三轮车辆的应用",
+          "link": "/zh/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered"
         },
         {
           "text": "基于新材料 (非乳) 制成的男用安全套的测试指南",
@@ -5188,7 +5188,7 @@ export default {
           "link": "/zh/fda/guidance/510k-checklist-sterile-lubricating-jelly-used-transurethral-surgical-instruments"
         },
         {
-          "text": "对于常规和抗微生物片片类的预销售通知内容的指导",
+          "text": "常规和抗菌弗利导尿管上市前通知内容指南",
           "link": "/zh/fda/guidance/guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters"
         },
         {
@@ -5224,7 +5224,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-content-premarket-notification-510k-submissions-piston-syringes"
         },
         {
-          "text": "关于预销售通知的指南 510 ((k) 适用于医疗保健设施的灭菌剂",
+          "text": "医疗保健设施用灭菌器上市前通知510(k)指南",
           "link": "/zh/fda/guidance/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities"
         },
         {
@@ -5236,11 +5236,11 @@ export default {
           "link": "/zh/fda/guidance/guidance-content-premarket-notifications-ureteral-stents"
         },
         {
-          "text": "检查标准 检测对巴尔沃病毒B19抗体的内置诊断设备的前销售批准",
+          "text": "检查标准 检测对巴尔沃病毒B19抗体的体外诊断器械的前销售批准",
           "link": "/zh/fda/guidance/review-criteria-premarket-approval-in-vitro-diagnostic-devices-detection-antibodies-parvovirus-b19"
         },
         {
-          "text": "设备标签指南#G91-1 (蓝色书记)",
+          "text": "器械标签指南#G91-1(蓝皮书备忘录)",
           "link": "/zh/fda/guidance/device-labeling-guidance-g91-1-blue-book-memo"
         },
         {
@@ -5274,7 +5274,7 @@ export default {
           "link": "/zh/fda/guidance/remanufacturing"
         },
         {
-          "text": "促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与食品药品管理局工作人员指南",
+          "text": "促进医疗器械的改进:FDA活动和与自愿改进计划的参与：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fostering-medical-device-improvement-fda-activities-and-engagement-voluntary-improvement-program"
         },
         {
@@ -5286,11 +5286,11 @@ export default {
           "link": "/zh/fda/guidance/inspection-and-field-testing-radiation-emitting-electronic-products-attachment"
         },
         {
-          "text": "关于第三方和医院处理器重复处理和重复使用一次性设备的常见问题 - 三个额外的问题,FDA工作人员,第三方和医院处理器：行业指南",
+          "text": "第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题 - 三个附加问题：行业、FDA工作人员、第三方和医院再处理器指南",
           "link": "/zh/fda/guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0"
         },
         {
-          "text": "标签建议:第三方和医院对一次性使用设备进行回收处理:工业和FDA的最终指导",
+          "text": "第三方和医院再处理的一次性使用器械的标签建议：行业与FDA最终指南",
           "link": "/zh/fda/guidance/labeling-recommendations-single-use-devices-reprocessed-third-parties-and-hospitals"
         },
         {
@@ -5304,7 +5304,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与食品药品管理局工作人员指南",
+          "text": "在第564条宣布紧急情况期间,对体外诊断测试的执法政策的考虑：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency"
         },
         {
@@ -5312,23 +5312,23 @@ export default {
           "link": "/zh/fda/guidance/replacement-reagent-and-instrument-family-policy-in-vitro-diagnostic-devices"
         },
         {
-          "text": "临床实验室改进的建议1988年 (CLIA) 免除在室内诊断设备制造商的申请：行业与食品药品管理局工作人员指南",
+          "text": "1988年临床实验室改进修正案(CLIA)体外诊断器械制造商豁免申请的建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recommendations-clinical-laboratory-improvement-amendments-1988-clia-waiver-applications"
         },
         {
-          "text": "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与食品药品管理局工作人员指南",
+          "text": "基于体诊断 (IVD) 的下一代测序 (NGS) 的设计,开发和分析验证的考虑,用于帮助诊断疑似菌根病：利益相关方与FDA工作人员指南",
           "link": "/zh/fda/guidance/considerations-design-development-and-analytical-validation-next-generation-sequencing-ngs-based"
         },
         {
-          "text": "关于CLI类别的行政程序：行业与食品药品管理局工作人员指南",
+          "text": "关于CLI类别的行政程序：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/administrative-procedures-clia-categorization"
         },
         {
-          "text": "基于核酸的诊断设备中高度多元化的微生物/医学反措施：行业与食品药品管理局工作人员指南",
+          "text": "高通量多重微生物/医学对策体外核酸诊断器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/highly-multiplexed-microbiologicalmedical-countermeasure-in-vitro-nucleic-acid-based-diagnostic-devices"
         },
         {
-          "text": "建立用于检测或检测和 流感病毒的内置诊断设备的性能特性：行业与FDA工作人员指南",
+          "text": "确定流感病毒检测或检测和分型用体外诊断器械的性能特性：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-or-detection-and"
         }
       ]
@@ -5338,39 +5338,39 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "全球独特设备识别数据库 (GUDID)：行业与食品药品管理局工作人员指南",
+          "text": "全球唯一器械标识数据库(GUDID)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/global-unique-device-identification-database-gudid"
         },
         {
-          "text": "诊断X射线设备制造商的辐射控制条例的澄清：行业与食品药品管理局工作人员指南",
+          "text": "诊断X射线设备制造商的辐射控制条例的澄清：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clarification-radiation-control-regulations-manufacturers-diagnostic-x-ray-equipment"
         },
         {
-          "text": "抗微生物敏感性测试系统设备 更新设备标签的断点：行业与食品药品管理局工作人员指南",
+          "text": "抗菌药敏试验(AST)系统器械 - 更新器械标签中的折点：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/antimicrobial-susceptibility-test-ast-system-devices-updating-breakpoints-device-labeling"
         },
         {
-          "text": "唯一设备识别:关于I类和非分类设备的合规日期,直接标记和某些设备的全球唯一设备识别数据库要求的政策：行业与食品药品管理局工作人员指南",
+          "text": "唯一器械标识：关于I类和未分类器械合规日期、直接标记及某些器械全球唯一器械标识数据库要求的政策：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/unique-device-identification-policy-regarding-compliance-dates-class-i-and-unclassified-devices"
         },
         {
-          "text": "内部使用的手术具和具 - 标签建议：行业与食品药品管理局工作人员指南",
+          "text": "内部使用的手术具和具 - 标签建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/surgical-staplers-and-staples-internal-use-labeling-recommendations"
         },
         {
-          "text": "唯一设备识别系统:唯一设备识别器 (UDI) 的形式和内容：行业与食品药品管理局工作人员指南",
+          "text": "唯一器械标识系统：唯一器械标识符(UDI)的形式和内容：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/unique-device-identification-system-form-and-content-unique-device-identifier-udi"
         },
         {
-          "text": "唯一的设备识别:便利套件：行业与食品药品管理局工作人员指南",
+          "text": "唯一器械标识：便利套件：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/unique-device-identification-convenience-kits"
         },
         {
-          "text": "唯一的设备识别:直接标记设备：行业与食品药品管理局工作人员指南",
+          "text": "唯一器械标识：器械直接标记：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/unique-device-identification-direct-marking-devices"
         },
         {
-          "text": "如何 帮助 孩子 了解 方式?：行业与食品药品管理局工作人员指南",
+          "text": "唯一器械标识符系统常见问题(第1卷)",
           "link": "/zh/fda/guidance/unique-device-identifier-system-frequently-asked-questions-vol-1"
         },
         {
@@ -5400,39 +5400,39 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "根据FD&C法第506J条,通知FDA关于设备生产永久停产或中断：行业与食品药品管理局工作人员指南",
+          "text": "根据FD&C法第506J条通知FDA器械生产的永久停产或中断：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/notifying-fda-permanent-discontinuance-or-interruption-manufacturing-device-under-section-506j-fdc"
         },
         {
-          "text": "制造商自愿故障总结报告 (VMSR) 计划：行业与食品药品管理局工作人员指南",
+          "text": "制造商自愿故障总结报告 (VMSR) 计划：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/voluntary-malfunction-summary-reporting-vmsr-program-manufacturers"
         },
         {
-          "text": "要求审查FDA不颁发某些设备出口证书的决定的程序：行业与食品药品管理局工作人员指南",
+          "text": "申请复审FDA不颁发某些器械出口证书决定的程序：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/process-request-review-fdas-decision-not-issue-certain-export-certificates-devices"
         },
         {
-          "text": "根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与食品药品管理局工作人员指南",
+          "text": "根据《联邦食品、药品和化妆品法案》第522条的市场后监督：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/postmarket-surveillance-under-section-522-federal-food-drug-and-cosmetic-act"
         },
         {
-          "text": "经过某些FDA检查设备机构后的非约束性反：行业与食品药品管理局工作人员指南",
+          "text": "FDA对器械生产机构特定检查后的非约束性反馈：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/nonbinding-feedback-after-certain-fda-inspections-device-establishments"
         },
         {
-          "text": "医疗器械的患者特定信息与患者分享：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械的患者特定信息与患者分享：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/manufacturers-sharing-patient-specific-information-medical-devices-patients-upon-request"
         },
         {
-          "text": "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与食品药品管理局工作人员指南",
+          "text": "发布上市后医疗器械新出现信号 (\"新出现信号\") 的公开通知：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/public-notification-emerging-postmarket-medical-device-signals-emerging-signals"
         },
         {
-          "text": "医疗器械报告：行业与食品药品管理局工作人员指南",
+          "text": "医疗器械报告：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/medical-device-reporting-manufacturers"
         },
         {
-          "text": "区分医疗器械提醒与医疗器械改进：行业与食品药品管理局工作人员指南",
+          "text": "区分医疗器械提醒与医疗器械改进：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/distinguishing-medical-device-recalls-medical-device-enhancements"
         },
         {
@@ -5444,7 +5444,7 @@ export default {
           "link": "/zh/fda/guidance/questions-and-answers-about-emdr-electronic-medical-device-reporting-guidance-industry-user"
         },
         {
-          "text": "专为手动使用的X射线 设备的辐射安全考虑因素",
+          "text": "手持式X射线设备的辐射安全考量",
           "link": "/zh/fda/guidance/radiation-safety-considerations-x-ray-equipment-designed-hand-held-use"
         },
         {
@@ -5506,7 +5506,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和食品药品管理局人员指南",
+          "text": "关于不良认证决定,证书暂停/撤销或患者和指导提供商通知命令的镜设施可申请的选择:镜设施和FDA人员指南",
           "link": "/zh/fda/guidance/appeal-options-available-mammography-facilities-concerning-adverse-accreditation-decisions"
         },
         {
@@ -5514,27 +5514,27 @@ export default {
           "link": "/zh/fda/guidance/acceptable-media-electronic-product-user-manuals"
         },
         {
-          "text": "激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与食品药品管理局工作人员指南",
-          "link": "/zh/fda/guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
-        },
-        {
-          "text": "工业和食品药品管理局工作人员的指南 - 组装仪器用于诊断X射线设备的指南",
+          "text": "诊断X射线设备组装指南：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment"
         },
         {
-          "text": "测量,水平和配列激光产品：行业与食品药品管理局工作人员指南",
+          "text": "激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与FDA工作人员指南",
+          "link": "/zh/fda/guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+        },
+        {
+          "text": "测量,水平和配列激光产品：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/surveying-leveling-and-alignment-laser-products"
         },
         {
-          "text": "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与食品药品管理局指南",
+          "text": "激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与FDA指南",
           "link": "/zh/fda/guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57"
         },
         {
-          "text": "关于某些光镜设备要求的政策澄清：行业与食品药品管理局工作人员指南",
+          "text": "某些透视设备要求的政策澄清：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-clarification-certain-fluoroscopic-equipment-requirements"
         },
         {
-          "text": "降低儿童玩具激光产品的风险：行业与食品药品管理局工作人员指南",
+          "text": "降低儿童玩具激光产品的风险：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/minimizing-risk-childrens-toy-laser-products"
         },
         {
@@ -5642,7 +5642,7 @@ export default {
           "link": "/zh/fda/guidance/exemption-reporting-and-record-keeping-requirements-certain-sunlamp-product-manufacturers"
         },
         {
-          "text": "医疗激光研究重大风险设备 (激光通告 31)",
+          "text": "研究用医疗激光重大风险器械(激光通告31)",
           "link": "/zh/fda/guidance/investigational-medical-laser-significant-risk-device-laser-notice-31"
         },
         {
@@ -5662,7 +5662,7 @@ export default {
           "link": "/zh/fda/guidance/lasers-manufactured-and-used-house-laser-notice-14"
         },
         {
-          "text": "激光设备的制造和认证 (激光设备的通知 13)",
+          "text": "激光套件的制造和认证(激光通告13)",
           "link": "/zh/fda/guidance/manufacture-and-certification-laser-kits-laser-notice-13"
         },
         {
@@ -5688,7 +5688,7 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "医疗器械临床试验中使用 的指南",
+          "text": "医疗器械临床试验中使用贝叶斯统计的指南",
           "link": "/zh/fda/guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials"
         },
         {
@@ -5702,43 +5702,43 @@ export default {
       ]
     },
     {
-      "text": "一般 / 其他 (21)",
+      "text": "综合 / 其他 (21)",
       "collapsed": true,
       "items": [
         {
-          "text": "整体产品生命周期中自愿患者偏好信息的集成：行业、食品药品管理局工作人员及其他相关方指南",
+          "text": "整体产品生命周期中自愿患者偏好信息的集成：行业、FDA工作人员及其他相关方指南",
           "link": "/zh/fda/guidance/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle"
         },
         {
-          "text": "医疗器械用户费 小企业资格和确定性：行业、食品药品管理局工作人员及外国政府指南",
+          "text": "医疗器械用户费 小企业资格和确定性：行业、FDA工作人员及外国政府指南",
           "link": "/zh/fda/guidance/medical-device-user-fee-small-business-qualification-and-determination"
         },
         {
-          "text": "治疗阿片类药物使用障碍的设备的临床考量：行业与食品药品管理局工作人员指南",
+          "text": "治疗阿片类药物使用障碍的器械临床考量：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-considerations-studies-devices-intended-treat-opioid-use-disorder"
         },
         {
-          "text": "参考\"食品,药品和化妆品法\"中的\"设备\"定义,指导,监管文件,通信和其他公共文件：行业与食品药品管理局工作人员指南",
+          "text": "在指南、监管文件、通信和其他公开文件中引用《联邦食品药品和化妆品法》中的\"器械\"定义：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/referencing-definition-device-federal-food-drug-and-cosmetic-act-guidance-regulatory-documents"
         },
         {
-          "text": "解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和食品药品管理局工作人员的指导",
+          "text": "解决公共卫生紧急情况的子病检测政策:实验室,商业制造商和FDA工作人员的指导",
           "link": "/zh/fda/guidance/policy-monkeypox-tests-address-public-health-emergency"
         },
         {
-          "text": "设备和放射性健康中心 (CDRH) 诉讼程序：行业与食品药品管理局工作人员指南",
+          "text": "器械和放射卫生中心(CDRH)申诉流程：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/center-devices-and-radiological-health-cdrh-appeals-processes"
         },
         {
-          "text": "承认和撤销自愿共识标准：行业与食品药品管理局工作人员指南",
+          "text": "自愿性协调标准的认可和撤销：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/recognition-and-withdrawal-voluntary-consensus-standards"
         },
         {
-          "text": "提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与食品药品管理局工作人员指南",
+          "text": "提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab"
         },
         {
-          "text": "植入用于血调分析的血液接入设备：行业与食品药品管理局工作人员指南",
+          "text": "血液透析植入式血管通路器械：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/implanted-blood-access-devices-hemodialysis"
         },
         {
@@ -5758,11 +5758,11 @@ export default {
           "link": "/zh/fda/guidance/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda"
         },
         {
-          "text": "1-设备产品线的综合年度报告 (1-CARD)：行业与CDRH审评人员指南",
+          "text": "1-器械产品线综合年度报告(1-CARD)：行业与CDRH审评人员指南",
           "link": "/zh/fda/guidance/1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers"
         },
         {
-          "text": "食品药品管理局动物产品数据库数据输入表",
+          "text": "FDA动物产品数据库数据输入表",
           "link": "/zh/fda/guidance/fda-animal-products-database-data-entry-form"
         },
         {
@@ -5770,7 +5770,7 @@ export default {
           "link": "/zh/fda/guidance/prospective-manufacturers-barrier-devices-used-during-oral-sex-std-protection"
         },
         {
-          "text": "关于宫细胞学设备的注意点",
+          "text": "宫颈细胞学器械注意要点",
           "link": "/zh/fda/guidance/points-consider-cervical-cytology-devices"
         },
         {
