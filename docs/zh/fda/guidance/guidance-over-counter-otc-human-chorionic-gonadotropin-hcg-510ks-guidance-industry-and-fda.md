@@ -125,7 +125,7 @@ WB 桑德斯公司
 10. 国家临床实验室标准委员会。
 测试产品。 NCCLS文件GP14-P,第9卷,第8号,1989年。
 11. CDRH H 评估安全和安全及
-《自用四氯丁二烯的有效性:关于上市前提交材料的指导意见》。
+《自用IVD的有效性:关于上市前提交材料的指导意见》。
 12. 关于制定医疗用户指导手册的建议
 家庭保健中使用的器械。
 美国食品药品监督管理局 FSH Follic Colluc Stiming Hormone Hormon hCG 人类Chorionic Gonadotropin IRP 国际参考准备 国际标准IVD 活性诊断LH LH Luteinizing Hormon NCLS 国家临床实验室标准委员会 OTC QC 质量控制 QC TH 甲型刺激激素CHECKLIST 指令:使用这个清单,预先提交供非处方使用的人的甲状腺腺激素/孕期测试的上市前提交材料。请在以下条目旁边的框中单击您在上市前通知中包含的条目。

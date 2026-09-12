@@ -45,7 +45,7 @@ PDF：https://www.fda.gov/media/92921/download
 (a) 识别。磁共振诊断器械用于一般诊断用途,展示反映空间分布和(或)反映核磁共振核心频率和分布的磁共振光谱的图像。
 也可产生从图像和/或光谱中得出的其他物理参数,包括氢-1(Q-Sub)成像、二三钠成像、氢-1光谱、氢-1光学、氢-1光学、氢-1光谱、氢-1光谱、氢-1光磷-31光谱学和化学转移成像(保留同步频率和空间信息)。
 (b) 分类:第二类。
-MRDDs是二级医疗器械,需要上市前通知和在营销前机构确定实质性等值。目前使用三种产品编码来确定这些器械:LNH - 核磁共振成像系统 LNI - 核磁共振光谱系统 MOS - 磁共振特殊油电源、计算机和软件、病人支助、和生理粘合器械。
+MRDDs是二级医疗器械,需要上市前通知和在营销前机构确定实质性等同。目前使用三种产品编码来确定这些器械:LNH - 核磁共振成像系统 LNI - 核磁共振光谱系统 MOS - 磁共振特殊油电源、计算机和软件、病人支助、和生理粘合器械。
 
 本指南文件适用于磁共振成像和磁共振光谱学系统的上市前通知,系统、部件和配件的修改,这样做可能会严重影响到多用途二氧化二氮的安全和有效性,并导致 takes Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Professional Profervations for appreportment before marketing before marketing. pression. 之前需要提交上市前通知
 本指南文件中的信息也适用于双式器械,如PET/MRI系统的MRI系统组件。
