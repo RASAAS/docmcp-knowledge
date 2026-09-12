@@ -107,7 +107,7 @@ IEC 62471:第一版与IEC 62471-5:第1版均定义与21 CFR 1040.10等效的基�
 
 [^2]: “演示激光产品”一词在21 CFR 1040.10(b)(13)下定义为“为演示、娱乐、广告展示或艺术构图目的而制造、设计、预期或推广的任何激光产品。”
 
-[^3]: 国际电工委员会（IEC）60825-1第3.0版：激光产品安全——第1部分：设备分类与要求
+[^3]: 国际电工委员会（IEC）60825-1第3.0版：激光产品安全——第1部分：器械分类与要求
 
 [^4]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56
 

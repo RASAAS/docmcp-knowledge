@@ -1,10 +1,10 @@
 ---
-title: "紧急使用氧气发电机和氧气设备的审查指南"
+title: "紧急使用氧气发电机和氧气器械的审查指南"
 description: "Review Guidelines for Oxygen Generators and Oxygen Equipment for Emergency Use"
 published: 1977-01-01
 ---
 
-# 紧急使用氧气发电机和氧气设备的审查指南
+# 紧急使用氧气发电机和氧气器械的审查指南
 
 **Review Guidelines for Oxygen Generators and Oxygen Equipment for Emergency Use**
 

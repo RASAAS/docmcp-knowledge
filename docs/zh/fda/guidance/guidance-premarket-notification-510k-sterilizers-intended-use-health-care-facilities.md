@@ -43,7 +43,7 @@ PDF：https://www.fda.gov/media/72458/download
 申请人在提交前的考虑
 9 EPA 认证 . 9 . .9 提及标准、做法、技术报告、准则和方法。
 标 标. 11 - 12
-1. 设备标识
+1. 器械标识
 2. 《信息手册》
 3. 《服务手册》
 12 - 12 - 14 消毒剂一般说明
@@ -64,7 +64,7 @@ PDF：https://www.fda.gov/media/72458/download
 3. 生物技术 和 等效时间 0 - 价值确定1/2周期 和 T 和 1 l k 和 1 i l 等效时间 0 - 价值确定 1/2 周期 和 T 和 1 k 1 等效时间 和. .
 - 27 .
 消除有毒工艺残留物
-处理的设备/材料 Q u a l i f f i c a t i o n 28-29
+处理的器械/材料 Q u a l i f f i c a t i o n 28-29
 1. - 我还没走呢,我还没走
 2. 处理 L i f e ~ e t e r r mi i n a t i o n
 3. 职能兼容性 . .
@@ -81,7 +81,7 @@ T h i s 文档不适用n o t 地址 t h e follosite:
 2. 仅使用i n t h e zlanufcctoring s s e t t i n g, e- 例如, i o n y i n g r a d i a ti i o n; 3 。
 e. e e c i a 1 s t e i z a t i o n process; 4 。
 c h e n i c a c 和 b i i o g i c a 指标;
-5. 用于以下用途的 s e p a r a te guide a v a i a b l e e y divisio: t h e d ; Ophalmic 设备/ ODE ;
+5. 用于以下用途的 s e p a r a te guide a v a i a b l e e y divisio: t h e d ; Ophalmic 器械/ ODE ;
 6. 采用 l q u i q i i d c k mi c a l s t e r i i z i n g 环境的 s s te r i i z i n g 环境。
 
 D e f i n i t i o s 生物负荷:在接触杀微生物剂过程之前自然产生的微生物污染器械。
@@ -98,7 +98,7 @@ D- 值( Dlo): 杀死90%的同质微生物所需的时间。 (一个对数循环)
 - 预先清洗:将外国物质,例如:有机或无机污染物,从医疗器械中除去到消毒、消毒或消毒过程,工艺残留物:绝育过程完成后仍留在医疗器械上的杀微生物剂或绝育的副产品。
 幽灵:一种生物(典型的细菌或真菌)的休眠状态,表明缺乏生物合成活动,呼吸系统活性减少。
 绝育:实现绝育的活性剂。
-禁欲:消除一切形式生命的绝对状态。从实际意义上讲,绝对不育是无法证明的。因此,当生物被消除、不活化、或被销毁,以致在标准媒体中无法检测到它们以前被发现扩散的标准媒体。
+禁欲:消除一切形式生命的绝对状态。从实际意义上讲,绝对无菌是无法证明的。因此,当生物被消除、不活化、或被销毁,以致在标准媒体中无法检测到它们以前被发现扩散的标准媒体。
 绝育保证水平:表明在绝育手术后幸存者概率的数值。
 例如,SAL的概率是接触消毒结扎离子过程后每百万个非消毒单位中就有一个的概率。
 绝育:完全消除或摧毁所有形式的生命,特别是微生物的行为或过程。
@@ -110,14 +110,14 @@ D- 值( Dlo): 杀死90%的同质微生物所需的时间。 (一个对数循环)
 
 ### C. 消毒剂分类 ~ 1 1
 - 联邦食品、药品和化妆品修正条例,或所谓的事先修正 d e v i c s s, w e r e c l a s s i f i e d 由FDA i n o f t h r e 监管 c l a s y i i e d y FD FD i n te nu o f t h r e er ruc c a s
-c a s e s s t a b b i s e e d e e y g e u l a t r y y o c r o t o a p i e d t o 设备 i n r d d r r t o 提供合理的 s s u r n c e 的 f y c t i v e e s s 。第一类设备为 u b j e c t o g ne e r a l c o n t r o l s a 定义 i n t h e act (r e f e r t o DSMA 指导 g e r r a l c o n t r o l s ) 。
+c a s e s s t a b b i s e e d e e y g e u l a t r y y o c r o t o a p i e d t o 器械 i n r d d r r t o 提供合理的 s s u r n c e 的 f y c t i v e e s s 。第一类器械为 u b j e c t o g ne e r a l c o n t r o l s a 定义 i n t h e act (r e f e r t o DSMA 指导 g e r r a l c o n t r o l s ) 。
 C l s I1 装置 r e s u b j e c t t o g ne r a l c o n r o l s 以及FDA颁布的任何性能标准。
 C r y , t h e a e 没有FDA的补给品 , n d r d s f r  t e r i i y e r s 。
 C l s I11 d e v i c e a r e s e y e r e b j e c t o 上市前批准。
 - 蒸气、电流等。c l a s i f i c a i e y i y e i y i y
 它们是1升C1 a s I1 d e v i c e s (e 21 CFR.880.68660, 880.6870和880.6880)。
-新的 t r a d i o n l 或更新的技术 s t e a m, d r y h e a t ,o e e y t h y l e en lxion s t r i i e r may . be claimed e q u i v a l e t h e c f i c r e l a t e d 分类设备。- 5 - t e r i i z e r y s i n g a d i f e r ne n t 技术,例如微波、等离子体等,a/ 索赔l s o f t h e c l a s s i f i d e v i c e s 或 t o e g l y 市场消毒剂(预先修正.). . .
-尽管各种技术可能具有一定的同等资格,FDA不禁止使用以下设备:f i n d i n g a s e r i i y y 等值的 i y 等值的 y y 等值的 y b s y 等值的, 和 t h s s.a C l a s s I11 设备。
+新的 t r a d i o n l 或更新的技术 s t e a m, d r y h e a t ,o e e y t h y l e en lxion s t r i i e r may . be claimed e q u i v a l e t h e c f i c r e l a t e d 分类器械。- 5 - t e r i i z e r y s i n g a d i f e r ne n t 技术,例如微波、等离子体等,a/ 索赔l s o f t h e c l a s s i f i d e v i c e s 或 t o e g l y 市场消毒剂(预先修正.). . .
+尽管各种技术可能具有一定的同等资格,FDA不禁止使用以下器械:f i n d i n g a s e r i i y y 等值的 i y 等值的 y y 等值的 y b s y 等值的, 和 t h s s.a C l a s s I11 器械。
 ### D. 相关监管机构
 美国环保局(EPA),根据《联邦e e g e e l a t e s l i q u i d 化学杀菌剂和 o t h e r ' microbicide 剂。
 a s te r i i a n t 使用 i e i e r , t h e , 可能作为 MEP 作为 MED r e e l e EPA 作为 FDA r e g e u l e y i i o o n s 。
@@ -171,7 +171,7 @@ s ub m i t t e r 产生一项n 义务 t o 遵守 a) 。文档t h e s t e r i l i
 
 F. 与《公约》有关
 申请人必须提交消毒剂的标签。标签说明该器械的预定用途、其操作特性和限制。这些因素对于确定该装置是否等同于其他合法销售的消毒剂至关重要。
-1. 设备标识
+1. 器械标识
 标记可包括识别资料、警告、使用指示或系统要求。为消毒剂(例如化学剂)使用的任何附属消毒剂提供标签。由环保局管制的化学制剂也要求按照环保局的条例进行强制性标签。
 2. 《信息手册》
 提交使用手册的说明,其中应包括:(a) 消毒剂的预定用途(列出医疗器械、特定类型的材料和其他可按程序进行消毒的相容医疗产品);限制使用(医疗器械、材料类型和不兼容的医疗产品);制造商的名称和地址;类型和型号;安装指示;所有模式的详细操作指示;消毒剂的储存和准备(如果适用);错误或错误指示及其原因;反应; 指标测量尺度的解释和使用:如何编写处理物品,包括预先清理建议和所需包装;包括残留物信息和消静剂接触指导;影响功效的环境或其他因素;以及 1 1
@@ -194,7 +194,7 @@ e q u i r e e 提交新的510(k) f o r a s t e r i i z r :
 3 . 3 .
 从机械c o n r o 改为 o r rifard o r rifardard o
 - 4 . . 4 .
-i n t h e s p e f i c s t e i a n t 使用 i n t h e 设备更改 。
+i n t h e s p e f i c s t e i a n t 使用 i n t h e 器械更改 。
 1993年4月FDA i n 1993年4月根据i n EtO 混合物的改变 i c e r t
 H. 任 员
 关于t h e St e r i z e r的一般说明
@@ -209,7 +209,7 @@ b. b. 用于
 c. 用于
 d e n t i f y y a l 人工 r 自动 c o t r o o l s s , 仪器, 录音机, v n t s , 输入, o t l e t s , f i t e r s , 和 s a f e t y 特性。
 d. 数据
-表示设备 i n s t a l a t i o n的要求, e - g., e l e c t r c a l, 通风、管道等。
+表示器械 i n s t a l a t i o n的要求, e - g., e l e c t r c a l, 通风、管道等。
 e. 将
 说明t h e s te r i i n t 制剂及其c o n t i n e r, i f 提供了一种单立的从属从属物 t o te e s t e r i i z e r , e., s e r i i a n t 提供 i n c a r i d g e 形式等。
 提供关于其容器的 h e l f - I f e 数据,包括多剂量容器的 t o t t i f e i f i n。
@@ -245,11 +245,11 @@ d. 数据
 提供t h e 数据 i n d d c a te d n t h e FDA Software X e v i w e r s Guidelines (a v a i a b l e from FDA Division o f Small Mazacturers Aidentriation) f o r r 510(k)。
 除非FDA另有指示,否则,St e r i i z r s a r e 软件指导。
 ### I. 周期概览
-提供 t h e s t e e 概览 i z a t i c n proc, i n order t o 提供基础 f o r e v a l u a t i i o 05 t h e 设备并测试 a t a 。
+提供 t h e s t e e 概览 i z a t i c n proc, i n order t o 提供基础 f o r e v a l u a t i i o 05 t h e 器械并测试 a t a 。
 补充 d e s c r i p i p i o n hy =?arts, pictures o r o t h e r v i s u a l s d e t a i l i n g a l 参数和 i a d e s 。
 J. 结 论
 - T ST T 包装
-T e s t 包装 r e 使用 i n v a l i d a t n g 性能% id i n r o u t i n e 设备,一旦是商用设备,即监测该设备:~ a v a i l a b l e。
+T e s t 包装 r e 使用 i n v a l i d a t n g 性能% id i n r o u t i n e 器械,一旦是商用器械,即监测该器械:~ a v a i l a b l e。
 测试包的构造为 t r r e p r e e ne ne  n  n t r i y a r o u s c h a l e g e te e s t e r i z r 。
 b i i o l o g i c l anoni=or 被放置在 n t h e 包和 t h e 包被放置在 i 最差的 e 装载 i n t h e 冷点。
 每一类的I应有一个试验包 f o r 。
@@ -263,7 +263,7 @@ a p l i c a n t 应 r e f r to r e v a n t statar & r o e s t p e i f i c a i o 
 
 说明试验包组成的理由,包括试验包如何代表绝育过程的严格支架——说明试验包本身是如何得到验证的。描述包件和标签使用方式。
 ### K. 等效装置和以往提交材料 ,
-识别和比较该药剂消毒剂与另一种合法销售的消毒剂。发现等同性是便捷的,使合法销售的设备的技术与主消毒剂更加接近。如果已知,请注明所称上游器械的510(k)号。
+识别和比较该药剂消毒剂与另一种合法销售的消毒剂。发现等同性是便捷的,使合法销售的器械的技术与主消毒剂更加接近。如果已知,请注明所称参照器械的510(k)号。
 1. 如果可能,提交索赔的等效消毒剂标签。
 2 。
 比较和对比技术。
@@ -381,7 +381,7 @@ A总是,p p r r p r i a te e c o n r o o s 应该运行 c n c - ~ r e a t y 。�
 其他方法A t o t a l k i l I v a l i d a i o n is a l s s o d e s c i b e d d i n l i i t e r r e , r e p l i c a t e 运行 r e co r t r r t r t r r t a l k i l l 。
 T i s 过程小于 r r e l i a b l e a s f a r , 即 b s i c y c l e v a i i d a t i o n ,b 可以想象,它可能是p r o p r i i a e f r a p a r i i c u r t y p e s t i i e e r e technology t h t o d i t i a l form o f a n y s s 。
 使用I n t h e f i n a l q u a l i f c a i y i y y i y i a i d i t i i o a s d e s c i b e d under i n Q节。
-模拟和内用T e s t s 模拟或使用中的试验为n o t r r q u u i r e d f r t r a d i i t o n ,c a s i f i e d s i e i e r s s i e r s i ni n d i d i n i y e 设备,或 n o t g n e l y y recognized i n e e i e i e y r t u r r e e , 和 t t h e c e c t i o c n c n t r o l o
+模拟和内用T e s t s 模拟或使用中的试验为n o t r r q u u i r e d f r t r a d i i t o n ,c a s i f i e d s i e i e r s s i e r s i ni n d i d i n i y e 器械,或 n o t g n e l y y recognized i n e e i e i e y r t u r r e e , 和 t t h e c e c t i o c n c n t r o l o
 Publ i c h e a l t h r i s k 。
 可能会引起关注。FDA r e q u i i e d i t i a l t te te s t y n g from t i mi e t i e e t o e o o e t o ( e e) v a l i d t e t r a d i z e e f e c t i y e e s 。
 例如,要求的d d i te i o ne a l t te s t y n g h a s f o r d e n t l 手件。
@@ -389,7 +389,7 @@ i y r s t h a t te d i n h e a l t h h care f a c i i t i e s s u b j e c t h e 
 i ~ y ~ y y e t e t e s t s. S t e r r i y r i c i b i i d a 在模拟使用条件下,性能必须是 t e s t e d。
 a p l i c a n t 必须 j u s t i f y y how t h e s i m u l a te i o c r r e a te e t e s t o o r r e o e o e e o e o r o r r e o e o
 e l e c t a r r e p r e e n t e t i v e example o f 医疗产品 i n d i c a te d d i n a b e l i n g 。
-试验必须 c o n s i s s i s t o f e p p l i c a te e o f 设备, t y e s s m a t e e i d i c a d d e d d r t e i i z a t i n, e - g 。、金属、聚合物、弹性体、粘合 y i n s 、 纸张和 f b r i c s 。
+试验必须 c o n s i s s i s t o f e p p l i c a te e o f 器械, t y e s s m a t e e i d i c a d d e d d r t e i i z a t i n, e - g 。、金属、聚合物、弹性体、粘合 y i n s 、 纸张和 f b r i c s 。
 r t i c l e s .e l e e c t e d f r e i a l e x h i b i t design c ne n y y g y i l 提供 t h e t e e t r i a i i n t h t e s t y y r y i y i- g., lumens, mated s u r f a c e s , keys, gnold s u r f a c e s 。
 e t l o a d s应该是加注 i n b a e l i n g, 包装得当, 和 r i n t e d h ~ c r d g t o a b e i n g 。
 r t i c l e s s 试验必须是 i n o c l a e d, 10' CFU/unit of 10 et h e most r e y s y s t 试验机体制成的 i t t 无机和或卡尼负载。
@@ -426,7 +426,7 @@ p. 第1页。
 应提供数据,证明所列物品与绝育手术的兼容性。数据应说明该程序对声称的相容物品的安全和有效性的影响,例如功能/特性,以及这些条款对生物兼容性的影响。
 申请者必须认真考虑标签问题和兼容条款的范围对潜在试验办法的影响。如果标注中打算使用说明中的条款有限制和具体定性,那么测试的范围就是一个相对简单的问题。随着预期用途更加普遍化,测试范围变得更加复杂。例如,如果ASTM 316不锈钢仪器被标明为相容装置,则试验物品基本定义。另一方面,提及“金属”仪器意味着大量物质可能性。在一般性提及“聚合物”而不是具体类别和类型的聚合物方面也是如此。
 当标签表明一般一类物品可能因绝育手术而不同程度地受到影响时,申请人必须具体说明并证明测试类别中具有代表性的物品样本是合理的。即使在提交了510(k)件之后,申请方仍应继续实施一项强有力的方案,分析新产品和未在规定类别中测试的物品。这些数据可以作为`标签修订 ' 的依据,或作为用户关于消毒剂-A型在标签筛选中注明的抗消毒剂-A型兼容性的资源,应指示用户要求制造商获取关于标签中没有列出的装置和材料的任何最新信息。
-即使测试可能符合“原生绝育手术”的某条,但贴上标签(ef) 该条可能确定要使用的绝育手术的具体类型。在此情况下, 对象消毒剂的标签不能取代设备标签 。申请者可选择与合格区制造商联系,以修改物品的标签。
+即使测试可能符合“原生绝育手术”的某条,但贴上标签(ef) 该条可能确定要使用的绝育手术的具体类型。在此情况下, 对象消毒剂的标签不能取代器械标签 。申请者可选择与合格区制造商联系,以修改物品的标签。
 也许可能存在某些螺旋:.-这一测试电池的成分可与S2cticn K 中标明的两边试验结合起来,以尽量减少电荷的“J”。
 
 测试是否兼容是 c o m p a i b i b i i y, i - e。,在 il s 或 o t h e r d i i e 无法使用之前, n r t i c l e 的周期有多少可以承受?
@@ -435,7 +435,7 @@ a c e p a b l e number of c y c l e s e e nu fi i l u u e e c a s i f i e d s t 
 除非th e r e 足够j u s t i f i c a t i o n,n 任何情况均不应是 r t i c l e f i l 当暴露于 t o e y c l e s e s b e e r i b e r i e d e y e r i i y y e e y e y y e y e y i e y y e y e e y e y e e y e
 数据 s h a l 应在t h e process l i f e of t h e 索赔与 r t i c l e s 相符。
 i t h e 测试 r t i c l e may n o te x h b i t s i g n f i c a n t , q u u a n y i f i a b l e d e e r i r i i o y y e r a f t r 多周期。
-i th i i 是t h e 案件,t h e a p l i c a n t 可能提交 j y s y i f r a r r e r e 基于 n y i a i a r e e y i i e t e e t e t t y e y i e o r 设备基于 n l y y t
+i th i i 是t h e 案件,t h e a p l i c a n t 可能提交 j y s y i f r a r r e r e 基于 n y i a i a r e e y i i e t e e t e t t y e y i e o r 器械基于 n l y y t
 职能 c o m p p i b i t v A r i y e e y r e t y t y t t h e f e y r e y t t h e y t t y r e
 f u n c t i o n l i t y 参数可按 t h e b a s i s o f 使用要求确定,c a t i o n s s t h d e e v i c e 和 t h e 组件 m a te e r i a s 。
 e e, f l e x u r r p e, e-e e, f l e x u p r o e, e-e-e, e-e-e, e-, e-, ee e i s s t a ~ c e , 硬度, 压缩 s t r y n g t h , b u r s t s r y y g t h , t e r s t r r y n c t h , 颜色, 尺寸, p e r m e a b i t y , y , y , y ye l e c r i c a l r e s s e c c. e c. e c e c e c e c e c c e c e c e c e
@@ -456,17 +456,17 @@ q u a l i f i c a t i o o n 文件应被下调 i c l d d e te t h e c e e c e e 
 C e r y i c a t i o n t h a t t h e 系统按照 s p e e i f i c a t i o n s 进行 i n 。
 ### R. 联系人和地址
 普通 q u e s t t y i o n s 有关 提交预售前的 p p l i c a  t i o n s 应当 d i r e c t e d d t h e 分区,所有制造商 ~ s i s t n c e t (800) 638-2041。
-关于 t h i s 指南文件的问题如下:FDA总和R e s t r a t i v e-410, I n f e c t i o n 控制设备处
+关于 t h i s 指南文件的问题如下:FDA总和R e s t r a t i v e-410, I n f e c t i o n 控制器械处
 洛克维尔,MD。
 20850(301) 427-1307
 
 S. 核对清单510(k)
 # :
 发起人:日期:审查者:#Y/N元素
-1. EPA认证和《标准标签标记手册》数据参考摘要监测软件的循环概览测试包过程监测软件的周期概况测试包与预测物理/化学性能试验生物试验电池屏的比较,F值D值1/2周期,D值1/2周期,以及总断端点模拟和使用试验的简要毒性残留物处理设备资格过程生命功能生物兼容性最后资格
+1. EPA认证和《标准标签标记手册》数据参考摘要监测软件的循环概览测试包过程监测软件的周期概况测试包与预测物理/化学性能试验生物试验电池屏的比较,F值D值1/2周期,D值1/2周期,以及总断端点模拟和使用试验的简要毒性残留物处理器械资格过程生命功能生物兼容性最后资格
 
 附录1 比较 ~ a b l o F e a t u r e EPA R e g i s t e r e d 构件 Y/N 标签/Inted U e 设计、建造comonents T h i st a b l e i l i l s t r a te te e s t y p e o f 比较 t h a t s h o u d b e make, n o t n e e s r i l y t h e 数量的信息。
 P r o c e s 参数: t i m e teven p r e s u r e t c 。
 工艺监测器: r e c o d e r s 测量器 p r i n t o u t s 等。
-软件/燃料系统 C o n r o n r o r o l l e d 周期 (s) 比较过程等效时间(f o r蒸汽和 d r y 热) N e W 设备 - P r e d d i c a t e
+软件/燃料系统 C o n r o n r o r o l l e d 周期 (s) 比较过程等效时间(f o r蒸汽和 d r y 热) N e W 器械 - P r e d d i c a t e
 

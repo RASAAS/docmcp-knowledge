@@ -124,9 +124,9 @@ FDA PRA Staff, Office of Operations, Food and Drug Administration, PRAStaff@fda.
 
 [^6]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^7]: IEC并列标准定义为：处理适用于医疗电气设备某一子组的额外基本安全与基本性能要求的标准；或处理一般标准未充分涵盖的医疗电气设备或医疗电气系统特性相关额外基本安全与基本性能要求的标准。见ANSI/AAMI ES60601-1:2005/(R) 2012 and A1 2012, C1:2009/(R) 2012 and A2:2010/(R) 2012（合并文本）：医疗电气设备——第1部分：基本安全与基本性能的通用要求（IEC 60601-1:2005, MOD）。
+[^7]: IEC并列标准定义为：处理适用于医用电气设备某一子组的额外基本安全与基本性能要求的标准；或处理一般标准未充分涵盖的医用电气设备或医疗电气系统特性相关额外基本安全与基本性能要求的标准。见ANSI/AAMI ES60601-1:2005/(R) 2012 and A1 2012, C1:2009/(R) 2012 and A2:2010/(R) 2012（合并文本）：医用电气设备——第1部分：基本安全与基本性能的通用要求（IEC 60601-1:2005, MOD）。
 
-[^8]: IEC专用标准定义为：处理一般标准未涵盖的特定医疗电气设备特性相关额外基本安全与基本性能要求的标准。
+[^8]: IEC专用标准定义为：处理一般标准未涵盖的特定医用电气设备特性相关额外基本安全与基本性能要求的标准。
 
 [^9]: 医疗器械FDA认可共识标准数据库：https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfstandards/search.cfm
 

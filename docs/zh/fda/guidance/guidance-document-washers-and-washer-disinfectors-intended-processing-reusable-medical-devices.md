@@ -1,10 +1,10 @@
 ---
-title: "洗衣机和洗衣机消毒器的指南文件,用于处理可重复使用的医疗器械"
+title: "清洗机和清洗消毒器的指南文件,用于处理可重复使用的医疗器械"
 description: "Guidance Document For Washers And Washer-Disinfectors Intended For Processing Reusable Medical Devices"
 published: 1998-06-01
 ---
 
-# 洗衣机和洗衣机消毒器的指南文件,用于处理可重复使用的医疗器械
+# 清洗机和清洗消毒器的指南文件,用于处理可重复使用的医疗器械
 
 **Guidance Document For Washers And Washer-Disinfectors Intended For Processing Reusable Medical Devices**
 

@@ -59,7 +59,7 @@ doc_count: 434
 - [牙科光固化灯 - 上市前通知(510(k))提交：行业与FDA工作人员指南](./guidance/dental-curing-lights-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [牙科复合树脂器械 - 上市前通知(510(k))提交：行业与FDA工作人员指南](./guidance/dental-composite-resin-devices-premarket-notification-510k-submissions) (2026-09-02) 〔全文〕
 - [将人因工程和可用性工程应用于医疗器械：行业与FDA工作人员指南](./guidance/applying-human-factors-and-usability-engineering-medical-devices) (2026-08-03) 〔全文〕
-- [血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions) (2026-07-23) 〔全文〕
+- [血液透析管路组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions) (2026-07-23) 〔全文〕
 - [拟豁免某些未分类医疗器械上市前通知要求：行业与FDA工作人员指南](./guidance/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements) (2026-06-05) 〔全文〕
 - [医疗器械市场营销提交中的人体因素信息内容：行业与FDA工作人员指南](./guidance/content-human-factors-information-medical-device-marketing-submissions) (2026-05-29) 〔全文〕
 - [骨科植入物的患者匹配导板：行业与FDA工作人员指南](./guidance/patient-matched-guides-orthopedic-implants) (2026-05-07) 〔全文〕
@@ -71,13 +71,13 @@ doc_count: 434
 - [医疗器械临床研究中性别相关数据的评估：行业与FDA工作人员指南](./guidance/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug) (2025-03-31) 〔全文〕
 - [上市前批准申请和人道主义器械豁免模块化审查：行业与FDA工作人员指南](./guidance/premarket-approval-application-and-humanitarian-device-exemption-modular-review) (2025-01-13) 〔全文〕
 - [III类器械环氧乙烷灭菌设施变更的过渡性执法政策：行业与FDA工作人员指南](./guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices) (2024-11-26) 〔全文〕
-- [整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与FDA工作人员指南](./guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance) (2024-11-22) 〔全文〕
-- [整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions) (2024-11-22) 〔全文〕
+- [骨科非脊柱金属骨螺钉和垫圈 - 安全性和性能的性能标准：行业与FDA工作人员指南](./guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance) (2024-11-22) 〔全文〕
+- [骨科接骨板、螺钉和垫圈 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions) (2024-11-22) 〔全文〕
 - [510(k) 第三方审查计划和第三方紧急使用许可 (EUA) 审查：行业、FDA工作人员与第三方审评组织指南](./guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review) (2024-11-21) 〔全文〕
-- [肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南](./guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and) (2024-10-15) 〔全文〕
-- [牙印花材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南](./guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [骨内牙科种植体和骨内牙科种植体基台 - 安全性和性能的性能标准：行业与FDA工作人员指南](./guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and) (2024-10-15) 〔全文〕
+- [牙科印模材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南](./guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
 - [牙科陶 -安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
-- [牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
+- [牙科水门汀 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway) (2024-09-30) 〔全文〕
 - [气动牙科手机和气动马达 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南](./guidance/air-powered-dental-handpieces-and-air-motors-performance-criteria-safety-and-performance-based) (2024-09-30) 〔全文〕
 - [根据《联邦食品、药品和化妆品法案》要求获取信息的要求：行业与FDA工作人员指南](./guidance/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic) (2024-08-23) 〔全文〕
 - [电子提交医疗器械的模板 De Novo 要求：行业与FDA工作人员指南](./guidance/electronic-submission-template-medical-device-de-novo-requests) (2024-08-23) 〔全文〕
@@ -92,7 +92,7 @@ doc_count: 434
 - [在新冠病毒 (COVID-19) 疫情期间,面具和屏障面具的执行政策：行业与FDA工作人员指南](./guidance/enforcement-policy-face-masks-and-barrier-face-coverings-during-coronavirus-disease-covid-19-public) (2023-09-05) 〔全文〕
 - [基于 Peroxide 的接触镜护理产品:消费者标签建议 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/hydrogen-peroxide-based-contact-lens-care-products-consumer-labeling-recommendations-premarket) (2023-07-27) 〔全文〕
 - [在电力结过程中使用的组织控制系统的非临床性能评估：行业与FDA工作人员指南](./guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation) (2023-05-26) 〔全文〕
-- [周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification) (2023-04-14) 〔全文〕
+- [经皮腔内血管成形术(PTA)和专用导管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification) (2023-04-14) 〔全文〕
 - [软 (水力) 日用隐形眼镜 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南](./guidance/soft-hydrophilic-daily-wear-contact-lenses-performance-criteria-safety-and-performance-based-pathway) (2023-03-28) 〔全文〕
 - [动物研究的一般考虑因素,用于评估医疗器械：行业与FDA工作人员指南](./guidance/general-considerations-animal-studies-intended-evaluate-medical-devices) (2023-03-28) 〔全文〕
 - [2019年新冠病毒疫情 (COVID-19) 期间发布的执法政策中属于医疗器械的过渡计划：行业、其他利益相关方与FDA工作人员指南](./guidance/transition-plan-medical-devices-fall-within-enforcement-policies-issued-during-coronavirus-disease) (2023-03-27) 〔全文〕
@@ -108,36 +108,36 @@ doc_count: 434
 - [对于上市前通知提交的用户费用和退款 (510(k)：行业与FDA工作人员指南](./guidance/user-fees-and-refunds-premarket-notification-submissions-510ks) (2022-10-05) 〔全文〕
 - [上市前批准申请和器械生物制品许可申请的用户费和退款：行业与FDA工作人员指南](./guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications) (2022-10-05) 〔全文〕
 - [对于De Novo分类申请的用户费用和退款：行业与FDA工作人员指南](./guidance/user-fees-and-refunds-de-novo-classification-requests) (2022-10-05) 〔全文〕
-- [食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
-- [食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
-- [食品和工业对"新品分类要求"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [行业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [行业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
+- [行业对"新品分类要求"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南](./guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals) (2022-10-03) 〔全文〕
 - [诊断放射学显示器：行业与FDA工作人员指南](./guidance/display-devices-diagnostic-radiology) (2022-09-28) 〔全文〕
 - [助听器械和个人声音放大产品的监管要求：行业与FDA工作人员指南](./guidance/regulatory-requirements-hearing-aid-devices-and-personal-sound-amplification-products) (2022-08-17) 〔全文〕
 - [放射学器械上市前提交中定量成像的技术性能评估：行业与FDA工作人员指南](./guidance/technical-performance-assessment-quantitative-imaging-radiological-device-premarket-submissions) (2022-06-16) 〔全文〕
 - [医疗器械的电磁兼容性 (EMC)：行业与FDA工作人员指南](./guidance/electromagnetic-compatibility-emc-medical-devices) (2022-06-06) 〔全文〕
 - [可行性和早期可行性 针对某些医疗器械的临床研究,旨在治疗性改善2型糖尿病患者的血糖控制：行业与FDA工作人员指南](./guidance/feasibility-and-early-feasibility-clinical-studies-certain-medical-devices-intended-therapeutically) (2022-05-06) 〔全文〕
 - [拒绝接受510k政策：行业与FDA工作人员指南](./guidance/refuse-accept-policy-510ks) (2022-04-21) 〔全文〕
-- [面系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
-- [牙基树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
+- [牙面修复系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
+- [牙科基托树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway) (2022-04-13) 〔全文〕
 - [外科缝合线 - 安全性与性能路径的性能标准：行业与FDA工作人员指南](./guidance/surgical-sutures-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔全文〕
-- [整形骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔全文〕
+- [骨科骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway) (2022-04-11) 〔全文〕
 - [选择,开发,修改和调整患者报告结果仪器的原则,用于医疗器械评估和其他利益相关者：行业与FDA工作人员指南](./guidance/principles-selecting-developing-modifying-and-adapting-patient-reported-outcome-instruments-use) (2022-01-26) 〔全文〕
 - [患者参与医疗器械临床研究,FDA工作人员和其他利益相关者设计和进行：行业指南](./guidance/patient-engagement-design-and-conduct-medical-device-clinical-studies) (2022-01-26) 〔全文〕
 - [用于治疗良性前列腺增生(BPH)器械的非临床和临床研究：行业与FDA工作人员指南](./guidance/non-clinical-and-clinical-investigation-devices-used-treatment-benign-prostatic-hyperplasia-bph) (2021-12-27) 〔全文〕
 - [专用于多种患者使用的管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/arthroscopy-pump-tubing-sets-intended-multiple-patient-use-premarket-notification-510k-submissions) (2021-12-23) 〔全文〕
 - [德诺级分类过程 (自动级 III 名称的评估)：行业与FDA工作人员指南](./guidance/de-novo-classification-process-evaluation-automatic-class-iii-designation) (2021-10-05) 〔全文〕
 - [对于De Novo分类申请的接受审查：行业与FDA工作人员指南](./guidance/acceptance-review-de-novo-classification-requests) (2021-10-05) 〔全文〕
-- [含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南](./guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol) (2021-07-09) 〔全文〕
+- [含镍钛诺的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南](./guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol) (2021-07-09) 〔全文〕
 - [外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions) (2021-05-20) 〔全文〕
 - [瘫痪或截肢患者植入式脑机接口(BCI)器械 - 非临床测试和临床考量：行业与FDA工作人员指南](./guidance/implanted-brain-computer-interface-bci-devices-patients-paralysis-or-amputation-non-clinical-testing) (2021-05-20) 〔全文〕
 - [医疗器械安全技术计划：行业与FDA工作人员指南](./guidance/safer-technologies-program-medical-devices) (2021-01-06) 〔全文〕
 - [辅助生殖技术器械的小鼠胚胎试验](./guidance/mouse-embryo-assay-assisted-reproduction-technology-devices) (2021-01-05) 〔全文〕
-- [拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南](./guidance/product-labeling-laparoscopic-power-morcellators) (2020-12-30) 〔全文〕
+- [腹腔镜普式电力缩器的产品标签：行业与FDA工作人员指南](./guidance/product-labeling-laparoscopic-power-morcellators) (2020-12-30) 〔全文〕
 - [脊柱涂层系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南](./guidance/spinal-plating-systems-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
 - [仅接收磁共振 (MR) 卷轴 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南](./guidance/magnetic-resonance-mr-receive-only-coil-performance-criteria-safety-and-performance-based-pathway) (2020-12-11) 〔全文〕
 - [微针制品的监管考虑：行业与FDA工作人员指南](./guidance/regulatory-considerations-microneedling-products) (2020-11-10) 〔全文〕
 - [无需过分使用的血糖检测系统：行业与FDA工作人员指南](./guidance/self-monitoring-blood-glucose-test-systems-over-counter-use) (2020-09-29) 〔全文〕
-- [盐水,凝和其他乳腺植入物：行业与FDA工作人员指南](./guidance/saline-silicone-gel-and-alternative-breast-implants) (2020-09-29) 〔全文〕
+- [盐水、硅凝胶及其他乳房假体：行业与FDA工作人员指南](./guidance/saline-silicone-gel-and-alternative-breast-implants) (2020-09-29) 〔全文〕
 - [乳腺植入物 - 某些标签建议有助于改善患者的沟通：行业与FDA工作人员指南](./guidance/breast-implants-certain-labeling-recommendations-improve-patient-communication) (2020-09-29) 〔全文〕
 - [处方医疗保健处使用的血糖监测测试系统：行业与FDA工作人员指南](./guidance/blood-glucose-monitoring-test-systems-prescription-point-care-use) (2020-09-29) 〔全文〕
 - [认证符合性评估计划 (ASCA) 试点计划：行业、认可机构、检测实验室与FDA工作人员指南](./guidance/accreditation-scheme-conformity-assessment-asca-pilot-program) (2020-09-25) 〔全文〕
@@ -148,14 +148,14 @@ doc_count: 434
 - [前列腺组织消融器械的临床研究：行业与FDA工作人员指南](./guidance/clinical-investigations-prostate-tissue-ablation-devices) (2020-07-15) 〔全文〕
 - [器械和放射卫生中心(CDRH)申诉流程：关于517A条的问答：行业与FDA工作人员指南](./guidance/center-devices-and-radiological-health-cdrh-appeals-processes-questions-and-answers-about-517a) (2020-03-27) 〔全文〕
 - [普通外科电外科器械上市前通知(510(k))提交：行业与FDA工作人员指南](./guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery) (2020-03-09) 〔全文〕
-- [骨 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/bone-anchors-premarket-notification-510k-submissions) (2020-03-03) 〔全文〕
+- [骨锚 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/bone-anchors-premarket-notification-510k-submissions) (2020-03-03) 〔全文〕
 - [申请研究的双重510 ((k) 和CLIA豁免建议：行业与FDA工作人员指南](./guidance/recommendations-dual-510k-and-clia-waiver-application-studies) (2020-02-26) 〔全文〕
 - [在上市前提交的非临床位性能测试信息中建议内容和格式：行业与FDA工作人员指南](./guidance/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket) (2019-12-20) 〔全文〕
 - [实时上市前许可申请 (PMA) 补充：行业与FDA工作人员指南](./guidance/real-time-premarket-approval-application-pma-supplements) (2019-12-16) 〔全文〕
 - [批准前市场批准申请的年度报告：行业与FDA工作人员指南](./guidance/annual-reports-approved-premarket-approval-applications-pma) (2019-12-16) 〔全文〕
 - [对于市场前批准申请 (PMA) 的接受和提交审查：行业与FDA工作人员指南](./guidance/acceptance-and-filing-reviews-premarket-approval-applications-pmas) (2019-12-16) 〔全文〕
 - [关于生产方法或工艺变更的30天通知、135天上市前批准(PMA)补充申请和75天人道主义器械豁免(HDE)补充申请：行业与FDA工作人员指南](./guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption) (2019-12-16) 〔全文〕
-- [膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南](./guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations) (2019-10-10) 〔全文〕
+- [腔内导丝和输送系统 - 标签考虑：行业与FDA工作人员指南](./guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations) (2019-10-10) 〔全文〕
 - [冠状动脉、外周和神经血管导丝 - 性能测试和推荐标签：行业与FDA工作人员指南](./guidance/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling) (2019-10-10) 〔全文〕
 - [基于安全性和性能的路径：行业与FDA指南](./guidance/safety-and-performance-based-pathway) (2019-09-20) 〔全文〕
 - [特别510 (k) 计划：行业与FDA工作人员指南](./guidance/special-510k-program) (2019-09-13) 〔全文〕
@@ -163,7 +163,7 @@ doc_count: 434
 - [人道主义器械豁免计划：行业与FDA工作人员指南](./guidance/humanitarian-device-exemption-hde-program) (2019-09-06) 〔全文〕
 - [医疗器械上市前批准和De Novo分类中受益-风险评估考量因素：行业与FDA工作人员指南](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de) (2019-08-30) 〔全文〕
 - [在医疗器械上市前批准、De Novo分类和人道主义器械豁免中受益-风险评估时考量不确定性：行业与FDA工作人员指南](./guidance/consideration-uncertainty-making-benefit-risk-determinations-medical-device-premarket-approvals-de) (2019-08-30) 〔全文〕
-- [金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions) (2019-07-26) 〔全文〕
+- [金属可扩张胆道支架 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南](./guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions) (2019-07-26) 〔全文〕
 - [研究用器械豁免(IDE)临床试验期间的实况病例演示：机构审查委员会、行业、临床研究者与FDA工作人员指南](./guidance/live-case-presentations-during-investigational-device-exemption-ide-clinical-trials) (2019-07-11) 〔全文〕
 - [利用动物研究评估器官保存器械：行业与FDA工作人员指南](./guidance/utilizing-animal-studies-evaluate-organ-preservation-devices) (2019-05-08) 〔全文〕
 - [骨科器械用超高分子量聚乙烯(UHMWPE)表征：行业与FDA工作人员指南](./guidance/characterization-ultrahigh-molecular-weight-polyethylene-uhmwpe-used-orthopedic-devices) (2019-04-26) 〔全文〕
@@ -172,7 +172,7 @@ doc_count: 434
 - [抗菌药物和抗菌药敏试验器械的协调开发：行业与FDA工作人员指南](./guidance/coordinated-development-antimicrobial-drugs-and-antimicrobial-susceptibility-test-devices) (2019-02-01) 〔全文〕
 - [制造场所变更补充申请:内容和提交：行业与FDA工作人员指南](./guidance/manufacturing-site-change-supplements-content-and-submission) (2018-12-17) 〔全文〕
 - [在不同技术特征的上市前通知 (510(k)) 中确定实质性等效时考虑的利风险因素：行业与FDA工作人员指南](./guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k) (2018-09-25) 〔全文〕
-- [含素的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南](./guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety) (2018-09-20) 〔全文〕
+- [含镍的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南](./guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety) (2018-09-20) 〔全文〕
 - [医疗器械前销售的自愿共识标准的适当使用：行业与FDA工作人员指南](./guidance/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices) (2018-09-14) 〔全文〕
 - [公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与FDA工作人员指南](./guidance/use-public-human-genetic-variant-databases-support-clinical-validity-genetic-and-genomic-based-vitro) (2018-04-13) 〔全文〕
 - [接受临床数据支持医疗器械申请和提交:常见问题：行业与FDA工作人员指南](./guidance/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked) (2018-02-21) 〔全文〕
@@ -186,7 +186,7 @@ doc_count: 434
 - [医疗器械咨询委员会会议程序：行业与FDA工作人员指南](./guidance/procedures-meetings-medical-devices-advisory-committee) (2017-09-01) 〔全文〕
 - [医疗器械检查器件豁免的利害风险确定时考虑因素:研究器件豁免赞助商,赞助商-调查人员和FDA工作人员的指导](./guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device) (2017-01-13) 〔全文〕
 - [医疗器械产品可用性,合规性和执行决策中考虑的因素：行业与FDA工作人员指南](./guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and) (2016-12-27) 〔全文〕
-- [通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与FDA工作人员指南](./guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible) (2016-11-29) 〔全文〕
+- [通过灵活的胃肠内镜来灌使用的管腔和附件的交叉污染风险：行业与FDA工作人员指南](./guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible) (2016-11-29) 〔全文〕
 - [针对疾病进展和临床结局的神经系统器械研究用器械豁免(IDE)临床考量：行业与FDA工作人员指南](./guidance/clinical-considerations-investigational-device-exemptions-ides-neurological-devices-targeting) (2016-11-07) 〔全文〕
 - [用于绝育的永久性宫腔镜放置输卵管植入物的标签：行业与FDA工作人员指南](./guidance/labeling-permanent-hysteroscopically-placed-tubal-implants-intended-sterilization) (2016-10-31) 〔全文〕
 - [报告医疗器械提交的计算建模研究：行业与FDA工作人员指南](./guidance/reporting-computational-modeling-studies-medical-device-submissions) (2016-09-21) 〔全文〕
@@ -208,7 +208,7 @@ doc_count: 434
 - [医疗保健环境中医疗器械的重工:验证方法和标签：行业与FDA工作人员指南](./guidance/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling) (2015-03-17) 〔全文〕
 - [为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与FDA工作人员指南](./guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral) (2015-02-11) 〔全文〕
 - [标签医疗产品的建议,以告知用户,产品或产品容器不是用天然乳制品：行业与FDA工作人员指南](./guidance/recommendations-labeling-medical-products-inform-users-product-or-product-container-not-made-natural) (2014-12-02) 〔全文〕
-- [输入 产品总寿命周期：行业与FDA工作人员指南](./guidance/infusion-pumps-total-product-life-cycle) (2014-12-02) 〔全文〕
+- [纳入产品全生命周期：行业与FDA工作人员指南](./guidance/infusion-pumps-total-product-life-cycle) (2014-12-02) 〔全文〕
 - [家用器械设计考量：行业与FDA工作人员指南](./guidance/design-considerations-devices-intended-home-use) (2014-11-24) 〔全文〕
 - [具有组合功能的分子诊断 仪器：行业与FDA工作人员指南](./guidance/molecular-diagnostic-instruments-combined-functions) (2014-11-12) 〔全文〕
 - [定制器械豁免：行业与FDA工作人员指南](./guidance/custom-device-exemption) (2014-09-24) 〔全文〕
@@ -226,34 +226,34 @@ doc_count: 434
 - [医疗器械分类产品代码：行业与FDA工作人员指南](./guidance/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff) (2013-04-10) 〔全文〕
 - [确定伯氏疏螺旋体抗体检测用体外诊断器械的性能特性：行业与FDA工作人员指南](./guidance/establishing-performance-characteristics-in-vitro-diagnostic-devices-detection-antibodies-borrelia) (2013-03-27) 〔全文〕
 - [视网膜假肢的研究用器械豁免 (IDE) 指南：行业与FDA工作人员指南](./guidance/investigational-device-exemption-ide-guidance-retinal-prostheses) (2013-03-06) 〔全文〕
-- [脉搏血氧仪 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug) (2013-03-03) 〔全文〕
+- [脉搏血氧白内障手术器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug) (2013-03-03) 〔全文〕
 - [临床研究设计用于治疗前 կոչ的外科摘除器件：行业与FDA工作人员指南](./guidance/clinical-study-designs-surgical-ablation-devices-treatment-atrial-fibrillation-guidance-industry-and) (2013-02-14) 〔全文〕
 - [人工胰腺装置系统的研究用器械豁免(IDE)和上市前批准(PMA)申请内容：行业与FDA工作人员指南](./guidance/content-investigational-device-exemption-ide-and-premarket-approval-pma-applications-artificial) (2012-11-09) 〔全文〕
 - [用于尿失禁治疗的器械临床研究：行业与FDA工作人员指南](./guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda) (2011-03-07) 〔全文〕
-- [血兰塞标签：行业与FDA工作人员指南](./guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff) (2010-11-28) 〔全文〕
+- [采血针标签：行业与FDA工作人员指南](./guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff) (2010-11-28) 〔全文〕
 - [接触镜头护理产品标 ：行业与FDA工作人员指南](./guidance/contact-lens-care-products-labeling) (2010-08-15) 〔全文〕
 - [体诊断器 (IVD) 研究 - - 常见问题：行业与FDA工作人员指南](./guidance/in-vitro-diagnostic-ivd-device-studies-frequently-asked-questions) (2010-06-25) 〔全文〕
 - [对于静脉内和相关输送 (STS) 的非临床工程测试和建议标签：行业与FDA工作人员指南](./guidance/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery) (2010-04-17) 〔全文〕
 - [医疗器械临床试验中使用 (PDF版) 的拜塞统计指南](./guidance/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version) (2010-02-05) 〔全文〕
 - [适用上市前批准(PMA)器械的变更 - PMA补充申请决策流程：行业与FDA工作人员指南](./guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process) (2008-12-11) 〔全文〕
-- [门的治疗用门 器的临床研究设计：行业与FDA工作人员指南](./guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter) (2008-08-05) 〔全文〕
+- [心律失常治疗用消融器械的临床研究设计：行业与FDA工作人员指南](./guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter) (2008-08-05) 〔全文〕
 - [静脉内管管理集 上市前 通知提交 [510(k) ]：行业与FDA工作人员指南](./guidance/intravascular-administration-sets-premarket-notification-submissions-510k) (2008-07-11) 〔全文〕
 - [用于夜间家庭血液透析器械的研究用器械豁免(IDE)：行业与FDA工作人员指南](./guidance/investigational-device-exemptions-ides-devices-indicated-nocturnal-home-hemodialysis) (2008-04-15) 〔全文〕
 - [准备和审查对整体人工盘 (Total Artificial Discs) 的研究用器械豁免申请：行业与FDA工作人员指南](./guidance/preparation-and-review-investigational-device-exemption-applications-ides-total-artificial-discs) (2008-04-11) 〔全文〕
 - [冠状动脉和颈动脉栓子保护器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/coronary-and-carotid-embolic-protection-devices-premarket-notification-510k-submissions) (2008-02-15) 〔全文〕
 - [医疗手套指南：行业与FDA工作人员指南](./guidance/medical-glove-guidance-manual) (2008-01-22) 〔全文〕
 - [生物指标 (BI) 上市前 通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/biological-indicator-bi-premarket-notification-510k-submissions) (2007-10-04) 〔全文〕
-- [茎假肢的非临床信息：行业与FDA工作人员指南](./guidance/non-clinical-information-femoral-stem-prostheses) (2007-09-17) 〔全文〕
+- [阴茎假体的非临床信息：行业与FDA工作人员指南](./guidance/non-clinical-information-femoral-stem-prostheses) (2007-09-17) 〔全文〕
 - [商业分布的分析物特异反应 (ASR):常见问题：行业与FDA工作人员指南](./guidance/commercially-distributed-analyte-specific-reagents-asrs-frequently-asked-questions) (2007-09-13) 〔全文〕
 - [在单个提交中捆绑多个器械或多个适应症：行业与FDA工作人员指南](./guidance/bundling-multiple-devices-or-multiple-indications-single-submission) (2007-06-22) 〔全文〕
 - [神经血栓切除器械的临床前和临床研究：行业与FDA工作人员指南](./guidance/pre-clinical-and-clinical-studies-neurothrombectomy-devices) (2007-06-18) 〔全文〕
 - [牙科手工 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/dental-handpieces-premarket-notification-510k-submissions) (2007-05-02) 〔全文〕
-- [基拉和替代基拉 叶片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions) (2006-09-18) 〔全文〕
+- [角膜刀和替代角膜刀刀片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions) (2006-09-18) 〔全文〕
 - [使用非个人可识别的剩余人类样本进行体外诊断器械研究的知情同意指南：申办者、机构审查委员会与FDA工作人员指南](./guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not) (2006-04-25) 〔全文〕
-- [仪 - 上市前通知 [510 ]：行业与FDA工作人员指南](./guidance/tonometers-premarket-notification-510k-submissions) (2006-03-27) 〔全文〕
+- [白内障手术器械 - 上市前通知 [510 ]：行业与FDA工作人员指南](./guidance/tonometers-premarket-notification-510k-submissions) (2006-03-27) 〔全文〕
 - [药物遗传检测和遗传标志物遗传检测：行业与FDA工作人员指南](./guidance/pharmacogenetic-tests-and-genetic-tests-heritable-markers) (2006-02-09) 〔全文〕
 - [医疗器械具有防伤性特征：行业与FDA工作人员指南](./guidance/medical-devices-sharps-injury-prevention-features-guidance-industry-and-fda-staff) (2005-08-08) 〔全文〕
-- [季节性囊和囊:上市前通知提交的信息 (510k)：行业与FDA工作人员指南](./guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry) (2005-07-26) 〔全文〕
+- [季节性过敏性鼻炎和哮喘:上市前通知提交的信息 (510k)：行业与FDA工作人员指南](./guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry) (2005-07-26) 〔全文〕
 - [整形器械应用的临床数据介绍：行业与FDA工作人员指南](./guidance/clinical-data-presentations-orthopedic-device-applications-guidance-industry-and-fda-staff) (2004-12-01) 〔全文〕
 - [临床试验考虑:脊椎增长器件用于治疗脊椎不够骨折：行业与FDA工作人员指南](./guidance/clinical-trial-considerations-vertebral-augmentation-devices-treat-spinal-insufficiency-fractures) (2004-10-23) 〔全文〕
 - [类II特殊控制指南文件:用于检测β-glucan的血清检测 (PDF版本)](./guidance/class-ii-special-controls-guidance-document-serological-assays-detection-beta-glucan-pdf-version) (2004-09-23) 〔全文〕
@@ -263,7 +263,7 @@ doc_count: 434
 - [医疗面具 - 上市前通知 [510(k) ] 提交：行业与FDA工作人员指南](./guidance/surgical-masks-premarket-notification-510k-submissions) (2004-03-04) 〔全文〕
 - [声带内移器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/guidance-industry-and-fda-staff-vocal-fold-medialization-devices-premarket-notification-510k) (2004-02-12) 〔全文〕
 - [化学指示剂上市前通知[510(k)]提交：行业与FDA工作人员指南](./guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff) (2003-12-18) 〔全文〕
-- [对于某些上市前应用程序的信息：行业与FDA工作人员指南](./guidance/quality-system-information-certain-premarket-application-reviews) (2003-02-03) 〔全文〕
+- [某些上市前申请的信息要求：行业与FDA工作人员指南](./guidance/quality-system-information-certain-premarket-application-reviews) (2003-02-03) 〔全文〕
 - [510(k)器械预期用途的确定 - CDRH工作人员指南(更新至K98-1)](./guidance/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1) (2002-12-02) 〔全文〕
 - [用于腹部和/或盆腔手术的可吸收防粘连屏障器械指南：行业指南](./guidance/guidance-resorbable-adhesion-barrier-devices-use-abdominal-andor-pelvic-surgery-guidance-industry) (2002-06-17) 〔全文〕
 - [第三方和医院再处理器对一次性使用器械的再处理和再使用常见问题：行业与FDA工作人员最终指南](./guidance/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital) (2001-07-06) 〔全文〕
@@ -272,11 +272,11 @@ doc_count: 434
 - [检查装置豁免方案的内容,用于热流出,运输和移植器官的存储：行业与FDA审评人员指南](./guidance/content-investigational-device-exemptions-solutions-hypothermic-flushing-transport-and-storage) (2001-01-15) 〔全文〕
 - [硬脑膜替代器械指南：行业指南](./guidance/guidance-document-dura-substitute-devices-guidance-industry) (2000-11-08) 〔全文〕
 - [光子发射近距离放射治疗源上市前通知提交指南：行业指南](./guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry) (2000-08-01) 〔全文〕
-- [超额代购 (OTC) 人类胆淋病 (hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南](./guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda) (2000-07-21) 〔全文〕
-- [东正化器械硬气透透镜的前销售指南：行业指南](./guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry) (2000-04-09) 〔全文〕
+- [非处方(OTC)人绒毛膜促性腺激素(hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南](./guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda) (2000-07-21) 〔全文〕
+- [矫形器械硬性透气镜片的前销售指南：行业指南](./guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry) (2000-04-09) 〔全文〕
 - [寻求销售许可的制造商的指南 耳鼻喉内膜作为保护障碍：行业指南](./guidance/guidance-manufacturers-seeking-marketing-clearance-ear-nose-and-throat-endoscope-sheaths-used) (2000-03-11) 〔全文〕
 - [一氧化氮输送装置、一氧化氮分析仪和二氧化氮分析仪上市前通知提交指南：行业与FDA审评人员指南](./guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide) (2000-01-24) 〔全文〕
-- [部硬化植入物和FDA人员的上市前通知内容指南：行业指南](./guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff) (2000-01-15) 〔全文〕
+- [半约束性植入物和FDA人员的上市前通知内容指南：行业指南](./guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff) (2000-01-15) 〔全文〕
 - [编制脊髓系统和/或FDA人员的IDE指南：行业指南](./guidance/guidance-document-preparation-ides-spinal-systems-guidance-industry-andor-fda-staff) (2000-01-12) 〔全文〕
 - [液体化学灭菌剂/高水平消毒剂上市前通知[510(k)]提交的内容和格式：行业与FDA审评人员指南](./guidance/content-and-format-premarket-notification-510k-submissions-liquid-chemical-sterilantshigh-level) (2000-01-02) 〔全文〕
 - [关于心血管静脉过器的指南 510 ((k) 提交：行业与FDA工作人员指南](./guidance/guidance-cardiovascular-intravascular-filter-510k-submissions-guidance-industry-and-fda-staff) (1999-11-25) 〔仅元数据〕
@@ -296,12 +296,12 @@ doc_count: 434
 - [总/具体的目的用途：行业指南](./guidance/generalspecific-intended-use-guidance-industry) (1998-11-03) 〔全文〕
 - [听力器标签中的噪音要求：行业指南](./guidance/noise-claims-hearing-aid-labeling-guidance-industry) (1998-10-20) 〔全文〕
 - [无处方日镜的指南文件：行业指南](./guidance/guidance-document-nonprescription-sunglasses-guidance-industry) (1998-10-08) 〔全文〕
-- [动力吸气 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南](./guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff) (1998-09-29) 〔全文〕
+- [动力抽吸 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南](./guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff) (1998-09-29) 〔全文〕
 - [其他产品:外卖牙枕,,,维修套件,部分制造牙套件：行业与FDA工作人员指南](./guidance/otc-denture-cushions-pads-reliners-repair-kits-and-partially-fabricated-denture-kits-guidance) (1998-08-17) 〔全文〕
 - [修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南](./guidance/revised-procedures-adding-lens-finishing-laboratories-approved-premarket-approval-applications-class) (1998-08-10) 〔全文〕
 - [男人乳安全套 - 510 信息 (k) 上市前通知:使用共识标准来简短提交：行业指南](./guidance/latex-condoms-men-information-510k-premarket-notifications-use-consensus-standards-abbreviated) (1998-07-23) 〔全文〕
 - [统一的避孕药标签：行业指南](./guidance/uniform-contraceptive-labeling-guidance-industry) (1998-07-22) 〔全文〕
-- [洗衣机和洗衣机消毒器的指南文件,用于处理可重复使用的医疗器械](./guidance/guidance-document-washers-and-washer-disinfectors-intended-processing-reusable-medical-devices) (1998-06-01) 〔仅元数据〕
+- [清洗机和清洗消毒器的指南文件,用于处理可重复使用的医疗器械](./guidance/guidance-document-washers-and-washer-disinfectors-intended-processing-reusable-medical-devices) (1998-06-01) 〔仅元数据〕
 - [批准第三类医疗器械的补充:使用出版物,使用先前提交的材料和优先考虑：行业指南](./guidance/supplements-approved-applications-class-iii-medical-devices-use-published-literature-use-previously) (1998-05-19) 〔仅元数据〕
 - [食器和食器假肢上市前通知内容指南 - 产业指南](./guidance/guidance-content-premarket-notifications-esophageal-and-tracheal-prostheses-guidance-industry) (1998-04-27) 〔全文〕
 - [II类器械免除上市前通知的程序：行业与CDRH工作人员指南](./guidance/procedures-class-ii-device-exemptions-premarket-notification-guidance-industry-and-cdrh-staff) (1998-02-18) 〔全文〕
@@ -315,12 +315,12 @@ doc_count: 434
 - [屈光手术激光器研究用器械豁免(IDE)申请通常提交的信息清单[准分子]](./guidance/checklist-information-usually-submitted-investigational-device-exemptions-ide-application-refractive) (1996-10-09) 〔全文〕
 - [建议 IDE 进展报告的格式](./guidance/suggested-format-ide-progress-report) (1996-05-31) 〔仅元数据〕
 - [热内膜外移装置 (IDE提交指南)](./guidance/thermal-endometrial-ablation-devices-submission-guidance-ide) (1996-03-13) 〔全文〕
-- [镜和妇科镜 - 提交指南 510(k)](./guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k) (1996-03-07) 〔全文〕
+- [阴道镜和宫腔镜 - 提交指南 510(k)](./guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k) (1996-03-07) 〔全文〕
 - [附加条:关于上市前通知的指南 [510(k) ] 应用于医疗保健设施的灭菌剂的申请](./guidance/addendum-guidance-premarket-notification-510k-submissions-sterilizers-intended-use-health-care) (1995-09-18) 〔仅元数据〕
 - [宫腔镜和腹腔镜气腹机：510(k)提交指南](./guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k) (1995-07-31) 〔仅元数据〕
 - [准备上市前通知的指南 [510(k) ]机械和动力轮椅和动力三轮车辆的应用](./guidance/guidance-document-preparation-premarket-notification-510k-applications-mechanical-and-powered) (1995-07-25) 〔全文〕
 - [加热和冷却器械上市前通知[510(k)]申请准备指南](./guidance/guidance-document-preparation-premarket-notification-510k-applications-heating-and-cooling-devices) (1995-07-25) 〔全文〕
-- [运动设备上市前通知[510(K)]申请准备指南](./guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment) (1995-07-25) 〔全文〕
+- [运动器械上市前通知[510(K)]申请准备指南](./guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment) (1995-07-25) 〔全文〕
 - [基于新材料 (非乳) 制成的男用安全套的测试指南](./guidance/testing-guidance-male-condoms-made-new-material-non-latex) (1995-06-28) 〔仅元数据〕
 - [关于医疗激光上市前通知内容和组织的指南](./guidance/guidance-content-and-organization-premarket-notification-medical-laser) (1995-05-31) 〔全文〕
 - [测试非关节,"机械锁定",模块化植入物组件的指南](./guidance/guidance-document-testing-non-articulating-mechanically-locked-modular-implant-components) (1995-04-30) 〔全文〕
@@ -328,13 +328,13 @@ doc_count: 434
 - [在胃肠病学和泌尿学中使用的机械除剂和石头排放剂的检查清单](./guidance/checklist-mechanical-lithotripters-and-stone-dislodgers-used-gastroenterology-and-urology) (1994-11-01) 〔全文〕
 - [510(k) 转管外科仪器使用的无菌滑凝检查清单](./guidance/510k-checklist-sterile-lubricating-jelly-used-transurethral-surgical-instruments) (1994-09-18) 〔仅元数据〕
 - [常规和抗菌弗利导尿管上市前通知内容指南](./guidance/guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters) (1994-09-11) 〔仅元数据〕
-- [关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南](./guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld) (1994-08-29) 〔全文〕
+- [关于扩展腹腔镜仪器 (ELD) 上市前通知的准备指南](./guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld) (1994-08-29) 〔全文〕
 - [关于尿液排水袋上市前通知内容的指南](./guidance/guidance-content-premarket-notifications-urine-drainage-bags) (1994-06-07) 〔仅元数据〕
 - [修改金属表面,接着接着骨头或骨水泥的整形植入物测试指南文件](./guidance/guidance-document-testing-orthopedic-implants-modified-metallic-surfaces-apposing-bone-or-bone) (1994-04-27) 〔全文〕
 - [函 - 安全套产品制造商,经销商和进口商 (包含在安全套包398) :函 - 安全套产品制造商,经销商和进口商](./guidance/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398) (1994-02-23) 〔全文〕
-- [对于结器,计量剂量吸入器,间隔器和动机的审查员指南](./guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators) (1993-09-30) 〔全文〕
+- [对于雾化器、定量吸入器,间隔器和动机的审查员指南](./guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators) (1993-09-30) 〔全文〕
 - [关于上市前通知的指南 [510(k) 关于外科服装和外科的申请](./guidance/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes) (1993-08-01) 〔全文〕
-- [关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请](./guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and) (1993-08-01) 〔全文〕
+- [关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜清洗机、清洗消毒器和灭菌器的申请](./guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and) (1993-08-01) 〔全文〕
 - [关于上市前通知内容的指导意见 [510(K) ] 注剂的申请](./guidance/guidance-content-premarket-notification-510k-submissions-piston-syringes) (1993-03-31) 〔仅元数据〕
 - [医疗保健设施用灭菌器上市前通知510(k)指南](./guidance/guidance-premarket-notification-510k-sterilizers-intended-use-health-care-facilities) (1993-03-01) 〔全文〕
 - [关于尿管片上市前通知内容的指南](./guidance/guidance-content-premarket-notifications-ureteral-stents) (1993-02-09) 〔仅元数据〕
@@ -345,7 +345,7 @@ doc_count: 434
 - [主要文件第三部分 - 关于科学技术信息的指导](./guidance/master-files-part-iii-guidance-scientific-and-technical-information) (1987-06-01) 〔全文〕
 - [所有美国安全套制造商,进口商和重新包装商](./guidance/all-us-condom-manufacturers-importers-and-repackagers) (1987-04-07) 〔仅元数据〕
 - [宫腔镜绝育器械的评估指南](./guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices) (1978-05-09) 〔全文〕
-- [紧急使用氧气发电机和氧气设备的审查指南](./guidance/review-guidelines-oxygen-generators-and-oxygen-equipment-emergency-use) (1977-01-01) 〔仅元数据〕
+- [紧急使用氧气发电机和氧气器械的审查指南](./guidance/review-guidelines-oxygen-generators-and-oxygen-equipment-emergency-use) (1977-01-01) 〔仅元数据〕
 
 ## 质量 / QMSR / 生产制造 {#quality_manufacturing}
 
@@ -429,7 +429,7 @@ doc_count: 434
 - [激光产品 - 符合IEC 60825-1第3版和IEC 60601-2-22第3.1版 (激光通告第56号)：行业与FDA工作人员指南](./guidance/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56) (2023-02-21) 〔全文〕
 - [诊断X射线设备组装指南：行业与FDA工作人员指南](./guidance/guidance-industry-and-food-and-drug-administration-staff-assemblers-guide-diagnostic-x-ray-equipment) (2023-02-21) 〔全文〕
 - [测量,水平和配列激光产品：行业与FDA工作人员指南](./guidance/surveying-leveling-and-alignment-laser-products) (2023-01-31) 〔全文〕
-- [某些透视设备要求的政策澄清：行业与FDA工作人员指南](./guidance/policy-clarification-certain-fluoroscopic-equipment-requirements) (2019-05-08) 〔全文〕
+- [某些透视器械要求的政策澄清：行业与FDA工作人员指南](./guidance/policy-clarification-certain-fluoroscopic-equipment-requirements) (2019-05-08) 〔全文〕
 - [激光照明投影机 (LIP) 的分类和要求 (激光通告第57)：行业与FDA指南](./guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57) (2019-05-08) 〔全文〕
 - [降低儿童玩具激光产品的风险：行业与FDA工作人员指南](./guidance/minimizing-risk-childrens-toy-laser-products) (2014-12-19) 〔全文〕
 - [某些激光光显示变异的更新和更改程序 (激光通告 55)](./guidance/procedures-renewal-and-amendment-certain-laser-light-show-variances-laser-notice-55) (2007-09-24) 〔全文〕
@@ -490,8 +490,8 @@ doc_count: 434
 - [自愿性协调标准的认可和撤销：行业与FDA工作人员指南](./guidance/recognition-and-withdrawal-voluntary-consensus-standards) (2020-09-15) 〔全文〕
 - [提供电子形式的医疗器械监管提交 - 根据《联邦食品、药品和化妆品法案》第745A (b) 条的提交：行业与FDA工作人员指南](./guidance/providing-regulatory-submissions-medical-devices-electronic-format-submissions-under-section-745ab) (2020-07-15) 〔全文〕
 - [血液透析植入式血管通路器械：行业与FDA工作人员指南](./guidance/implanted-blood-access-devices-hemodialysis) (2016-01-21) 〔全文〕
-- [耐冲击镜头:问题及 答案：行业与FDA工作人员指南](./guidance/impact-resistant-lenses-questions-and-answers) (2010-09-02) 〔全文〕
-- [装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南](./guidance/decorative-non-corrective-contact-lenses) (2006-11-24) 〔全文〕
+- [耐冲击镜片头:问题及 答案：行业与FDA工作人员指南](./guidance/impact-resistant-lenses-questions-and-answers) (2010-09-02) 〔全文〕
+- [装饰性非矫正隐形眼镜,FDA工作人员,眼科专业人员和消费者：行业指南](./guidance/decorative-non-corrective-contact-lenses) (2006-11-24) 〔全文〕
 - [咨询小组儿童专业知识：行业与FDA工作人员指南](./guidance/pediatric-expertise-advisory-panels-guidance-industry-and-fda-staff) (2003-06-02) 〔全文〕
 - [关于1997年食品和药物管理现代化法案第216条的指南和FDA审查人员的指南：行业指南](./guidance/guidance-section-216-food-and-drug-administration-modernization-act-1997-guidance-industry-and-fda) (2000-08-08) 〔全文〕
 - [1-器械产品线综合年度报告(1-CARD)：行业与CDRH审评人员指南](./guidance/1-consolidated-annual-report-device-product-line-1-card-guidance-industry-and-cdrh-reviewers) (2000-07-05) 〔全文〕

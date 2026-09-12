@@ -1,10 +1,10 @@
 ---
-title: "装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南"
+title: "装饰性非矫正隐形眼镜,FDA工作人员,眼科专业人员和消费者：行业指南"
 description: "Decorative, Non-corrective Contact Lenses: Guidance for Industry, FDA Staff, Eye Care Professionals, and Consumers"
 published: 2006-11-24
 ---
 
-# 装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南
+# 装饰性非矫正隐形眼镜,FDA工作人员,眼科专业人员和消费者：行业指南
 
 **Decorative, Non-corrective Contact Lenses: Guidance for Industry, FDA Staff, Eye Care Professionals, and Consumers**
 

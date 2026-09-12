@@ -274,8 +274,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-8-c4fe"
         },
         {
-          "text": "上下肢主被动运动康复训练设备注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-上下肢主被动运动康复训练设备注册技术审查指导原则-52cb23"
+          "text": "上下肢主被动运动康复训练器械注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-上下肢主被动运动康复训练器械注册技术审查指导原则-52cb23"
         },
         {
           "text": "丙型肝炎病毒抗体检测试剂注册审查指导原则",
@@ -310,11 +310,11 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-guidance-08b237790bb3"
         },
         {
-          "text": "中医熏蒸治疗设备注册审查指导原则",
+          "text": "中医熏蒸治疗器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2022-43-cb8d"
         },
         {
-          "text": "中医脉诊设备产品注册审查指导原则",
+          "text": "中医脉诊器械产品注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2024-21-158e"
         },
         {
@@ -350,7 +350,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-376f"
         },
         {
-          "text": "二氧化碳激光治疗设备注册审查指导原则",
+          "text": "二氧化碳激光治疗器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2025-28-bc21"
         },
         {
@@ -438,12 +438,12 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-体外膜氧合-ecmo-循环套包注册审查指导原则-8d72b4"
         },
         {
-          "text": "体外膜肺氧合（ECMO）温度控制设备注册审查指导原则",
+          "text": "体外膜肺氧合（ECMO）温度控制器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-26-1"
         },
         {
-          "text": "体外膜肺氧合（ECMO）设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-体外膜肺氧合-ecmo-设备注册审查指导原则-f8c334"
+          "text": "体外膜肺氧合（ECMO）器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-体外膜肺氧合-ecmo-器械注册审查指导原则-f8c334"
         },
         {
           "text": "体外除颤产品注册技术指导原则",
@@ -574,7 +574,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-21-bb36"
         },
         {
-          "text": "医用吸引设备产品注册技术审查指导原则",
+          "text": "医用吸引器械产品注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-4028b214cca6"
         },
         {
@@ -742,7 +742,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-医疗器械附条件批准上市指导原则-ef010b"
         },
         {
-          "text": "半导体激光治疗设备（第二类）注册审查指导原则（2025年修订版）",
+          "text": "半导体激光治疗器械（第二类）注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-7681"
         },
         {
@@ -854,7 +854,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-天门冬氨酸氨基转移酶测定试剂注册技术审查指导原则-18d54c"
         },
         {
-          "text": "子宫内膜射频消融设备注册技术审查指导原则",
+          "text": "子宫内膜射频消融器械注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2019-59"
         },
         {
@@ -886,7 +886,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-1-ace3"
         },
         {
-          "text": "射频美容设备注册审查指导原则",
+          "text": "射频美容器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-8"
         },
         {
@@ -966,12 +966,12 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-2-5a97"
         },
         {
-          "text": "强脉冲光治疗设备注册审查指导原则（2023年修订版）",
+          "text": "强脉冲光治疗器械注册审查指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-12"
         },
         {
-          "text": "微波消融设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-微波消融设备注册审查指导原则-37f919"
+          "text": "微波消融器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-微波消融器械注册审查指导原则-37f919"
         },
         {
           "text": "微量元素分析仪注册审查指导原则",
@@ -1078,7 +1078,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-b8ea"
         },
         {
-          "text": "放射治疗激光定位设备注册审查指导原则",
+          "text": "放射治疗激光定位器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2024-19-b5d7"
         },
         {
@@ -1170,8 +1170,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2022-41-a9f6"
         },
         {
-          "text": "步态训练设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-步态训练设备注册审查指导原则-b7873a"
+          "text": "步态训练器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-步态训练器械注册审查指导原则-b7873a"
         },
         {
           "text": "气管插管产品注册审查指导原则（2024年修订版）",
@@ -1402,8 +1402,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-1317"
         },
         {
-          "text": "离心式血液成分分离设备技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离设备技术审查指导原则-675cf6"
+          "text": "离心式血液成分分离器械技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离器械技术审查指导原则-675cf6"
         },
         {
           "text": "移动医疗器械注册审查指导原则（2025年修订版）",
@@ -1454,7 +1454,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-19-7"
         },
         {
-          "text": "紫外治疗设备注册审查指导原则（2025年修订版）",
+          "text": "紫外治疗器械注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-b842"
         },
         {
@@ -1462,7 +1462,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-27-e7fd"
         },
         {
-          "text": "红外线治疗设备注册审查指导原则（2025年修订版）",
+          "text": "红外线治疗器械注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-c231"
         },
         {
@@ -1530,8 +1530,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2018-36-1"
         },
         {
-          "text": "肢体加压理疗设备注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-肢体加压理疗设备注册技术审查指导原则-b5cd05"
+          "text": "肢体加压理疗器械注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-肢体加压理疗器械注册技术审查指导原则-b5cd05"
         },
         {
           "text": "肺炎支原体IgMIgG抗体检测试剂注册技术审查指导原则",
@@ -1614,7 +1614,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-23"
         },
         {
-          "text": "腹膜透析设备注册审查指导原则（2024年修订版）",
+          "text": "腹膜透析器械注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-1"
         },
         {
@@ -1662,8 +1662,8 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-血液浓缩器注册技术审查指导原则-457694"
         },
         {
-          "text": "血液融化设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-血液融化设备注册审查指导原则-8cff23"
+          "text": "血液融化器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-血液融化器械注册审查指导原则-8cff23"
         },
         {
           "text": "血液透析器注册技术审查指导原则（2023年修订版）",
@@ -1678,7 +1678,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-血液透析浓缩物注册审查指导原则-2023年修订版-55ef7d"
         },
         {
-          "text": "血液透析用水处理设备注册审查指导原则（2024年修订版）",
+          "text": "血液透析用水处理器械注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2024-19-12"
         },
         {
@@ -1746,15 +1746,15 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-27-7"
         },
         {
-          "text": "超声理疗设备注册审查指导原则（2025年修订版）",
-          "link": "/zh/nmpa/guidance/nmpa-gp-超声理疗设备注册审查指导原则-2025年修订版-2800f5"
+          "text": "超声理疗器械注册审查指导原则（2025年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-超声理疗器械注册审查指导原则-2025年修订版-2800f5"
         },
         {
           "text": "超声经颅多普勒血流分析仪注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-超声经颅多普勒血流分析仪注册审查指导原则-a33533"
         },
         {
-          "text": "超声软组织手术设备注册审查指导原则（2023年修订版）",
+          "text": "超声软组织手术器械注册审查指导原则（2023年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2023-4"
         },
         {
@@ -1906,7 +1906,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-骨水泥套管组件注册技术审查指导原则-35be5a"
         },
         {
-          "text": "骨组织手术设备注册技术审查指导原则（2017年修订版）",
+          "text": "骨组织手术器械注册技术审查指导原则（2017年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2017-146"
         },
         {
@@ -1926,8 +1926,8 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-高敏心肌肌钙蛋白检测试剂注册审查指导原则-65fba4"
         },
         {
-          "text": "高频手术设备注册审查指导原则（2023年修订版）",
-          "link": "/zh/nmpa/guidance/nmpa-gp-高频手术设备注册审查指导原则-2023年修订版-3ee951"
+          "text": "高频手术器械注册审查指导原则（2023年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-高频手术器械注册审查指导原则-2023年修订版-3ee951"
         }
       ]
     },
@@ -2172,11 +2172,11 @@ export default {
           "link": "/zh/nmpa/guidance/classification-of-medical-devices-containing-light-sources-for-myopia-control-and-amblyopia-treatment"
         },
         {
-          "text": "弱视治疗设备（光源不直接照射眼底）注册审查指导原则",
+          "text": "弱视治疗器械（光源不直接照射眼底）注册审查指导原则",
           "link": "/zh/nmpa/guidance/amblyopia-treatment-device"
         },
         {
-          "text": "眼科光学测量设备注册审查指导原则",
+          "text": "眼科光学测量器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2023-13"
         },
         {
@@ -2188,16 +2188,16 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-眼科激光光凝机注册审查指导原则-0a9884"
         },
         {
-          "text": "眼科超声乳化和玻璃体切除设备及附件注册审查指导原则（2025年修订版)",
+          "text": "眼科超声乳化和玻璃体切除器械及附件注册审查指导原则（2025年修订版)",
           "link": "/zh/nmpa/guidance/cmde-2025-28"
         },
         {
-          "text": "眼科超声乳化和眼前节玻璃体切除设备及附件注册技术审查指导原则",
+          "text": "眼科超声乳化和眼前节玻璃体切除器械及附件注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-6e86cd87141a"
         },
         {
-          "text": "眼科超声诊断设备注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-眼科超声诊断设备注册技术审查指导原则-c18ec0"
+          "text": "眼科超声诊断器械注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-眼科超声诊断器械注册技术审查指导原则-c18ec0"
         },
         {
           "text": "眼科飞秒激光治疗机注册技术审查指导原则",
@@ -2412,7 +2412,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-雾化面罩产品注册审查指导原则-b125db"
         },
         {
-          "text": "高流量呼吸治疗设备注册审查指导原则（2023年第26号）",
+          "text": "高流量呼吸治疗器械注册审查指导原则（2023年第26号）",
           "link": "/zh/nmpa/guidance/cmde-2023-26"
         },
         {
@@ -2578,7 +2578,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2022-27"
         },
         {
-          "text": "X射线计算机体层摄影设备同品种临床评价技术审查指导原则",
+          "text": "X射线计算机体层摄影器械同品种临床评价技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2021-2-a88b"
         },
         {
@@ -2654,8 +2654,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2021-73-804e"
         },
         {
-          "text": "医用X射线诊断设备（第三类）同品种临床评价注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-医用x射线诊断设备-第三类-同品种临床评价注册审查指导原则-c40ccf"
+          "text": "医用X射线诊断器械（第三类）同品种临床评价注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-医用x射线诊断器械-第三类-同品种临床评价注册审查指导原则-c40ccf"
         },
         {
           "text": "医用磁共振成像系统同品种临床评价技术审查指导原则（2020年修订版）",
@@ -2702,7 +2702,7 @@ export default {
           "link": "/zh/nmpa/guidance/oral-implant-surgery-navigation-and-positioning-system-cer-2021"
         },
         {
-          "text": "口腔颌面锥形束计算机体层摄影设备临床评价指导原则",
+          "text": "口腔颌面锥形束计算机体层摄影器械临床评价指导原则",
           "link": "/zh/nmpa/guidance/cmde-2019-10"
         },
         {
@@ -2730,11 +2730,11 @@ export default {
           "link": "/zh/nmpa/guidance/pdcb-ci-2025"
         },
         {
-          "text": "子宫内膜去除（热传导、射频消融）设备临床评价技术审查指导原则",
+          "text": "子宫内膜去除（热传导、射频消融）器械临床评价技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2017-212-64b3"
         },
         {
-          "text": "影像型超声诊断设备同品种临床评价技术审查指导原则",
+          "text": "影像型超声诊断器械同品种临床评价技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2021-2"
         },
         {
@@ -2782,8 +2782,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2017-212"
         },
         {
-          "text": "激光治疗设备同品种临床评价注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-激光治疗设备同品种临床评价注册审查指导原则-7be710"
+          "text": "激光治疗器械同品种临床评价注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-激光治疗器械同品种临床评价注册审查指导原则-7be710"
         },
         {
           "text": "牙科种植体系统同品种临床评价注册审查指导原则",
@@ -2814,8 +2814,8 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2020-77"
         },
         {
-          "text": "离心式血液成分分离设备临床评价注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离设备临床评价注册技术审查指导原则-449022"
+          "text": "离心式血液成分分离器械临床评价注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离器械临床评价注册技术审查指导原则-449022"
         },
         {
           "text": "经导管植入式人工主动脉瓣膜临床试验指导原则",
@@ -2830,7 +2830,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2025-16-bc98"
         },
         {
-          "text": "脉搏血氧仪设备临床评价技术指导原则",
+          "text": "脉搏血氧仪器械临床评价技术指导原则",
           "link": "/zh/nmpa/guidance/cmde-2016-21"
         },
         {
@@ -2904,7 +2904,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2018-9"
         },
         {
-          "text": "口腔颌面锥形束计算机体层摄影设备注册技术审查指导原则",
+          "text": "口腔颌面锥形束计算机体层摄影器械注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2017-6"
         },
         {
@@ -2972,7 +2972,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-24-0858"
         },
         {
-          "text": "超声洁牙设备注册审查指导原则（2025年修订版）",
+          "text": "超声洁牙器械注册审查指导原则（2025年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2025-27-2"
         }
       ]
@@ -2982,16 +2982,16 @@ export default {
       "collapsed": true,
       "items": [
         {
-          "text": "X射线计算机体层摄影设备注册技术审查指导原则",
+          "text": "X射线计算机体层摄影器械注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2018-26"
         },
         {
-          "text": "X射线计算机体层摄影设备用管组件可靠性评价注册审查指导原则",
+          "text": "X射线计算机体层摄影器械用管组件可靠性评价注册审查指导原则",
           "link": "/zh/nmpa/guidance/cmde-2026-8"
         },
         {
-          "text": "X射线计算机体层摄影设备能谱成像技术注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-x射线计算机体层摄影设备能谱成像技术注册审查指导原则-3d89db"
+          "text": "X射线计算机体层摄影器械能谱成像技术注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-x射线计算机体层摄影器械能谱成像技术注册审查指导原则-3d89db"
         },
         {
           "text": "一次性使用内窥镜注射针注册审查指导原则",
@@ -3038,16 +3038,16 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-1"
         },
         {
-          "text": "内窥镜手术动力设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-内窥镜手术动力设备注册审查指导原则-3e9246"
+          "text": "内窥镜手术动力器械注册审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-内窥镜手术动力器械注册审查指导原则-3e9246"
         },
         {
           "text": "内窥镜手术用剪注册审查指导原则",
           "link": "/zh/nmpa/guidance/scissors-for-endoscopic-surgery"
         },
         {
-          "text": "医用X射线诊断设备（第三类）注册技术审查指导原则（2016年修订版）",
-          "link": "/zh/nmpa/guidance/nmpa-gp-医用x射线诊断设备-第三类-注册技术审查指导原则-2016年-2e2f7b"
+          "text": "医用X射线诊断器械（第三类）注册技术审查指导原则（2016年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-医用x射线诊断器械-第三类-注册技术审查指导原则-2016年-2e2f7b"
         },
         {
           "text": "医用内窥镜冷光源注册审查指导原则（2024年修订版）",
@@ -3071,7 +3071,7 @@ export default {
         },
         {
           "text": "含儿科应用的医用诊断X射线设备注册审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-含儿科应用的医用诊断x射线设备注册审查指导原则-5f6211"
+          "link": "/zh/nmpa/guidance/nmpa-gp-含儿科应用的医用诊断x射线器械注册审查指导原则-5f6211"
         },
         {
           "text": "基于同类治疗药物的肿瘤伴随诊断试剂说明书更新与技术审查指导原则",
@@ -3090,20 +3090,20 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-gp-家用体外诊断医疗器械注册技术审查指导原则-ff1ce3"
         },
         {
-          "text": "射线束扫描测量设备注册审查指导原则",
+          "text": "射线束扫描测量器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/radiation-beam-scanning-device"
         },
         {
-          "text": "影像型超声诊断设备新技术注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断设备新技术注册技术审查指导原则-b3d7f9"
+          "text": "影像型超声诊断器械新技术注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断器械新技术注册技术审查指导原则-b3d7f9"
         },
         {
-          "text": "影像型超声诊断设备（第三类）注册审查指导原则（2023年修订版）",
-          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断设备-第三类-注册审查指导原则-2023年修订-54bcb5"
+          "text": "影像型超声诊断器械（第三类）注册审查指导原则（2023年修订版）",
+          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断器械-第三类-注册审查指导原则-2023年修订-54bcb5"
         },
         {
-          "text": "影像型超声诊断设备（第二类）注册技术审查指导原则",
-          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断设备-第二类-注册技术审查指导原则-e26581"
+          "text": "影像型超声诊断器械（第二类）注册技术审查指导原则",
+          "link": "/zh/nmpa/guidance/nmpa-gp-影像型超声诊断器械-第二类-注册技术审查指导原则-e26581"
         },
         {
           "text": "摄影X射线机注册审查指导原则（2024年修订版）",
@@ -3178,7 +3178,7 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2024-12"
         },
         {
-          "text": "血管内超声诊断设备注册审查指导原则",
+          "text": "血管内超声诊断器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-fc38e143c22b"
         },
         {
@@ -3198,7 +3198,7 @@ export default {
           "link": "/zh/nmpa/guidance/nmpa-guidance-2f69099aa69c"
         },
         {
-          "text": "造影注射设备注册审查指导原则",
+          "text": "造影注射器械注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-f544922046c5"
         }
       ]
@@ -4116,7 +4116,7 @@ export default {
           "link": "/zh/fda/guidance/applying-human-factors-and-usability-engineering-medical-devices"
         },
         {
-          "text": "血液管组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "血液透析管路组 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions"
         },
         {
@@ -4164,11 +4164,11 @@ export default {
           "link": "/zh/fda/guidance/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices"
         },
         {
-          "text": "整形骨板,螺丝和洗衣机 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "骨科接骨板、螺钉和垫圈 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-non-spinal-bone-plates-screws-and-washers-premarket-notification-510k-submissions"
         },
         {
-          "text": "整形非脊椎金属骨螺丝和洗衣机 - 安全性和性能的性能标准：行业与FDA工作人员指南",
+          "text": "骨科非脊柱金属骨螺钉和垫圈 - 安全性和性能的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance"
         },
         {
@@ -4176,7 +4176,7 @@ export default {
           "link": "/zh/fda/guidance/510k-third-party-review-program-and-third-party-emergency-use-authorization-eua-review"
         },
         {
-          "text": "肠道牙植入物和肠道牙植入物 - 安全性和性能的性能标准：行业与FDA工作人员指南",
+          "text": "骨内牙科种植体和骨内牙科种植体基台 - 安全性和性能的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/endosseous-dental-implants-and-endosseous-dental-implant-abutments-performance-criteria-safety-and"
         },
         {
@@ -4184,11 +4184,11 @@ export default {
           "link": "/zh/fda/guidance/dental-ceramics-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙水泥 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
+          "text": "牙科水门汀 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-cements-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙印花材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南",
+          "text": "牙科印模材料 - 安全性和性能标准的基础路径：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway"
         },
         {
@@ -4248,7 +4248,7 @@ export default {
           "link": "/zh/fda/guidance/non-clinical-performance-assessment-tissue-containment-systems-used-during-power-morcellation"
         },
         {
-          "text": "周围皮肤转光血管 (PTA) 和专业管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "经皮腔内血管成形术(PTA)和专用导管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/peripheral-percutaneous-transluminal-angioplasty-pta-and-specialty-catheters-premarket-notification"
         },
         {
@@ -4312,15 +4312,15 @@ export default {
           "link": "/zh/fda/guidance/user-fees-and-refunds-premarket-approval-applications-and-device-biologics-license-applications"
         },
         {
-          "text": "食品和工业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
+          "text": "行业对\"新品分类要求\"的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-de-novo-classification-requests-effect-fda-review-clock-and-goals"
         },
         {
-          "text": "食品和产业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
+          "text": "行业对市场前批准申请 (PMA) 的行动:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-premarket-approval-applications-pmas-effect-fda-review-clock-and-goals"
         },
         {
-          "text": "食品和产业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
+          "text": "行业对上市前通知的行动 (510(k)) 提交:对FDA审查时钟和目标的影响：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/fda-and-industry-actions-premarket-notification-510k-submissions-effect-fda-review-clock-and-goals"
         },
         {
@@ -4348,15 +4348,15 @@ export default {
           "link": "/zh/fda/guidance/refuse-accept-policy-510ks"
         },
         {
-          "text": "面系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
+          "text": "牙面修复系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/facet-screw-systems-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "牙基树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
+          "text": "牙科基托树脂 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/denture-base-resins-performance-criteria-safety-and-performance-based-pathway"
         },
         {
-          "text": "整形骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
+          "text": "骨科骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway"
         },
         {
@@ -4388,7 +4388,7 @@ export default {
           "link": "/zh/fda/guidance/acceptance-review-de-novo-classification-requests"
         },
         {
-          "text": "含尼丁醇的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南",
+          "text": "含镍钛诺的医疗器械非临床评估的技术考虑因素：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/technical-considerations-non-clinical-assessment-medical-devices-containing-nitinol"
         },
         {
@@ -4408,7 +4408,7 @@ export default {
           "link": "/zh/fda/guidance/mouse-embryo-assay-assisted-reproduction-technology-devices"
         },
         {
-          "text": "拉巴洛斯科普式电力缩器的产品标签：行业与FDA工作人员指南",
+          "text": "腹腔镜普式电力缩器的产品标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/product-labeling-laparoscopic-power-morcellators"
         },
         {
@@ -4424,7 +4424,7 @@ export default {
           "link": "/zh/fda/guidance/regulatory-considerations-microneedling-products"
         },
         {
-          "text": "盐水,凝和其他乳腺植入物：行业与FDA工作人员指南",
+          "text": "盐水、硅凝胶及其他乳房假体：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/saline-silicone-gel-and-alternative-breast-implants"
         },
         {
@@ -4472,7 +4472,7 @@ export default {
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-electrosurgical-devices-general-surgery"
         },
         {
-          "text": "骨 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "骨锚 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/bone-anchors-premarket-notification-510k-submissions"
         },
         {
@@ -4500,7 +4500,7 @@ export default {
           "link": "/zh/fda/guidance/30-day-notices-135-day-premarket-approval-pma-supplements-and-75-day-humanitarian-device-exemption"
         },
         {
-          "text": "膜内,电线和膜配送系统 - 标签考虑：行业与FDA工作人员指南",
+          "text": "腔内导丝和输送系统 - 标签考虑：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/intravascular-catheters-wires-and-delivery-systems-lubricious-coatings-labeling-considerations"
         },
         {
@@ -4532,7 +4532,7 @@ export default {
           "link": "/zh/fda/guidance/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de"
         },
         {
-          "text": "金属可扩展的胆固醇 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
+          "text": "金属可扩张胆道支架 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/metal-expandable-biliary-stents-premarket-notification-510k-submissions"
         },
         {
@@ -4568,7 +4568,7 @@ export default {
           "link": "/zh/fda/guidance/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k"
         },
         {
-          "text": "含素的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南",
+          "text": "含镍的医疗器械和组合产品:标签和安全测试的建议：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/heparin-containing-medical-devices-and-combination-products-recommendations-labeling-and-safety"
         },
         {
@@ -4624,7 +4624,7 @@ export default {
           "link": "/zh/fda/guidance/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and"
         },
         {
-          "text": "通过灵活的胃肠内镜来灌使用的门和配件的十字污染风险：行业与FDA工作人员指南",
+          "text": "通过灵活的胃肠内镜来灌使用的管腔和附件的交叉污染风险：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/mitigating-risk-cross-contamination-valves-and-accessories-used-irrigation-through-flexible"
         },
         {
@@ -4708,7 +4708,7 @@ export default {
           "link": "/zh/fda/guidance/safety-considerations-mitigate-risks-misconnections-small-bore-connectors-intended-enteral"
         },
         {
-          "text": "输入 产品总寿命周期：行业与FDA工作人员指南",
+          "text": "纳入产品全生命周期：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/infusion-pumps-total-product-life-cycle"
         },
         {
@@ -4784,7 +4784,7 @@ export default {
           "link": "/zh/fda/guidance/investigational-device-exemption-ide-guidance-retinal-prostheses"
         },
         {
-          "text": "脉搏血氧仪 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
+          "text": "脉搏血氧白内障手术器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/pulse-oximeters-premarket-notification-submissions-510ks-guidance-industry-and-food-and-drug"
         },
         {
@@ -4800,7 +4800,7 @@ export default {
           "link": "/zh/fda/guidance/clinical-investigations-devices-indicated-treatment-urinary-incontinence-guidance-industry-and-fda"
         },
         {
-          "text": "血兰塞标签：行业与FDA工作人员指南",
+          "text": "采血针标签：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/blood-lancet-labeling-guidance-industry-and-food-and-drug-administration-staff"
         },
         {
@@ -4824,7 +4824,7 @@ export default {
           "link": "/zh/fda/guidance/modifications-devices-subject-premarket-approval-pma-pma-supplement-decision-making-process"
         },
         {
-          "text": "门的治疗用门 器的临床研究设计：行业与FDA工作人员指南",
+          "text": "心律失常治疗用消融器械的临床研究设计：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/clinical-study-designs-catheter-ablation-devices-treatment-atrial-flutter"
         },
         {
@@ -4852,7 +4852,7 @@ export default {
           "link": "/zh/fda/guidance/biological-indicator-bi-premarket-notification-510k-submissions"
         },
         {
-          "text": "茎假肢的非临床信息：行业与FDA工作人员指南",
+          "text": "阴茎假体的非临床信息：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/non-clinical-information-femoral-stem-prostheses"
         },
         {
@@ -4872,7 +4872,7 @@ export default {
           "link": "/zh/fda/guidance/dental-handpieces-premarket-notification-510k-submissions"
         },
         {
-          "text": "基拉和替代基拉 叶片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南",
+          "text": "角膜刀和替代角膜刀刀片上市前通知 [510(k) ] 提交：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/keratome-and-replacement-keratome-blades-premarket-notification-510k-submissions"
         },
         {
@@ -4880,7 +4880,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-informed-consent-in-vitro-diagnostic-device-studies-using-leftover-human-specimens-are-not"
         },
         {
-          "text": "仪 - 上市前通知 [510 ]：行业与FDA工作人员指南",
+          "text": "白内障手术器械 - 上市前通知 [510 ]：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/tonometers-premarket-notification-510k-submissions"
         },
         {
@@ -4892,7 +4892,7 @@ export default {
           "link": "/zh/fda/guidance/medical-devices-sharps-injury-prevention-features-guidance-industry-and-fda-staff"
         },
         {
-          "text": "季节性囊和囊:上市前通知提交的信息 (510k)：行业与FDA工作人员指南",
+          "text": "季节性过敏性鼻炎和哮喘:上市前通知提交的信息 (510k)：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/menstrual-tampons-and-pads-information-premarket-notification-submissions-510ks-guidance-industry"
         },
         {
@@ -4932,7 +4932,7 @@ export default {
           "link": "/zh/fda/guidance/premarket-notification-510k-submissions-chemical-indicators-guidance-industry-and-fda-staff"
         },
         {
-          "text": "对于某些上市前应用程序的信息：行业与FDA工作人员指南",
+          "text": "某些上市前申请的信息要求：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/quality-system-information-certain-premarket-application-reviews"
         },
         {
@@ -4968,11 +4968,11 @@ export default {
           "link": "/zh/fda/guidance/guidance-submission-premarket-notifications-photon-emitting-brachytherapy-sources-guidance-industry"
         },
         {
-          "text": "超额代购 (OTC) 人类胆淋病 (hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南",
+          "text": "非处方(OTC)人绒毛膜促性腺激素(hCG) 准则 510(k)：行业与FDA审评人员/工作人员指南",
           "link": "/zh/fda/guidance/guidance-over-counter-otc-human-chorionic-gonadotropin-hcg-510ks-guidance-industry-and-fda"
         },
         {
-          "text": "东正化器械硬气透透镜的前销售指南：行业指南",
+          "text": "矫形器械硬性透气镜片的前销售指南：行业指南",
           "link": "/zh/fda/guidance/guidance-premarket-submissions-orthokeratology-rigid-gas-permeable-contact-lenses-guidance-industry"
         },
         {
@@ -4984,7 +4984,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-document-premarket-notification-submissions-nitric-oxide-delivery-apparatus-nitric-oxide"
         },
         {
-          "text": "部硬化植入物和FDA人员的上市前通知内容指南：行业指南",
+          "text": "半约束性植入物和FDA人员的上市前通知内容指南：行业指南",
           "link": "/zh/fda/guidance/guidance-content-premarket-notifications-penile-rigidity-implants-guidance-industry-and-fda-staff"
         },
         {
@@ -5064,7 +5064,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-document-nonprescription-sunglasses-guidance-industry"
         },
         {
-          "text": "动力吸气 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南",
+          "text": "动力抽吸 510 ((k) 项的指南：行业与FDA审评人员/工作人员指南",
           "link": "/zh/fda/guidance/guidance-document-powered-suction-pump-510ks-guidance-industry-and-fda-reviewersstaff"
         },
         {
@@ -5084,7 +5084,7 @@ export default {
           "link": "/zh/fda/guidance/uniform-contraceptive-labeling-guidance-industry"
         },
         {
-          "text": "洗衣机和洗衣机消毒器的指南文件,用于处理可重复使用的医疗器械",
+          "text": "清洗机和清洗消毒器的指南文件,用于处理可重复使用的医疗器械",
           "link": "/zh/fda/guidance/guidance-document-washers-and-washer-disinfectors-intended-processing-reusable-medical-devices"
         },
         {
@@ -5140,7 +5140,7 @@ export default {
           "link": "/zh/fda/guidance/thermal-endometrial-ablation-devices-submission-guidance-ide"
         },
         {
-          "text": "镜和妇科镜 - 提交指南 510(k)",
+          "text": "阴道镜和宫腔镜 - 提交指南 510(k)",
           "link": "/zh/fda/guidance/hysteroscopes-and-gynecology-laparoscopes-submission-guidance-510k"
         },
         {
@@ -5152,7 +5152,7 @@ export default {
           "link": "/zh/fda/guidance/hysteroscopic-and-laparoscopic-insufflators-submission-guidance-510k"
         },
         {
-          "text": "运动设备上市前通知[510(K)]申请准备指南",
+          "text": "运动器械上市前通知[510(K)]申请准备指南",
           "link": "/zh/fda/guidance/guidance-document-preparation-premarket-notification-510k-applications-exercise-equipment"
         },
         {
@@ -5192,7 +5192,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-content-premarket-notifications-conventional-and-antimicrobial-foley-catheters"
         },
         {
-          "text": "关于扩展拉巴洛斯科仪器 (ELD) 上市前通知的准备指南",
+          "text": "关于扩展腹腔镜仪器 (ELD) 上市前通知的准备指南",
           "link": "/zh/fda/guidance/guidance-preparation-premarket-notification-extended-laparoscopy-devices-eld"
         },
         {
@@ -5208,7 +5208,7 @@ export default {
           "link": "/zh/fda/guidance/letter-manufacturers-distributors-and-importers-condom-products-included-condom-packet-398"
         },
         {
-          "text": "对于结器,计量剂量吸入器,间隔器和动机的审查员指南",
+          "text": "对于雾化器、定量吸入器,间隔器和动机的审查员指南",
           "link": "/zh/fda/guidance/reviewer-guidance-nebulizers-metered-dose-inhalers-spacers-and-actuators"
         },
         {
@@ -5216,7 +5216,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-premarket-notification-510k-submissions-surgical-gowns-and-surgical-drapes"
         },
         {
-          "text": "关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜洗衣机,洗衣机/消毒器和消毒器的申请",
+          "text": "关于上市前通知的指南 [510(k) ] 提交用于医疗保健设施的自动化内膜清洗机、清洗消毒器和灭菌器的申请",
           "link": "/zh/fda/guidance/guidance-premarket-notification-510k-submissions-automated-endoscope-washers-washerdisinfectors-and"
         },
         {
@@ -5260,7 +5260,7 @@ export default {
           "link": "/zh/fda/guidance/guidance-guidelines-evaluation-hysteroscopic-sterilization-devices"
         },
         {
-          "text": "紧急使用氧气发电机和氧气设备的审查指南",
+          "text": "紧急使用氧气发电机和氧气器械的审查指南",
           "link": "/zh/fda/guidance/review-guidelines-oxygen-generators-and-oxygen-equipment-emergency-use"
         }
       ]
@@ -5530,7 +5530,7 @@ export default {
           "link": "/zh/fda/guidance/classification-and-requirements-laser-illuminated-projectors-lips-laser-notice-no-57"
         },
         {
-          "text": "某些透视设备要求的政策澄清：行业与FDA工作人员指南",
+          "text": "某些透视器械要求的政策澄清：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/policy-clarification-certain-fluoroscopic-equipment-requirements"
         },
         {
@@ -5742,11 +5742,11 @@ export default {
           "link": "/zh/fda/guidance/implanted-blood-access-devices-hemodialysis"
         },
         {
-          "text": "耐冲击镜头:问题及 答案：行业与FDA工作人员指南",
+          "text": "耐冲击镜片头:问题及 答案：行业与FDA工作人员指南",
           "link": "/zh/fda/guidance/impact-resistant-lenses-questions-and-answers"
         },
         {
-          "text": "装饰性,非纠正性接触力,FDA工作人员,眼科专业人员和消费者：行业指南",
+          "text": "装饰性非矫正隐形眼镜,FDA工作人员,眼科专业人员和消费者：行业指南",
           "link": "/zh/fda/guidance/decorative-non-corrective-contact-lenses"
         },
         {
