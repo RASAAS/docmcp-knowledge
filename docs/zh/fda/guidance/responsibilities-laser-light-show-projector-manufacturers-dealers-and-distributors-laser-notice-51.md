@@ -36,7 +36,7 @@ PDF：[https://www.fda.gov/media/74032/download](https://www.fda.gov/media/74032
 电子产品器械处 第三执法司 合规办公室
 
 前言 公众意见
-可随时向卷宗管理处提交意见与建议供本机构考虑，地址：Division of Management Systems and Policy, Office of Human Resources and Management Services, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD, 20852。提交意见时请注明本指南文件的确切标题。本机构可能在下次修订或更新本文件之前不会就意见采取行动。
+可随时向卷宗管理处提交意见与建议供FDA考虑，地址：Division of Management Systems and Policy, Office of Human Resources and Management Services, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD, 20852。提交意见时请注明本指南文件的确切标题。FDA可能在下次修订或更新本文件之前不会就意见采取行动。
 关于本指南使用或解释的问题，请联系 LT Sean Boyd, USPHS，电话301-796-5895，或电子邮件 Sean.Boyd@fda.hhs.gov。
 
 额外副本
@@ -44,7 +44,7 @@ PDF：[https://www.fda.gov/media/74032/download](https://www.fda.gov/media/74032
 
 激光通告51
 激光灯光表演投影仪制造商、经销商与分销商的责任
-本文件旨在提供指导。它代表本机构目前对该主题的观点。它不为任何人创设或授予任何权利，亦不约束FDA（FDA）或公众。若替代方法满足适用法规与条例的要求，可采用该替代方法。
+本文件旨在提供指导。它代表FDA目前对该主题的观点。它不为任何人创设或授予任何权利，亦不约束FDA（FDA）或公众。若替代方法满足适用法规与条例的要求，可采用该替代方法。
 
 致
 激光灯光表演投影仪制造商、经销商与分销商

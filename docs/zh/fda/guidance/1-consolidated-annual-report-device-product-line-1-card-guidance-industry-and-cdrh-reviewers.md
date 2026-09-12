@@ -37,7 +37,7 @@ PDF：[https://www.fda.gov/media/71752/download](https://www.fda.gov/media/71752
 起搏与电生理器械组 心血管与呼吸器械司 器械评价办公室
 
 前言 公众意见
-可随时向 Mitchell Shein（心血管与呼吸器械司司长，器械评价办公室，HFZ-450，9200 Corporate Blvd., Rockville, MD 20850）提交意见与建议供本机构考虑。本机构可能在下次修订或更新本文件之前不会就意见采取行动。关于本指南使用或解释的问题，请联系 Mitchell Shein，电话 (240) 276-4080，或电子邮件 Mitchel.Shein@fda.hhs.gov。
+可随时向 Mitchell Shein（心血管与呼吸器械司司长，器械评价办公室，HFZ-450，9200 Corporate Blvd., Rockville, MD 20850）提交意见与建议供FDA考虑。FDA可能在下次修订或更新本文件之前不会就意见采取行动。关于本指南使用或解释的问题，请联系 Mitchell Shein，电话 (240) 276-4080，或电子邮件 Mitchel.Shein@fda.hhs.gov。
 
 额外副本
 可从万维网/CDRH主页获取额外副本：http://www.fda.gov/cdrh/ode/guidance/1167.pdf，或通过 CDRH Facts on Demand 1-800-899-0381 或 301-827-0111，在提示输入文件架号时指定编号1167。
@@ -57,7 +57,7 @@ PDF：[https://www.fda.gov/media/71752/download](https://www.fda.gov/media/71752
 1. 提交份数
 每份1-CARD提交应一式两份提交至PMA文件邮寄中心（HFZ-401），器械与放射健康中心，FDA，9200 Corporate Boulevard, Rockville, Maryland 20850。提交应清晰标识为“年度报告”，并引用拟纳入的全部起搏器型号的PMA（或PDP）编号。
 
-¹本文件旨在提供指导。它代表本机构对上述事项的当前观点。它不为任何人创设或授予任何权利，亦不约束FDA或公众。若替代方法满足适用法规、条例或二者的要求，可采用该替代方法。
+¹本文件旨在提供指导。它代表FDA对上述事项的当前观点。它不为任何人创设或授予任何权利，亦不约束FDA或公众。若替代方法满足适用法规、条例或二者的要求，可采用该替代方法。
 
 2. 封面信
 每份1-CARD提交应包含封面信。该封面信应引用1-CARD提交中包含的每一个PMA与PDP，并应提供表格或图表，标明哪一起搏器（按商品名与型号）由哪一PMA（和/或PDP）申请涵盖。建议制造商提供“族谱”，以层级格式展示其产品线，从平台（具有共用混合电路的产品）开始，并映射至产品族与型号名称。

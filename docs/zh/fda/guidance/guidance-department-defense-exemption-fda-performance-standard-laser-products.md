@@ -39,7 +39,7 @@ PDF：[https://www.fda.gov/media/71322/download](https://www.fda.gov/media/71322
 
 前言
 公众意见
-可随时向卷宗管理处提交意见与建议供本机构考虑，地址：Division of Management Systems and Policy, Office of Human Resources and Management Services, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD, 20852。提交意见时请注明本指南文件的确切标题。本机构可能在下次修订或更新本文件之前不会就意见采取行动。
+可随时向卷宗管理处提交意见与建议供FDA考虑，地址：Division of Management Systems and Policy, Office of Human Resources and Management Services, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD, 20852。提交意见时请注明本指南文件的确切标题。FDA可能在下次修订或更新本文件之前不会就意见采取行动。
 关于本指南使用或解释的问题，请联系 Jerome E. Dennis，电话301-796-5710，或电子邮件 jxd@cdrh.fda.gov。
 
 额外副本
@@ -47,7 +47,7 @@ PDF：[https://www.fda.gov/media/71322/download](https://www.fda.gov/media/71322
 
 国防部豁免FDA激光产品性能标准指南（激光通告第52号）
 
-本文件旨在提供指导。它代表本机构目前对该主题的观点。它不为任何人创设或授予任何权利，亦不约束FDA（FDA）或公众。若替代方法满足适用法规与条例的要求，可采用该替代方法。
+本文件旨在提供指导。它代表FDA目前对该主题的观点。它不为任何人创设或授予任何权利，亦不约束FDA（FDA）或公众。若替代方法满足适用法规与条例的要求，可采用该替代方法。
 
 目的
 本指南澄清并更新1976年授予美国国防部（DoD）的FDA豁免编号76EL-01DOD的条件，该豁免适用于为作战或作战训练采购的激光产品，或因国家安全原因被分类的激光产品。本指南补充激光通告第9号与第15号，并指明各军种中管理该豁免的当前资源。
@@ -66,7 +66,7 @@ PDF：[https://www.fda.gov/media/71322/download](https://www.fda.gov/media/71322
 DoD豁免可如何适用的一个例子是：豁免军用激光产品遵守FDA对激光辐射发射指示器与警告标签的要求。这些可见或可听的发射指示器以及色彩鲜艳的标签，对拟在需要伪装与隐蔽的作战环境中使用的产品并不适当。
 
 最轻负担方法
-本指南文件中识别的问题，代表我们认为在您的产品可上市之前需要解决的问题。在制定指南时，我们仔细考虑了本机构决策的相关法定标准。我们亦考虑了您试图遵守指南并解决我们已识别问题可能产生的负担。我们相信已考虑了解决指南文件中所列问题的最轻负担方法。但是，若您认为存在负担更轻的解决方式，应遵循“解决最轻负担问题的建议方法”文件中概述的程序。该文件可在我们的中心网页获取：http://www.fda.gov/cdrh/modact/leastburdensome.html。
+本指南文件中识别的问题，代表我们认为在您的产品可上市之前需要解决的问题。在制定指南时，我们仔细考虑了FDA决策的相关法定标准。我们亦考虑了您试图遵守指南并解决我们已识别问题可能产生的负担。我们相信已考虑了解决指南文件中所列问题的最轻负担方法。但是，若您认为存在负担更轻的解决方式，应遵循“解决最轻负担问题的建议方法”文件中概述的程序。该文件可在我们的中心网页获取：http://www.fda.gov/cdrh/modact/leastburdensome.html。
 
 指南
 制造商必须从经授权的DoD采购机构获得豁免函，方可就特定产品使用DoD豁免。制造商必须在销售前获得DoD豁免函，并在随后向任何DoD机构销售时予以保留。制造商对“军事豁免”激光产品的任何后续修改均需要新的DoD豁免函。DoD豁免函可规定单位数量、军种和/或时间段。

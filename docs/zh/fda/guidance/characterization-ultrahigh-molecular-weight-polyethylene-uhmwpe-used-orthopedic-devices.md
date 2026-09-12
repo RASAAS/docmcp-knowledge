@@ -70,13 +70,13 @@ Polyethylene (UHMWPE) Used in Orthopedic and Spinal Devices,” ASTM Internation
 
 ## IV. 材料加工与表征
 对于所有材料类型和提交类型（510(k)、De Novo、PMA、HDE或IDE），FDA建议您提供以下有关UHMWPE材料的一般技术信息，以确定所使用的UHMWPE类型： · 起始树脂（例如，GUR 1020、GUR 1050）； · 树脂固结方法（例如，柱塞挤出、模压成型）；以及 · 最终灭菌方法。6 如果采用辐射灭菌，应提供辐射类型（例如，伽马射线、电子束）和输送剂量或等效测量值，以及对包装和包装环境的描述（例如，阻隔膜、惰性气体、真空）。
-根据UHMWPE的类型，应提供不同的力学和化学表征，如下文更详细的讨论。该表征信息总结在附录2中。有关上市前提交资料中非临床台架性能测试完整测试报告的推荐内容和格式的信息，请参阅FDA指南《上市前提交资料中非临床台架性能测试信息的推荐内容和格式》（Recommended Content and Format of Non-Clinical Bench Performance Testing Information in Premarket Submissions）。7 如果您认为本文件中描述的信息或测试不适用于您的器械，您应提供一份基本原理，解释为什么您认为推荐的信息或测试不适用。
+根据UHMWPE的类型，应提供不同的力学和化学表征，如下文更详细的讨论。该表征信息总结在附录2中。有关上市参照器械交资料中非临床台架性能测试完整测试报告的推荐内容和格式的信息，请参阅FDA指南《上市参照器械交资料中非临床台架性能测试信息的推荐内容和格式》（Recommended Content and Format of Non-Clinical Bench Performance Testing Information in Premarket Submissions）。7 如果您认为本文件中描述的信息或测试不适用于您的器械，您应提供一份基本原理，解释为什么您认为推荐的信息或测试不适用。
 
 ### A. 常规UHMWPE
-常规UHMWPE的材料特性（粉末和加工成型件）应符合ASTM F648的规范，我们建议您在适当时在上市前提交资料中包含符合ASTM F648的符合性声明。8 对于骨科植入物，我们建议您考虑ASTM F648表2中总结的信息，该表确定了加工成型的常规UHMWPE的材料性能规范。ASTM F648中也引用了通常用于评估这些性能的标准测试方法。您应在向FDA提交的监管申报资料中提供常规UHMWPE的以下材料性能： · 拉伸性能（例如，屈服强度、极限拉伸强度和断裂伸长率）；
+常规UHMWPE的材料特性（粉末和加工成型件）应符合ASTM F648的规范，我们建议您在适当时在上市参照器械交资料中包含符合ASTM F648的符合性声明。8 对于骨科植入物，我们建议您考虑ASTM F648表2中总结的信息，该表确定了加工成型的常规UHMWPE的材料性能规范。ASTM F648中也引用了通常用于评估这些性能的标准测试方法。您应在向FDA提交的监管申报资料中提供常规UHMWPE的以下材料性能： · 拉伸性能（例如，屈服强度、极限拉伸强度和断裂伸长率）；
 
 6 《标记为无菌的器械在上市前通知(510(k))提交资料中无菌信息的提交与审查》（Submission and Review of Sterility Information in Premarket Notification (510(k)) Submissions for Devices Labeled as Sterile），网址：http://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm109897.pdf。
-《医疗器械上市前提交资料中的共识标准》（Consensus Standards in Premarket Submissions for Medical Devices）
+《医疗器械上市参照器械交资料中的共识标准》（Consensus Standards in Premarket Submissions for Medical Devices）
 (https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM077295)。
 - 抗冲击性（例如，悬臂梁冲击(Izod)）；以及 · 密度。
 
@@ -111,7 +111,7 @@ HXLPE与常规UHMWPE的主要区别在于，经过广泛辐射交联的UHMWPE吸
 
 最后，还应对处于最终组件设计外形尺寸的HXLPE进行特定器械的撞击和/或疲劳研究，以测试锁定机制、柱以及其他可能对疲劳裂纹扩展敏感的设计特征。请参考任何适用的特定器械指南文件（如有）中的建议，或联系相应的审查部门以获取对拟议测试的意见。
 
-对于通过电离辐射以外的方法（如过氧化物、硅烷、高温暴露）进行广泛交联的UHMWPE，可能会根据交联程序要求进行额外测试，例如评估残留过氧化物浓度和反应副产物。如果使用不同的交联方法，我们建议在提交上市申请之前与本机构讨论您拟议的程序和任何额外的表征评估。有关与FDA工作人员会议的更多信息，请参阅指南《医疗器械申报资料反馈请求：预申报计划与FDA工作人员会议》9。
+对于通过电离辐射以外的方法（如过氧化物、硅烷、高温暴露）进行广泛交联的UHMWPE，可能会根据交联程序要求进行额外测试，例如评估残留过氧化物浓度和反应副产物。如果使用不同的交联方法，我们建议在提交上市申请之前与FDA讨论您拟议的程序和任何额外的表征评估。有关与FDA工作人员会议的更多信息，请参阅指南《医疗器械申报资料反馈请求：预申报计划与FDA工作人员会议》9。
 
 ### C. 抗氧化高交联超高分子量聚乙烯 (AO-HXLPE)
 AO-HXLPE与HXLPE的主要区别在于，在暴露于辐射之前或之后添加了抗氧化剂（如α-生育酚），并且该材料未在其熔融温度以上进行热处理。除了第IV.A节中对常规UHMWPE和第IV.B节中对HXLPE要求的信息外，还应提供以下额外的表征信息，以解决因添加抗氧化剂而引起的特定问题：
@@ -126,7 +126,7 @@ AO-HXLPE与HXLPE的主要区别在于，在暴露于辐射之前或之后添加�
 对于有关特定器械磨损测试的问题，我们建议联系相应的审查部门。
 在进行磨损测试时，以下FDA认可的标准可能会有所帮助：
 · ASTM F732：全关节假体用聚合物材料磨损测试的标准测试方法
-· ASTM F1714：模拟器装置中髋关节假体设计重量法磨损评估的标准指南
+· ASTM F1714：模拟器器械中髋关节假体设计重量法磨损评估的标准指南
 · ASTM F2423：全椎间盘假体功能、运动学和磨损评估的标准指南
 · ISO 14242-1：外科植入物 – 全髋关节假体的磨损 – 第1部分：磨损试验机的载荷和位移参数及相应的测试环境条件
 · ISO 14242-2：外科植入物 – 全髋关节假体的磨损 – 第2部分：测量方法
@@ -244,13 +244,13 @@ ISO 10993-1 | 医疗器械生物学评价——第1部分：风险管理过程�
 
 [^7]: 可在 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM606051 获取。
 
-[^8]: 有关在上市前提交中使用标准的更多信息，请参阅“自愿性的适当使用
+[^8]: 有关在上市参照器械交中使用标准的更多信息，请参阅“自愿性的适当使用
 
 [^9]: 可在 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM311176 获取。
 
 [^12]: 可在 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM311176 获取。关于器械主文档(MAF)中原材料的信息，我们建议您包含相关主文档的授权信(LOA)，并确保您说明后续的加工、清洗和灭菌步骤，以解决最终灭菌器械的生物相容性问题。此外，如果适用，您可以声明符合公认的材料共识标准。
 
-[^13]: 可在 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM348890 获取。 · 抗氧化剂的添加引起了对抗氧化剂本身生物相容性以及辐射诱导降解产物生物相容性的关注。第二个关注点通常适用于含有抗氧化剂并已暴露于辐射的材料（即AO-HXLPE，或可能是非传统UHMWPE）。对于接触组织/骨骼的永久植入器械，FDA建议您按照上述引用的CDRH 2016年生物相容性指南提交生物相容性评估。 · 磨损碎屑是任何含有UHMWPE的关节器械组件的重要考虑因素。因此，应评估机体对从磨损碎屑中浸出的任何抗氧化剂及相关降解产物的反应。这可以通过将磨损模拟器产生的磨损颗粒或其他代表性颗粒注射到适当的动物模型中来实现。测试结果应与对照组进行比较。我们鼓励您在启动动物测试之前提交包含测试方案的预提交(Pre-Submission)以供审查。作为动物测试的替代方案，可以证明所产生的磨损碎屑与合法上市的其他类似器械具有相似的颗粒大小/数量/形状，并且该抗氧化剂及其降解产物不具有生物利用度。
+[^13]: 可在 https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM348890 获取。 · 抗氧化剂的添加引起了对抗氧化剂本身生物相容性以及辐射诱导降解产物生物相容性的关注。第二个关注点通常适用于含有抗氧化剂并已暴露于辐射的材料（即AO-HXLPE，或可能是非传统UHMWPE）。对于接触组织/骨骼的永久植入器械，FDA建议您按照上述引用的CDRH 2016年生物相容性指南提交生物相容性评估。 · 磨损碎屑是任何含有UHMWPE的关节器械组件的重要考虑因素。因此，应评估机体对从磨损碎屑中浸出的任何抗氧化剂及相关降解产物的反应。这可以通过将磨损模拟器产生的磨损颗粒或其他代表性颗粒注射到适当的动物模型中来实现。测试结果应与对照组进行比较。我们鼓励您在启动动物测试之参照器械交包含测试方案的预提交(Pre-Submission)以供审查。作为动物测试的替代方案，可以证明所产生的磨损碎屑与合法上市的其他类似器械具有相似的颗粒大小/数量/形状，并且该抗氧化剂及其降解产物不具有生物利用度。
 
 <!-- fulltext-end -->
 ---
