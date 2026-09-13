@@ -57,7 +57,7 @@ PDF：https://www.fda.gov/media/107094/download
 - 应描述物体器械的任何独特特征或技术特点,例如,包括但不限于:说明各类应用器(例如手持应用器、固定式应用器,使手无手操作等)、多种模式或频率。
 - 对于固定应用器,如果与器械有关,应适当说明温度上升的可能范围。说明移动应用器可以降低空间峰值温度(热点)并提高空间最低温度(冷点)。
 - 应当提供超声波场的说明(或图片)。
-### B. 预测比较
+### B. 参照比较
 对于在510(k)程序下审查的器械,制造商必须将其新器械与类似的合法销售的参照器械进行比较,以支持其实质性等同性(《开销和开销法》第513(i)节);21 CFR 807.87(f).这一比较应提供信息,说明你的器械如何与前置器械相似和不同。最好尽可能同时进行平行比较,请见下文关于如何组织这种资料的例子。
 应为每一治疗头和每一声波工作频率提供这类信息。此外,您还应识别和比较任何与该器械有关的配件。
 表1A.器械描述目标器械 目标器械预设器械 (KXXX) 使用制造商控制台/放大器尺寸的标志(Lx Wx Hcm) 处理头尺寸(Lx Wx Hcm) 控制台/加速器重量(kkn) 处理头重量(kk) 目标器械预设器械(KXXX) 超声波生成的电源供应泄漏当前水晶材料技术(例如:压电,(cm) 声波工作频率和准确度(cm)
@@ -154,7 +154,7 @@ PDF：https://www.fda.gov/media/107094/download
 光束不统一比率(BNR) 最大正米正方形的声压与r.m.m.s平方空间平均数之比。声压, 空间平均数 接管有效辐射区。
 超声波波束三种类型之一的超声波束描述性分类:凝聚、凝聚或差异。
 活性区域系数Q符合以下不平等条件的相束: - 0.05 cm-1 Q + Q 0.1 cm-1。
-连续波波,其比例 pp/ ++2prms,在波束对齐轴远处任何一点, 均小于或等于 1.05,其中pp是时间高峰声压,prms是r.m.m.s。
+连续波波,其比例 pp/ https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices 均小于或等于 1.05,其中pp是时间高峰声压,prms是r.m.m.s。
 声压
 活性区域系数Q遵循以下不平等的差别波束:Q > 0.1厘米-1。
 脉冲周期与脉冲重复周期的比率。
@@ -181,9 +181,9 @@ Ie = P/AER 给出的有效强度强度,其中P为输出功率,AER为有效辐射
 
 ## 脚注
 
-[^1]: 可在  查阅
+[^1]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^2]: 可在以下网站查阅:[参见原文链接] 自愿-协商一致标准-上市前提交-医疗器械
+[^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^3]: 缩写为510k
 
@@ -193,11 +193,11 @@ Ie = P/AER 给出的有效强度强度,其中P为输出功率,AER为有效辐射
 
 [^7]: 510k 软件改变现有器械
 
-[^8]: 可在以下网站查阅:[参见原文链接]
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-management-cybersecurity-medical-devices
 
-[^9]: 医疗器械,可在++%%%
+[^9]: 医疗器械,可在https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices
 
-[^10]: 可用于[参见原文链接]+
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-medical-devices-containing-shelf-ots-software
 
 [^11]: 标准-iso-10993-1生物评价-医疗器械-第1部分-评价-和/
 
@@ -205,5 +205,5 @@ Ie = P/AER 给出的有效强度强度,其中P为输出功率,AER为有效辐射
 
 [^14]: 制造地点、月份和年份(例如:制造:月和月
 
-[^15]: 可用于++%%
+[^15]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices
 

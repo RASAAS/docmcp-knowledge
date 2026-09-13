@@ -4,6 +4,8 @@ description: "Spinal Plating Systems - Performance Criteria for Safety and Perfo
 published: 2020-12-11
 ---
 
+
+
 # 脊柱涂层系统 - 安全性和性能基础的性能标准：行业与FDA工作人员指南
 
 **Spinal Plating Systems - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
@@ -53,8 +55,8 @@ PDF：https://www.fda.gov/media/130867/download
 ** 标牌的最大厚度或剖面应低于所列值,未规定最小板厚度;然而,厚度应足以使板块达到本指南中概述的机械测试接受标准。
 具有以下特征的子宫颈和左脑脊椎电镀系统没有资格通过本指南获得《基于安全和性能的途径》:• 装饰或装有固定器械的板块,除螺丝螺丝之外;设计为“瓶装”的板板。
 - 电镀电镀系统(即不至少跨越一个功能性脊柱的板板)
-超出本安全和绩效指南文件范围的一般性指导,涉及为脊柱电镀系统(即标签)提交510(k),4 FDA可逐案确定,需要额外数据来评价该器械是否适合《安全和性能途径》。在你确定有必要在本指南所确定的测试之外进行其他测试的情况下,确定该器械是否适合《安全和性能途径》,我们鼓励你提交一份提交前报告,5 以便在提交510(k)之前与FDA进行讨论。
-## III. 测试绩效标准
+超出本安全和性能指南文件范围的一般性指导,涉及为脊柱电镀系统(即标签)提交510(k),4 FDA可逐案确定,需要额外数据来评价该器械是否适合《安全和性能途径》。在你确定有必要在本指南所确定的测试之外进行其他测试的情况下,确定该器械是否适合《安全和性能途径》,我们鼓励你提交一份提交前报告,5 以便在提交510(k)之前与FDA进行讨论。
+## III. 测试性能标准
 如果您的器械适合通过安全和性能路径提交, 您选择使用此选项,您无需对合法销售的参照器械进行直接比较测试,以证明实质性等同的性能特性。为确保本指南中概述的性能标准保持当代水平,并考虑到最近清理工作的相关数据,FDA建议,除提交的其他资料外(例如:下文为每项测试或评估确定的符合性声明。
 除非下文中提交信息章节另有说明,否则,结果摘要、试验程序等测试信息,或完整测试报告应作为《公约》
 
@@ -84,7 +86,7 @@ Fatigue 精确度(最低故障负荷与最高既定淘汰量的比率)应达到A
 资料来源:FDA的指导: 提交和审查上市前通知中的消毒信息(510(k)),关于将器械标为消毒器械的提交10。
 - 保健环境中的后处理医疗器械:验证方法和标签11
 提交资料:如果使用既定的A类灭菌方法,请提供第五.A节所述的资料。(a) FDA指导性提交和审查上市前通知(510(k))中的静态信息(510(k))关于将器械标为静态的提交;验证数据本身无须证明相当的等同。
-生物相容性评价:为了确定生物相容性终点,作为生物相容性评价的一部分,你应使用器械和辐射健康中心(CDRH)指导准则附件A使用国际标准ISO 10993-1。医疗器械生物评估 -- -- 第1部分:本文件其余部分称为CDRH 生物相容性简明指南。FDA认为,本指南准则所涵盖的器械可归类为与组织/骨接触的植入器械,其永久接触期 > 30天,应评估以下端点。
+生物相容性评价:为了确定生物相容性终点,作为生物相容性评价的一部分,你应使用器械和辐射健康中心(CDRH)指南附件A使用国际标准ISO 10993-1。医疗器械生物评估 -- -- 第1部分:本文件其余部分称为CDRH 生物相容性简明指南。FDA认为,本指南准则所涵盖的器械可归类为与组织/骨接触的植入器械,其永久接触期 > 30天,应评估以下端点。
 CDRH生物相容性指南附件A。
 - 急性系统毒性 物质-经测量的多变性 子急性/子慢性毒性 遗传毒性 遗传毒性
 
@@ -92,32 +94,30 @@ CDRH生物相容性指南附件A。
 测试:在少数情况下,如果确定需要进行测试来解决某些或所有已确定的生物相容性终点,FDA建议,除非能够适当提供符合规定且无补充资料的申报,否则应对所有测试提供完整的测试报告,《CDRH生物相容性指南》附件E。任何具体测试的正数、负数和(或)试剂控制应如预期的那样发挥作用,并应对协议偏离情况进行彻底说明和说明理由;然而,指出某些方案偏离可能使与下文所列性能标准的比较无效,因此有必要提交传统、特别、缩写 510(k)。
 5. 试验名称:生物相容性终点(根据CDRH生物相容性指南确定)方法:FDA目前公认的生物相容性共识标准版本
 性能标准:应确定所有直接或间接的组织与器械部件和特定器械仪器的接触具有可接受的生物反应能力。
-资料来源:CDRH生物相容性指导补充考虑:对于具有不利生物反应的生物相容性测试样品,生物相容性评价应解释为何所看到的毒性水平可以接受。可能需要对合法销售的参照器械产品进行比较测试(《安全和绩效途径》认为可以接受),以支持CDRH《生物相容性指南》中解释的理由。对于标准生物相容性测试方法,包括比较器械控制样品,合法销售的比较器械控制样品应如预期的那样发挥作用,上面为主题器械样品规定的。
+资料来源:CDRH生物相容性指导补充考虑:对于具有不利生物反应的生物相容性测试样品,生物相容性评价应解释为何所看到的毒性水平可以接受。可能需要对合法销售的参照器械产品进行比较测试(《安全和性能途径》认为可以接受),以支持CDRH《生物相容性指南》中解释的理由。对于标准生物相容性测试方法,包括比较器械控制样品,合法销售的比较器械控制样品应如预期的那样发挥作用,上面为主题器械样品规定的。
 提交资料:参考CDRH生物相容性指南
 
 ---
 
 ## 脚注
 
-[^1]: 可在% 0 /% base- pathway 获得
+[^1]: 可在% 0 /% base- pathway 获得 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-
 
-[^2]: 可在  查阅
+[^2]: [^3] https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^3]: 可在以下网站查阅:[参见原文链接] 自愿-协商一致标准-上市前提交-医疗器械
+[^4]: 可用于#0 @ fda- staff- spinal- system-510ks https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-
 
-[^4]: 可用于#0 @ fda- staff- spinal- system-510ks
+[^5]: 510(k)方案,如FDA的指导意见所述,关于提交非临床台架测试信息的补充资料,6请参看FDA的指南《建议的内容和格式的非临床台架性能建议》。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^5]: 510(k)方案,如FDA的指导意见所述,关于提交非临床台架测试信息的补充资料,6请参看FDA的指南《建议的内容和格式的非临床台架性能建议》。
+[^6]: 可在% 0 /% base- pathway 获得 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-
 
-[^6]: 可在% 0 /% base- pathway 获得
+[^7]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-
 
-[^7]: 可在以下网址查阅:[参见原文链接]++和格式-非临床-临床-性能测试-信息-预售
+[^9]: 可用于#0 @ fda- staff- spinal- system-510ks https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-and-
 
-[^9]: 可用于#0 @ fda- staff- spinal- system-510ks
+[^10]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-
 
-[^10]: 可在以下网址查阅:[参见原文链接]++
+[^11]: 可用于 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-medical-
 
-[^11]: 可用于++%%
-
-[^12]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评估-和 植入-慢性毒性/致癌性
+[^12]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评估-和 植入-慢性毒性/致癌性 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-
 

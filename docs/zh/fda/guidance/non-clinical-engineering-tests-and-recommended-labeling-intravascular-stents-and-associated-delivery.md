@@ -55,7 +55,7 @@ A 支架输送系统向目标地点提供支架,然后部署支架。
 
 在美国进行的支持PMA批准工作的临床研究,必须依照《研究用器械豁免条例》(21 CFR Part 812)第21条CFR Part 812进行。FDA认为,本指南文件所述血管内支架是21 CFR 812.3(m)1所界定的重大风险器械,因此,不得免除提交a
 
-1 参见[参见原文脚注]
+1 参见https://www.fda.gov/regulatory-information/search-fda-guidance-documents/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery
 适用(21 CFR 812.2(b)、812.20(a)(1))。当要求申请IDE时,申办者不得在美国开始人体临床试验,直到FDA批准(21 CFR 812.20(a)(2),81.242)。此类研究的发起者必须遵守下列规定:
 
 • 机构审查委员会条例(21 CFR 56) • 知情同意(21 CFR 50)。
@@ -73,7 +73,7 @@ A 支架输送系统向目标地点提供支架,然后部署支架。
 2) 您应审查可适用的临床试验的法定定义,以确定是否必须依法登记您的试验。见PL 110-85,第801(a)节,(新增42 U.S.C. 282(j)(1)(A))。
 资料可使用礼宾登记系统提交临床调查。欲了解更多信息,请访问《减贫战略信息》网页。
 器械/预市场Submissions/上市前批准PMA/ucm048168.htm#pdp • IDEs(21 CFR Part 812):器械/调查性豁免/默认。 htm 本指南还引用了一些自愿标准,其中许多得到FDA的承认。
-你可以从CDRH网站([参见原文链接])上查阅FDA承认的标准清单。另见《共识标准的指导、承认和使用》,《医疗要求/管理和管理/指南文件指南》/ucm077295.pdf。
+你可以从CDRH网站(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery)上查阅FDA承认的标准清单。另见《共识标准的指导、承认和使用》,《医疗要求/管理和管理/指南文件指南》/ucm077295.pdf。
 ## III. 试验数据的内容和格式
 ### A. 简要报告
 我们建议你以摘要形式提出测试数据,摘要包括以下内容。
@@ -510,7 +510,7 @@ FDA建议你们处理下列驱逐方式:
 此外,您还可以在临床前动物试验期间评估活性血清,而不是在体外血源性试验中单独使用警犬。如果需要4小时的警犬进行活体血源性研究(例如,由于使用以前从未用于医疗器械的新材料,或者由于16 ASTM F2065-00e1号血管的可疑结果,以及用固体材料在血清中进行替代途径补充活化。
 ASTM F1984-99(2003年) ASTM F1984-99(2003年) 《用固体材料在血清中全面补充活化》。
 我们建议该研究应采用一种坚固、未相互混合的模式进行。
-• 材料中介的高温性,我们建议你评估在与病人接触的器械期间对化学沥滤剂的热温反应。我们建议你们运用传统的生物相容性提取方法 评估物质中介的热源性例如,在USP 28+0++151> Rabbit Pyrogen 试验(例如,50°C为72小时;70°C为24小时;120°C为2小时)或同等方法中概述的那些试验。您应考虑温度超过37°C可能导致毒性不代表最终产品。
+• 材料中介的热原性,我们建议你评估在与病人接触的器械期间对化学沥滤剂的热温反应。我们建议你们运用传统的生物相容性提取方法 评估物质中介的热源性例如,在USP 28+0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery Rabbit Pyrogen 试验(例如,50°C为72小时;70°C为24小时;120°C为2小时)或同等方法中概述的那些试验。您应考虑温度超过37°C可能导致毒性不代表最终产品。
 • 镍离子释放 对于含有硝酸盐的器械,我们建议你考虑从你的器械中释放镍离子的可能性。如果你无法证明你的硝酸盐器械 具有足够的腐蚀抗药性 以及足够的消毒层我们建议你量化 镍离子的释放 随着时间的推移,你的器械。可以通过测量从该器械中浸入有物理温度和pH值的液体中的镍浓度来进行测试。
 ### V. 标签标签
 21 CFR Part 801对医疗器械的一般标签要求作了说明。

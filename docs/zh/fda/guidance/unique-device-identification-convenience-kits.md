@@ -4,6 +4,8 @@ description: "Unique Device Identification: Convenience Kits : Guidance for Indu
 published: 2019-04-26
 ---
 
+
+
 # 唯一器械标识：便利套件：行业与FDA工作人员指南
 
 **Unique Device Identification: Convenience Kits : Guidance for Industry and Food and Drug Administration Staff**

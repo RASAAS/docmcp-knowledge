@@ -141,7 +141,7 @@ n. 灰色跟踪:灰色阴影,包括白点等不同亮度的灰色阴影的色度
 
 [^1]: 可在  查阅
 
-[^2]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。
+[^2]: 可在以下网站查阅:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices。
 
 [^3]: 缩写为510k。
 
@@ -157,7 +157,7 @@ n. 灰色跟踪:灰色阴影,包括白点等不同亮度的灰色阴影的色度
 
 [^9]: 可在以下网页查阅:+ 和符合性评估-方案。· “医疗软件预先提交材料内容指南”
 
-[^10]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。
+[^10]: 可在以下网址查阅:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
 [^11]: 软件验证,可在[参见原文链接]+ 软件验证中查阅。
 
@@ -169,5 +169,5 @@ n. 灰色跟踪:灰色阴影,包括白点等不同亮度的灰色阴影的色度
 
 [^16]: 510k 改变现有器械。
 
-[^17]: 可在Q+0+++
+[^17]: 可在https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bundling-multiple-devices-or-multiple-indications-single-submission查阅
 

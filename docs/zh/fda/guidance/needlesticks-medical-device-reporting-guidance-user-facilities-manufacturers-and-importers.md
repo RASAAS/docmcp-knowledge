@@ -53,7 +53,7 @@ PDF：https://www.fda.gov/media/71528/download
 
 额外副本
 
-可从因特网以下网址获得更多副本:[参见原文链接]或CDRH《需求事实》。为了通过传真机接收这份文件,请通过触摸电话将CDRH实况-需求系统拨至800-899-0381或301-827-0111。按 1 键进入系统。在第二个语音提示时,按 1 键命令一个文档。输入文件编号 250 , 然后是磅号 (#)。顺着其余的声音提示完成你的请求
+可从因特网以下网址获得更多副本:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers 1 键进入系统。在第二个语音提示时,按 1 键命令一个文档。输入文件编号 250 , 然后是磅号 (#)。顺着其余的声音提示完成你的请求
 
 医疗器械报告指南
 
@@ -72,7 +72,7 @@ PDF：https://www.fda.gov/media/71528/download
 
 最不负担最重的办法
 
-我们认为,我们应该考虑在医疗器械监管的所有领域采取最不繁琐的办法。本指南反映了我们对相关科学和法律要求的认真审查,以及我们认为对你们遵守这些要求负担最轻的方式。但如果你认为指南所要求的信息与决策过程无关,或者认为替代方法会减轻负担,请与我们联系,以便我们考虑您的观点,您可向本指南前言中所列联系人或CDRH监察员发送书面意见。有关CDRH监察员的全面信息,包括如何与监察员联系,可查阅因特网:[参见原文脚注]_
+我们认为,我们应该考虑在医疗器械监管的所有领域采取最不繁琐的办法。本指南反映了我们对相关科学和法律要求的认真审查,以及我们认为对你们遵守这些要求负担最轻的方式。但如果你认为指南所要求的信息与决策过程无关,或者认为替代方法会减轻负担,请与我们联系,以便我们考虑您的观点,您可向本指南前言中所列联系人或CDRH监察员发送书面意见。有关CDRH监察员的全面信息,包括如何与监察员联系,可查阅因特网:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/needlesticks-medical-device-reporting-guidance-user-facilities-manufacturers-and-importers
 
 医疗器械报告指南
 

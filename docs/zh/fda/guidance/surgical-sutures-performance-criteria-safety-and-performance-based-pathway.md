@@ -4,6 +4,8 @@ description: "Surgical Sutures - Performance Criteria for Safety and Performance
 published: 2022-04-11
 ---
 
+
+
 # 外科缝合线 - 安全性与性能路径的性能标准：行业与FDA工作人员指南
 
 **Surgical Sutures - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
@@ -37,13 +39,13 @@ PDF：https://www.fda.gov/media/157490/download
 本指南代表食品药品监督管理局（FDA或本局）目前对该主题的看法。它不为任何人设定任何权利，对FDA或公众也没有约束力。如果替代方法满足适用法规和规章的要求，您可以使用替代方法。如需讨论替代方法，请联系扉页上列出的负责本指南的FDA工作人员或办公室。
 
 ## I. 引言
-本指南提供了外科缝线的性能标准，以支持基于安全性和性能途径（Safety and Performance Based Pathway）。1 在该框架下，计划使用基于安全性和性能途径提交外科缝线510(k)的提交人（您），将可以选择使用本指南中提供的性能标准来支持实质等同，而不是将申报器械的性能与参比器械的性能进行直接比较。
+本指南提供了外科缝线的性能标准，以支持基于安全性和性能途径（Safety and Performance Based Pathway）。1 在该框架下，计划使用基于安全性和性能途径提交外科缝线510(k)的提交人（您），将可以选择使用本指南中提供的性能标准来支持实质性等同，而不是将申报器械的性能与参比器械的性能进行直接比较。
 有关本文档中引用的FDA认可共识标准的当前版本，请参阅FDA认可共识标准数据库。2 有关在监管提交中使用共识标准的更多信息，请参阅题为《医疗器械上市前提交中自愿性共识标准的适当使用》的FDA指南。3
 本指南在实施前未征求公众意见，因为本局已确定事先的公众参与不可行或不适当（《FD&C法案》第701(h)(1)(C)(i)条和21 CFR 10.115(g)(2)）。FDA已确定本指南文件提出了一项与公共卫生相一致且负担较轻的政策。本指南文件符合本局的良好指南规范。
 本文档的内容不具有法律强制力和效力，不旨在以任何方式约束公众，除非明确纳入合同中。本文档仅旨在向公众澄清法律规定的现有要求。除非引用了具体的法规或法定要求，否则FDA指南文件（包括本指南）应仅被视为建议。在本局指南中使用“应”（should）一词意味着建议或推荐某事，但并非强制要求。
 
 ## II. 背景
-2019年9月，FDA发布了一份指南，描述了一项可选途径——基于安全性和性能途径4——适用于某些已被充分了解的器械类型，提交人可以通过证明新器械符合FDA确定的性能标准，来证明该器械与合法上市的器械一样安全有效。为了确定适当的特定性能标准集，以满足提交人对给定器械类型与适当参比器械的比较，FDA已确定该性能标准代表了符合该器械类型的一种或多种现有合法上市器械的性能。具体而言，FDA依靠FDA工作人员的经验和专业知识、文献中的信息以及FDA可获得的关于合法上市外科缝线的数据分析，确定了能够支持本指南中所述外科缝线实质等同裁定的性能标准和相关测试方法。
+2019年9月，FDA发布了一份指南，描述了一项可选途径——基于安全性和性能途径4——适用于某些已被充分了解的器械类型，提交人可以通过证明新器械符合FDA确定的性能标准，来证明该器械与合法上市的器械一样安全有效。为了确定适当的特定性能标准集，以满足提交人对给定器械类型与适当参比器械的比较，FDA已确定该性能标准代表了符合该器械类型的一种或多种现有合法上市器械的性能。具体而言，FDA依靠FDA工作人员的经验和专业知识、文献中的信息以及FDA可获得的关于合法上市外科缝线的数据分析，确定了能够支持本指南中所述外科缝线实质性等同裁定的性能标准和相关测试方法。
 FDA认识到，在某些情况下，与证明其器械符合FDA建立的适当性能标准相比，提交人针对适当的参比器械进行测试以证明必要的一组性能和技术特征的等同性，可能会带来更大的负担。因此，我们得出结论，利用本指南中确定的性能标准的可选特定器械基于安全性和性能途径，提供了一项与公共卫生相一致且负担较轻的政策。
 
 ## III. 范围/器械描述
@@ -119,7 +121,7 @@ FDA可能会根据具体情况确定需要额外的数据来评估该器械是�
 成型、密封和装配过程的验证要求
 性能标准：验证测试应证明该医疗器械的无菌性，或证明能够对该医疗器械进行灭菌以达到10-6的无菌保证水平。
 性能标准来源：FDA指南： · 《标签标识为无菌的医疗器械的上市前通知(510(k))提交中无菌信息的提交与审查》10
-提交信息：您应提供包装（无菌屏障系统）的描述以及其将如何保持医疗器械无菌性的说明，并提供包装测试方法的描述，但无需提供包装测试数据。关于既定灭菌方法，无论是使用既定A类还是既定B类灭菌方法，您都应提供FDA指南《标签标识为无菌的医疗器械的上市前通知(510(k))提交中无菌信息的提交与审查》第V.A.节中的信息；通常，不需要验证数据本身来证明实质等同。
+提交信息：您应提供包装（无菌屏障系统）的描述以及其将如何保持医疗器械无菌性的说明，并提供包装测试方法的描述，但无需提供包装测试数据。关于既定灭菌方法，无论是使用既定A类还是既定B类灭菌方法，您都应提供FDA指南《标签标识为无菌的医疗器械的上市前通知(510(k))提交中无菌信息的提交与审查》第V.A.节中的信息；通常，不需要验证数据本身来证明实质性等同。
 8. 测试名称：货架有效期 方法学：货架有效期研究应评估关键的医疗器械特性，以确保该医疗器械在整个拟定的货架有效期内能够充分且一致地发挥性能。
 您应使用老化后的缝线遵循上述测试#1-7（如适用）中概述的性能测试方法。应至少对三(3)个生产批次根据拟定货架有效期进行老化的医疗器械进行测试。
 性能标准：为了证明在标签标识的货架有效期内持续的无菌性、包装完整性和医疗器械功能，老化后的缝线应满足上述测试#1-7（如适用）中概述的相应性能标准。
@@ -130,8 +132,8 @@ FDA可能会根据具体情况确定需要额外的数据来评估该器械是�
 生物相容性评估
 为了确定作为生物相容性评估一部分应包含的生物相容性终点，您应使用FDA指南《国际标准ISO 10993-1“医疗器械生物学评价 – 第1部分：风险管理过程中的评价与测试”的使用》11的附件A，为简便起见，在本文件的其余部分中将其称为FDA生物相容性指南。外科缝线的接触类型和持续时间将取决于 细胞毒性 · 致敏性 · 刺激性或皮内反应 · 急性全身毒性 · 材料介导的致热性 · 亚急性/亚慢性毒性 · 遗传毒性 · 临床相关植入 · 慢性毒性 · 致癌性
 接触血液的长时间或永久接触持续时间缝线的其他终点包括： · 血液相容性
-替代测试的理由：如果申报器械使用与具有相同组织接触类型和持续时间的参比器械相同的原材料和相同的制造工艺制造，并且几何形状的任何变化预计不会影响生物学反应，那么如果还提供了FDA生物相容性指南附件F中概述的文件，这通常足以建立实质等同的生物相容性。
-测试：如果您确定需要进行测试来解决部分或全部已确定的终点，FDA建议为所有执行的测试提供完整的测试报告，除非可以适当地提供无需补充信息的符合性声明，如FDA生物相容性指南附件E中所述。任何特定测试的阳性、阴性和/或试剂对照均应达到预期效果，并且应对方案偏差进行彻底描述和论证；但是，请注意，某些方案偏差可能会使与下面列出的性能标准的比较无效。如FDA指南《基于安全和性能的途径》12中所述，如果医疗器械不能完全依赖FDA确定的性能标准来证明其提交的实质等同，则它不适用于基于安全和性能的途径计划；但是，先前建立的与适当参比器械进行直接性能比较的510(k)计划（包括传统、特殊和简化510(k)）仍然可用。
+替代测试的理由：如果申报器械使用与具有相同组织接触类型和持续时间的参比器械相同的原材料和相同的制造工艺制造，并且几何形状的任何变化预计不会影响生物学反应，那么如果还提供了FDA生物相容性指南附件F中概述的文件，这通常足以建立实质性等同的生物相容性。
+测试：如果您确定需要进行测试来解决部分或全部已确定的终点，FDA建议为所有执行的测试提供完整的测试报告，除非可以适当地提供无需补充信息的符合性声明，如FDA生物相容性指南附件E中所述。任何特定测试的阳性、阴性和/或试剂对照均应达到预期效果，并且应对方案偏差进行彻底描述和论证；但是，请注意，某些方案偏差可能会使与下面列出的性能标准的比较无效。如FDA指南《基于安全和性能的途径》12中所述，如果医疗器械不能完全依赖FDA确定的性能标准来证明其提交的实质性等同，则它不适用于基于安全和性能的途径计划；但是，先前建立的与适当参比器械进行直接性能比较的510(k)计划（包括传统、特殊和简化510(k)）仍然可用。
 9. 测试名称：生物相容性终点（根据FDA生物相容性指南确定） 方法学：当前FDA认可版本的生物相容性共识标准
 性能标准：该医疗器械的所有直接接触组织的组件均应被确定具有可接受的生物学反应。
 性能标准来源：FDA生物相容性指南
@@ -146,29 +148,29 @@ FDA可能会根据具体情况确定需要额外的数据来评估该器械是�
 ---
 ## 脚注
 
-[^1]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance- based-pathway
+[^1]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-
 
-[^2]: 可在以下网址获取：https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
+[^2]: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^3]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use- voluntary-consensus-standards-premarket-submissions-medical-devices 正在立即实施，但仍需按照
+[^3]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-
 
-[^4]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance- based-pathway
+[^4]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-
 
 [^5]: 更多信息请参见“在美国食品、药品、化妆品和医疗器械中使用的着色剂摘要”（Summary of Color Additives for Use in the United States in Foods, Drugs, Cosmetics, and Medical Devices），网址：https://www.fda.gov/industry/color-additive-inventories/summary-color-additives-use-united-states-foods-drugs- cosmetics-and-medical-devices
 
-[^6]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review- sterility-information-premarket-notification-510k-submissions-devices-labeled
+[^6]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-
 
-[^7]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/class-ii-special-controls- guidance-document-surgical-sutures-guidance-industry-and-fda-staff
+[^7]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/class-ii-special-controls-
 
-[^8]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and- meetings-medical-device-submissions-q-submission-program 与合法上市的参比器械进行对比，以证明实质等同的性能特征。为确保本指南中概述的性能标准保持最新，并考虑到近期许可的相关数据，FDA建议您除了提供下文针对每项测试或评估建议的其他提交信息（例如，符合性声明（DoC））外，还应提供所有已评估测试的结果摘要。与FDA对所有510(k)提交的政策保持一致，对于基于安全和性能途径的所有510(k)提交，FDA可能会在必要时要求并审查证明新器械符合FDA确定的性能标准和测试方法的基础数据。我们建议所有外科缝合线符合当前FDA认可的美国药典（USP）版本的各论和章节，如下所述。此外，我们建议您按照非吸收性缝合线各论或吸收性缝合线各论，对最终形式（例如，带针、卷装）的已灭菌缝合线进行所有测试。除非在以下章节中另有说明，否则测试信息（如结果摘要、测试方案和完整的测试报告）应作为510(k)的一部分提交，如FDA指南《基于安全和性能的》中所述
+[^8]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^9]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content- and-format-non-clinical-bench-performance-testing-information-premarket
+[^9]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-
 
-[^10]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review- sterility-information-premarket-notification-510k-submissions-devices-labeled
+[^10]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-
 
-[^11]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international- standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and 预期用途。如ISO 10993-1和FDA生物相容性指南附件A中所述，FDA将外科缝合线视为与组织/骨骼（在某些情况下也与血液）接触的植入器械，接触时间为长期或持久。对于与组织/骨骼接触且接触时间为长期或持久的缝合线，在您的生物相容性评估中应解决以下终点。 ·
+[^11]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-
 
-[^12]: 可在以下网址获取：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and- performance-based-pathway
+[^12]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-
 
 <!-- fulltext-end -->
 ---

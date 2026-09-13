@@ -70,9 +70,9 @@ FDA审查了图像轻率联盟的建议,认为这些建议是适当的。FDA已�
 4 医学辐射防护原则,包括“优化”和“ALARA”原则在2007年国际辐射防护委员会中作了说明。《辐射防护公约》第105号出版物:医学辐射防护。1993年,全国辐射防护和测量委员会,《联邦指南:医疗辐射机构间工作组》也强调了这些原则。
 《联邦指导报告》第14号,《诊断和干预X射线程序辐射防护指南》,华盛顿特区:环境保护局,2014年。
 5 见FDA;题为“一般/特定用途”的指南(“0 ” 器械调节与指导/指南文件/ucm073945.pdf)。
-6 见FDA题为 " 510(k)方案:评估上市前通知中实质性等同[510(k)]《工业、美国食品药品监督管理局工作人员指南》([参见原文脚注])。
+6 见FDA题为 " 510(k)方案:评估上市前通知中实质性等同[510(k)]《工业、美国食品药品监督管理局工作人员指南》(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)。
 7 见公众对2010年FDA关于 " 减少医疗成像造成的非必要辐射照射的器械改进 " 公开会议的评论( % 0001)。
-80++++ 成像器械包括供用户使用的其他设计功能和信息,便于为儿科病人选择最佳器械环境。由于对儿童过度暴露于辐射的担忧加剧,FDA认为,新的X射线成像器械应包括向最终用户提供明确资料,说明成人规模范围以外的成像病人的设计特点和可用的指示。FDA建议,为了尽量减少儿童受到过多辐射的危险,X光成像器械制造商应作为其器械设计的一部分,进行风险评估,考虑在儿科人口中使用其器械所产生的具体风险和缓解措施。终端用户然后可以就小儿科病人使用该器械的问题作出更知情的决定。
+80https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 成像器械包括供用户使用的其他设计功能和信息,便于为儿科病人选择最佳器械环境。由于对儿童过度暴露于辐射的担忧加剧,FDA认为,新的X射线成像器械应包括向最终用户提供明确资料,说明成人规模范围以外的成像病人的设计特点和可用的指示。FDA建议,为了尽量减少儿童受到过多辐射的危险,X光成像器械制造商应作为其器械设计的一部分,进行风险评估,考虑在儿科人口中使用其器械所产生的具体风险和缓解措施。终端用户然后可以就小儿科病人使用该器械的问题作出更知情的决定。
 
 ### B. FDA以往的行动、指导和公开会议
 
@@ -136,7 +136,7 @@ FDA器械和放射保健中心界定了婴儿出生到21岁的年龄年龄范围
 
 26 尺寸测量基于以下大约平均值(男性和女性的平均值):McDowell、M.A.、C.D. Fryar、C.L. Ogden和K.M. Flaw,2008年。《2003-2006年美国儿童和成人人文形态参考数据》,《国家卫生统计报告》,10,1-48。新甲型亚群的加权数低于平均值,以确保充分覆盖广泛的尺寸。
 27 由于头部增长率的差异,这些年龄与为人体成像建议的年龄不同;所列举的年龄范围是美国医学医生协会(APM)的儿科病人样本头目协议中出现的年龄范围:儿科常规首席CT协议第1.1版,AAPM质量计算地形学联盟。
-儿科成像和大致等同年龄的水平(欧洲联盟委员会)。2016年《欧洲儿科成像诊断参考水平准则》,辐射防护。卢森堡)和辐射防委会的“医学成像方面的诊断性参考水平”(ICRP Ref 4836-8337-6684, 草稿公布于2016年1月11日)[群名(体重、年龄)]:Nenate (_5公斤, [参见原文链接]1米; 婴儿、幼儿和幼儿(5-1+15公斤,1米 - +2+4y); 中年儿童(15 - 3+30公斤,4 - 4+++4+10y); 青春期早期(30 - 5++++5+1+0+1米; 幼儿(15 - 3++++30公斤, 4 - 4+++4+10 y); 幼儿(30 - ++++5+++5++5+50公斤,10-++14y;青春期晚期(50-++80千克,14-++14y)。
+儿科成像和大致等同年龄的水平(欧洲联盟委员会)。2016年《欧洲儿科成像诊断参考水平准则》,辐射防护。卢森堡)和辐射防委会的“医学成像方面的诊断性参考水平”(ICRP Ref 4836-8337-6684, 草稿公布于2016年1月11日)[群名(体重、年龄)]:Nenate (_5公斤, https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 婴儿、幼儿和幼儿(5-1+15公斤,1米 - +2+4y); 中年儿童(15 - 3+30公斤,4 - 4https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications); 青春期早期(30 - 5https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 幼儿(15 - 3https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 4 - 4https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications y); 幼儿(30 - https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)。
 良好的风险评估应包括审查与器械有关的所有可预见的风险。即使没有具体指明用于儿科治疗的一般用途X射线成像器械,但可以预见该器械将被用于儿科病人。
 由于该器械造成的风险可能因特定人群而异(包括不同规模的病人的不同儿科分组),为小儿病人(以及预计大量使用小儿科的普通用途器械)指明的X射线成像器械的风险评估应包括与可能使用该器械的所有病人群体相关的额外危害和减轻风险的手段。你风险评估应包括考虑FDA题为 " 小儿医疗器械预市场评估:
 29 如果风险评估结果显示,在处理儿科使用方面不需要特殊特征或标签,然后,预售前的510(k)提交材料应包括这一理由。
@@ -159,7 +159,7 @@ X射线成像器械需要考虑的儿科使用特征实例如下:
 
 以上所列所有特征可能不适合每个器械。例如,CT扫描仪很可能比一般放射或牙科成像器械更精密的软件接口和预先编程程序的能力。其他设计考虑可能具体针对X射线成像器械的类型;例如,具体器械的考虑,见医学成像技术联盟(MITA)和图像Gently的白皮书,其中讨论了与干预X射线设备有关的设计考虑。 33 有关的儿科成像设计特征也可能是:
 
-30 见FDA题为“医疗器械对人的因素和使用力工程的适用”的指南([参见原文链接]+)和AAMI/ANSI HE75:2009(R2013)标准,人因工程工程 -- -- 医疗器械设计和ANSI/AAMI/IEC 62366:2007(R2013):医疗器械 -- -- 医疗器械应用可用工程。
+30 见FDA题为“医疗器械对人的因素和使用力工程的适用”的指南(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)和AAMI/ANSI HE75:2009(R2013)标准,人因工程工程 -- -- 医疗器械设计和ANSI/AAMI/IEC 62366:2007(R2013):医疗器械 -- -- 医疗器械应用可用工程。
 31个配有技术因子(例如管流、管电等)的完整规程可能适合全X射线系统,提供这一信息对部件或附属器械的部件或附属器械可能具有挑战性。
 但是,替代信息可能是适当的,例如,关于IEC暴露指数范围的信息可能适合只用于探头器的器械。
 32 附录,表1条目“剂量测量、显示和文件”包括相关剂量度量和FDA承认的不同模式标准。
@@ -232,7 +232,7 @@ pdf. 。
 
 指示应考虑最终用户可能的教育背景;例如,可能为除放射学家或放射技术专家以外的专业人员(例如,牙科X光片或心血管成像器械应包括针对有关专业团体(例如牙医、心脏病学家)的资料。
 
-41 例如,图像Gently/FDA“数字放射安全检查清单”([参见原文链接])。FDA大力鼓励在X光成像程序中列入或提及与儿童辐射防护有关的教材。
+41 例如,图像Gently/FDA“数字放射安全检查清单”(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)。FDA大力鼓励在X光成像程序中列入或提及与儿童辐射防护有关的教材。
 ### E. 质量控制测试建议
 
 质量控制测试建议应包括任何测试(验收测试、)确保该器械在可使用该器械的所有病人大小中正常发挥功能。
@@ -254,7 +254,7 @@ pdf. 。
 这一培训方案应强调针对器械的培训和最佳利用所有内置剂量减少和图像质量改进特点。 43 应明确解释如何在所有可使用该器械的人群中使用该器械的具体特点。培训应当便于获得、实用和针对所有不同的
 
 42 超声波器械(本指南未涵盖)这类培训方案的模式是:医疗超声波安全,第二版。由美国超声波医学研究所出版(2009年)。
-43 注重减少儿科剂量的培训材料实例可在图像Gently联盟网站([参见原文链接]+++)上查阅。
+43 注重减少儿科剂量的培训材料实例可在图像Gently联盟网站(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)上查阅。
 如果在培训课程中进行测试,应了解儿科使用问题(例如,儿童剂量节省特征)。为了便利继续学习,a 包括任何面对面培训课程内容的DVD可提供给设施或以另一种格式提供(例如作为在线模块)。
 
 提交的510(k)份材料应包括关于该器械培训材料的简要说明,说明应指明所涉及的任何儿科专题。
@@ -270,31 +270,38 @@ pdf. 。
 
 接触电离辐射对儿科病人来说特别令人关切,因为:1) 某些器官和肿瘤,较年轻的病人比成年人对放射敏感(即,较年轻的病人每单位剂量电离辐射的癌症风险较高);(2) 使用为平均体积成年人设计的器械和照射环境,可能导致较小病人过度和不必要的辐射照射;3) 较年轻的病人的预期寿命较长,辐照的影响可能表现为癌症。
 
-为了帮助减少过度辐射照射的风险,您应当遵循ALARA(可合理合理实现的低剂量)原则,并力求将辐射剂量降低到仅够获取足够临床图像所需的量。
+为了帮助减少过度辐射照射的风险,您应当遵循ALARA(合理可行尽量低)原则,并力求将辐射剂量降低到仅够获取足够临床图像所需的量。
 
 44McDowell、M.A.、C.D. Fryar、C.L.Ogden和K.M.Flegal,2008年。 美国2003-2006年儿童和成人人文形态参考数据。《国家卫生统计报告》,第10、1-48页。
-### A. 小儿儿科剂量优化参考文献:以下资源提供
-请插入您的器械模式,例如计算断层摄影、含氟光谱、普通放射、光学等。牙科射线仪: [参见原文脚注] 0 @ 插入与您的器械相适应的引用@ 45
+### A. 儿科剂量优化参考文献:以下资源提供与儿科成像辐射安全和/或<插入您的器械模态,例如计算断层摄影、透视、普通放射、牙科X射线>器械辐射安全相关的信息:<插入与您的器械相适应的参考文献>[^45]
 
-### B. 器械的具体功能和说明: 您的器械名称 > 提供的 +# 0\\ 插入
-下列具体设计特点和说明,使儿童病人能够更安全地使用我们的器械:46+++指出它们是标准选项还是额外选项 > ++#0+++插入标签引用,例如协议、剂量测量信息、安全使用清单等,评估儿科使用情况的任何测试摘要>
+### B. 器械专用特性与说明:<插入您的器械名称>提供以下专用设计特性与说明,使儿科患者能够更安全地使用本器械:[^46]
 
-对儿科成像很重要的设计特征47 使用说明书中的页数参考或暴露指数p。
-可移动电网p.
-过滤器p.
-变量焦点大小p.
-后处理应用程序p.
-重建算法p.
-自动接触控制,p.
-Etc. 国家
+<插入设计特性,注明其为标准配置还是可选配置>
 
-使用说明中的参考页数 估计病人剂量测量包括儿科规模范围p。
-图像质量评估(特别是为了支持任何儿科性能规格;可能是体模) p.
-质量控制指示,包括为确保在广泛的病人范围内适当运作而进行的测试p。
+<插入标签引用,例如方案、剂量信息、安全使用检查清单、评估儿科用途的测试摘要>
 
-包括图像感应联盟:小儿X射线成像(-Emitting productions/Radiation Emitting Productions and procedures/ucm298899.htm);和医疗X射线成像(-Emitting productions/Radiation Emiting Productions and proceductions/Medicalimages/MedicalX-Rays/default.htm)。FDA的小儿X射线成像网站()含有与器械专用网页的链接。含氟造影和牙科骨髓波束 计算成地形
-46 例如,见第七节(对等器械特征)。
-47 本例子清单并非详尽无遗,也不适合于每个器械。选择列出的一些特征可能不限于用于儿科病人,但可能对安全的儿科成像特别重要(例如:自动接触控制)
+对儿科成像重要的设计特性[^47] | 使用说明中的页码参考
+---|---
+方案或曝光指数 | p. ___
+可拆卸滤线栅 | p. ___
+滤过 | p. ___
+可变焦点尺寸 | p. ___
+后处理应用 | p. ___
+重建算法 | p. ___
+自动曝光控制 | p. ___
+等 | p. ___
+针对儿科体型范围的预估患者剂量测量 | p. ___
+图像质量评估(尤其为支持任何儿科性能规格;可能使用体模) | p. ___
+质量控制说明,包括确保器械在全部患者体型范围内正常运行的测试 | p. ___
+
+包括Image Gently联盟、FDA儿科X射线成像(https://www.fda.gov/radiation-emitting-products/radiation-emitting-products-and-procedures/ucm298899.htm)以及医疗X射线成像(https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-rays/default.htm)等全国性及国际性组织开发的资源。FDA儿科X射线成像网页(https://www.fda.gov/radiation-emitting-products/radiation-emitting-products-and-procedures/medical-imaging/pediatric-x-ray-imaging)含有指向各器械专用网页的链接。透视和牙科锥形束CT亦有类似资源。
+
+[^45]: 例如Image Gently/FDA《数字放射摄影安全检查清单》(http://www.imagegently.org/Portals/6/Procedures/Attachment%20D.CR.DR%20%20checklist.pdf)。FDA强烈鼓励在X射线成像程序中纳入或引用与儿童辐射防护相关的教材。
+
+[^46]: 例如,见本指南第七节(特定器械特性)。
+
+[^47]: 本示例清单并非穷尽,也不适用于每一器械。所列部分特性可能并非专用于儿科患者,但对安全的儿科成像可能尤为重要(例如自动曝光控制)。
 附录B:一般实验室图像质量和剂量评估、测试和标准
 
 本附录列出了共同实验室测试和每种模式的适用标准。

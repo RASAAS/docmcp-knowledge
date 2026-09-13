@@ -57,7 +57,6 @@ PDF：https://www.fda.gov/media/72458/download
 1. 传统蒸汽、干热热和E t O 灭菌剂
 2. 其他灭菌器
 
-. .
 生物遗传性能 T 和 s 17-26
 1. 常规一般的一般的言言言言言的一般的一般的一般
 2. T e t 生物体
@@ -116,7 +115,7 @@ C r y , t h e a e 没有FDA的补给品 , n d r d s f r t e r i i y e r s 。
 C l s I11 d e v i c e a r e s e y e r e b j e c t o 上市前批准。
 - 蒸气、电流等。c l a s i f i c a i e y i y e i y i y
 它们是1升C1 a s I1 d e v i c e s (e 21 CFR.880.68660, 880.6870和880.6880)。
-新的 t r a d i o n l 或更新的技术 s t e a m, d r y h e a t ,o e e y t h y l e en lxion s t r i i e r may . be claimed e q u i v a l e t h e c f i c r e l a t e d 分类器械。- 5 - t e r i i z e r y s i n g a d i f e r ne n t 技术,例如微波、等离子体等,a/ 索赔l s o f t h e c l a s s i f i d e v i c e s 或 t o e g l y 市场灭菌剂(预先修正.). . .
+新的 t r a d i o n l 或更新的技术 s t e a m, d r y h e a t ,o e e y t h y l e en lxion s t r i i e r may . be claimed e q u i v a l e t h e c f i c r e l a t e d 分类器械。- 5 - t e r i i z e r y s i n g a d i f e r ne n t 技术,例如微波、等离子体等,a/ 声称l s o f t h e c l a s s i f i d e v i c e s 或 t o e g l y 市场灭菌剂(预先修正.). . .
 尽管各种技术可能具有一定的同等资格,FDA不禁止使用以下器械:f i n d i n g a s e r i i y y 等值的 i y 等值的 y y 等值的 y b s y 等值的, 和 t h s s.a C l a s s I11 器械。
 ### D. 相关监管机构
 美国环保局(EPA),根据《联邦e e g e e l a t e s l i q u i d 化学杀菌剂和 o t h e r ' microbicide 剂。
@@ -164,10 +163,10 @@ a r e c r r y n t l y 没有FDA的监管标准、规格、 o r 测试方法,可�
 申办者应仔细考虑 t h e 内容 o f 参考标准、技术报告、准则、守则和测试方法 i n 考虑附加设计,t e s t i n g 和文件编制规定未注明 i n t h i s 指导。
 引用的.文件可能 i d d i c a t e s s e i f i c s t h a t 是 p e r t i n n t , 并且独一无二的 t e subjects s t e r i i z e r ,这份指南是通用的,即一份基准文件。
 FDA可就其他已公布的文件,如以下文件,就可就申办者(e e r t h e
-应提交按照th e ret'crenced Documents和i nadplication t o t h i s 指导准则进行的 l l 测试的概要。
-s ub m i t t e r 产生一项n 义务 t o 遵守 a) 。文档t h e s t e r i l i z e r 被索赔为 t o m e e t 作为支持性证据 o f s f e t y 和有效性。
+应提交按照th e ret'crenced Documents和i nadplication t o t h i s 指南进行的 l l 测试的概要。
+s ub m i t t e r 产生一项n 义务 t o 遵守 a) 。文档t h e s t e r i l i z e r 被声称为 t o m e e t 作为支持性证据 o f s f e t y 和有效性。
 下列文件提供a. s. i?i f i c a n t a t a o t a o f 有关新 s t e r i z e r s 的验证信息, 并使用过 i n 的参考文献 i n 开发 t h i s CpziLance :AAMI S t e i z a t i o o n 标准 f o r vore and EtO block, S. E.,《灭菌》,S. E., St e ri i z a t i o o n ;《保存》,第四版,《Lea & Fubiger》, Phila. Pa。
-1991. St r i l e医疗器械,格林尼治方案讲习班手册,FDA出版物884-4174
+1991. St r i l e医疗器械,GMP讲习班手册,FDA出版物884-4174
 
 F. 与《公约》有关
 申请人必须提交灭菌剂的标签。标签说明该器械的预定用途、其操作特性和限制。这些因素对于确定该器械是否等同于其他合法销售的灭菌剂至关重要。
@@ -193,7 +192,7 @@ e q u i r e e 提交新的510(k) f o r a s t e r i i z r :
 任何变化 i n s t e r i i z a t i o n v e s s e e 维度。
 3 . 3 .
 从机械c o n r o 改为 o r rifard o r rifardard o
-- 4 . . 4 .
+- 
 i n t h e s p e f i c s t e i a n t 使用 i n t h e 器械更改 。
 1993年4月FDA i n 1993年4月根据i n EtO 混合物的改变 i c e r t
 H. 任 员
@@ -204,7 +203,7 @@ d e s c r i p i o n 能够 co n s i s t o d d e a i e d 绘图、照片和小册
 e x t e r r i o r 和
 
 i t i r d i em e n s i o n s 和 组件 l O C a t i 0 n ~ 应注明。
-b. b. 用于
+b. 用于
 描述th e 材料使用 t o 构筑 t h e e 主要部件,例如, t h e s t e e r,例如, t e r i y i o n 容器,夹克, s t e r i i a n t 发电机,等,以及c e r t i f y t h a t t h e t s t e i i z e r的要求。
 c. 用于
 d e n t i f y y a l 人工 r 自动 c o t r o o l s s , 仪器, 录音机, v n t s , 输入, o t l e t s , f i t e r s , 和 s a f e t y 特性。
@@ -213,7 +212,7 @@ d. 数据
 e. 将
 说明t h e s te r i i n t 制剂及其c o n t i n e r, i f 提供了一种单立的从属从属物 t o te e s t e r i i z e r , e., s e r i i a n t 提供 i n c a r i d g e 形式等。
 提供关于其容器的 h e l f - I f e 数据,包括多剂量容器的 t o t t i f e i f i n。
-. .
+
 f. 与
 描述用诸如架子、t r y s、 c r t s 等t h e s r i i y r 销售的l 配件。
 C e r t i f y t h a t t h e 配件与 t h e s t e r i i z r 工艺兼容。
@@ -223,15 +222,15 @@ C e r t i f y t h a t t h e 配件与 t h e s t e r i i z r 工艺兼容。
 例如,微波 h e t 一代可能是 t h e 原主 s te r i i n t, 但W i r r a d i a t i o n 可能是第二代生成的。
 参数可包括,f o r 示例, t i m e 、 温度、 压力、 湿度, 。
 i n t e n s y y 、 浓度、预处理条件和后处理条件。
-. .
-b. b. 用于
+
+b. 用于
 提供每个参数的t h e s p e e c i f i c a t i o n s o o r。
 3 . 3 .
 程序监测 a.
 描述 t h e 仪表、 c h a r t 记录器、显示器等。
 监测 t h e 进程参数。
 包含关于p e e i f i c a t i o f t h e 仪器和传感器的信息(准确性、准确性、范围、特性),e n i t i i y 和 r e l a i o o t 承认的标准。
-b. b. 用于
+b. 用于
 描述在 st e r i i z a t i o n 容器内的 t h e 传感器位置。
 由于 s e r i y y n c c ne d i i y i y , 例如温度, 可能变化 i n d f e e r e n t l , i y i y y e l , i y e l ,i n d d i c a t t e 传感器位置与 t r e 传感器位置对应于 t r e y t " 冷点 " i n t h e v e s s e l (l e a s profile)
 
@@ -273,7 +272,7 @@ a p l i c a n t 应 r e f r to r e v a n t statar & r o e s t p e i f i c a i o 
 证明灭菌剂将达到并保持相关的物理循环规格(时间、温度、灭菌浓度、湿度、压力、灭菌要求的致命性条件是生物性能试验确定的条件(见下文各节)。
 2. 其他灭菌剂a
 说明流程参数和规格的理由。简要概述以下各节所述生物性能测试结果如何用于界定参数。
-b. b. 用于
+b. 用于
 提供物理试验摘要,证明灭菌器在规格内达到并保持所需的物理/化学过程致死性共鸣。这些数据应来自重复运行的数据,且有不同的负荷条件。
 
 14. 诊断性性测试
@@ -390,11 +389,11 @@ i ~ y ~ y y e t e t e s t s. S t e r r i y r i c i b i i d a 在模拟使用条�
 a p l i c a n t 必须 j u s t i f y y how t h e s i m u l a te i o c r r e a te e t e s t o o r r e o e o e e o e o r o r r e o e o
 e l e c t a r r e p r e e n t e t i v e example o f 医疗产品 i n d i c a te d d i n a b e l i n g 。
 试验必须 c o n s i s s i s t o f e p p l i c a te e o f 器械, t y e s s m a t e e i d i c a d d e d d r t e i i z a t i n, e - g 。、金属、聚合物、弹性体、粘合 y i n s 、 纸张和 f b r i c s 。
-r t i c l e s .e l e e c t e d f r e i a l e x h i b i t design c ne n y y g y i l 提供 t h e t e e t r i a i i n t h t e s t y y r y i y i- g., lumens, mated s u r f a c e s , keys, gnold s u r f a c e s 。
+r t i c l e s .e l e e c t e d f r e i a l e x h i b i t design c ne n y y g y i l 提供 t h e t e e t r i a i i n t h t e s t y y r y i y i- g., lumens, mated surfaces , keys, gnold s u r f a c e s 。
 e t l o a d s应该是加注 i n b a e l i n g, 包装得当, 和 r i n t e d h ~ c r d g t o a b e i n g 。
 r t i c l e s s 试验必须是 i n o c l a e d, 10' CFU/unit of 10 et h e most r e y s y s t 试验机体制成的 i t t 无机和或卡尼负载。
 在放置 i n t h e s t e r i i y 之前,允许在 t t h e unccubulum t o d r y 上, t h e r t i y e 。
-i n v a r i o o c a t i o y y o s on t h e 测试 r t i c l e s 包括 l e a s t p p e a s t p p e t e t e t i 和 c o n t i t y ee. g., l ~ e n s , mated s u r f a c e s, ltps.
+i n v a r i o o c a t i o y y o s on t h e 测试 r t i c l e s 包括 l e a s t p p e a s t p p e t e t e t i 和 c o n t i t y ee. g., l ~ e n s , mated surfaces, ltps.
 每一类型包括cn t r o ls
 
 该条第1款。
@@ -433,7 +432,7 @@ p. 第1页。
 A r t i c l e s t h a t i e e r e t h e t h e e t e t i i e c t i e s e y e y e y e y y e y e y y e y e y e y
 a c e p a b l e number of c y c l e s e e nu fi i l u u e e c a s i f i e d s t e r i i y z r o r , 依据 u s e r op。
 除非th e r e 足够j u s t i f i c a t i o n,n 任何情况均不应是 r t i c l e f i l 当暴露于 t o e y c l e s e s b e e r i b e r i e d e y e r i i y y e e y e y y e y e y i e y y e y e e y e y e e y e
-数据 s h a l 应在t h e process l i f e of t h e 索赔与 r t i c l e s 相符。
+数据 s h a l 应在t h e process l i f e of t h e 声称与 r t i c l e s 相符。
 i t h e 测试 r t i c l e may n o te x h b i t s i g n f i c a n t , q u u a n y i f i a b l e d e e r i r i i o y y e r a f t r 多周期。
 i th i i 是t h e 案件,t h e a p l i c a n t 可能提交 j y s y i f r a r r e r e 基于 n y i a i a r e e y i i e t e e t e t t y e y i e o r 器械基于 n l y y t
 职能 c o m p p i b i t v A r i y e e y r e t y t y t t h e f e y r e y t t h e y t t y r e

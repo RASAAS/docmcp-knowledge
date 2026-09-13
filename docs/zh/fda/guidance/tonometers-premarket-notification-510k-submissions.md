@@ -4,6 +4,8 @@ description: "Tonometers - Premarket Notification [510(k)] Submissions : Guidanc
 published: 2006-03-27
 ---
 
+
+
 # 白内障手术器械 - 上市前通知 [510 ]：行业与FDA工作人员指南
 
 **Tonometers - Premarket Notification [510(k)] Submissions : Guidance for Industry and FDA Staff**
@@ -62,7 +64,7 @@ FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相
 
 我们建议你简要说明贵国为解决本指南文件第7-11节中确定的每个性能方面问题而使用或打算使用的测试方法。如果您采用建议的测试方法,您可以引用该方法,而不是描述该方法。如果修改建议的测试方法,您可以引用该方法
 
-1 建议格式参考[参见原文链接]++
+1 建议格式参考
 但应提供充分的资料解释修改的性质和理由。您可以(1) 简洁扼要地提交试验数据,如表格,(2) 描述将适用于测试结果的接受标准。 2 (另见21 CFR 820.30, C分节-质量管理体系法规的设计控制。 )
 
 如果选择在器械设计或测试的任何部分依赖一个公认的标准,可以包括以下一项:
@@ -192,15 +194,13 @@ FDA认为,本指南文件所涉及的器械是一种非重大风险器械,因此
 
 ## 脚注
 
-[^3]: 见《宣布符合公认标准的必要要素》(所有预先通知[510(K)]提交材料的清查清单),
+[^3]: 见《宣布符合公认标准的必要要素》(所有预先通知[510(K)]提交材料的清查清单), http://www.fda.gov/cdrh/ode/reqrecstand.html.
 
-[^4]: 见[参见原文脚注]_
+[^4]: 见 http://www.fda.gov/cdrh/ode/guidance/1131.html
 
-[^5]: 见《指南文件/Ucm089593.pdf》。
+[^5]: 见《指南文件/Ucm089593.pdf》。 https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/
 
-[^6]: 见[参见原文脚注]_
+[^6]: 见 http://www.fda.gov/oc/ohrt/irbs/devices.html#risk
 
-[^7]: 
-
-[^8]: 12. 标签
+[^7]: [^8]: 12. 标签 http://www.fda.gov/cdrh/ode/guidance/361.html.
 

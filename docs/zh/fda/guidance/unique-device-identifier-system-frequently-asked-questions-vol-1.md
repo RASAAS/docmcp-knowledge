@@ -4,6 +4,8 @@ description: "Unique Device Identifier System: Frequently Asked Questions, Vol. 
 published: 2014-08-20
 ---
 
+
+
 # 唯一器械标识符系统常见问题(第1卷)
 
 **Unique Device Identifier System: Frequently Asked Questions, Vol. 1 : Guidance for Industry and Food and Drug Administration Staff**

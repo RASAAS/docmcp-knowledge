@@ -150,7 +150,7 @@ FDA尚未审查营销申请,或尚未就此种营销申请作出最后决定。
 
 ### A. 监管事务办公室(ORA) 产品代码构建器
 
-为了确保医疗器械符合FDA的监管要求,进口商/经纪人/过滤商必须提交某些进口资料。需要提供的一个数据要素是产品编码。进口商/经纪商/过滤商可使用监管事务办公室的产品编码编制商([参见原文链接] ult.htm)为其进口的产品制定产品编码。此外,CDRH产品分类数据库()可用于查找器械的定义和监管要求,ORA 产品代码构建器没有提供这两处内容。由于新的产品编码由CDRH制定,旧产品编码则经过修改,ORA的合规系统司也得到通知,产品编码编制员也得到更新。用于生产
+为了确保医疗器械符合FDA的监管要求,进口商/经纪人/报关商必须提交某些进口资料。需要提供的一个数据要素是产品编码。进口商/经纪商/报关商可使用监管事务办公室的产品编码编制商(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff ult.htm)为其进口的产品制定产品编码。此外,CDRH产品分类数据库()可用于查找器械的定义和监管要求,ORA 产品代码构建器没有提供这两处内容。由于新的产品编码由CDRH制定,旧产品编码则经过修改,ORA的合规系统司也得到通知,产品编码编制员也得到更新。用于生产
 FDA进口可接受性审查程序的格式不同于CDRH所使用的分类产品编码。CDRH产品分类数据库中的三位数分类产品编码没有明确的含义。
 然而,ORA的产品代码构建器使用七位数产品代码,而不是产品代码数据库中的三种字母组合。七位数产品编码包括器械、食物、药物、生物学和化妆品,每个数字表示特定描述。例如,FRN是分配给Pump、Inproduction产品分类数据库的产品编码。在ORA产品代码构建器中,同一产品代码转换为80F-RN。7位数产品代码开头的两个数字代表为该器械分类的医学专门小组。
 
@@ -179,7 +179,7 @@ FDA还使用分类产品编码来指定进口警报产品。进口警报查明�
 
 不受上市前通知(510(k)、上市前批准(PMA)或HDE要求限制的器械被视为豁免器械。您需要确定您的免责器械分类产品代码
 
-在您在 FURLS/DRLM 中列出器械之前。您可通过搜索产品分类数据库([参见原文链接]+)来识别产品编码。一旦知道分类产品代码,你可以列出器械。
+在您在 FURLS/DRLM 中列出器械之前。您可通过搜索产品分类数据库(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff)来识别产品编码。一旦知道分类产品代码,你可以列出器械。
 
 二、非例外器械
 
@@ -207,7 +207,7 @@ FDA适用执法裁量权的器械,因此没有必要进行上市前审查,在将
 
 方便资料袋是否满足了“精神科临时监管指南文件”(nc/GuidanceDocuments/ucm080216.htm)中所列的各项要求?
 方便工具包类型是否与指南文件所附清单中所列类别相符?
-搜索产品分类数据库(++/h/cfdocs/cfPCD/ligication.cfm),以确定工具包的产品编码。
+搜索产品分类数据库(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff),以确定工具包的产品编码。
 如果您找不到工具箱的产品代码,请与器械评价办公室(ODE)的方案业务工作人员联系(301 796-5640),以获得工具包产品编码。
 一旦确定产品编码,请通过reglist@cdrh.fda.gov的电子邮件联系登记和登记工作人员,以便协助列出你的工具包。
 您可能不会使用工具包代码列出分类产品代码 。
@@ -236,7 +236,7 @@ COBER管理一系列器械,其中大多数只受《FD&C法》的监管。然而,
 
 2. 我该如何寻找分类产品代码?
 
-答案:您可以使用FDA网站上的产品分类数据库搜索产品编码:[参见原文链接]+++##
+答案:您可以使用FDA网站上的产品分类数据库搜索产品编码:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff
 
 3. 我搜索了产品代码数据库 找不到合适的分类产品
 我器械的代码 我该怎么办?
@@ -258,7 +258,7 @@ COBER管理一系列器械,其中大多数只受《FD&C法》的监管。然而,
 
 7. 如果我发现产品分类数据库有错误,我该怎么办?
 
-8 参见《工业和FDA工作人员指南》:FDA网站上关于根据《联邦食品、药品和化妆法》要求提供信息的第513(g)节的FDA和工业程序:和《工业和FDA工作人员指南》:513(g) 索取资料要求用户收费:[参见原文链接]_
+8 参见《工业和FDA工作人员指南》:FDA网站上关于根据《联邦食品、药品和化妆法》要求提供信息的第513(g)节的FDA和工业程序:和《工业和FDA工作人员指南》:513(g) 索取资料要求用户收费:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff
 
 答复:联系301-796-5640号产品编码协调员,数据库将予以更正。产品分类数据库在 " +0 " 上显示,每周更新。
 
@@ -284,7 +284,7 @@ COBER管理一系列器械,其中大多数只受《FD&C法》的监管。然而,
 
 监管事务办公室(ORA) 产品代码构建器
 
-器械建议 - 器械监管和指导 [参见原文脚注] %
+器械建议 - 器械监管和指导 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-classification-product-codes-guidance-industry-and-food-and-drug-administration-staff %
 
 器械分类 =0 = 缺/缺。 htm
 
@@ -312,5 +312,5 @@ COBER管理一系列器械,其中大多数只受《FD&C法》的监管。然而,
 
 [^7]: 见21 CFR Part 807
 
-[^9]: 见[参见原文脚注]_
+[^9]: 见 https://www.cms.gov/.
 

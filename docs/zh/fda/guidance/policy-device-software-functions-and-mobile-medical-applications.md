@@ -347,31 +347,31 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 ## 脚注
 
-[^1]: 见FDA网站“软件作为一种医疗器械(SAMD)”,可在以下网址查阅:[参见原文链接]++
+[^1]: 见 https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd
 
-[^2]: 见国际医疗器械监管者论坛最后文件,“软件作为一种医疗器械(SAMD):关键定义,”可在以下网站查阅: [参见原文脚注] %该功能是否部署在移动平台或其他通用计算平台上,并不具体。
+[^2]: 见 http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf
 
 [^3]: 数据系统-医疗图像-储存-器械-医疗图像-器械-医疗图像-通讯器械。
 
 [^4]: 医学软件政策-导致第3060-21世纪的
 
-[^5]: 可在以下网页查阅:[参见原文链接]/examples-Examples-precamples-precents-including- mas-clecif-or-cor-appliced-fda
+[^5]: 见 https://www.fda.gov/medical-devices/device-software-functions-including-mobile-medical-applications/examples-premarket-submissions-include-mmas-cleared-or-approved-fda
 
 [^6]: 见86 FR 20278 at  医疗器械分类条例,与医疗软件规定相符。
 
 [^7]: 支持软件
 
-[^8]: 可在  查阅
+[^8]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^9]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^10]: 可在 " 开发与使用标准-监管-提交-经审查的生物中心-评估 " 上查阅。
 
 [^11]: 为本指南的目的,FDA使用保健专业人员这一术语指获得许可证、登记或国家、领土、管理保健,包括但不限于护士执业医师、注册护士、有执照的实用护士、临床社会工作者、牙医、职业治疗师、药剂师、物理治疗师、医生、医生助理、心理医生、呼吸治疗师、语言病理学家、技术专家、心理医生、呼吸治疗师、语言病理学家、心理医生、语言病理学家、技术专家、心理医生或任何其他执业医师或相关的专业保健人员。
 
-[^13]: 见FDA的指南《医疗器械入口 -- -- 描述入口和分类路径》,可在以下网站查阅:+%%%
+[^13]: 见FDA的指南《医疗器械入口 -- -- 描述入口和分类路径》,可在以下网站查阅:+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications
 
-[^14]: 见国际医疗器械监管者论坛最后文件,“软件作为一种医疗器械(SAMD):关键定义,”可在以下网站查阅: [参见原文脚注] %
+[^14]: 见 http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf
 
 [^15]: 医疗软件-政策-导致第3060-21世纪
 
@@ -395,7 +395,7 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^32]: 见21 CFR 812.1。
 
-[^33]: 可在以下通道查阅:[参见原文脚注]附件描述接入和分类路径。
+[^33]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways
 
 [^34]: 支持软件
 
@@ -409,13 +409,13 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^41]: 21 CFR 892.2050。
 
-[^47]: 可在  查阅
+[^47]: 见 https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device.
 
 [^48]: 援助/概览-器械监管。
 
 [^49]: 可在“OQ”研究与市场器械上查阅。
 
-[^56]: 可在  查阅
+[^56]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm.
 
 [^57]: 有关平衡失调的诊断(如鼻腔镜),可能的产品编码:GWN(21 CFR 882.1460)。
 
@@ -425,7 +425,7 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^64]: 可在Q+0Q和列表中查阅。
 
-[^65]: 可在  查阅
+[^65]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812
 
 [^68]: 和会议-医疗器械提交文件-q-提交方案。
 
@@ -433,7 +433,7 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^70]: 可在Q+0Q和列表中查阅。
 
-[^71]: 可在  查阅
+[^71]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820
 
 [^72]: 《医疗-器械-良好制造-做法条例》。
 
@@ -441,7 +441,7 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^74]: 可在 &lt; _
 
-[^75]: 可在  查阅
+[^75]: 见 https://www.fda.gov/safety/forms-reporting-fda/instructions-completing-form-fda-3500.
 
 [^76]: 可在 报告制造商查阅。
 
@@ -449,9 +449,9 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^78]: 可在- Q- 清除器械上查阅。
 
-[^79]: 可在  查阅
+[^79]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance.
 
-[^80]: 可在 @[参见原文脚注]_
+[^80]: 见 https://www.fda.gov/training-and-continuing-education/cdrh-learn.
 
 [^81]: 可在以下网站查阅第513g节-要求-信息不足-联邦-食品-药物-药物-混合物-程序。
 
@@ -463,22 +463,22 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^86]: 指导-医疗-器械-制造厂商。
 
-[^87]: 软件验证,可在[参见原文链接]+ 软件验证中查阅。
+[^87]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation
 
-[^88]: 可在  查阅
+[^88]: 见 https://www.fda.gov/medical-devices/regulatory-controls/general-controls-medical-devices.
 
-[^89]: 可在  查阅6) FDA的一些分类指出,这些豁免是“510(k)”豁免。” 510(k)豁免意味着什么,我怎么知道这些豁免是否适用于我的产品?
+[^89]: 见 https://www.fda.gov/medical-devices/overview-device-regulation/regulatory-controls.
 
-[^90]: 可在  查阅
+[^90]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/315.cfm
 
-[^91]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。
+[^91]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications 上市前提交软件-软件-自足医疗器械。
 
 [^92]: 医疗器械功能。然而,这类软件的制造商和用户应该看到FDA关于临床试验使用计算机的指导, " 电子来源数据,临床,
 
-[^93]: 可在以下网站查阅:+[参见原文脚注] 数据临床调查。
+[^93]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-source-data-clinical-investigations
 
 [^94]: 见21 CFR Part 820。
 
-[^95]: 可在 [参见原文脚注] 内容中查阅
+[^95]: 见 https://www.fda.gov/medical-devices/digital-health-center-excellence/guidances-digital-health-content
 
 [^96]: 10. AAMI TIR36验证受监管程序软件。IEC/TR 80002-1 医疗器械软件 -- -- 第1部分:医疗器械软件应用ISO 14971的指南。13. 基本安全和基本性能的一般要求(特别是第14条)。IEC 61508-2 电气/电子/可编程电子安全相关系统的职能安全 -- -- 第2部分:电气/电子/可规划电子安全相关系统的要求。

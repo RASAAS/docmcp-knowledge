@@ -4,6 +4,8 @@ description: "Statistical Guidance on Reporting Results from Studies Evaluating 
 published: 2007-03-12
 ---
 
+
+
 # 统计指导报告诊断测试 的研究结果：行业与FDA工作人员指南
 
 **Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests - Guidance for Industry and FDA Staff**

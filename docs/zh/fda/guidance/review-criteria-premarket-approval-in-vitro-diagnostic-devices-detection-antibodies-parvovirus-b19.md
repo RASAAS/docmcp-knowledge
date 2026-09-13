@@ -4,6 +4,8 @@ description: "Review Criteria For Premarket Approval of In Vitro Diagnostic Devi
 published: 1992-05-15
 ---
 
+
+
 # 检查标准 检测对巴尔沃病毒B19抗体的体外诊断器械的前销售批准
 
 **Review Criteria For Premarket Approval of In Vitro Diagnostic Devices for Detection of Antibodies to Parvovirus B19**

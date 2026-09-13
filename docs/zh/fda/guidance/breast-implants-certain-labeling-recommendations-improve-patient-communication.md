@@ -171,5 +171,5 @@ D13 硅氧烷 113.11 乙基苯乙烯 ND D D14 硅烷 17.24 m- & p-xyle 0.08. D15
 
 [^16]: 见《对乳房组织成像的影响》(可能发生,但特殊比率在SSED中并不公开)。
 
-[^17]: 见“母乳植入器械报告——与乳房相连的整形大细胞淋巴瘤”,可在+++大细胞淋巴瘤上查阅。
+[^17]: 见“母乳植入器械报告——与乳房相连的整形大细胞淋巴瘤”,见 https://www.fda.gov/medical-devices/breast-implants/breast-implant-associated-anaplastic-large-cell-lymphoma-bia-alcl。
 

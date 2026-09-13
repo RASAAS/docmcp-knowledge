@@ -176,7 +176,7 @@ Track 3建议是针对符合IEC 60601-2-37中输出显示标准的器械。该�
 5.2.7.1 Track 1声学输出:Track 1基于具体应用与表3所示预先修正声学输出接触水平的对比。每个探头的音频输出测量应在可供使用的最高输出层进行。
 
 注:对于每个探头,该系统的运作方式应使系统有必要采取有意识和蓄意的行动,以改变为具有更高应用特定声输出接触水平的应用或模式。否则,应对应用特定声输出接触水平最高的应用软件进行产出测量(见第5.2.7.1节)。
-5.2.7.1.1 你提交的材料应包括以下资料: 5.2.7.1 FDA您应该为每种模式/应用组合(如“使用说明”中所述)指定,在26种操作条件下,“胎儿和其他”类别包括腹部、内科、儿科、外科、科、外科小器官(乳房、甲状腺、睾丸等)、新生儿 FDAphic和成人脑部使用。
+5.2.7.1.1 你提交的材料应包括以下资料: 5.2.7.1 FDA您应该为每种模式/应用组合(如“使用说明”中所述)指定,在26种操作条件下,“胎儿和其他”类别包括腹部、内科、儿科、外科、科、外科小器官(乳房、子宫肌瘤、睾丸等)、新生儿 FDAphic和成人脑部使用。
 最好采用表格格式(见附录F例1)。
 
 注:声输出值的上限不应大于表3所列适当的具体应用值。当系统/传输器或模式/应用组合对某一产出量设计范围相同时,这些组合可列出单一范围。
@@ -347,7 +347,7 @@ OEM, 那么您应该测试每个探头( 100%的取样) 在每个后处理周期�
 根据FDA上述指南文件,非关键器械的超声波探头器应加以清洗,并在病人使用之间进行低水平消毒。用于半临界用途的检测结果应尽可能在用途之间进行消毒,但高水平消毒是最低可接受的。此外,建议对探针的每一种半临界用途使用无菌包。关键器械应进行灭菌,建议每种用途使用无菌探头套。请注意,使用探头套不会改变向探头建议的加工类型,在使用后,应删除和丢弃单用探头套。半临界应用中的探头器应清洗,进行灭菌,或至少使用后接受高水平消毒,即使使用了探头套。用于关键应用的检测结果应当清洗,并在使用后进行灭菌,即使使用了灭菌的探头套。探头套在使用过程中可能失效,因此造成的污染程度可能不易看出。
 此外,还有几种特殊情况:
 1. 神经力用途:应使用接触脑组织和脑脊髓液的探针
-具有单一用途、无菌、非热源树脂,因为探头器上留下的任何消毒剂/消毒剂残留物都可能具有神经毒性,任何残留的经腔毒素都具有高温性(即:注:如果探头器用于已知或怀疑患有Creutzfeldt-Jakob疾病的病人,则探头器应销毁。欲了解有关CJD和感染控制的详细情况,请见[参见原文脚注]
+具有单一用途、无菌、非热源树脂,因为探头器上留下的任何消毒剂/消毒剂残留物都可能具有神经毒性,任何残留的内毒素都具有热原性(即:注:如果探头器用于已知或怀疑患有Creutzfeldt-Jakob疾病的病人,则探头器应销毁。欲了解有关CJD和感染控制的详细情况,请见https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers
 
 2. 在使用直肠、直肠和中阴道探针时,应使用一次性消毒针。
 如果这些探头器用来协助进行活检程序所有活性心理配件在程序上都应无菌,任何可再使用的生物心理配件应在每次使用后再处理。如果探头器本身有针线导线的内置通道除非对频道进行彻底清洗,并在对另一个病人使用之前对探头器进行灭菌,否则该通道可能会在使用期间造成生物切片针的污染风险。
@@ -381,9 +381,9 @@ IEC 60601-2-37号指令(见5.2.8.2.3节)的 " 防危险输出 " 和 " 防护器�
 
 ## 脚注
 
-[^1]: 可在  查阅
+[^1]: 见 https://www.aium.org/press/viewRelease.aspx?id=102
 
-[^2]: 可在以下网站查阅:[参见原文链接] 自愿-协商一致标准-上市前提交-医疗器械
+[^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^3]: 保留现有的510(k)条路径和双轨办法,以及使用输出显示标准,国际
 
@@ -391,55 +391,55 @@ IEC 60601-2-37号指令(见5.2.8.2.3节)的 " 防危险输出 " 和 " 防护器�
 
 [^6]: 21 CFR 807.81(a)(3)
 
-[^7]: 可用于 @% 0 [参见原文脚注] 510k- change- al- along- section
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 
 [^8]: 510k 软件改变现有器械
 
 [^9]: 方案9:探头表面温度属于明确界定的范围(详情见第5.1.2.8节);和10。向用户推荐适当的探头(详情见第5.1.2.9节)。
 
-[^11]: 可在  查阅
+[^11]: 见 https://www.fda.gov/medical-devices/quality-and-compliance-medical-devices/preamendment-status
 
 [^12]: 见题为“要求就医疗器械提供反馈:任务前方案和
 
-[^13]: 可在以下网站查阅:[参见原文链接] 自愿-协商一致标准-上市前提交-医疗器械
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^14]: 5.2.5.3.1 您应提供商品名称,通用材料成分(如聚乙烯、聚碳酸酯),以及所有病人接触材料的制造商,或提供含有材料说明的总文件号。5.2.5.3.2 对于任何病人接触材料,应按照ISO10993-1所述,提供该器械的生物相容性评价:
 
 [^15]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评价和
 
-[^16]: 可用于++%%
+[^16]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers
 
-[^17]: 可在以下网址查阅:[参见原文链接]++
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
 [^18]: 用于与血液或通常无菌组织接触的探头使用的保健器械-保健设置-验证-方法及标签,您应当建议使用适当的灭菌过程,并验证该手术与您的移植器一起使用。请查看
 
-[^19]: 可在以下网址查阅:[参见原文链接]++
+[^19]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
 [^20]: 可在下列网址查阅:%0 上市前提交书-软件-自足医疗器械
 
 [^21]: 提交文件-管理-网络安全-医疗器械-0
 
-[^22]: 可在 @% 0 器械上使用
+[^22]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-software-use-medical-devices
 
-[^23]: 可用于[参见原文链接]+
+[^23]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-medical-devices-containing-shelf-ots-software
 
-[^24]: 可在以下  器械- 保健设置- 校验- 方法- 标签和标签dura物质 或任何内部组织) 上找到的附加标签如下 :5.2.6.1.7.1 建议使用无菌、非热原性探头套;5.2.6.1.7.2 提醒用户注意在对已知或疑似患者使用该探头器时可能存在的问题。
+[^24]: 可在以下  器械- 保健设置- 校验- 方法- 标签和标签dura物质 或任何内部组织) 上找到的附加标签如下 :5.2.6.1.7.1 建议使用无菌、非热原探头套;5.2.6.1.7.2 提醒用户注意在对已知或疑似患者使用该探头器时可能存在的问题。
 
 [^25]: 有关这个专题的更多信息,请见“感染控制”网址: 
 
 [^27]: 见题为“要求就医疗器械提供反馈:任务前方案和
 
-[^28]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。
+[^28]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^29]: 21 CFR 820.3(w)。
 
-[^30]: 可在以下网站查阅:[参见原文脚注]_
+[^30]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital
 
-[^31]: 可在以下网址查阅:[参见原文脚注]问问题-关于再处理和再使用-单一使用-器械-第三方和医院-0-0
+[^31]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0
 
-[^32]: 可在以下网址查阅:%0++-For-moernational-act-2002-validation-data-premedation-premedation-pregiment-pregiment-precation-pregication-pregiment 5。您应该描述您作为后处理器使用的方法,以跟踪单个探头所经历的后处理周期的数量。可以通过提及验证数据指南来解决这一问题。
+[^32]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers 5。您应该描述您作为后处理器使用的方法,以跟踪单个探头所经历的后处理周期的数量。可以通过提及验证数据指南来解决这一问题。
 
-[^33]: 可用于++%%
+[^33]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers
 
 [^34]: 有关这一专题的更多资料,见位于第0章第3节的“感染控制”。由于使用液体化学品对医疗器械进行消毒的固有限制,液化化学灭菌应仅限于关键和半关键器械,这些器械应具有热敏度,且与其他消毒方法不相容。
 

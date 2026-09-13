@@ -129,13 +129,13 @@ FDA认为,这种办法往往对器械申办者来说负担最轻,他们要及时
 
 [^5]: 现有产品/抗微菌-可感性-测试-系统-二级特别控制-指导-工业-fda组织,这些中断点应予改变,直至修改相关的抗微菌药物标签,以包括更新的中断点。
 
-[^6]: 见疾控中心COVID-19和抗微生物抗药性网站,可在+++
+[^6]: 见CDC COVID-19与抗微生物耐药网站，https://www.cdc.gov/drugresistance/covid19.html
 
 [^7]: 见主管规划和评价事务助理秘书办公室的《国家打击战斗行动计划》。
 
 [^8]: 见疾控中心关于COVID-19和抗微生物抵抗的网站。
 
-[^9]: 见疾控中心网站《疾控中心优先处理反生素-抗灾威胁的保健公平问题》,可在 @%0  提供
+[^9]: 见CDC网站“CDC Priority to Address Health Equity Issues Across Antibiotic-Resistant Threats”，https://www.cdc.gov/drugresistance/solutions-initiative/stories/ar-health-equity.html
 
 [^10]: 21 CFR 807.81(a)(3)。
 
@@ -143,7 +143,7 @@ FDA认为,这种办法往往对器械申办者来说负担最轻,他们要及时
 
 [^13]: 21 CFR 807.81(a)(3)。
 
-[^14]: 可用于 @% 0 @ @ 510k- change- al- along- section
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 
 [^16]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
 

@@ -145,7 +145,7 @@ FDA可能要求查看设计审定文件,例如,包括记录对器械功能接受
 对于一个多功能器械产品,器械说明应包括描述可能对器械功能产生消极影响的“其他功能”的描述,并应述及器械功能受到审查的功能如何受到每一项“其他功能”的影响。 如果器械功能受到审查的功能可能受到“其他功能”的正面影响,而且标签反映积极影响(贴上标签的积极影响),器械说明应包括上文概述的关于“其他功能”对正在接受审查的器械功能的积极影响的信息。
 申办者也可描述“其他功能”,这些功能要么没有影响,要么可能产生积极影响,而这种积极影响在对器械功能审查中的标注中并未表明,来解释器械的总体功能。
 
-23 我们有一项长期政策,即以同样方式在510(k)项中采用21 CFR 814.20(b)(3)(i)项的PMA条例中的指标定义。见FDA指南“510(k)方案:评估上市前通知中实质性等同的[510(k)]”,可查阅:[参见原文脚注]_
+23 我们有一项长期政策,即以同样方式在510(k)项中采用21 CFR 814.20(b)(3)(i)项的PMA条例中的指标定义。见FDA指南“510(k)方案:评估上市前通知中实质性等同的[510(k)]”,可查阅:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations
 ### C. 标签标签
 FDA以几种方式管理器械标签,例如,《FD&C法》第502(f)节要求标签应包括适当的使用指示。根据《FD&C法》第502(a)(1)节,如果医疗器械的标签在任何特定方面都是虚假或误导的,则该器械被视为错误的品牌。如果标签未能披露事实材料,说明在标签规定的使用条件下或在习惯或通常的使用条件下使用这一条可能产生的后果,则标签可能具有误导性。另见21 CFR 1.21。
 对于多功能器械产品,标签应包括说明足以确保适当使用该器械的“其他功能”。
@@ -257,13 +257,13 @@ FDA继续不打算对FDA表示打算目前不执行适用的监管监管规定�
 
 ## 脚注
 
-[^2]: 可在  查阅
+[^2]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^3]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^4]: 可在以下网站查阅:+ 和使用标准-监管-提交-经过审查的生物中心-评估。
 
-[^9]: 可用于%0 功能和移动医疗应用程序。
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications
 
 [^10]: 政策低风险器械。
 
@@ -273,11 +273,11 @@ FDA继续不打算对FDA表示打算目前不执行适用的监管监管规定�
 
 [^22]: 载于《概念与原则》第0条。
 
-[^25]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。器械功能正在接受审查,文件应载有风险管理程序的结果,其中应查明和说明可能影响安全或可能造成性能下降的危害和采用的任何必要的风险缓解措施。可以利用ANSI/AAMI/ISO 14971:医疗器械——对医疗器械适用风险管理——概述的程序进行这种基于风险的评估。“医疗用软件预先提交材料内容指南”的“关于医疗用软件预先提交材料内容的指南”
+[^25]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations 上市前提交软件-软件-自足医疗器械。器械功能正在接受审查,文件应载有风险管理程序的结果,其中应查明和说明可能影响安全或可能造成性能下降的危害和采用的任何必要的风险缓解措施。可以利用ANSI/AAMI/ISO 14971:医疗器械——对医疗器械适用风险管理——概述的程序进行这种基于风险的评估。“医疗用软件预先提交材料内容指南”的“关于医疗用软件预先提交材料内容的指南”
 
-[^26]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。
+[^26]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations 上市前提交软件-软件-自足医疗器械。
 
-[^27]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。受FDA上市前审查的功能的有效性,或被列为在评估受FDA上市前审查的功能时考虑的贴上标签的积极影响。
+[^27]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations 上市前提交软件-软件-自足医疗器械。受FDA上市前审查的功能的有效性,或被列为在评估受FDA上市前审查的功能时考虑的贴上标签的积极影响。
 
 [^28]: 21 CFR 807.81(a)(3)。
 
@@ -285,7 +285,7 @@ FDA继续不打算对FDA表示打算目前不执行适用的监管监管规定�
 
 [^30]: 510k 软件改变现有器械。
 
-[^31]: 可在以下网站查阅: &lt;%%%
+[^31]: 可在以下网站查阅: &lt;https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations
 
 [^32]: 欲进一步了解与组合产品有关的要求,共有综合产品指南文件,可在以下网站查阅: + - 信息/组合-产品-指导-文件。
 
@@ -293,6 +293,6 @@ FDA继续不打算对FDA表示打算目前不执行适用的监管监管规定�
 
 [^36]: 可在 报告-合并产品中查阅。
 
-[^37]: 可在  查阅
+[^37]: 见 https://www.fda.gov/combination-products.
 
 [^38]: 可查阅《临时监管指导》。

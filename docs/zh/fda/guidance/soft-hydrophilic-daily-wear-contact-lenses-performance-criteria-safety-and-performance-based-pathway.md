@@ -4,6 +4,8 @@ description: "Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteri
 published: 2023-03-28
 ---
 
+
+
 # 软性（亲水）日戴隐形眼镜——安全与性能路径的性能标准：行业与 FDA 工作人员指南
 
 **Soft (Hydrophilic) Daily Wear Contact Lenses - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**

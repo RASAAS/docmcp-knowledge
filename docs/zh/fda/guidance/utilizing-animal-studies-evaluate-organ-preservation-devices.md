@@ -4,6 +4,8 @@ description: "Utilizing Animal Studies to Evaluate Organ Preservation Devices: G
 published: 2019-05-08
 ---
 
+
+
 # 利用动物研究评估器官保存器械：行业与FDA工作人员指南
 
 **Utilizing Animal Studies to Evaluate Organ Preservation Devices: Guidance for Industry and Food and Drug Administration Staff**
@@ -42,7 +44,7 @@ PDF：https://www.fda.gov/media/107701/download
 FDA认识到,随着这类技术的迅速发展,进行动物研究以评估器官保存器械的最佳做法正在不断演变。本指南无意是全面或规范性的。其目的是强调FDA关于如何利用动物移植模型来评价器官保存技术的初步想法,FDA预计,目前,这些动物研究的大部分将首先提交,以支持研究用器械豁免(IDE)申请,并可用于支持上市前批准。
 
 1 Russell WMS,Burch,RL.《人类实验技术原则》,伦敦:Methuen & Co.;1959年。
-由大学动物获益联合会出版的专刊,1992年,可在网上查阅:[参见原文链接]
+由大学动物获益联合会出版的专刊,1992年,可在网上查阅:
 申请(PMA)、上市前通知(510(k))、人道主义器械豁免(HDE)申请或De Novo分类请求。
 
 FDA鼓励产业成员提交一份提交前报告,以获得关于具体动物研究规程的反馈,评估器官保存器械。关于提交前的更多信息,请查阅医疗器械反馈请求书:与美国食品药品监督管理局工作人员举行提交前方案和会议。
@@ -62,9 +64,9 @@ FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相
 ## III. 定义
 为本指南文件之目的,适用下列定义:
 
-冷缺血时间:器官寒冷的时间(++4°C)和血液供应不足的时间。
+冷缺血时间:器官寒冷的时间(。
 
-冷静存:目前保存大多数器官的标准方法。器官被浸在封闭容器的保全液中,容器的温度保持在 ++4°C。
+冷静存:目前保存大多数器官的标准方法。器官被浸在封闭容器的保全液中,容器的温度保持在 。
 
 扩展标准器官:不适于移植的捐赠器官(例如心脏死亡后捐赠(DCD)捐赠器官),根据器官类型不同,该标准可能有所不同。
 
@@ -137,5 +139,5 @@ FDA理解,模式的选择可能受到许多因素的限制,包括利用动物和
 
 ## 脚注
 
-[^2]: 医疗器械提交文件q提交方案
+[^2]: 医疗器械提交文件Q-Submission方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-
 

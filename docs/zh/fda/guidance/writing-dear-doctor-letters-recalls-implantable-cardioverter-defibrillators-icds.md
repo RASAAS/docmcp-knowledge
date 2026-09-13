@@ -4,6 +4,8 @@ description: "Writing Dear Doctor Letters for Recalls of Implantable Cardioverte
 published: 2007-07-19
 ---
 
+
+
 # 写信给医生,提醒您:可植入的心脏除颤器 (ICD)：行业与FDA工作人员指南
 
 **Writing Dear Doctor Letters for Recalls of Implantable Cardioverter Defibrillators (ICDs): Guidance for Industry and FDA Staff**

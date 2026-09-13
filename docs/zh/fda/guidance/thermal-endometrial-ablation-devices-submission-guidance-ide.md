@@ -4,6 +4,8 @@ description: "Thermal Endometrial Ablation Devices (Submission Guidance for an I
 published: 1996-03-13
 ---
 
+
+
 # 热内膜外移装置 (IDE提交指南)
 
 **Thermal Endometrial Ablation Devices (Submission Guidance for an IDE)**

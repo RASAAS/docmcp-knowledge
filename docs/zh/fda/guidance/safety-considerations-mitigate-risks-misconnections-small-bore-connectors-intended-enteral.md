@@ -4,6 +4,8 @@ description: "Safety Considerations to Mitigate the Risks of Misconnections with
 published: 2015-02-11
 ---
 
+
+
 # 为了减轻对口腔应用的小孔连接器的错误连接风险的安全考虑：行业与FDA工作人员指南
 
 **Safety Considerations to Mitigate the Risks of Misconnections with Small-bore Connectors Intended for Enteral Applications: Guidance for Industry and Food and Drug Administration Staff**
@@ -138,7 +140,7 @@ AAMI/ANSI/ISO 80369-1为证明小孔连接器不连接提供了一般要求,而A
 
 2. 联合委员会哨兵事件联合警报。
 2006年4月3日。
-([参见原文脚注])
+(
 
 3. 美洲国家标准学会/医学进步协会
 AAMI: 进餐器械适应器和连接器,Arlington, VA:ANSI/AAMI,1996年。

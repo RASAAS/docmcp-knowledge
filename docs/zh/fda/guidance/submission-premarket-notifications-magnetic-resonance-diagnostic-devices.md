@@ -4,6 +4,8 @@ description: "Submission of Premarket Notifications for Magnetic Resonance Diagn
 published: 2023-10-10
 ---
 
+
+
 # 磁共振诊断器械上市前通知提交：行业与FDA工作人员指南
 
 **Submission of Premarket Notifications for Magnetic Resonance Diagnostic Devices: Guidance for Industry and Food and Drug Administration Staff**
@@ -35,7 +37,7 @@ PDF：https://www.fda.gov/media/92921/download
 ## I. 简介
 
 本指南文件详细介绍了应列入磁共振诊断器械上市前通知的资料。本文件意在与关于510(k)上市前通知的内容和格式的资料一起 takes 510(k) 540本指南文件概述的方法旨在便利及时审评和营销多用途DDDs。
-准则反映了与FDA第四版公认的IEC 60601-2-33标准标准IEC 60601-2-33医用电气设备----第2-33部分一致的最新情况:医疗诊断所需的磁共振器械的基本安全和基本性能要求。主磁场(B0)危险区域被重新定义为磁场等于或大于0.9 mT的任何地方,即静止磁场可能造成伤害的MR器械周围的空间。以前版本的IEC 60601-2-33将这一控制出入区定义为0.5mT。见FDA的《共识标准》数据库。 2 如果提交符合公认标准的声明,我们建议你附上适当的证明文件。欲了解更多关于使用共识标准的信息,请参看FDA题为“医疗 takesds 510(k)提交电子提交模板”的指导,可在 @%0  提供
+准则反映了与FDA第四版公认的IEC 60601-2-33标准标准IEC 60601-2-33医用电气设备----第2-33部分一致的最新情况:医疗诊断所需的磁共振器械的基本安全和基本性能要求。主磁场(B0)危险区域被重新定义为磁场等于或大于0.9 mT的任何地方,即静止磁场可能造成伤害的MR器械周围的空间。以前版本的IEC 60601-2-33将这一控制出入区定义为0.5mT。见FDA的《共识标准》数据库。 2 如果提交符合公认标准的声明,我们建议你附上适当的证明文件。欲了解更多关于使用共识标准的信息,请参看FDA题为“医疗 takesds 510(k)提交电子提交模板”的指导,可在   提供
 
 (a) 提交不具约束力的建议监管材料,参考FDA题为“在医疗器械预先提交市场之前适当使用自愿共识标准”3 的指导。因此,MRDD须遵守第21章J节中的放射健康要求。《联邦条例法典》第1 000至1050部分,包括适用一般和具体性能标准(21 CFR 1010-150部分)及其他报告和记录一般要求(21 CFR 1010-1002部分),针对有缺陷或不符合要求的电子产品(21 CFR Part 1003 takes and 1004)和进口(21 CFR Part 1005)的通知和纠正行动。
 总的来说,FDA的指南文件没有规定法律上可以执行的责任。相反,本指南目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的本指南中使用这个词意味着建议或建议某种东西,但并不要求。
@@ -239,21 +241,19 @@ MRDD的用户或操作员手册必须涉及(1) 与该器械有关的禁忌症、
 
 ## 脚注
 
-[^2]: 可在  查阅
+[^2]: [^3] https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^3]: 可在以下网站查阅:[参见原文链接]++
+[^4]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^4]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^5]: 备查 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
 
-[^5]: 备查:[参见原文链接]_
+[^6]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
 
-[^6]: 可在以下网站查阅:[参见原文链接]
+[^7]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-
 
-[^7]: 可在以下 %%%
+[^8]: 可用于%0 兼容性-中-医疗器械 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electromagnetic-
 
-[^8]: 可用于%0+++ 兼容性-中-医疗器械
+[^9]: 技术-医疗器械-指导-工业-工作人员配置 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-
 
-[^9]: 技术-医疗器械-指导-工业-工作人员配置
-
-[^10]: 可在以下网址查阅:#0 iso-10993-1-生物评价-医疗器械-第1部分-评价和
+[^10]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-
 

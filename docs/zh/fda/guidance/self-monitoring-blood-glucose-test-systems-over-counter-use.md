@@ -4,6 +4,8 @@ description: "Self-Monitoring Blood Glucose Test Systems for Over-the-Counter Us
 published: 2020-09-29
 ---
 
+
+
 # 无需过分使用的血糖检测系统：行业与FDA工作人员指南
 
 **Self-Monitoring Blood Glucose Test Systems for Over-the-Counter Use: Guidance for Industry and Food and Drug Administration Staff**
@@ -40,7 +42,7 @@ PDF：https://www.fda.gov/media/87721/download
 
 本指南代表了FDA目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 ## I. 简介
-本指南文件介绍了FDA建议用于提交供非专业用户在非处方作业者家庭使用的自我监测血糖测试系统(510(k)s)的上市前通知(510(k)s)时使用的研究报告和信息。 1本指南文件旨在指导制造商进行适当的绩效研究,为这些器械类型编写510(k)提交,并取代10月11日发布的题为“反向用途自监测血糖测试系统”的最后指南,2016年。
+本指南文件介绍了FDA建议用于提交供非专业用户在非处方作业者家庭使用的自我监测血糖测试系统(510(k)s)的上市前通知(510(k)s)时使用的研究报告和信息。 1本指南文件旨在指导制造商进行适当的性能研究,为这些器械类型编写510(k)提交,并取代10月11日发布的题为“反向用途自监测血糖测试系统”的最后指南,2016年。
 本指南并非针对血糖监测测试系统,这些测试系统的目的是用于专业保健环境中的处方保健点(例如:FDA在另一份题为 " :“护理处方点使用血糖监测试验系统”(BGMS指南)。 2 FDA也正在发布另一份BGMS指南,以反映与本指南所述类似的澄清。
 1 虽然大部分SMBG器械是用于家庭用途,这一点也适用于用保健专业人员开的处方购得的用于家庭使用的SMBG器械。
 对于本文件提及的FDA承认的标准的当前版本,见FDA《共识标准》数据库网站。 3 关于在提交监管文件时采用协商一致标准方面的更多资料,请参考FDA题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指南。 4包括本指南在内,不确立法律上可执行的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
@@ -74,7 +76,7 @@ PDF：https://www.fda.gov/media/87721/download
 - 您应明确警告用户, 起舞器只供单病人使用, 绝不应共享。
 - 安全器械使用标签可以减少用户错误的风险;因此,清洁和消毒说明应清楚详细。各种试验系统组成部分的名称应确认它们属于同一系统或产品组群,并将其区别于
 
-6 部分经环保局登记在册的受感染者,可在以下网站查阅:[参见原文链接]++
+6 部分经环保局登记在册的受感染者,可在以下网站查阅:
 用于多病人使用的类似器械(例如ABC血糖测试系统、ABC血糖测量仪、ABC血糖测试条等)。详细标签建议见下文第十节(标签)。
 对清洁和消毒程序进行验证,既要证明清洁和消毒产品对主要受关注病毒有效(即:艾滋病毒、乙型肝炎、丙型肝炎)和确认清洁和消毒程序不会使器械变坏或改变器械性能。FDA关于这种鉴定的建议概述于以下各小节。
 ### A. 经验证的清洁和消毒程序
@@ -369,35 +371,30 @@ a SMBG, 您应在软件包插入和用户手册中加入一个突出警告, 警�
 
 ## 脚注
 
-[^1]: 可在以下网站查阅:[参见原文链接]+提交-器械-软件功能。
+[^1]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
 
-[^2]: 可在以下网址查阅:%0-% 监测-测试系统-处方处方-点护理使用。
+[^2]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/blood-glucose-
 
-[^3]: 可在  查阅
+[^3]: [^4] https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^4]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。区别、标准、预算和预算机制的设计可以更好地满足其预定用途人口的需求,从而提供更大的安全和效力。
+[^5]: 见资料 at 如果能够证明与合法销售的参照器械具有实质性等同性,就足够了。 http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
 
-[^5]: 见资料 at 如果能够证明与合法销售的参照器械具有实质性等同性,就足够了。
+[^7]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-
 
-[^7]: 可在以下网站查阅:[参见原文链接]++和会议-医疗器械-提交-q-提交-方案。
+[^9]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-
 
-[^9]: 可在以下网址查阅:%0+++ 上市前提交软件-软件-自足医疗器械。
+[^10]: 可查阅提交文件-管理-网络安全-医疗器械-0。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-
 
-[^10]: 可查阅提交文件-管理-网络安全-医疗器械-0。
+[^11]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-
 
-[^11]: 可在以下网站查阅:[参见原文脚注] 管理-网络安全-医疗器械。
+[^12]: [^13]: 器械- 病人- 标签。 https://www.fda.gov/media/123052/download.
 
-[^12]: 可在  查阅
+[^14]: 可在。其命名方式应确认它们属于同一系统或产品组(ABC血糖测试系统、ABC血糖测量仪、BC血糖测量仪ABC 血糖测试条等)协助识别系统部件。您必须在标签和标签文档(21 CFR 809.10(a)(2)和21 CFR809.10(b)(2))中包括产品的预期用途。供非专业用户家庭使用的用于SMBGs的预期用途应与以下例子相似: https://www.fda.gov/medical-devices/device-labeling/vitro-diagnostic-device-labeling-
 
-[^13]: 器械- 病人- 标签。
+[^15]: 参见: org/7993/20170111013014/ _ https://wayback.archive-
 
-[^14]: 可在[参见原文脚注]要求中查阅。其命名方式应确认它们属于同一系统或产品组(ABC血糖测试系统、ABC血糖测量仪、BC血糖测量仪ABC 血糖测试条等)协助识别系统部件。您必须在标签和标签文档(21 CFR 809.10(a)(2)和21 CFR809.10(b)(2))中包括产品的预期用途。供非专业用户家庭使用的用于SMBGs的预期用途应与以下例子相似:
+[^16]: 指尖(即前臂、上臂、大腿、小牛或棕榈)可注明某些SMBG。 http://www.cdc.gov/injectionsafety/blood-glucose-monitoring.html.
 
-[^15]: 参见: org/7993/20170111013014/ _
+[^17]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/new-510k-
 
-[^16]: 指尖(即前臂、上臂、大腿、小牛或棕榈)可注明某些SMBG。
-
-[^17]: 可在以下网站查阅:[参见原文链接]
-
-[^18]: 可在  查阅
-
+[^18]: https://www.fda.gov/medical-devices/premarket-notification-510k/how-prepare-special-510k.

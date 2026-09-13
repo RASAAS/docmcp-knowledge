@@ -154,7 +154,7 @@ FDA可能根据本指南文件概述的同样的一般原则和进程,创建其�
 一般而言,本指南第二节D所述信息会议,供提交者向FDA提供信息,而不必指望FDA提供反馈。
 然而,如果信息会议Q-Sub被用于跟踪尚未为这种互动创建正式的Q-Sub类型的情况,可酌情向正在使用信息会议Q-Sub类型的程序提供反馈。
 
-18 关于与CBER工作人员举行此类会议，见[参见原文脚注]
+18 关于与CBER工作人员举行此类会议，见 FDA 相关指南
 ### H. 不在Q-Submission计划之内的互动
 在Q-Sub计划范围之外还有其他若干机制,工业可通过这些机制从FDA获得反馈。有些国家要求或应当有另一种形式正式提交,有些则可以通过非正式互动加以解决。
 
@@ -240,7 +240,7 @@ Q-Sub计划的一般程序概述如下:包括跟踪提交材料和会议后勤�
 
 • 监管历史:列出以往与FDA就标的器械(包括但不限于任何上市前提交、IND、IDE、513(g))与FDA的任何相关通信,包括但不仅限于任何上市前提交、IND、IDE、513(g),和/或与主题Q-Sub有关的Q-Sub编号。提交的提交还应包括FDA以往这些互动和提交的提交(和提交件数)的简要摘要,酌情包括收到的反馈和解决这些反馈(或替代路径的理由)。
 
-Q-Sub须遵守《FD&C法》第745A(b)节的eCopy要求。FDA网站上还有一份供Pre-Sub使用的自愿电子提交模板和资源(eSTAR)。 29 关于电子复制和提交过程的更多信息,请查阅。查询 @%0我们建议提交材料中包括CDRH上市前审查。
+Q-Sub须遵守《FD&C法》第745A(b)节的eCopy要求。FDA网站上还有一份供Pre-Sub使用的自愿电子提交模板和资源(eSTAR)。 29 关于电子复制和提交过程的更多信息,请查阅 https://www.fda.gov/media/72421/download。我们建议提交材料中包括CDRH上市前审查。
 提交内容封面30,用于向CDRH或CBER提交的电子副本提交,以便利正确登录和及时向适当的审查小组提交文件。
 
 如果提交CDRH,我们建议通过CDRH门户网站(以前称为CDRH客户协作门户)以电子方式提交提交材料包。以下网站讨论过:一旦通过CDRH门户网站提交,Q-Sub将由CDRH文件控制中心接收,或者,可以邮寄给CDRH文件控制中心(DCC)。CDRH的DCC 目前的邮寄地址,见eCopy医疗器械提交程序网页:https://www.fda.gov/
@@ -597,9 +597,9 @@ X公司还想澄清FDA提供的一些补充反馈。
 
 [^15]: 关于批准后研究的更多信息,见FDA指南文件,“处理程序”
 
-[^16]: 如MDUFA V承诺书所述,见[参见原文脚注]指定Breakthrough器械的某些互动关系,被算作用于MDUFA报告目的的Pre-Sub。
+[^16]: 如MDUFA V承诺书所述,见 FDA 相关指南指定Breakthrough器械的某些互动关系,被算作用于MDUFA报告目的的Pre-Sub。
 
-[^17]: 如MDUFA V承诺函所述（见[参见原文脚注]），某些STeP互动提交计入MDUFA报告的Pre-Sub。但这些互动有其自身流程，见FDA指南《Safer Technologies Program for Medical Devices》。
+[^17]: 如MDUFA V承诺函所述（见 FDA 相关指南），某些STeP互动提交计入MDUFA报告的Pre-Sub。但这些互动有其自身流程，见FDA指南《Safer Technologies Program for Medical Devices》。
 
 [^25]: 见FDA指南文件,“在审查医疗器械提交期间的通信类型”。
 
@@ -607,13 +607,13 @@ X公司还想澄清FDA提供的一些补充反馈。
 
 [^30]: 见表格3514, 
 
-[^31]: 有关早期付款者反馈方案的更多信息,请访问以下网站:通讯-任务-力量
+[^31]: 有关早期付款者反馈方案的更多信息,请访问以下网站:https://www.fda.gov/about-fda/cdrh-patient-science-and-engagement-program/early-collaboration-meetings-under-fda-modernization-act-fdama
 
 [^32]: 见168 CONG. REC. S5194-S5203(每日编,2022年9月28日)
 
 [^33]: 更多信息见FDA指南《FDA and Industry Actions on Premarket Approval Applications (PMAs): Effect on FDA Review Clock and Goals》。Pre-Sub问题的重点应是帮助指导FDA的反馈。
 
-[^34]: 有关SaMD的更多信息,请查阅以下网页:https://www.fda.gov//数字-健康-中枢-超精度/软件-医疗-器械-SAMD
+[^34]: 有关SaMD的更多信息,请查阅以下网页:https://www.fda.gov/medical-devices/digital-health-center-excellence/software-medical-device-samd
 
 [^35]: 见FDA指南《FDA and Industry Procedures for Section 513(g) Requests for Information under the Federal Food, Drug, and Cosmetic Act》。
 

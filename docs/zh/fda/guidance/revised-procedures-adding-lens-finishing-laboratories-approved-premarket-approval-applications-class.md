@@ -4,6 +4,8 @@ description: "Revised Procedures for Adding Lens Finishing Laboratories to Appro
 published: 1998-08-10
 ---
 
+
+
 # 修订了对延长穿戴的固体气体透透式接触镜类III类上市前许可申请的添加镜头制成实验室的程序：行业与FDA工作人员指南
 
 **Revised Procedures for Adding Lens Finishing Laboratories to Approved Premarket Approval Applications for Class III Rigid Gas Permeable Contact Lenses for Extended Wear - Guidance for Industry and FDA Staff**
@@ -125,7 +127,7 @@ PMA持有人同意遵守本文件中程序的副本。
 生效日期:上述程序自印发之日起生效。
 如有任何问题,请与O.D.James F. Saviola联系(301) 594-1744。
 诚心诚意的 拉尔夫·罗森塔尔博士
-器械和辐射健康防护器械器械评价中心(批准条件日期:1998年3月4日),眼部器械办公室主任
+器械和辐射健康防护器械评价中心(批准条件日期:1998年3月4日),眼部器械办公室主任
 
 GCOA 发行:3-4-98 批准批准授权条件。向PMA文件邮件中心(HFZ-401)提交3份对PMA文件的修改副本,连同所有经核准的最终印刷版标签副本;器械和辐射健康中心,美国食品药品监督管理局,9200 Corporation Blvd., Rockville,马里兰州,20850。
 支持。申请者或私人标签经销商就这一器械印发的广告或其他描述性印刷材料不得建议或暗示该器械可用于FDA核准的该器械标签中没有包括的任何用途。如果FDA的核准令限制了销售,根据21 CFR 801.109, 规定根据该法第515(d)(1)(B)(二)条的授权,根据该法第520(e)条的规定,实施这一限制,申请者或经销商发布的有关该器械的所有广告和其他说明性印刷材料,应包括该器械预定用途的简要说明和有关警告,预防措施、副作用和反作用。

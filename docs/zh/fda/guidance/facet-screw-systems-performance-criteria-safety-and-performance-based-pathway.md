@@ -93,15 +93,15 @@ L = 轴向螺纹长度(mm),仅包括具有公称大径且预期完全旋入的�
 
 [^3]: 此处引用了《自愿-协商一致-标准-上市前提交-医疗器械-医疗器械》中的具体规定或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
 
-[^4]: 可在以下网址查阅:[参见原文链接]++
+[^4]: 可在以下网址查阅：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^5]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
 
 [^6]: 可在% 0 /% base- pathway 获得
 
-[^7]: 可在以下网址查阅:[参见原文链接]++和格式-非临床-临床-性能测试-信息-预售
+[^7]: 可在以下网址查阅：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-non-clinical-bench-performance-testing-information-premarket-submissions
 
-[^10]: 可在以下网址查阅:[参见原文链接]++
+[^10]: 可在以下网址查阅：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^11]: 可用于++%%
 

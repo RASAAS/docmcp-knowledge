@@ -49,7 +49,7 @@ FDA和疾病防治中心感到关切的是,由于在各种保健提供场所的�
 
 此外,单用长枪,将多病人使用后传播血液传播病原体的风险降至最低,标签中应包含将器械标明为“单一用途”并指示安全处置的文字。
 
-阅读FDA 初始通讯 at: @ @%_%%%
+FDA初始通讯见 http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm224025.htm；CDC临床提醒见 http://www.cdc.gov/injectionsafety/Fingerstick-DevicesBGM.html
 
 阅读CMS调查和认证备忘录:_
 
@@ -91,5 +91,3 @@ FDA建议,所有采血器械应贴上标签,仅供单一病人使用。如果可
 
 5. 标签标签:可再使用的医疗器械,用于医疗机构的后处理:FDA审查员
 指导(1996年)。
-+++
-

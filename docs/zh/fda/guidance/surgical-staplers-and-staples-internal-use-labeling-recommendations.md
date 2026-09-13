@@ -4,6 +4,8 @@ description: "Surgical Staplers and Staples for Internal Use - Labeling Recommen
 published: 2021-10-08
 ---
 
+
+
 # 内部使用的手术具和具 - 标签建议：行业与FDA工作人员指南
 
 **Surgical Staplers and Staples for Internal Use - Labeling Recommendations: Guidance for Industry and Food and Drug Administration Staff**
@@ -54,7 +56,7 @@ FDA制定了本指南的草案,因为我们已意识到使用外科主食和主�
 寄存器和(或)主机故障可能导致长时间外科手术程序或计划外手术、额外的外科手术干预,以及其他并发症,如出血、败血症、肺炎、呼吸道疾病等。并发症的常见原因还包括组织使用大小不正确的主食,用户不正确使用该器械,以及该器械对病人组织状况的不当使用,6 例如,由于这种器械问题,早期手术后麻醉性泄漏可能导致患腹膜炎的化粪病人,需要立即进行手术,把凳子改造成血肿。由于这种器械问题造成的轻微或延迟的肛门泄漏可能导致腹腔内出血,需要进行外科或其他侵入排水程序,这些并发症通常导致长期住院。
 
 3 FDA制造商和用户设施器械经验数据库,从2011年1月1日至2018年3月31日搜索产品编码GDW和GAG。
-4 美国美国食品药品监督管理局,“安全使用外科手术和订书机——致医疗服务提供者的信”,2019年3月8日,2019年3月8日,可在 @%0  提供
+4 美国食品药品监督管理局,“安全使用外科手术和订书机——致医疗服务提供者的信”,2019年3月8日,2019年3月8日,可在   提供
 5 84 FR 17116(见 _
 6 Checkan E,Wheelan RL. 外科施压器械-问题相互作用:外科医生需要了解什么才能改善患者的结果。
 7 Betzold R、Laryea JA. Staple Line/Anastomic Socurement及其他辅助器具:它们有区别吗?
@@ -214,9 +216,9 @@ FDA还鼓励制造商制造第三节(范围)(即:不属于21 CFR 878.4740的商�
 
 [^13]: 21 CFR 801.109 器械标签所需信息的完整清单。条例和《联邦食品、药品和化妆法》(FD&C法)也规定了其他标签要求,例如《FD&C法》第502(f)(2)节。
 
-[^16]: 健康护理设置 - 鉴定 - 方法 - 标签。
+[^16]: 健康护理设置 - 鉴定 - 方法 - 标签。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-medical-devices-
 
-[^17]: 见“重新分类某些外科外科刺伤”的最后命令,2021年10月8日发布(86 FR 56195),可在_ Cooper_
+[^17]: 见“重新分类某些外科外科刺伤”的最后命令,2021年10月8日发布(86 FR 56195),可在_ Cooper_ https://www.federalregister.gov/d/2021-22041.
 
-[^18]: 改变 - 现有器械。
+[^18]: 改变 - 现有器械。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-
 

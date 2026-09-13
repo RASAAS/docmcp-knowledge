@@ -4,6 +4,8 @@ description: "Technical Considerations for Medical Devices with Physiologic Clos
 published: 2023-09-29
 ---
 
+
+
 # 具有生理闭环控制技术的医疗器械技术考量：行业与FDA工作人员指南
 
 **Technical Considerations for Medical Devices with Physiologic Closed-Loop Control Technology: Guidance for Industry and Food and Drug Administration Staff**
@@ -45,7 +47,7 @@ PDF：https://www.fda.gov/media/154994/download
 
 本文件提及的FDA确认的协商一致标准本版,3 关于在提交监管文件时使用协商一致标准方面的更多资料,请参见FDA。
 
-在整个指导意见中,“FDA”、“The Agency”、“We”和“us”指美国食品药品监督管理局,“you”和“yours”指医疗器械制造商。
+在整个指导意见中,“FDA”、“FDA”、“We”和“us”指美国食品药品监督管理局,“you”和“yours”指医疗器械制造商。
 
 总的来说,FDA的指南文件没有规定法律上可以执行的责任。
 相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
@@ -384,64 +386,62 @@ FDA指南文件 " 医疗器械提交材料中计算模型研究报告 " 39,供FD
 
 [^2]: 除非另有说明,本指南中使用的药物一词指人类药物和生物产品。
 
-[^3]: 见题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指南。
+[^3]: 见题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指南。 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^4]: 可在以下网站查阅:[参见原文链接] 自愿-协商一致标准-上市前提交-医疗器械
+[^4]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-
 
-[^5]: 可在以下网址查阅: org/www.fda.gov/MedicalDevices/NewsEvents/Workshopsconferences/ucm457581.htm。
+[^5]: http://wayback.archive-
 
-[^10]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^10]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^11]: 可在  查阅
+[^11]: [^12]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/medical-devices/how-study-and-market-your-device/premarket-submissions
 
-[^12]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^13]: 关于与IDE提交材料有关的进一步信息,见FDA的研究用器械豁免网页() 。 https://www.fda.gov/medical-devices/how-study-and-market-your-device/investigational-device-exemption-ide
 
-[^13]: 关于与IDE提交材料有关的进一步信息,见FDA的研究用器械豁免网页() 。
+[^14]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^14]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
-
-[^15]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^15]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
 [^18]: 本指南中的这一术语与IEC 60601-1-10 1.2 2020-07版中的物质使用方式相同:
 
 [^21]: 本指南文件中物理测量传感器一词的使用方式与IEC 60601-1-10 1.2 2020-07版中测量转移元素的相同:医用电气设备----第1-10部分:基本安全和基本性能的一般要求----附则标准:发展理学闭闭闭循环控制器的要求
 
-[^23]: 现载于#[参见原文脚注]
+[^23]: 现载于# https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-
 
-[^24]: ANSI/AAMI 2700-1中确认的510k号市场通知:医疗器械和医疗系统 -- -- 构成以病人为中心的综合临床环境的器械的基本安全要求 -- -- 第1部分:一般要求和概念模式. 适当的核查和验证技术将取决于个别危险的风险以及危险的类型。
+[^24]: ANSI/AAMI 2700-1中确认的510k号市场通知:医疗器械和医疗系统 -- -- 构成以病人为中心的综合临床环境的器械的基本安全要求 -- -- 第1部分:一般要求和概念模式. 适当的核查和验证技术将取决于个别危险的风险以及危险的类型。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/benefit-risk-factors-
 
-[^25]: 关于医疗器械网络安全的补充资料,见FDA的网络安全网页,网址为:[参见原文脚注]_ 实际交付的能量或物品数量不等于控制算法设定的数量(例如:• 系统内的拖延时间和延迟时间,以及可能造成不安全状况的个别组成部分。• 其他已知的风险,涉及个别PCLC器械部件、系统中的任何单一过失以及故障条件之间可能发生的相互作用。• 如果PCLC器械使用合法销售的器械(例如:a 510(k) 清除的血压监测器,作为PCLC器械中的物理测量传感器,我们建议制造商解决为这些PCLC器械部件确定的后期市场关注问题,因为这些部件可能影响PCLC器械的性能,考虑如何将该部件作为PCLC器械的一部分加以使用,并在你的器械设计和标签中提供解决这一问题的缓解措施的信息。这应包括说明考虑到在PCLC器械中的使用(例如:与作为PCLC器械一部分的 " 闭路 " 配置相比,在 " 开放通道 " 配置中使用部件。• 改变PCLC器械第三方部件,可能影响PCLC器械的安全或性能,或改变该条(例如,PCLC器械的交付,使PCLC器械和物品不再兼容。对于在综合临床环境中安装的PCLC器械,这可能还包括改变构成综合临床环境的器械。• 我们建议PCLC器械制造商建立工艺,作为其质量管理体系的一部分(见21 CFR Part 820),确定何时更改作为器械一部分使用的第三方部件,或更改PCLC器械所交付的物品,(3) 与使用有关的危害
+[^25]: 关于医疗器械网络安全的补充资料,见FDA的网络安全网页,网址为: 实际交付的能量或物品数量不等于控制算法设定的数量(例如:• 系统内的拖延时间和延迟时间,以及可能造成不安全状况的个别组成部分。• 其他已知的风险,涉及个别PCLC器械部件、系统中的任何单一过失以及故障条件之间可能发生的相互作用。• 如果PCLC器械使用合法销售的器械(例如:a 510(k) 清除的血压监测器,作为PCLC器械中的物理测量传感器,我们建议制造商解决为这些PCLC器械部件确定的后期市场关注问题,因为这些部件可能影响PCLC器械的性能,考虑如何将该部件作为PCLC器械的一部分加以使用,并在你的器械设计和标签中提供解决这一问题的缓解措施的信息。这应包括说明考虑到在PCLC器械中的使用(例如:与作为PCLC器械一部分的 " 闭路 " 配置相比,在 " 开放通道 " 配置中使用部件。• 改变PCLC器械第三方部件,可能影响PCLC器械的安全或性能,或改变该条(例如,PCLC器械的交付,使PCLC器械和物品不再兼容。对于在综合临床环境中安装的PCLC器械,这可能还包括改变构成综合临床环境的器械。• 我们建议PCLC器械制造商建立工艺,作为其质量管理体系的一部分(见21 CFR Part 820),确定何时更改作为器械一部分使用的第三方部件,或更改PCLC器械所交付的物品,(3) 与使用有关的危害 https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity
 
 [^26]: 有关医疗器械报告的更多信息,见“FDA指南文件:医疗器械”
 
-[^27]: 可用于%0 系数和可用性-工程-医疗器械
+[^27]: 可用于%0 系数和可用性-工程-医疗器械 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-
 
-[^28]: FDA的指南文件,载于《产品-生命周期》,“设计考虑和预先提交
+[^28]: FDA的指南文件,载于《产品-生命周期》,“设计考虑和预先提交 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/infusion-pumps-total-
 
-[^29]: 可在以下网址查阅:[参见原文链接]和上市前提交建议-可互操作的医疗器械麻醉。我们建议制造商在使用多重控制算法时考虑以下因素:
+[^29]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-
 
-[^30]: 可在以下网站查阅:[参见原文链接]和上市前提交建议-可互操作的医疗器械
+[^30]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-
 
 [^31]: 见21 CFR 820.30 时间、获得必要的器械编程以及安全应对所需的培训(例如:考虑为防止危险情况作出反应所需的时间)。• 透明的出入境标准 -- -- 自动化治疗的开始取决于病人状况,控制算法对病人状况的了解程度如何,以及系统的反应。我们建议制造商采用PCLC器械的入门标准,以便控制算法充分了解患者状况,以便按预期开始治疗。同样,当PCLC模式正在结束时,器械应向用户通报有关病人和器械状态的信息,以便用户安全管理病人。• 对交付能源或物品的限制——我们建议制造商考虑设计PCLC器械,以限制为尽量减少不安全条件而交付的能源或物品。例如,如果控制器的设计是为了以符合药物标签的方式管理药物,例如特定药物的注入率,除其他外,这一设计将尽量减少不安全条件。临床制约的另一个例子是闭环氧化和麻醉气输送器械,控制器在这种器械中不应为避免缺氧混合物而交付低于21%的氧气。以下是需要考虑的制约因素实例,指出这些制约因素并不适用于所有类型的器械:• 能源或物品总交付量随时间推移而变化,包括已经交付但该机构尚未作出反应的能源或物品。• 交付的能量或物品的变动率(例如,为避免系统震荡而进行临界阻断)。• 数据记录——我们建议PCLC器械采用IEC 60601-1-10(例如:第6.3条 IEC 60601-1-10版1.2 2020-07“PCLCS变量记录”与PCLC器械变量数据记录有关的第6.3条。制造商应考虑维持一个系统变量和参数的日志,任何模式开关,包括进入后退模式,对生理变量、临床干预次数、对用户界面的任何投入的调整数量,以及在发生系统故障、故障和/或病人受伤时进行根本原因分析所必需的任何其他信息。
 
 [^32]: 有关医疗器械报告的更多信息,见“FDA指南文件:医疗器械”
 
-[^33]: 本节旨在向制造商提供设计非临床测试的考虑因素,以设计使用PCLC技术的医疗器械。PCLC器械的临床研究设计预计将因用途、风险简介和器械设计的不同而有所不同。
+[^33]: 本节旨在向制造商提供设计非临床测试的考虑因素,以设计使用PCLC技术的医疗器械。PCLC器械的临床研究设计预计将因用途、风险简介和器械设计的不同而有所不同。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-
 
-[^34]: 可在以下网站查阅:[参见原文脚注]_
+[^34]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-
 
-[^35]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^35]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^37]: • 研究行为应遵循一项方案,其中应预先确定评估每项已查明风险的目标,接受标准应具有科学依据。应列入评估对当地组织和系统组织的结构和功能的潜在不利影响的目标。• 制定、开展和介绍这些动物研究的最佳做法,同时纳入现代动物护理和使用战略。• 动物研究与临床研究或预期临床使用的时间长度(即对动物应用PCLC器械的时间)之间的任何差异。
+[^37]: • 研究行为应遵循一项方案,其中应预先确定评估每项已查明风险的目标,接受标准应具有科学依据。应列入评估对当地组织和系统组织的结构和功能的潜在不利影响的目标。• 制定、开展和介绍这些动物研究的最佳做法,同时纳入现代动物护理和使用战略。• 动物研究与临床研究或预期临床使用的时间长度(即对动物应用PCLC器械的时间)之间的任何差异。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-
 
-[^39]: 可在以下网站查阅: 计算-建模-研究-医疗-器械-提交书
+[^39]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reporting-
 
-[^41]: 可在以下网站查阅:会议-医疗器械提交书-q提交书-方案(2)全虚拟测试
+[^41]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^42]: 可用于%0 系数和可用性-工程-医疗器械
+[^42]: 可用于%0 系数和可用性-工程-医疗器械 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-
 
-[^43]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案
+[^43]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^44]: • 如何从自动模式(例如:当用户认为所提供的治疗不是根据临床情况预期或适当的时)。• 如何发现控制战略何时接近其局限性并可能失败(例如,如果治疗以最高速度提供,而病人没有反应)以及使用者的反应应该如何。• 应对器械错误或警告信息(如排除预期器械问题)应采取的步骤。• 应对用户预料不到的与自动化有关的使用错误。
+[^44]: • 如何从自动模式(例如:当用户认为所提供的治疗不是根据临床情况预期或适当的时)。• 如何发现控制战略何时接近其局限性并可能失败(例如,如果治疗以最高速度提供,而病人没有反应)以及使用者的反应应该如何。• 应对器械错误或警告信息(如排除预期器械问题)应采取的步骤。• 应对用户预料不到的与自动化有关的使用错误。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-
 
-[^45]: 可在以下网站查阅:[参见原文链接]和上市前提交建议-可互操作的医疗器械
+[^45]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-

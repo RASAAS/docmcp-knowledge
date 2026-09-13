@@ -4,6 +4,8 @@ description: "Use of Public Human Genetic Variant Databases to Support Clinical 
 published: 2018-04-13
 ---
 
+
+
 # 公共人类基因变体数据库的使用,以支持基因和基因组基因在体诊断的临床有效性：利益相关方与FDA工作人员指南
 
 **Use of Public Human Genetic Variant Databases to Support Clinical Validity for Genetic and Genomic-Based In Vitro Diagnostics : Guidance for Stakeholders and Food and Drug Administration Staff**
@@ -156,7 +158,7 @@ FDA承认的基因变异数据库的数据一般构成有效的科学证据,可�
 
 [^2]: 21 CFR 860/7(e)(1)。
 
-[^5]: 见“0-医疗器械/Ucm603675.htm”。
+[^5]: 见“0-医疗器械/Ucm603675.htm”。 https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/InVitroDiagnostics/PrecisionMedicine-
 
 [^7]: 欲了解更多资料,包括这一专题的指南文件,请见FDA网站。
 

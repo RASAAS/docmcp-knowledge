@@ -4,6 +4,8 @@ description: "User Fees and Refunds for Premarket Approval Applications and Devi
 published: 2022-10-05
 ---
 
+
+
 # 上市前批准申请和器械生物制品许可申请的用户费和退款：行业与FDA工作人员指南
 
 **User Fees and Refunds for Premarket Approval Applications and Device Biologics License Applications: Guidance for Industry and Food and Drug Administration Staff**
@@ -38,7 +40,7 @@ PDF：https://www.fda.gov/media/85712/download
 2022年《医疗器械使用费修正案》(MDUFA V)修订了《联邦食品、药品、以及《化妆品法》(FD&C法案)授权FDA收取用户费,以审查2022年10月1日或该日之后收到的某些预上市前提交,包括上市前批准申请和某些生物许可证申请。 2 从使用费获得的额外资金将使FDA能够,与工业界合作,改进医疗器械审查程序,以实现某些性能目标,并改进医疗器械审查程序,如卫生部长和卫生部长的信中概述的那样。
 3 有关个人产品市场性能目标的更多信息,见“FDA和工业关于预先市场批准申请的行动指南:4 本指南文件的目的是确定:(1) 受器械用户收费限制的PMA和BLA类型;(2) 使用费的例外;(3) 可能导致退还已付使用费的行动。
 
-MDUFA V承诺书也可在[参见原文脚注]本承诺书中还概述了为低限、低限。
+MDUFA V承诺书也可在。
 有关将多份提交材料捆绑在一起的信息,见“单一提交材料中的多个器械或多个标志的组合”。 5 一般而言,FDA的指南文件没有规定法律上可执行的责任。
 相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
 ## II. 须缴纳用户收费的各类产品管理协议类型6
@@ -85,7 +87,7 @@ FD&C法第737(4)(B)节将“平台补充”定义为“补充第515节规定的�
 
 ## IV. 使用费例外
 根据FD&C法的用户收费规定,任何专供儿科人口使用的任何PMA或BLA均免收使用费。在审查该器械及其预定人口后,FDA确定该申请符合儿科例外条件,尽管申请人没有要求放弃申请。在这种情况下,FDA将应请求退还用户费,但如果在核准原版或模块化的PMA或用于儿科用途的BLA后,申请人提出成年人口使用条件,该补助须按提交时有效的传统PMA或BLA全额使用费支付。
-由合格的小企业提交的首次原始PMA或BLA也可一次性免除使用费。在最近一个税年中,其附属公司及其附属公司的收入或销售毛额必须不超过3 000万美元。a 根据《公共卫生服务法》第351节就仅允许进一步制造使用而许可使用的产品提交的《BLA法》豁免使用费。 28 《FD&C法》还规定,州或联邦政府实体提交的《PMA法》或《BLA法》“除非所涉器械用于商业销售”的用户费除外。
+由合格的小企业提交的首次原始PMA或BLA也可一次性免除使用费。在最近一个税年中,其附属公司及其附属公司的收入或销售总额(gross sales)必须不超过3,000万美元。a 根据《公共卫生服务法》第351节就仅允许进一步制造使用而许可使用的产品提交的《BLA法》豁免使用费。 28 《FD&C法》还规定,州或联邦政府实体提交的《PMA法》或《BLA法》“除非所涉器械用于商业销售”的用户费除外。
 FDA虽然得到规约的允许,但通常不接收在这种情况下提交的人民管理令或《生物法》。
 以下PMA补充材料不需缴纳用户费,也不需提交用户费覆盖表: 特殊PMA补充材料—— 变化效应(CBE);• 生产/消毒场地变动的PMA补充,无相关设计改动;• 批准后研究方案的PMA补充;和
 
@@ -94,14 +96,14 @@ FDA虽然得到规约的允许,但通常不接收在这种情况下提交的人�
 • 30天内发生的变化(CBE-30s)
 ### V. 用户付费
 30 请务必包括付款识别号码(PIN,从MD开始)31和FDA P.O。您的支票、 银行汇票或美国邮政汇票的框框。 另外, 您应该附上一份您的用户收费表( FDF- 3601 表格) 。透过FDA的用户收费系统,
-1) 首选方法 - 信用卡或电子支票(ACH):FDA与美国合作。财政部利用[参见原文链接]网络付款系统进行网上电子付款。提交封面表格后,您可通过电子支票或信用卡付款。要在线付款,请选择“现收现付”按钮。
-盖单的信用卡交易限于24 499.99美元。
+1) 首选方法 - 信用卡或电子支票(ACH):FDA与美国合作。财政部利用。提交封面表格后,您可通过电子支票或信用卡付款。要在线付款,请选择“Pay Now”按钮。
+封面的信用卡交易限于24 499.99美元。
 2) 支票:所有纸质支票必须用美国银行的美国货币进行,并付给
 请在完成的医疗器械用户费封面页右上角写上您独特的 PIN 。FDA将无法正确处理您的付款,没有封面表 PIN 。
 邮递支票付款:美国食品药品监督管理局邮箱979033圣路易斯,MO 63197-9000
 邮递服务公司提供的支票付款:美国银行ATTN:政府锁匙979033 1005公约Plaza St. Louis,MO 63101。 注:这个地址仅供信递。如有任何关于信使递送的问题,请联系美国银行(314)418-4013。
 
-30 有关支付使用费的补充资料,可登录[参见原文脚注]_
+30 有关支付使用费的补充资料,可登录
 31 在创建用户收费封面表并选择“向FDA提交封面表”后,获得个人识别信息。
 3) 电线传输: 请在您的电汇中包括您申请的独特 PIN, 从您填好的医疗器械用户费封面表的右上角, 输入您申请的唯一 PIN 。
 没有 PIN , 您的付款不能应用到您的首页表上, 您的申请审查将会延迟 。
@@ -166,10 +168,10 @@ FDA在提出申请后撤回申请,但在根据《FD&C法》的要求就“审查
 为了便利FDA有秩序地发放退款,您应在收费到期后180个历日内向FDA的适当中心提出书面退款请求56。
 
 对于CDRH监管的器械,退款请求应提交至网站#0*****显示的当前邮寄地址。
-对于受CBER监管的器械退款申请应提交至网站[参见原文脚注]_ 显示的现有邮寄地址。
+对于受CBER监管的器械退款申请应提交至网站 显示的现有邮寄地址。
 
 55 《FD&C法》第738(a)(2)(D)(三)节没有授权FDA在FDA对申请采取首次行动后退还任何部分费用。
-56 用户收费退款申请表可在+@@
+56 用户收费退款申请表可在+
 
 ---
 
@@ -177,47 +179,43 @@ FDA在提出申请后撤回申请,但在根据《FD&C法》的要求就“审查
 
 [^1]: 见《2022年FDA用户费用再授权法》(公法117-180)第二章。
 
-[^2]: 有关医疗器械用户费,包括本财政年度用户费的更多信息,请见[参见原文脚注]_
+[^2]: 有关医疗器械用户费,包括本财政年度用户费的更多信息,请见 https://www.fda.gov/industry/fda-user-fee-programs/medical-device-user-fee-amendments-mdufa
 
 [^3]: 见168 CONG. REC. S5194-S5203(每日编,2022年9月28日)
 
-[^4]: 批准 - 申请 - 质量 - 效果
+[^4]: 批准 - 申请 - 质量 - 效果 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fda-and-industry-actions-premarket-
 
-[^5]: +++
-
-[^6]: 见《FD&C法》第738(a)(2)(A)节。
+[^5]: [^6]: 见《FD&C法》第738(a)(2)(A)节。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bundling-multiple-devices-or-
 
 [^8]: 见《FD&C法》第738(b)(2)节。关于模块化PMA进程的更多信息,见指南文件“预先批准申请模块审查”。
 
 [^9]: 见《FD&C法》第738(a)(2)(C)节。
 
-[^10]: 0+++ 模块审查
+[^10]: 0 模块审查 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/premarket-approval-application-
 
 [^11]: 见《FD&C法》第515(c)(2)(A)节。
 
 [^12]: 见《FD&C法》第738(a)(2)(A)节。 " 需预先批准器械的修改 -- -- PMA补编 "
 
-[^13]: 上市前批准前的决策过程
+[^13]: 上市前批准前的决策过程 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/modifications-devices-subject-
 
 [^14]: 见《FD&C法》第738(a)(2)(A)(三)节。
 
-[^15]: 上市前批准前的决策过程
+[^15]: 上市前批准前的决策过程 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/modifications-devices-subject-
 
 [^16]: 见《FD&C法》第738(a)(2)(A)(四)节。
 
-[^17]: ++
-
-[^18]: 上市前批准前的决策过程
+[^17]: [^18]: 上市前批准前的决策过程 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/real-time-premarket-approval-
 
 [^19]: 见《FD&C法》第738(a)(2)(A)(五)节,影响器械安全和效能的制造。”21 CFR 814.39(f)“如果[30天]通知不充分,FDA应书面通知申请者,需要135天的PMA补充材料,并应说明接受这种变更需要哪些进一步资料或行动。”参见指南文件,“30天通知、135天上市前批准(PMA)补编和75天人道主义器械豁免(HDE)补编。
 
-[^20]: 批准-pma-suppupment 和75天人道主义- 人道主义- 豁免
+[^20]: 批准-pma-suppupment 和75天人道主义- 人道主义- 豁免 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/30-day-notices-135-day-premarket-
 
-[^21]: 上市前批准前的决策过程
+[^21]: 上市前批准前的决策过程 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/modifications-devices-subject-
 
 [^22]: 见《FD&C法》第738(a)(2)(A)(六)节。
 
-[^23]: 学习 强制按pma-顺序
+[^23]: 学习 强制按pma-顺序 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/procedures-handling-post-approval-
 
 [^24]: 见《FD&C法》第738(a)(2)(A)(x)节。
 
@@ -231,17 +229,17 @@ FDA在提出申请后撤回申请,但在根据《FD&C法》的要求就“审查
 
 [^29]: 见《FD&C法》第738(a)(2)(B)(三)节。
 
-[^32]: 提交
+[^32]: 提交 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device-
 
 [^33]: 见《FD&C法》第738(a)(2)(D)(二)节。
 
 [^34]: 见《FD&C法》第738(a)(2)(D)(一)节。
 
-[^36]: 上市前批准前的申请申请 - pmas
+[^36]: 上市前批准前的申请申请 - pmas https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-and-filing-reviews-
 
 [^37]: 欲了解更多有关PMA行动的信息,见《FD&C法》第738(a)(2)(D)(三)节,《上市前批准申请:对FDA审查时钟和目标的影响》38。FDA在提出申请后撤回申请,但在根据《FD&C法》39 的要求就“审查方面已经付出的努力”采取初步行动之前,将依据退款发放给FDA。在多数情况下,我们的努力水平可以按照审查申请的历日数目来适当评估。这种办法使FDA能够比我们试图逐案估计各种因素时效率更高得多地计算和处理退款,例如,审评组每一成员在审评上花费的时间,以及科学、医学、技术、科学和技术、科学、科学、技术、科学、科学、技术、技术、科学、科学审评过程中审查的规章问题。
 
-[^38]: 通知 510k-提交文件的效果 情况审查 24小时检查和目标
+[^38]: 通知 510k-提交文件的效果 情况审查 24小时检查和目标 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fda-and-industry-actions-premarket-
 
 [^39]: 见《FD&C法》第738(a)(2)(D)(三)节。
 
@@ -253,7 +251,7 @@ FDA在提出申请后撤回申请,但在根据《FD&C法》的要求就“审查
 
 [^43]: 见《FD&C法》第738(a)(2)(C)节。
 
-[^44]: 0+++ 模块审查
+[^44]: 0 模块审查 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/premarket-approval-application-
 
 [^45]: 见《FD&C法》第738(a)(2)(D)(四)节。
 
@@ -261,7 +259,7 @@ FDA在提出申请后撤回申请,但在根据《FD&C法》的要求就“审查
 
 [^47]: 然而,见第738(a)(2)(D)(三)节,许可证协议PMA以授权参考方式纳入了21 CFR 814.20所要求的所有资料,包括相同的制造程序和设施,申请人在第一次行动之前请求撤回(一般是批准令),FDA计划根据努力水平退还全部用户费。
 
-[^48]: 见指南文件,“医疗器械提交副本方案”,可查阅“0_
+[^48]: 见指南文件,“医疗器械提交副本方案”,可查阅“0_ https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device-
 
 [^49]: 见《FD&C法》第738(a)(2)(D)(二)节。
 

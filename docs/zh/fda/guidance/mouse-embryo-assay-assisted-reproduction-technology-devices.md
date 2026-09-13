@@ -89,7 +89,7 @@ FDA建议,根据所使用的系统,在测试和控制物品时采用下列MEA接
 
 ## 脚注
 
-[^1]: 可在  查阅
+[^1]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
 [^2]: 参见《自愿-协商一致-标准-上市前提交书-医疗器械》,第0--在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
 

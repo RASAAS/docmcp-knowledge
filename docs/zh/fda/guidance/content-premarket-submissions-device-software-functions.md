@@ -463,7 +463,7 @@ o 递减分析是根据对有关文件的审查(例如软件要求规格、软�
 
 [^3]: 可在  查阅
 
-[^4]: 可在以下网站查阅:[参见原文链接]++++ 自愿-协商一致标准-上市前提交书-医疗器械。
+[^4]: 可在以下网站查阅:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices。
 
 [^5]: 可在以下网站查阅:+ 和使用标准-监管-提交-经过审查的生物中心-评估。指南文件如下。以下指南文件是FDA与上市前软件文件活动有关的具有数字保健内容6 的一套指南。
 
