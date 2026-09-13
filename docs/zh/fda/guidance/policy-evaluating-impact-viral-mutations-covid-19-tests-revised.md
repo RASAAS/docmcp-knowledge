@@ -4,6 +4,8 @@ description: "Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests 
 published: 2023-01-12
 ---
 
+
+
 # 评估病毒突变对COVID-19测试的影响的政策 (修订)：检测开发者与FDA工作人员指南
 
 **Policy for Evaluating Impact of Viral Mutations on COVID-19 Tests (Revised): Guidance for Test Developers and Food and Drug Administration Staff**
@@ -35,7 +37,8 @@ PDF：https://www.fda.gov/media/146171/download
 1. 本文件取代“评价病毒突变对COVID-19试验的影响的政策:2021年2月22日发布的《试验开发者及美国食品药品监督管理局工作人员指南》。
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
-除非引述了具体的规章或法规要求,否则建议。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+除非引述了具体的规章或法规要求,否则建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 目前,一种新型的冠状病毒引发了呼吸道疾病的爆发。该病毒被命名为“SARS-CoV-2”,其引起的疾病被命名为“2019冠状病毒疾病(COVID-19)”(COVID-19)。HHS秘书根据《公共卫生服务法》关于COVID-19的第319条第319条发布公共卫生紧急紧急宣布,并动员HHS各业务司。 2月4日,2020年,HHS秘书发表声明,根据HHS秘书根据《FD&C法》第564(b)(1)(C)节作出的公共卫生紧急决定,批准紧急使用体外诊断,以检测和(或)诊断SARS-CoV-2。 3 此外,日期 上
 2020年3月13日,总统宣布全国紧急状况,以应对COVID-19。 4 SARS-CoV-2病毒随着时间变化,导致在COVID-19大流行期间循环病毒变异人群的遗传变异,在美国和全球都有新的病毒变异有时新的变体出现并消失,有时新的变体继续存在并增加流行率。
@@ -54,8 +57,10 @@ FDA监测方案的一个方面是,从公开提供的基因组数据库(如GISAID
 FDA定期监测经欧盟航空局授权的分子测试以及分别根据重新途径或510(k)条授权或批准的分子测试,使试验的初级/主要序列(或相当的试验使用替代性放大法)与美国保持一致。在地理信息系统国际开发署和其他数据库中公布的SARS-CoV-2基因组,以确定测试所针对的病毒基因组区域是否有突变,在发现任何可能影响到试验性能的突变之后,FDA还考虑其他资料,例如与试验的开源器或探头器有关的突变情况,以及是否存在影响单一试验的多重突变,以及是否有可能出现综合变异,从而影响某一特定测试并降低性能。
 这项计划,包括应FDA的要求由某些测试开发商进行的后续调查,导致FDA于2021年1月8日释放了一名FDA,向临床实验室工作人员和医疗服务提供者发出安全警报,说明新出现的变异物的潜在影响,包括联合王国的B.1.1.7变异物,7 FDA根据从这一监测获得的补充资料,开发了一个网页,SARS-CoV-2 Viral Mudications:对COVID-19试验的影响,8 以提供病毒变异对COVID-19试验影响的最新情况。FDA继续监测6种全球全球科学举措和主要来源,即开放获取流感病毒基因组数据和负责COVID-19的新冠状病毒()。
 在目前版本的本指南中,FDA提供了最新资料,说明FDA自最初发布以来采取的行动,并修订了本指南中政策打算继续生效的期限;这些建议和政策尚未修订。
+
 ## III. 范围
 下列建议旨在供已发布EUA的SARS-CoV-2分子、抗原和血清测试的开发者使用,其测试符合FDA《2019冠状病毒疾病(COVID-19)年测试指导政策》(修订本)所列政策,9个开发商和其他开发商在进行COVID-19分子、抗原和血清测试时,寻求FDA的EUA进行COVID-19分子、抗原和血清测试。
+
 ## IV. 建议
 本指南说明FDA关于评价SARS-CoV-2号卫星新出现和未来病毒突变对COVID-19试验的潜在影响的建议。向未经批准进行测试的开发者提出建议(例如,测试开发和欧盟评价要求),以及为获得授权测试的测试开发者提出的建议。FDA将继续根据现有资料,酌情重新评估和更新这些建议。
 此外,FDA在测试欧盟环境协定中列入了授权条件,以评价病毒突变对测试性能的影响,本指南讨论的一些建议包括其中的一些建议,欧盟航空局授权测试的测试开发者必须遵守这些条件。关于上市前提交材料,FDA已建立了特殊控制,包括一项对遗传变异的不断监测、识别和处理,在发布关于检测和识别微生物剂呼吸样标本中的核酸目标的器械的第21 CFR 866.3981号条例时,在多目标试验中,这些微生物剂导致SARS-CoV-2呼吸道感染和其他微生物剂。
@@ -102,23 +107,23 @@ FDA还建议抗原诊断测试和血清测试的开发者在制定测试时考�
 
 ## 脚注
 
-[^5]: 详情见CDC SARS-CoV-2变式分类和定义,蛋白质为%0。微微粒的亚变差可能在具体变异或特性方面还可能有所不同。
+[^5]: 详情见CDC SARS-CoV-2变式分类和定义,蛋白质为%0。微微粒的亚变差可能在具体变异或特性方面还可能有所不同。 https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html
 
-[^7]: =0 =
+[^7]: 见 https://www.fda.gov/medical-devices/letters-health-care-providers/genetic-variants-sars-cov-2-may-lead-false-negative-results-molecular-tests-detection-sars-cov-2
 
-[^8]: 有关变异物和COVID-19授权测试的公用测试信号,并将在获得更多信息后向利益攸关方和公众提供补充资料。这项指导是这些努力的一部分,包括FDA根据目前掌握的资料提出的建议。
+[^8]: 见 https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-viral-mutations-impact-covid-19-testssignalsconcerningvariantsand
 
-[^9]: 修订
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-coronavirus-disease-2019-tests-revised
 
-[^10]: 见BioFire呼吸小组2.1(RP2.1),可在以下网址查阅:FDA将与先前授权测试的测试开发者合作,以确定这些报表是否,这些测试授权标签需要更新或其他更新。
+[^10]: 见BioFire呼吸小组2.1(RP2.1) https://www.accessdata.fda.gov/cdrh_docs/pdf20/DEN200031.pdf
 
-[^11]: 修订
+[^11]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-coronavirus-disease-2019-tests-revised
 
-[^12]: 共同进行19年测试
+[^12]: 见 https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-viral-mutations-impact-covid-19-tests
 
-[^14]: 测试性能
+[^14]: 测试性能 https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e2.htm?s_cid=mm7003e2_w
 
-[^17]: 0 器械/ 体外诊断- eus #covid19ivd Templates
+[^17]: 见 https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas#covid19ivdTemplates
 
-[^18]: 公共卫生应急反应的CDC SARS-CoV-2序列;流行病学,以及
+[^18]: 见 https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas#covid19ivdTemplates
 

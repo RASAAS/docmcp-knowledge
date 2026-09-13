@@ -4,6 +4,8 @@ description: "Non-Automated Sphygmomanometer (Blood Pressure Cuff) Guidance - Ve
 published: 1998-11-18
 ---
 
+
+
 # 无自动化气计 (血压袖手套) 指南 - 第1版本：行业指南
 
 **Non-Automated Sphygmomanometer (Blood Pressure Cuff) Guidance - Version 1 - Guidance for Industry**
@@ -46,7 +48,7 @@ PDF：https://www.fda.gov/media/71873/download
 二、试验议定书 7
 三、试验数据和结果 7三、分析... 5 - 5 3
 4. 三、在体外安全测试中进行安全测试 8
-a. a. 指
+a. 指
 三、生物相容性8
 三、灭菌... 8
 货架寿命 5

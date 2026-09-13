@@ -17,7 +17,7 @@ published: 2020-08-14
 **案卷号**：FDA-2019-D-1649
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cutaneous-electrodes-recording-purposes-performance-criteria-safety-and-performance-based-pathway
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cutaneous-electrodes-recording-purposes-性能-criteria-safety-and-性能-based-pathway
 PDF：https://www.fda.gov/media/130864/download
 :::
 

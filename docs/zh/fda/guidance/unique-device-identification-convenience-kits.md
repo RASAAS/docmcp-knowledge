@@ -29,7 +29,6 @@ PDF：https://www.fda.gov/media/95120/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -102,7 +101,6 @@ https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/Guidanc
 6. 在GUDID中为便利包创建DI记录是否有任何特殊规则？
 关于如何向GUDID提交信息（包括与便利包相关的信息）的技术建议，请访问FDA网站。¹⁷
 
----
 
 ## 脚注
 

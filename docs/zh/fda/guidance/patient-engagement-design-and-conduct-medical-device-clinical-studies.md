@@ -4,6 +4,8 @@ description: "Patient Engagement in the Design and Conduct of Medical Device Cli
 published: 2022-01-26
 ---
 
+
+
 # 患者参与医疗器械临床研究,FDA工作人员和其他利益相关者设计和进行：行业指南
 
 **Patient Engagement in the Design and Conduct of Medical Device Clinical Studies: Guidance for Industry, Food and Drug Administration Staff, and Other Stakeholders**
@@ -38,7 +40,7 @@ PDF：https://www.fda.gov/media/130917/download
 
 本指南旨在:(1) 帮助申办者了解他们如何自愿利用病人的参与来获取经验、观点、观点、病人顾问提供的其他相关信息(见第四节的定义),以改进医疗器械临床研究的设计和实施;(2) 强调在医疗器械开发过程中及早与病人顾问接触的好处;
 
-本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 
 ## II. 背景
 2017年10月11日至12日,3 讨论议题包括病人顾问参与临床调查的设计;临床研究的学习/研究参与者的招聘、入学和保留;病人顾问在临床研究过程中与业界合作时面临的机遇和障碍。PEAC指出,FDA和行业应制定某种框架,以澄清病人顾问如何能参与临床研究进程。FDA和临床试验转型组织举办的公共讲习班还讨论了让病人参与临床试验的重要性
@@ -125,29 +127,27 @@ FDA认为,适当的病人参与可能会提高医疗器械临床研究的设计�
 
 [^1]: 在本指南中,“照顾者”一词是指“照顾伙伴”。照顾者包括成年家庭成员或与下列人士有重要关系的其他个人:并且向患有慢性或其他健康状况、残疾或功能限制的个人提供范围广泛的援助。(3) 说明哪些病人参与活动一般不被FDA视为属于研究或受FDA条例监管的活动,包括有关机构审查委员会的条例;(4) 处理关于收集和向FDA患者提交有关设计和进行医疗器械临床研究的信息方面的共同问题和误解。
 
-[^2]: 见患者参与咨询委员会2017年会议材料,可在以下网址查阅:订婚顾问委员会
+[^2]: 见 https://www.fda.gov/advisory-committees/patient-engagement-advisory-committee/2017-meeting-materials-patient-engagement-advisory-committee
 
 [^4]: 见2019年FDACTTI公共讲习班上题为“加强将
 
-[^5]: 见题为“医疗器械临床试验中的积极参与”的讨论文件,可在以下网址查阅:
+[^5]: 见题为“医疗器械临床试验中的积极参与”的讨论文件 https://www.fda.gov/media/122893/download.
 
-[^7]: 见患者参与咨询委员会2018年会议材料,可在以下网址查阅:* 咨询-委员会会议宣布-11152018-11152018。
+[^7]: 见 https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-15-2018-patient-engagement-advisory-committee-meeting-announcement-11152018-11152018
 
 [^8]: 术语研究计划包括21 CFR 812.25所界定的调查计划,其中包括议定书。• 申办者参加病人参与活动的意识、资源和时间有限;• 发现病人顾问了解临床研究方法的挑战;• 现场调查员不愿意允许申办者与病人接触,但研究/研究参与者除外;• 与病人顾问亲自接触的后勤挑战,这可能排除他们参与临床研究的设计;· 确定哪些病人顾问或病人组织应参与,如果有多名病人顾问参与,将遇到挑战;如何调和不同的观点。
 
-[^9]: 见FDA网站,标题是“Patient-Focused Development Guniciples”,网址如下:研究者、申办者或FDA在临床研究方面:研究/研究参与者和病人顾问。
+[^9]: 见FDA网站,标题是“Patient-Focused Development Guniciples”,网址如下:研究者、申办者或FDA在临床研究方面:研究/研究参与者和病人顾问。 https://www.fda.gov/drugs/development-approval-process-drugs/patient-focused-drug-development-glossary.
 
 [^10]: 见21 CFR 50.3(g)、56.102(e)和812.3(p)。相对于非研究性病人参与努力(即病人顾问参与),可以改进临床研究的设计和进行。
 
 [^14]: 欲了解更多有关PRO的详情,请见FDA的指南 " 和平报告成果措施:医疗用
 
-[^16]: 欲了解更多关于病人偏好信息的信息,见FDA的指南 " 优先信息 -- -- 自愿提交,预先批准申请审查,人道主义器械豁免申请和De Novo请求,以及列入决定摘要和器械标签,”可在以下网址查阅:自愿提交-审查-预市场-批准-申请。
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/patient-preference-information-voluntary-submission-review-premarket-approval-applications
 
 [^18]: 见 https://www.fda.gov/medical-devices/device-advice-investigational-device-exemption-ide/ide-guidance
 
 [^19]: 21 CFR 56.102(g). 与会者需要认真考虑联邦、州和地方法律及机构政策,以保护他们。
 
-[^21]: 
-
-[^22]: 医疗器械提交文件 q提交方案FDA鼓励病人在适当情况下参与医疗器械临床研究,本文件概述了潜在价值,并概述在让病人顾问参与设计和进行临床研究方面面临的挑战和可能的解决办法。本文件还确定了申办者可以请病人顾问参与设计更多以病人为中心的研究的各种方式,这些研究更有可能招收和保留研究/研究参与者,以及收集对病人有意义的信息。
+[^21]: [^22]: 医疗器械提交文件 Q-Submission方案FDA鼓励病人在适当情况下参与医疗器械临床研究,本文件概述了潜在价值,并概述在让病人顾问参与设计和进行临床研究方面面临的挑战和可能的解决办法。本文件还确定了申办者可以请病人顾问参与设计更多以病人为中心的研究的各种方式,这些研究更有可能招收和保留研究/研究参与者,以及收集对病人有意义的信息。 https://www.fda.gov/about-fda/center-devices-and-radiological-health/cdrh-patient-engagement
 

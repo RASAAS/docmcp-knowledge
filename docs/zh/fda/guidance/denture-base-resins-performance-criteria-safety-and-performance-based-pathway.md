@@ -17,7 +17,7 @@ published: 2022-04-13
 **案卷号**：FDA-2021-D-0603
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/denture-base-resins-performance-criteria-safety-and-performance-based-pathway
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/denture-base-resins-性能-criteria-safety-and-性能-based-pathway
 PDF：https://www.fda.gov/media/151777/download
 :::
 

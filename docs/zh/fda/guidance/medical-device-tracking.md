@@ -4,6 +4,8 @@ description: "Medical Device Tracking : Guidance for Industry and FDA Staff"
 published: 2014-03-27
 ---
 
+
+
 # 医疗器械跟踪：行业与FDA工作人员指南
 
 **Medical Device Tracking : Guidance for Industry and FDA Staff**
@@ -31,6 +33,7 @@ PDF：https://www.fda.gov/media/71205/download
 ## 官方文件全文
 
 FDA指南文件（包括本指南）不确立具有法律强制执行力的责任。相反，指南描述FDA对某一主题的当前观点，且除非援引具体的法规或法定要求，否则应仅视为建议。在FDA指南中使用“应当（should）”一词，表示某事项被建议或推荐，但并非强制要求。
+
 ## II. 背景
 
 《食品药品监督管理局现代化法》（FDAMA）要求制造商在FDA命令其这样做时跟踪某些器械。跟踪旨在在器械对健康构成需要立即关注的严重风险时，便于通知和召回。
@@ -50,6 +53,7 @@ FDA可从须跟踪器械清单中增加或移除器械，并可在审查上市�
 关于被跟踪医疗器械的更多信息也可见FDA网站 http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/PostmarketRequirements/Medi calDeviceTracking/default.htm
 
 关于被跟踪医疗器械或与被跟踪医疗器械相关的法规和要求的问题，应发送至 TrackedDevicesMailbox@FDA.HHS.GOV。
+
 ## III. 范围
 本指南适用于由CDRH监管的被跟踪医疗器械的制造商、进口商和分销者。
 
@@ -164,6 +168,7 @@ Endovascular graft system, aortic aneurysm treatment MIH Heart valve, mechanical
 Pulmonary valve prosthesis, percutaneously delivered NPV Pulmonic valved conduit MWH
 Pulse generator, pacemaker, implantable, with cardiac resynchronization (CRT-P) NKE Pulse generator, permanent, implantable NVZ Pulse generator, single chamber, single LWW Pulse generator, dual chamber, pacemaker, external OVJ
 Pulse generator, single chamber, sensor driven, implantable LWO Pump, infusion or syringe, extra-luminal FIH Pump, infusion, implanted, programmable LKK Shunt, protosystemic, endoprosthesis MIR Stimulator, autonomic nerve, implanted (depression) MUZ Stimulator, cerebellar, implanted GZA Stimulator, diaphragmatic/ phrenic nerve, implanted GZE Stimulator, diaphragmatic/phrenic nerve, laparoscopically implanted OIR Stimulator, electrical, implanted, for Parkinsonian symptoms NHL Temporomandibular joint, implant LZD Transmandibular implant MDL Ventilator, continuous, home use NOU Ventilator, continuous, non-life-supporting MNS Ventilator, continuous, minimal ventilatory support, facility use MNT Ventilator, continuous, minimal ventilatory support, home use NQY Ventilator, mechanical ONZ
+
 ## VI. 从跟踪要求中解除的医疗器械
 先前从强制跟踪要求中解除的器械仍无任何跟踪义务。
 

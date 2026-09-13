@@ -4,6 +4,8 @@ description: "Pharmacogenetic Tests and Genetic Tests for Heritable Markers: Gui
 published: 2006-02-09
 ---
 
+
+
 # 药物遗传检测和遗传标志物遗传检测：行业与FDA工作人员指南
 
 **Pharmacogenetic Tests and Genetic Tests for Heritable Markers: Guidance for Industry and FDA Staff**
@@ -31,7 +33,7 @@ PDF：https://www.fda.gov/media/71422/download
 
 ## 官方文件全文
 
-FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 
 最不负担最重的办法
 

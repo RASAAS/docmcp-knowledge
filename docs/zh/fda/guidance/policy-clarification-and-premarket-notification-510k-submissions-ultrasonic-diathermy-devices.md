@@ -4,6 +4,8 @@ description: "Policy Clarification and Premarket Notification [510(k)] Submissio
 published: 2023-02-21
 ---
 
+
+
 # 超声透热器械的政策澄清和上市前通知[510(k)]提交：行业与FDA工作人员指南
 
 **Policy Clarification and Premarket Notification [510(k)] Submissions for Ultrasonic Diathermy Devices: Guidance for Industry and Food and Drug Administration Staff**
@@ -32,15 +34,18 @@ PDF：https://www.fda.gov/media/107094/download
 ## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 本指南文件为提交510(k)个超声透热仪,又称理疗器械,提供了建议。根据《联邦食品、药品和化妆法》(《联邦食品、药品和化妆法》)第201(h)条,超声透热仪是器械。本指南包括建议使用国际电工委员会的某些标准生成信息,支持510(k)件关于这些器械的提交。本指南还补充FDA关于上市前通知(510(k))提交材料的具体内容要求和建议的其他文件(也参见21 CFR 807.87)。
 本文件引用的FDA确认的协商一致标准现版,见FDA《共识标准》数据库。 1 关于在提交监管文件时使用协商一致标准的更多信息,请参考FDA“在医疗器械上市前提交材料中适当使用自愿共识标准”的指导意见。 2 本指南补充FDA关于上市前通知(510(k))提交材料的具体内容要求和建议的其他文件。另请参考21 CFR 807.87和FDA的指南, " 传统格式和缩写510(k) " 。
-总的来说,FDA的指南文件没有规定法律上可以执行的责任。
-相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 范围
 本文件的范围限于21 CFR 890.5300(a)、产品编码IMI和PFW(PFW)监管的超声波对开器械,它们是第二类器械。
 本指南适用于超声透热仪(物理疗法)器械,用于对某些医疗条件,如减轻疼痛,应用治疗性深热,本指南仅涉及20千赫以上频率使用超声波能量的器械,每个治疗头使用单平面环形探头,产生与治疗头面部(即相容或相异)不相容的波束。
 21 CFR 890.5300(a)号外的其他医疗器械,包括使用超声波,均受监管,不在本指南范围之内。排除的医疗器械包括但不限于:超声波旨在摧毁联合企业(例如,肾或膀胱中的石块)或任何类型的组织;· 工具由超声波驱动的器械(例如外科手术、发型乳房手术、牙科测量仪或体内轻脚手);超声波意在使组织对进一步治疗(例如辐射或化疗)有敏感认识的器械;超声波用于治疗癌症(即恶性)或先天组织或良性质量的器械;例如高强度聚焦超声波或高强度治疗超声波;以及超声波用于审美目的的器械。
+
 ## III. 510(k) 提交材料建议
 ### A. 器械描述
 每21 CFR 890.5300(a),用于对选定的医疗条件施用治疗性深热的超声波隔热器,是一种适用于身体中频率超过20千赫的超声波能量特定区域的器械,目的是在人体组织内产生深热,用于治疗某些医疗条件,例如减轻疼痛,肌肉抽筋,和联合合同, 但不治疗恶性。用于治疗的超声脉冲隔热器械产生高频声波,深入组织,产生温和的治疗热。如果温度持续上升至41°C至45°C,则产生深温治疗热。 4 声波通过治疗头传送,治疗师对皮肤使用温柔的治疗,在大部分情况下,超声波能量的传输中,有低过敏凝胶辅助器。这种凝胶,加上非静态施用器的连续移动,减轻了皮肤表面过热的情况。
@@ -185,13 +190,13 @@ Ie = P/AER 给出的有效强度强度,其中P为输出功率,AER为有效辐射
 
 [^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^3]: 缩写为510k
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-abbreviated-510ks
 
-[^5]: 可在下列网址查阅:%0 上市前提交书-软件-自足医疗器械
+[^5]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
-[^6]: 软件校验
+[^6]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation
 
-[^7]: 510k 软件改变现有器械
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-
 
 [^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-management-cybersecurity-medical-devices
 
@@ -199,11 +204,11 @@ Ie = P/AER 给出的有效强度强度,其中P为输出功率,AER为有效辐射
 
 [^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-medical-devices-containing-shelf-ots-software
 
-[^11]: 标准-iso-10993-1生物评价-医疗器械-第1部分-评价-和/
+[^11]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and
 
-[^13]: 索赔 - 电磁兼容性- 乳电-电动-电动-医疗器械
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-support-claim-electromagnetic-compatibility-emc-electrically-powered-medical-devices
 
-[^14]: 制造地点、月份和年份(例如:制造:月和月
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staffb
 
 [^15]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-and-premarket-notification-510k-submissions-ultrasonic-diathermy-devices
 

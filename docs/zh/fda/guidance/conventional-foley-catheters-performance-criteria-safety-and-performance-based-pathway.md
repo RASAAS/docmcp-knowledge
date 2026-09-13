@@ -17,7 +17,7 @@ published: 2020-08-14
 **案卷号**：FDA-2019-D-1651
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/conventional-foley-catheters-performance-criteria-safety-and-performance-based-pathway
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/conventional-foley-catheters-性能-criteria-safety-and-性能-based-pathway
 PDF：https://www.fda.gov/media/130865/download
 :::
 

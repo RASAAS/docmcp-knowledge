@@ -17,7 +17,7 @@ published: 2024-09-30
 **案卷号**：FDA-2024-D-4170
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-impression-materials-performance-criteria-safety-and-performance-based-pathway
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-impression-materials-性能-criteria-safety-and-性能-based-pathway
 PDF：https://www.fda.gov/media/182282/download
 :::
 

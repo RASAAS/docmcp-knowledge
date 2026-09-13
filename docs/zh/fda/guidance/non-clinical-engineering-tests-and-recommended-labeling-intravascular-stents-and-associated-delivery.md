@@ -4,6 +4,8 @@ description: "Non-Clinical Engineering Tests and Recommended Labeling for Intrav
 published: 2010-04-17
 ---
 
+
+
 # 对于静脉内和相关输送 (STS) 的非临床工程测试和建议标签：行业与FDA工作人员指南
 
 **Non-Clinical Engineering Tests and Recommended Labeling for Intravascular Stents and Associated Delivery Systems - Guidance for Industry and FDA Staff**
@@ -31,7 +33,7 @@ PDF：https://www.fda.gov/media/71639/download
 
 ## 官方文件全文
 
-FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 
 本指南所用术语的定义,即内血管管内血管支架,也称为内血管支架或血管支架。本文件使用“穿透系统”一词指内血管、内血管和血管系统。
 
@@ -74,6 +76,7 @@ A 支架输送系统向目标地点提供支架,然后部署支架。
 资料可使用礼宾登记系统提交临床调查。欲了解更多信息,请访问《减贫战略信息》网页。
 器械/预市场Submissions/上市前批准PMA/ucm048168.htm#pdp • IDEs(21 CFR Part 812):器械/调查性豁免/默认。 htm 本指南还引用了一些自愿标准,其中许多得到FDA的承认。
 你可以从CDRH网站(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery)上查阅FDA承认的标准清单。另见《共识标准的指导、承认和使用》,《医疗要求/管理和管理/指南文件指南》/ucm077295.pdf。
+
 ## III. 试验数据的内容和格式
 ### A. 简要报告
 我们建议你以摘要形式提出测试数据,摘要包括以下内容。
@@ -120,6 +123,7 @@ X 3. 0 X 3. 0
 十 十
 
 X = 建议的测试尺寸
+
 ## IV. 非临床工程试验
 ### A. 材料特性
 1. 材料构成
@@ -300,6 +304,7 @@ FDA建议你进行长期耐久性测试,模拟你可能在其预定用途下经�
 我们建议你们执行一个抽样计划,检查多种产品,以评估批量之间和批量内部的变异性。您应该对标注设计(见上文表2)和中间大小四角的大小进行测试。请为选择样本提供科学或统计上的理由。
 
 可以将评价部分与交付、部署和减缩试验结合起来(见第四节,非临床工程试验C部分)。交付系统尺寸和功能属性2. 交付部署和撤回)和(或)加涂层完整性测试(见该科)
+
 ## IV. C. 运载系统
 功能属性11。涂层完整性评估只需对试验样品进行最低限度的额外处理,即可使微粒不会丢失或产生。
 
@@ -563,7 +568,7 @@ FDA建议,为外血管内刺贴标签应包括以下各节。其中一些建议�
 您应简单描述患者入境标准,例如:• 评估类型(临床、电话、血管/射线超声波跟踪)。
 您应描述您的患者群体中可能影响研究结果的特征,包括:• 糖尿病 任何其他重要的共变情况。
 如何使用临床活动委员会、数据与安全监测委员会和(或)有害事件判决核心实验室,请酌情说明。
-您应简要描述研究结果,包括是否达到了初级终点或终点,例如:与控制组相比(X%对Y%,P%0 / 0.001),X级显示TVF的比率较低。
+您应简要描述研究结果,包括是否达到了初级终点或终点,例如:与控制组相比(X%对Y%,P/ 0.001),X级显示TVF的比率较低。
 请参看本指南下一节所述的主要安全和效能表。
 ### J. 主要安全和成效表
 我们建议您以表格形式分别或合并提出临床结果,作为“成效措施”和“安全措施”。您的数据列报应当遵循对不利事件报告所采用的同样方法(例如,按协议或意图处理)。您应包含表格中使用的术语的协议定义。
@@ -706,19 +711,15 @@ F2129 用于进行循环精能动力极化测量以确定小型植入器械腐�
 
 ## 脚注
 
-[^3]: • 《国家发展计划》(21 CFR Part 814.19):
+[^3]: • 《国家发展计划》(21 CFR Part 814.19): http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM072193.pdf
 
-[^13]: 磁场变化的最大时间率(dB/dt) 视窗位置的当地特定吸收率(SAR) 视网膜位置的当地特定吸收率(SAR) 视网膜平均吸收率(caloritim)• 脉冲序列细节;
+[^13]: 磁场变化的最大时间率(dB/dt) 视窗位置的当地特定吸收率(SAR) 视网膜位置的当地特定吸收率(SAR) 视网膜平均吸收率(caloritim)• 脉冲序列细节; http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm107705.htm
 
-[^14]: 方向对于这些情况,我们建议你评估你发射系统沿不同纵向途径(例如,旋转试样)的跨剖面剖面。
+[^14]: 方向对于这些情况,我们建议你评估你发射系统沿不同纵向途径(例如,旋转试样)的跨剖面剖面。 http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070984.htm
 
-[^15]: • 使用极地和非极性浸提剂;• 酌情说明储存条件的细节。
+[^15]: • 使用极地和非极性浸提剂;• 酌情说明储存条件的细节。 https://www.fda.gov/downloads/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm348890.pdf
 
-[^18]: 
+[^18]: [^19] http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/default.htm
 
-[^19]: 
-
-[^20]: 
-
-[^22]: IEC 60601 医用电气设备 -- -- 第2-33部分:医疗诊断磁共振器械安全特别要求
+[^20]: [^22]: IEC 60601 医用电气设备 -- -- 第2-33部分:医疗诊断磁共振器械安全特别要求 http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070782.htm
 

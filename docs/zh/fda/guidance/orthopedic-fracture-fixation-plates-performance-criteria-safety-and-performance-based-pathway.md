@@ -4,6 +4,8 @@ description: "Orthopedic Fracture Fixation Plates - Performance Criteria for Saf
 published: 2022-04-11
 ---
 
+
+
 # 骨科骨折固定板 - 安全性和性能基础的性能标准：行业与FDA工作人员指南
 
 **Orthopedic Fracture Fixation Plates - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
@@ -34,13 +36,16 @@ PDF：https://www.fda.gov/media/157491/download
 矫形断裂修复台 — 基于安全与性能的路径性能标准 _
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 本指南为支持安全和基于性能的途径1 提供矫形断裂板的性能标准。计划提交510(k)的提交者(你们)使用矫形断裂固定板块安全和性能路径提交510(k),将可选择使用本指南中提议的性能标准,支持实质性等同,而不是直接比较申报器械与参照器械的性能。
 本文件提及的FDA确认的协商一致标准本版,欲了解更多关于在提交监管文件时使用协商一致标准的信息,请参考FDA题为“在医疗器械提交前适当使用自愿共识标准”的指南。 3 该指南的实施没有事先公开评论,因为FDA已经确定,事先公众参与既不可行也不适当(《FD&C法》第701(h)(1)(C)(一)节和21 CFR 10.115(g)(2)节)。FDA确定,这份指南文件提出的政策符合公共卫生要求,但负担较少。
-本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 2019年9月,FDA发布了一份指南,描述一种可选途径,即安全和性能路径4,用于某些众所周知的器械类型,提交者可以证明新器械符合FDA确定的性能标准,以证明该器械与合法销售的器械一样安全有效。为了确定一套具体的性能标准,以便能满足提交者与某一器械类型的适当参照器械进行比较的要求,FDA确定,性能标准代表一种或多种现有、合法销售的这种器械的性能。具体而言,FDA依靠FDA工作人员的经验和专门知识以及文献资料,并分析FDA掌握的合法销售整形骨折固定板的数据,以确定性能标准和相关测试方法,从而支持本指南所述整形骨折固定板的发现。FDA承认,在某些情况下,提交者要对照适当的参照器械进行测试,以证明必要的一套性能和技术特性的等同性,而不是证明这些器械符合FDA规定的适当的性能标准,可能更麻烦。
 因此,我们的结论是,使用本指南中确定的性能标准的选择性特定器械安全和性能路径提供了符合公共卫生的较不繁重的政策。
+
 ## III. 范围/设计说明
 本指南准则的主题器械是II类非脊椎骨折固定板,由21 CFR 888.3030 规范,其产品编码HRS(板、板、固定、固定)骨头)
 此外,非脊椎骨裂固定板板的性能测试建议与产品编码HWC的相关骨螺的测试建议相协调(Schrew, 7-11)21 CFR 888.3040受监管,见FDA的指导意见:矫形非脊椎金属骨螺丝和洗涤器-安全和性能路径性能标准5(下称骨骨螺丝和洗涤器指南)。
@@ -68,6 +73,7 @@ PDF：https://www.fda.gov/media/157491/download
 - 组合产品-可替代器械-添加制造器械-涂层器械-使用外科手术技术或护理标准以外的相关仪器的器械-具有复杂几何特征的器械,模块化,影响软组织刺激风险或建筑结构完整性的非传统技术特点或独特的技术特点(例如,需要疲劳评估、动态部件或机制、非传统板板和
 使用新的消毒方法对器械进行消毒,如FDA在《上市前通知》(510(k))中提供的指导材料和对消毒资料的审查(510(k))中所述。视个案情况而定,需要更多数据来评价该器械是否适合《基于安全与性能的路径》。在您确定有必要在本指南所确定的试验之外进行其他试验的情况下,确定该器械是否适合安全和
 我们鼓励你提交一份Pre-Submission,9 以便在提交510(k)项之前与FDA进行讨论。
+
 ## IV. 测试性能标准
 如果您的器械适合通过安全和性能路径提交, 您选择使用此选项,我们不期望你提供直接比较测试 与合法销售的参照器械相比 来证明基本相当的性能特征为确保本指南中概述的性能标准保持当代水平,并考虑到最近清理工作的相关数据,FDA建议,除了其他提交资料之外(例如:第2段),还应提供所有评估测试的结果摘要。下文建议对以下每次测试或评价采用以下所列各项标准。用于根据《基于安全和性能的途径》提交的所有510(k)提交,FDA可要求和审查基本数据,证明新器械符合FDA确定的性能标准和测试方法。除非下文各节另有说明,否则试验资料,如结果摘要、试验议定书、完整的测试报告应作为FDA《安全和性能指南》所述510(k)的一部分提交。关于提交非临床台架测试资料的更多信息,请见FDA的指南。
 224. 下列机械测试应符合FDA目前认可的ASTM F382《金属骨板标准规格和测试方法》和ASTM F543《金属体骨螺丝螺丝标准规格和测试方法》。你应提供理由说明你如何为每轮台架考试确定最坏情况的设计。板块的完整最坏情况理由应针对标记(如解剖位置)、几何(如:最外最外层螺缝洞的位置(在装载时压力最高)和标签(例如恢复活动、手术后)之间的位置
@@ -105,15 +111,15 @@ FDA认为,通过比较每个板块使用的螺丝数目和试验对象螺丝与�
 
 ## 脚注
 
-[^1]: 可在% 0 /% base- pathway 获得
+[^1]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-based-pathway
 
 [^2]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^3]: 正在立即实施自愿-协商一致-标准-上市前提交-医疗器械,但仍可按照《公约》第22条对之作出评论。
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devicesisbeingimplementedimmediately
 
-[^4]: 可在% 0 /% base- pathway 获得
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-based-pathway
 
-[^5]: 可在以下网址上查阅:+%%
+[^5]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/orthopedic-non-spinal-metallic-bone-screws-and-washers-performance-criteria-safety-and-performance
 
 [^6]: 见FDA的指导意见,“医疗器械提交但请求和会议反馈和会议:
 
@@ -121,7 +127,7 @@ FDA认为,通过比较每个板块使用的螺丝数目和试验对象螺丝与�
 
 [^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^9]: 可在下列地点查阅:-但会议-医疗器械提交文件-q-提交方案。
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
 [^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarketloading)
 
@@ -129,7 +135,7 @@ FDA认为,通过比较每个板块使用的螺丝数目和试验对象螺丝与�
 
 [^13]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/orthopedic-fracture-fixation-plates-performance-criteria-safety-and-performance-based-pathway
 
-[^14]: 标准-iso-10993-1生物评价-医疗器械-第1部分-评价-和/
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and
 
 [^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/safety-and-performance-based-pathway
 

@@ -4,6 +4,8 @@ description: "Metal Expandable Biliary Stents - Premarket Notification (510(k)) 
 published: 2019-07-26
 ---
 
+
+
 # 金属可扩张胆道支架 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南
 
 **Metal Expandable Biliary Stents - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
@@ -32,19 +34,23 @@ PDF：https://www.fda.gov/media/72693/download
 ## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 本指南文件为510(k)件金属可扩展税本及其相关运载系统提交材料提供了建议。这些器械旨在为温和的恶性严格物的生长提供光滑的温饱,FDA更新了这一准则,以反映目前的审查做法。
 对于本文件提及的FDA承认的标准的当前版本,见FDA《共识标准》数据库。 1 关于在提交监管文件时使用协商一致标准的更多信息,请参考FDA题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指导。 2
 
-FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 自1998年以来,FDA根据《联邦食品、药品《FD&C法》和《化妆品法》(FD&C)
 
 FDA确定,每个器械都有合理的可能性,在血管系统中使用。这是拟议标签中未指明的预期用途,而且这种用途可能造成损害。这是因为缺乏关于血管血管中使用血压支架的安全性和有效性数据,包括临床数据。这包括安全(故障模式)和对血管使用未按血压应用评估的支架(如血管复发)特有的有效性问题。如果通过联合和长期疲劳测试,则切片骨折。 虽然此后已经批准了具体的心血管指示器,但金属支架已经得到批准。FDA继续关切在血管应用中使用收银器时的安全性和有效性问题,除非该器械通过单独的上市前批准申请也获准进行血管指示。因此,在多数情况下,FDA继续限制对银行存款等同性的实质性确定(见
 第五.I(1)节,显示共同名称和贸易名称,第五.I(4)节,警告,以及修改税则(包括支架交付系统)不符合特别510(k)范式下接受审查的条件。
 本文件补充FDA关于提交上市前通知(510(k))的具体内容要求和建议的其他文件。另请参考21 CFR 807.87和FDA的指南, " 传统格式和缩写510(k) " 。
+
 ## III. 范围
 本指南的范围限于21 CFR 876.5010 (双导管和配件)和产品编码FGE(Catheter, )下监管的可扩展的金属税则。本指南只适用于指在血库树上磨除恶性严格物时指示的血库。它不适用于指用于处理用于血管、气管/支气管的良性严格管或脚管的血压或脚管,或其他胃肠解剖术。
+
 ## IV. 定义
 为本指南的目的,使用了下列定义:一种可扩展的水管导管,全部或部分由金属制成,可被发现、部分覆盖或完全覆盖。血压根植入血压树,用来抚摸恶性约束。
 气球可膨胀的气球支流:气球导管扩展的气球支流。气球直径增加时,气球支流直径会增加。气球通缩后,支架继续扩大。
@@ -112,7 +118,7 @@ ISO 10993-1:医疗器械生物评估 -- -- 第1部分:风险管理过程中的�
 
 腐蚀抗药性影响:腐蚀性腐蚀可导致或促成过早的脚步衰竭。此外,副产品腐蚀可能是有毒的,或引起其他不利的生物和组织反应。
 建议:我们建议你处理下述器械腐蚀性能。如果其中一些特性不适用于您的器械,我们建议您在申请中解释。
-a. a. 指
+a. 指
 我们建议你按照目前公认的ASTM F2129版本所述方法, 描述你作为制造品的腐蚀潜力:进行循环电动极化测量以确定小型植入器械腐蚀易感性的标准测试方法(或具有合理性的相应方法)。测试器械应符合ASTM G5:进行强力动力和新奇两极分化测量的标准参考测试方法目前版本的ASTM G5:标准参考测试方法概述的标准。
 在对器械进行模拟使用测试后,应进行测试,包括校正、跟踪、检测并且通过体外固定器械部署器械,在体外解剖状态中模仿体外固定器械。或者,在模拟使用(如弯曲)期间,该支架可能会受到预期的菌株,而不会经过追踪固定器械,并有正当理由。这种器械的调节旨在模拟植入时的脚趾的临床状况,模拟的易碎应用作标准测试溶液。
 钻探腐蚀潜在试验的试验报告应与目前公认的ASTM F2129的ASTM F219.相一致。试验报告应包括腐蚀/腐蚀潜力、分解潜力、用照片文件说明观察到的腐蚀情况以及两极曲线。现实时,我们建议你用一个图表 绘制所有两极分化曲线您应报告您的测试器械是否符合ASTM G5 现有版本中概述的标准。 结果应该根据您的接受标准进行评估。与合法销售的参照器械相比,应确定坑点腐蚀试验的接受标准。虽然缺乏将体外腐蚀测试与体内腐蚀结果直接联系起来的数据,但Rosenbloom和Corbett公布了保守准则,也可用来确定接受标准。
@@ -167,7 +173,7 @@ g. 。
 
 我们建议你对实时和普通胶片X光或电子图象格式上的支架的可见度进行定性或定量评估。使用动物植入图象、体外体模或类似模型的数据是可以接受的。
 (3) 除非另有说明,否则必须提供系统(SDS)的尺寸和功能属性,我们建议你们用支架对完全的灭菌器械进行所有测试。我们还建议你用热平衡法 将所有试样 放在37°C的盐水浴中 或其他代表临床环境的媒介中
-a. a. 指
+a. 指
 交付、部署和退出的意义:安全数据单应安全可靠地按照使用指示将钱财箱送到预定地点,但不得损坏或伤害病人。这种测试用于验证运载系统的准确性和可重复性。
 建议:FDA建议你测试安全数据单能够安全可靠地将支架送到预定地点。我们还建议你证明,在部署和撤出时,在相关的试验模型中,支架不会受到战略部署储存的不利影响。
 您选择的试验模型应模仿血压解剖的实际临床模拟参数,包括下列属性: 润滑; 腐蚀; 严格尺寸; 精细;• 体外(模型)运载系统的长度。
@@ -317,31 +323,31 @@ MR 安全和兼容性: a. 磁诱导阻力 b. 磁诱导托克c. RF 引导热 d. �
 
 [^1]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^2]: 标准 - 上市前提交 - 医疗器械。
+[^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^3]: 510k 指导 工业和员工 机械辅助 扩大物质特性、几何或两者兼有,可产生自我扩大的质量。
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-abbreviated-
 
-[^4]: 1 -生物评估 -医疗器械 - 1部分 - 评估和。
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
 
-[^5]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签。
+[^5]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^6]: 兼容性 - 被动 - 被动 - 植入 - 磁共振 - 反应 - 毫升 - 环境
+[^6]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-safety-and-compatibility-passive-implants-magnetic-resonance-mr-environment
 
-[^7]: 供热-磁共振-毫升-环境-多配置。
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration
 
 [^8]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/metal-expandable-biliary-stents-premarket-notification-510k-submissions
 
-[^10]: 风险医疗器械研究
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-risk-medical-device-studies
 
-[^12]: 医疗器械申请和提交文件经常被问及(1)
+[^12]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked
 
-[^13]: 改变 - 现有器械。
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 
-[^14]: 器械 - 指导 - cdrh - 工作人员更新 - k98-1
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/determination-intended-use-510k-devices-guidance-cdrh-staff-update-k98-1
 
-[^15]: 兼容性 - 被动 - 被动 - 植入 - 磁共振 - 反应 - 毫升 - 环境识别医疗器械和其他安全物品的登记表
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-safety-and-compatibility-passive-implants-magnetic-resonance-mr-environment
 
-[^16]: 标签。
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-medical-device-patient-labeling
 
-[^17]: 兼容性 - 被动 - 被动 - 植入 - 磁共振 - 反应 - 毫升 - 环境
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-safety-and-compatibility-passive-implants-magnetic-resonance-mr-environment
 

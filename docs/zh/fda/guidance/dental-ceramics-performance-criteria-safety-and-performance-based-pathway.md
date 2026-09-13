@@ -17,7 +17,7 @@ published: 2024-09-30
 **案卷号**：FDA-2024-D-4169
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-ceramics-performance-criteria-safety-and-performance-based-pathway
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-ceramics-性能-criteria-safety-and-性能-based-pathway
 PDF：https://www.fda.gov/media/182281/download
 :::
 
@@ -42,7 +42,7 @@ PDF：https://www.fda.gov/media/182281/download
 相反,本指南目前对某一论的想法,只应视为建议,除非提到具体的规章或法规要求。在FDA的本指南中使用这个词意味着 提出或建议了一些东西,但并不需要。
 ## II. 背景
 2019年9月,FDA FDA发布了一份指南,描述一种选择途径——安全和性能途径——用于某些理解周全的器械类型。如果提交者能够证明新器械符合 FDA确定的性能标准,以证明该器械与合法上市的器械一样安全和有效。为了确定一套具体的性能标准,以便使提交者能与某一器械类型的适当参照器械进行比较,FDA确定,性能标准代表一种或多种现有、合法上市的这种器械的性能。
-具体而言,FDA依靠FDA工作人员e 和专业知识以及文献资料,并分析FDA掌握的合法上市后牙陶瓷数据,以确定性能标准和相关测试方法,从而支持本指南所述牙科陶瓷基本等值的发现。FDA承认,在某些情况下,提交者要对照适当的参照器械进行测试,以证明必要的一套性能和技术特点的等同性,而不是证明这些器械符合FDA规定的适当的性能标准,可能更麻烦。因此,我们的结论是,使用本指南中确定的绩效标准,采用特定器械的任择安全和绩效途径,提供了符合公共卫生的较轻负担政策。
+具体而言,FDA依靠FDA工作人员e 和专业知识以及文献资料,并分析FDA掌握的合法上市后牙陶瓷数据,以确定性能标准和相关测试方法,从而支持本指南所述牙科陶瓷实质性等同的发现。FDA承认,在某些情况下,提交者要对照适当的参照器械进行测试,以证明必要的一套性能和技术特点的等同性,而不是证明这些器械符合FDA规定的适当的性能标准,可能更麻烦。因此,我们的结论是,使用本指南中确定的绩效标准,采用特定器械的任择安全和绩效途径,提供了符合公共卫生的较轻负担政策。
 ## III. 范围/设计说明
 本指南的范围包括牙科陶瓷。这些第二类器械受21 CFR背负872.66660、用于临床使用的Porcelain粉末(产品编码EIH)和21 CFR 872.3920、Porcelain牙(产品编码ELL)监管。
 

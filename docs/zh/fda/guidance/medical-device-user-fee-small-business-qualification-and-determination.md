@@ -4,6 +4,8 @@ description: "Medical Device User Fee Small Business Qualification and Determina
 published: 2025-07-31
 ---
 
+
+
 # 医疗器械用户费 小企业资格和确定性：行业、FDA工作人员及外国政府指南
 
 **Medical Device User Fee Small Business Qualification and Determination: Guidance for Industry, Food and Drug Administration Staff and Foreign Governments**

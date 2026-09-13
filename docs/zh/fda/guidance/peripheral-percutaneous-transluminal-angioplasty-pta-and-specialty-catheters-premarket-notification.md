@@ -4,6 +4,8 @@ description: "Peripheral Percutaneous Transluminal Angioplasty (PTA) and Special
 published: 2023-04-14
 ---
 
+
+
 # 经皮腔内血管成形术(PTA)和专用导管 - 上市前通知 (510(k)) 提交：行业与FDA工作人员指南
 
 **Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty Catheters - Premarket Notification (510(k)) Submissions: Guidance for Industry and Food and Drug Administration Staff**
@@ -31,21 +33,24 @@ PDF：https://www.fda.gov/media/134016/download
 
 ## 官方文件全文
 
-2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
+2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的QMSR,以确保遵守相关监管要求。
 
 (PTA)和特殊导光血管成形器 — 上市前通知(510(k))
 
 本指南代表了美国食品药品监督管理局（FDA）目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 本指南文件提供了建议，包括510(k)经皮腔内血管成形术（PTA）球囊和专用导管（例如：造影导管、静脉再生性硬化疗法（IRS）PTA球囊导管、评分/切割球囊）。这些器械是以导管为基础的器械，旨在治疗外周血管损伤。这份文件提出了具体的解剖测试建议,并充实了FDA目前对这些器械测试的想法。FDA正在发布这项准则,以澄清FDA在上市前就PTA导管和专门导管提出的建议,并促进各提交方面的一致性。
 本文件引用的FDA确认的共识标准现版,见FDA共识标准数据库,第0页。欲进一步了解监管提交中使用共识标准的情况,1. 请参考FDA题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指南。 1 本文件补充FDA关于上市前提交材料具体内容要求的其他文件。亦应参考21 CFR 807.87及FDA的指南, " 传统格式和缩写510(k)s " 。
-总的来说,FDA的指南文件没有规定法律上可执行的责任。
-相反,本指南目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的本指南中使用这个词意味着建议或建议了一些东西,但并不需要。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 范围
 本文件的范围限于根据21 CFR 870.1250规范的II类PTA气球导管和根据21 CFR 870.1210规范的II类特殊导管和根据以下表格所列产品编码规范的21 CFR 870.1250和21 CFR 870.1250规范的II类特殊导管。
 表1:本指南范围内的器械类型。
 产品编码器械 870.1210 KRA 连续的Flush Catherter 870.1250 DQY Percutananeous Catherter 870.1250 LIT 半光性跨光性血管成像 Catherter 870.1250 PNO 切除阴道/结结层 CatherterPTA气球导管是指标准的外围血管成形气球导管。具有独特设计特性(如切割/切割)的输注导管、气球导管以及打算用于具体指示的气球导管(如IRS、I、IS、IS、I、IS、IS、I、IS、E、I、IS、I、IS、IS、I第三类毒品涂层气球具有额外的风险和考虑因素,本指南文件未涉及。
+
 ## III. 上市前提交建议
 ### A. 器械描述
 我们建议你按照上文第二节所列可适用的条例编号和产品编码,查明你的器械,并列入下文所述的资料。
@@ -193,7 +198,7 @@ b. b. 用于
 (3) 对准备用于中继恢复病或用于在静脉部署之后的静脉扩张的球囊进行额外测试,如果在安装支架后立即将PTA导管贴上标签,供IRS使用,或用于推进支架扩展(目的是保护血管墙的支架,并确保支架完全部署),我们建议你在一个扩大的台阶内进行气球级爆破压力和疲劳测试(见III.G(1)c和III.G(1)d节)。我们还建议用模拟使用模型进行涂层完整性和微粒测试,其中包括一个扩大的支架(见第三节G(1)l和IIIG(1)m)。
 
 (4) 分数/气球分解和切割气球的额外试验使分数力量沿着评分元素或体外球进行浓缩。由于设计功能增加,打分和切割气球的考虑超出标准PTA导管。
-a. a. 指
+a. 指
 分级/分类机制安全性:分解评分/分解机制,例如铁丝或天体,可能导致器械故障、血管损坏等。和(或)动脉内残留器械造成的栓塞风险。
 建议:我们建议你确定评分/裁剪机制的连接失败的力量(例如,抗拉、剪切)。我们建议您根据风险的类型和程度,为测试方法和接受标准提供临床依据。
 b. b. 用于
@@ -231,35 +236,35 @@ FDA指南,“接受临床数据以支持医疗器械的应用和提交:经常问
 
 ## 脚注
 
-[^1]: 标准-上市前提交书-医疗器械
+[^1]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^2]: $510k $0 $510k $
+[^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-abbreviated-
 
-[^3]: - 生物-评估-医疗-器械-第1部分-评估-和/细胞毒性;敏感度; 刺激性或内皮反应; 急性系统毒性; 材料中导热性; 相容性; 直接和间接热解;o SC5b-9补充活化;和 o 异性。
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
 
-[^4]: 医疗器械提交文件q提交方案
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^5]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签
+[^5]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^6]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签
+[^6]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^7]: 内毒素测试问答
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-endotoxins-testing-questions-and-answers
 
-[^8]: ===
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
 
-[^9]: ===
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarketa
 
-[^10]: 医疗器械提交书-q-提交书-方案 监管性提交书(例如:如21 CFR 58所述,研究应在动物研究设施内按照良好实验室做法(GLP)条例进行,该条例规定该动物研究设施应有适当的许可和认证。如果您建议使用一种非动物测试方法,而您认为这种方法合适、充分、有效、可行,我们建议你使用“Q-Submission方案”来讨论这项提案。我们将考虑是否可以评估这种替代方法是否等同于动物试验方法。有关 " Q-Submission方案 " 的详细情况,请参见 " 医疗器械反馈和会议请求 " 指南。
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-programaregulatorysubmission
 
-[^11]: 另见FDA“用于评价医疗器械的动物研究一般考虑因素”指南(“0”研究-医疗器械)。
+[^11]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-animal-studies-medical-devices)
 
-[^12]: 医疗器械提交q提交方案,须符合21 CFR Part 812的所有要求。请见FDA指南,“重大风险和无重大风险医疗器械研究”。 13 除了21 CFR Part 812的要求外,还有21 CFR Part 812的要求。此类审判的发起者必须遵守关于机构审查委员会(21 CFR Part 56)和知情同意(21 CFR Part 50)的条例。
+[^12]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-programdevicessubjecttoallrequirementsof
 
-[^13]: 风险医疗器械研究
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-risk-medical-device-studies
 
-[^15]: 医用器械申请和提交文件经常要求
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-clinical-data-support-medical-device-applications-and-submissions-frequently-asked
 
-[^16]: 17 以下所列变动或修改是可能需要提交新的510(k)的变动实例。请注意,本清单并非详尽无遗,但提供了可能需要提交新的510(k)项的修改实例。详情请见FDA“决定何时提交510(k)项更改现有器械”指南。
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-support-regulatory-decision-making-medical-devicesmodificationintheintendeduseofthedevice”requiresanew
 
-[^18]: ===
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 

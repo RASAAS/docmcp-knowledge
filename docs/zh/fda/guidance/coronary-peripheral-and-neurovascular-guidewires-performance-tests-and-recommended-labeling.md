@@ -17,7 +17,7 @@ published: 2019-10-10
 **案卷号**：FDA-2018-D-1775
 
 ::: tip 官方来源
-https://www.fda.gov/regulatory-information/search-fda-guidance-documents/coronary-peripheral-and-neurovascular-guidewires-performance-tests-and-recommended-labeling
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/coronary-peripheral-and-neurovascular-guidewires-性能-tests-and-recommended-labeling
 PDF：https://www.fda.gov/media/113959/download
 :::
 
@@ -51,7 +51,7 @@ PDF：https://www.fda.gov/media/113959/download
 我们建议你按照上文第三节所述适用的条例和产品编码来说明你的器械,并列入下文所述的资料。
 
 ### B. 预测比较
-对于在510(k)程序下审查的器械,制造商必须将其新器械与类似的合法上市的参照器械进行比较,以支持其基本等值(21 U.S.C.360c(i);21 CFR 807.87(f))。此比较应提供信息, 以显示您的器械如何与参照器械相似和不同。 最好尽可能以侧侧比较方式进行。关于如何整理这种资料,见下文的一个实例:本表无意作为比较参数的详尽清单;确保提供所有相关器械描述特征,如以下所述:
+对于在510(k)程序下审查的器械,制造商必须将其新器械与类似的合法上市的参照器械进行比较,以支持其实质性等同(21 U.S.C.360c(i);21 CFR 807.87(f))。此比较应提供信息, 以显示您的器械如何与参照器械相似和不同。 最好尽可能以侧侧比较方式进行。关于如何整理这种资料,见下文的一个实例:本表无意作为比较参数的详尽清单;确保提供所有相关器械描述特征,如以下所述:
 第四.A节. 器械说明,上文。
 (KXXxxxx) 使用专用电线计器械长度提示尺寸和形状微调弹性材料编码材料的说明,作为你比较的一部分,我们建议您明确解释您的器械 的临床环境及用途使用说明应指明该器械是否意在进入冠状血管、边缘血管和/或神经血管。如果您的器械含有与前置相比器械独有的任何特性, 我们建议您清楚描述特性、 位置、 位置、以及操作特点,并解释为什么这些差异没有引起不同的安全和有效性问题。
 ### C. 生物相容性

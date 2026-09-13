@@ -4,6 +4,8 @@ description: "Non-Clinical and Clinical Investigation of Devices Used for the Tr
 published: 2021-12-27
 ---
 
+
+
 # 用于治疗良性前列腺增生(BPH)器械的非临床和临床研究：行业与FDA工作人员指南
 
 **Non-Clinical and Clinical Investigation of Devices Used for the Treatment of Benign Prostatic Hyperplasia (BPH): Guidance for Industry and Food and Drug Administration Staff**
@@ -63,7 +65,7 @@ PDF：https://www.fda.gov/media/79397/download
 6 Sagnier PP、MacFarlane G、Richard F、Botto H、Teillac P、Boyle P、使用修改后的美国泌尿协会法国良性先兆性高血压症状指数进行的流行病学调查结果,J Urol, 1994, 151:1266-1270。
 7 Tan Hy、Choo WC、Archibald C、Esusvaranathan K,《新加坡的先兆症状社区研究》,1997年,J Urol;157:890-893。
 
-本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 
 ## II. 范围
 本指南文件涉及我们建议你在设计非临床和临床调查计划时考虑的一般概念,我们未区分具体指明BPH为治疗所治疗疾病的使用指标;以及用于确定BPH手术处理方法(如前列腺切开、前列腺切除切口)的指针。本指南不适用于旨在治疗前列腺其他疾病的器械,如前列腺癌。
@@ -506,33 +508,33 @@ V.N(2),应进行敏感性分析,比较根据关于缺失数据机制的各种假
 
 [^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^12]: 风险医疗器械研究
+[^12]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-risk-medical-device-studies
 
-[^13]: 非临床-性能测试-信息-上市前期。
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket
 
-[^14]: 10993 -1生物评估 -1医疗器械 -1部分• 任何其他辅助数据。
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-
 
-[^15]: 电磁兼容性 超电能 医疗器械• 用电隔断系统热电偶信号路径的方法;• 用来减少电磁干扰的过滤器;和
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-support-claim-electromagnetic-compatibility-emc-electrically-powered-medical-devices
 
-[^16]: 兼容性 - 被动 - 被动 - 植入 - 磁共振 - 反应 - 毫升 - 环境
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-safety-and-compatibility-passive-implants-magnetic-resonance-mr-environment
 
-[^17]: 供热-磁共振-毫升-环境-多配置。
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/assessment-radiofrequency-induced-heating-magnetic-resonance-mr-environment-multi-configuration
 
-[^18]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签。
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
 [^19]: 更多信息,见FDA指南“保健环境中的后处理医疗器械:验证”
 
-[^20]: 提交材料 - 软件 - 装有医疗器械 - 医疗器械。
+[^20]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
-[^25]: 医疗器械提交文件 q提交方案
+[^25]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^29]: 医疗器械提交文件 q提交方案在分析中,失明可能很难评估,我们建议,在分析完成之前,不要打破代码。如果学习内容包含盲盲,协议应描述盲盲方法,并预期地界定破盲代码的条件。
+[^29]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
 [^35]: 更多信息见 https://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm.
 
 [^38]: 21 CFR 814.82(a)(2)。
 
-[^39]: • 年龄:协议应说明符合入学条件的年龄范围。由于BPH一般限于老年男子,我们建议你包括50岁以上的男子。我们建议协议中规定的诊断标准符合目前的护理标准。• 前列腺大小和形状:通常,旨在治疗BPH的器械是专门设计用来处理在体积和长度方面具有特定尺寸的前列腺的。我们建议根据特定疗法的参数,在下限和上限内,对预期的前列腺体积加以界定。• 症状严重性:一般而言,病人由于病症困扰而寻求基本公共卫生治疗。我们建议您的协议 未来定义一系列 AUA-SI(或IPSS)分数 与您的器械要治疗的症状的严重性相符
+[^39]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-pivotal-clinical-investigations-medical-devices
 
-[^56]: 临床-临床-数据-监测委员会。• 进行实地监测访问的适当记录的要素,包括调查结果、结论和为纠正任何缺陷而采取的行动。
+[^56]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishment-and-operation-clinical-trial-data-monitoring-committees
 

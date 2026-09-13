@@ -29,7 +29,6 @@ PDF：https://www.fda.gov/media/83412/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -73,7 +72,8 @@ AAMI/CN20:2014 (PS) Part 20具体规定了支持AAMI/ANSI/ISO 80369-1中确定�
 ## IV. 范围
 本指南中提出的建议适用于作为用于液体管理(例如:)的内存器械的一部分或与内存器械连接的连接器(例如:这些产品都受21 CFR 876.5980CFR 的监管,包括下列器械:
 
-• 肠内喂养管(产品编码KNT);• 肠胃管,配有肠内连接器(PIF);
+• 肠内喂养管(产品编码KNT);
+• 肠胃管,配有肠内连接器(PIF);
 
 这些建议也适用于直接与喂养管相连的连接:推广/管理套(KNT);以及喂养水库/喷水池和注射器(KNT、FMF)。
 
@@ -163,4 +163,3 @@ MCN Am J Martern Child Nurs 19:40-42,1994年1月-2月。
 9. 银行行长R、Boullata J、Brantley S、Corkins M、Guenter P、Krenitsky J、Lyman B、Methny
 NA、Mueller C、Robbins S、Wessel J和A.S.P.E.N.董事会,J parker Enteral Nutr,2009年;33;2009年1月26日。
 ## VII. 参考参考资料
-

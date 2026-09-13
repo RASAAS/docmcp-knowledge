@@ -4,6 +4,8 @@ description: "Marketing Clearance of Diagnostic Ultrasound Systems and Transduce
 published: 2023-02-21
 ---
 
+
+
 # 诊断超声波系统和探头的市场许可：行业与FDA工作人员指南
 
 **Marketing Clearance of Diagnostic Ultrasound Systems and Transducers : Guidance for Industry and Food and Drug Administration Staff**
@@ -33,8 +35,8 @@ PDF：https://www.fda.gov/media/71100/download
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
 1. 本指南文件为510(k)份诊断超声波系统和探头的提交提供了详细建议。除了概述某些诊断性超声波器械的监管办法之外,本指南文件介绍了对诊断性超声波器械的修改类型,FDA不打算对其强制执行新的上市前通知(510(k))的要求。
-总的来说,FDA的指南文件没有规定法律上可执行的责任。
-相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 2.2.1 诊断性超声波技术安全性组织接触超声波强度超过典型诊断性超声波器械所发现水平的超声波组织,可产生重大生物影响。因此,部分通过将新器械的适当声学输出水平与5月28日之前市场上的这类参照器械的适当声学输出水平进行比较,确定了实质性等同,1976年,《联邦食品、药品和药品以及药品药品法》医疗器械修正案日期
 《化妆品法》(FD&C法或该法),这些预先修正器械的最高声输出接触水平见本指南文件第5.2.7节表3。使用组织的一般减低系数对水平进行降级,以便更准确地比较不同频率和焦距的探头。欲进一步了解关于监管性声学产出比较的进一步资料,见O ' Brien等人,《声源输出高限提案:是否应保留上限》,J. 。
 超声波医疗1335、21、1335-41(2002年);ME Stratmeyer,FDA监管目的模型,Med. & Biol. 15、35-36中的超声波(1989年);GR Harris,《FDA早期水声工作和产出接触限值计量》,载于《医学超声波》。以及生物、生物技术的生物效应;发展安全准则,第一部分:个人历史(W.L.Nyborg编辑,2000年),第26、930-932页。
@@ -50,7 +52,7 @@ Track 3建议是针对符合IEC 60601-2-37中输出显示标准的器械。该�
 - 21 CFR 1020.10 带阴极射线管的电视接收器(用于装有阴极射线管显示器的超声波产品);
 21 CFR 1002.20 报告事故辐射发生; 21 CFR 第1003部分:通报缺陷或不合规;· 21 CFR 第1004部分,电子产品的回购、修理或更换。
 3 范围 下表列出了含有受本文件影响的诊断超声波系统和探头的分类清单:诊断性超声波分类器械区域 CFR # 名字由第5.1节修改政策覆盖?
-辐射学 892.1570* 超声波脉冲多普勒成像系统 辐射学 892.1560 超声脉冲回声成像系统 放射学 892.1570 诊断性超声波探头 心血管 870.1200 心血管内血管导管诊断性导管无心血管 870.2100 心血管血液流动计 5 FDA修正了21 CFR 1002.1 的电子产品辐射控制报告要求,用于诊断超声波器械,以删除21 CFR 1002.10、21 CFR 1002.11、21 CFR 1002.12、21 CFR 1002.12、21 CFR 1002.12、21 CFR 1002.12、21 CFR 1002.10、21 CFR 1002.12、21 CFR 1002.12、21 CFFR 1002.12、21 CFFR 1002.10、21 CFFR 1002.11、21 CFR 1002.12、21 CFFR 1002.12、21 CFFR 1002.12、21/CFR 1002.12、21/CFR 1002.12、21/CFR 1002.和21 CFR 1002.13 (88 FR 3638 可在 + + 0 ° ) 心血管 870.2330
+辐射学 892.1570* 超声波脉冲多普勒成像系统 辐射学 892.1560 超声脉冲回声成像系统 放射学 892.1570 诊断性超声波探头 心血管 870.1200 心血管内血管导管诊断性导管无心血管 870.2100 心血管血液流动计 5 FDA修正了21 CFR 1002.1 的电子产品辐射控制报告要求,用于诊断超声波器械,以删除21 CFR 1002.10、21 CFR 1002.11、21 CFR 1002.12和21 CFR 1002.13 (88 FR 3638 可在 + + 0 ° ) 心血管 870.2330
 870.282880超声波探头 870.282880超声波探头 870.2890 闭塞探头 Ob/Gyn 884.2660 胎儿超声波监测器和附件 Ob/Gyn 884.2730 家庭子宫活动监测器因此不属于第5.1节修改政策所涵盖的器械范围。 (见第5.1.2节和第5.1.2.1节。 )
 请注意,第5.2节所述关于510(k)提交内容的建议适用于上表所列、但第5.1节所述关于修改合法销售器械的执法政策未包括的器械类型。如果您对您的器械是否属于本指南所述任择修改路径的范围有任何疑问,请与FDA产品评价和质量办公室的适当审查小组联系。
 本文件使用的某些技术术语的定义和公式载于附录A。 除非本节有明确说明,否则,所提供的定义和符号与IEC 62359超声波学 - 实地特征 - 确定与医学诊断超声波场有关的热和机械指数的测试方法中的等同定义和符号相一致。制造商可斟酌决定使用IEC 60601-2-37的等效符号来贴标签,但标签中的所有符号都应在贵方的提交中加以定义。
@@ -385,17 +387,17 @@ IEC 60601-2-37号指令(见5.2.8.2.3节)的 " 防危险输出 " 和 " 防护器�
 
 [^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^3]: 保留现有的510(k)条路径和双轨办法,以及使用输出显示标准,国际
+[^3]: 保留现有的510(k)条路径和双轨办法,以及使用输出显示标准,国际 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^4]: 2.5 辐射控制
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
 [^6]: 21 CFR 807.81(a)(3)
 
 [^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 
-[^8]: 510k 软件改变现有器械
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-
 
-[^9]: 方案9:探头表面温度属于明确界定的范围(详情见第5.1.2.8节);和10。向用户推荐适当的探头(详情见第5.1.2.9节)。
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/abbreviated-510k-program
 
 [^11]: 见 https://www.fda.gov/medical-devices/quality-and-compliance-medical-devices/preamendment-status
 
@@ -403,29 +405,29 @@ IEC 60601-2-37号指令(见5.2.8.2.3节)的 " 防危险输出 " 和 " 防护器�
 
 [^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^14]: 5.2.5.3.1 您应提供商品名称,通用材料成分(如聚乙烯、聚碳酸酯),以及所有病人接触材料的制造商,或提供含有材料说明的总文件号。5.2.5.3.2 对于任何病人接触材料,应按照ISO10993-1所述,提供该器械的生物相容性评价:
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electromagnetic-compatibility-emc-medical-devices
 
-[^15]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评价和
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and
 
 [^16]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers
 
 [^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^18]: 用于与血液或通常无菌组织接触的探头使用的保健器械-保健设置-验证-方法及标签,您应当建议使用适当的灭菌过程,并验证该手术与您的移植器一起使用。请查看
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-medical-devices-health-care-settings-validation-methods-and-labelingusedfortransducersincontactwiththebloodstreamornormallysteriletissues
 
 [^19]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^20]: 可在下列网址查阅:%0 上市前提交书-软件-自足医疗器械
+[^20]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
-[^21]: 提交文件-管理-网络安全-医疗器械-0
+[^21]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-management-cybersecurity-medical-devices-0
 
 [^22]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-software-use-medical-devices
 
 [^23]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-medical-devices-containing-shelf-ots-software
 
-[^24]: 可在以下  器械- 保健设置- 校验- 方法- 标签和标签dura物质 或任何内部组织) 上找到的附加标签如下 :5.2.6.1.7.1 建议使用无菌、非热原探头套;5.2.6.1.7.2 提醒用户注意在对已知或疑似患者使用该探头器时可能存在的问题。
+[^24]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-medical-devices-health-care-settings-validation-methods-and-labelingduramatteroranyintracranialtissues
 
-[^25]: 有关这个专题的更多信息,请见“感染控制”网址: 
+[^25]: 有关这个专题的更多信息,请见“感染控制”网址: https://www.cdc.gov/prions/cjd/infection-control.html
 
 [^27]: 见题为“要求就医疗器械提供反馈:任务前方案和
 
@@ -437,9 +439,9 @@ IEC 60601-2-37号指令(见5.2.8.2.3节)的 " 防危险输出 " 和 " 防护器�
 
 [^31]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-about-reprocessing-and-reuse-single-use-devices-third-party-and-hospital-0
 
-[^32]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers 5。您应该描述您作为后处理器使用的方法,以跟踪单个探头所经历的后处理周期的数量。可以通过提及验证数据指南来解决这一问题。
+[^32]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-and-modernization-act-2002-validation-data-premarket-notification
 
 [^33]: 可用于https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-clearance-diagnostic-ultrasound-systems-and-transducers
 
-[^34]: 有关这一专题的更多资料,见位于第0章第3节的“感染控制”。由于使用液体化学品对医疗器械进行消毒的固有限制,液化化学灭菌应仅限于关键和半关键器械,这些器械应具有热敏度,且与其他消毒方法不相容。
+[^34]: 有关这一专题的更多资料,见位于第0章第3节的“感染控制”。由于使用液体化学品对医疗器械进行消毒的固有限制,液化化学灭菌应仅限于关键和半关键器械,这些器械应具有热敏度,且与其他消毒方法不相容。 https://www.cdc.gov/prions/cjd/infection-control.html
 

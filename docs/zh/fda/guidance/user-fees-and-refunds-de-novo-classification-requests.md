@@ -29,7 +29,6 @@ PDF：https://www.fda.gov/media/107658/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -126,7 +125,6 @@ FDA确定我的eSTAR不完整 申请被搁置
 重新分类申请没有PMA 是的,你必须支付PMA的适用费用。
 11号《HDE》第11号
 
----
 
 ## 脚注
 
@@ -159,4 +157,3 @@ FDA确定我的eSTAR不完整 申请被搁置
 [^20]: 0- 分类请求- 核准的PMA(s) 存在于同一种器械类型上。就eSTARs而言,FDA打算根据请求退还用户费付款,以支付FDA出于上述同样原因认定表面不合格的eSTAR公司。在这种情况下,FDA将利用技术筛选程序,在ESTAR收到后15个日历日内暂停ESTAR。10. FDA如果我提交电子STAR和eSTAR通过技术筛选,会退还用户费吗? https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptance-review-de-novo­
 
 [^22]: 见《FD&C法》第738(a)(2)(D)(三)节。
-

@@ -27,7 +27,6 @@ PDF：https://www.fda.gov/media/123271/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -254,7 +253,6 @@ FDA建议，包含定量成像功能的器械的上市前提交应包含以下�
 
 **标签（用户说明）**：标签应清楚描述定量成像功能的功能，处理上文讨论的标签要素VI.C.(a)-VI.C.(f)。用户说明应清楚概述为定量成像功能预先规定的性能规格，并概述为验证定量成像功能满足这些性能规格而进行的测试。应列出重大计量误差的已知和潜在来源，并讨论其潜在影响。应向用户通报常见的故障模式、已知和潜在的重大误差来源以及已知的定量成像功能局限性。标签中的任何性能声称应与器械规格一致，并有性能数据充分支持。
 
----
 
 ## 脚注
 
@@ -262,7 +260,7 @@ FDA建议，包含定量成像功能的器械的上市前提交应包含以下�
 
 [^2]: 参见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^3]: 关于确定获益-风险的更多信息，见以下指南文件："在确定上市前通知(510(k))中具有不同技术特征的实质性等同时考虑的获益-风险因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k)；"在医疗器械研究用器械豁免中做出获益-风险确定时考虑的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-investigational-device)；"在医疗器械上市前批准和De Novo分类中做出获益-风险确定时考虑的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-benefit-risk-determinations-medical-device-premarket-approval-and-de)；以及"关于医疗器械产品供应、合规和执法决定中获益-风险考量的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-regarding-benefit-risk-medical-device-product-availability-compliance-and)。
+[^3]: 关于确定获益-风险的更多信息，见以下指南文件："在确定上市前通知(510(k))中具有不同技术特征的实质性等同时考虑的获益-风险因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/获益-风险-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k)；"在医疗器械研究用器械豁免中做出获益-风险确定时考虑的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-获益-风险-determinations-medical-device-investigational-device)；"在医疗器械上市前批准和De Novo分类中做出获益-风险确定时考虑的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-making-获益-风险-determinations-medical-device-premarket-approval-and-de)；以及"关于医疗器械产品供应、合规和执法决定中获益-风险考量的因素"(https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-regarding-获益-风险-medical-device-product-availability-compliance-and)。
 
 [^4]: Kessler, L.G.等, "The emerging science of quantitative imaging biomarkers terminology and definitions for scientific studies and regulatory submissions," Stat Meth Med Res 24(1) 9-26 (2015).
 

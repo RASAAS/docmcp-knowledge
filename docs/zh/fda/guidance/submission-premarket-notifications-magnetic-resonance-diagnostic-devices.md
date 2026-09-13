@@ -29,7 +29,6 @@ PDF：https://www.fda.gov/media/92921/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -237,7 +236,6 @@ MRDD的用户或操作员手册必须涉及(1) 与该器械有关的禁忌症、
 含有无约束力的建议,从紧急场关闭器械启动到磁铁中心场强度降至20米T的时间。还应说明在哪些地方以及如何安装紧急现场关闭器械的引爆器。
 (5) 关于IEC 60601-2中“特殊环境”规格的附加资料,以及特别环境是如何实施的,包括作业期间应如何保持完整性的信息。
 
----
 
 ## 脚注
 
@@ -256,4 +254,3 @@ MRDD的用户或操作员手册必须涉及(1) 与该器械有关的禁忌症、
 [^9]: 技术-医疗器械-指导-工业-工作人员配置 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-
 
 [^10]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-
-

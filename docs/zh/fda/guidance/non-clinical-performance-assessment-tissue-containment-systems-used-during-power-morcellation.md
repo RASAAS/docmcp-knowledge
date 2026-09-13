@@ -4,6 +4,8 @@ description: "Non-Clinical Performance Assessment of Tissue Containment Systems 
 published: 2023-05-26
 ---
 
+
+
 # 动力粉碎程序期间使用的组织隔离 系统的非临床性能评估：行业与FDA工作人员指南
 
 **Non-Clinical Performance Assessment of Tissue Containment Systems Used During Power Morcellation Procedures: Guidance for Industry and Food and Drug Administration Staff**

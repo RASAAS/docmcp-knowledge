@@ -4,6 +4,8 @@ description: "Policy for Device Software Functions and Mobile Medical Applicatio
 published: 2022-09-28
 ---
 
+
+
 # 器械软件功能与移动医疗应用政策：行业与FDA工作人员指南
 
 **Policy for Device Software Functions and Mobile Medical Applications: Guidance for Industry and Food and Drug Administration Staff**
@@ -31,12 +33,13 @@ PDF：https://www.fda.gov/media/80958/download
 
 ## 官方文件全文
 
-2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
+2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的QMSR,以确保遵守相关监管要求。
 
 器械软件功能和移动医疗应用政策
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 美国食品药品监督管理局认识到软件功能的进步、创新的迅速步伐及其对公众健康的潜在好处和风险。FDA正在发布本指南文件,以告知制造商、经销商、关于FDA打算如何利用其监管机构选择拟用于移动平台(移动应用程序或“移动应用程序”)或普通用途计算平台的软件功能。鉴于在移动或其它普通用途计算平台上部署的软件功能迅速扩展和广泛适用,FDA正在发布本指南文件,以澄清FDA打算对其行使权力的软件职能的子集。
 器械软件功能可包括“软件作为医疗器械”(SAMD)和“医疗器械(SiMD)中的软件。” 1。2 可在移动平台和其他普通用途计算平台上部署符合器械定义的软件功能,如果在移动平台上部署符合器械定义的软件功能,本指南所述政策独立于它们可能运行的平台之外,具有特定功能,并适用于跨平台。 因此,所描述的政策所使用的术语包括“移动医疗应用程序”、“移动医疗应用程序制造商”、“器械软件功能”和“器械软件功能制造商”
@@ -46,19 +49,21 @@ FDA正在发布本指南,为软件制造商提供明确性和可预测性。
 本文件先前经过更新,以符合“医疗器械数据系统、医疗图像存储器械、医疗图像存储器械、医疗器械、医疗器械”指南。3 该指南也于2019年9月27日更新,符合《21世纪Cures法》(《Cures法》)第3060(a)节,该节修订了《FD&C法》第520节,从《FD&C法》第201(h)节对器械的定义中删去某些软件功能。根据《指南》中描述的修改“修改
 4 FDA网站上的流动应用程序和软件实例5 (9月25日之后添加)为保持一致性,将2013年列入本文件的有关附录。目前,该指南也正在略微更新,以反映最后规则“医疗器械”的发布;符合《21世纪Cures法》医疗软件规定的医疗器械分类条例”(86 FR 20278)6 和9月28日发布的指南“临床决定支持软件”(本文件其余部分称为CDS指南),20227,最新修订稿。
 对于本文件提及的FDA承认的标准的当前版本,8 关于在提交监管文件时使用协商一致标准方面的更多信息,见“FDA公认的共识标准数据库”。请参考FDA题为“在医疗器械上市前提交材料中适当使用自愿共识标准”9 和“生物评价和研究中心审查的规章提交材料中标准发展和使用标准”10 的指导。
-总的来说,FDA的指南文件没有规定法律上可以执行的责任。
-相反,FDA目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 随着移动平台变得更加方便用户、具有计算力和方便使用,创新者已开始开发日益复杂的移动应用程序,以利用移动平台提供的便携性移动平台。其中一些新的软件功能是专门用来协助个人进行自己的健康和健康管理。
 其他软件功能针对保健专业人员,作为改善和便利提供患者护理的工具。 11 1989年。FDA就它计划如何确定计算机产品和(或)软件产品是否为一种器械编写了一份一般性政策说明,如果是的话,该文件“FDA计算机产品监管政策”被称作“软件政策草案”。 然而,1989年以后,计算机和软件产品的使用随着医疗器械的指数增长而成倍增长,产品种类多样化和日益复杂(这一趋势仍在继续)。因此,FDA确定,政策草案没有充分解决与管理所有含有软件的医疗器械有关的所有问题。因此,2005年,软件政策草案被撤回。
 虽然FDA尚未发布总体软件政策,但FDA已正式分类符合器械定义的某些类型的软件应用,通过分类,确定适用于这些器械及其制造商的具体监管要求。这些软件器械包括一个或一个以上软件组件、部件或配件的产品,以及完全由软件组成的器械。
-12 美国食品药品监督管理局指南文件年度综合清单(70 FR 824 FR 890)(2005年1月5日),可在 提供
+12 美国食品药品监督管理局指南文件年度综合清单(70 FR 824 FR 890)(2005年1月5日),可在相应FDA指南页面查阅
 FDA以前澄清过,当使用软件应用分析医疗器械数据时,传统上,它作为医疗器械的附件13 或医疗器械软件加以监管。国际医疗器械监管者论坛为这种软件的应用建立了全球统一的词汇,并界定了“软件作为一种医疗器械”(SAMD)”一词的定义,14 传统医疗器械也是如此,某些软件功能是器械功能(本文件称为“器械软件功能”),对公众健康构成潜在风险。此外,某些器械软件功能还可能带来因软件功能所运行的平台的特点而特有的风险。对移动器械上放射性图像的判读可能会受到屏幕尺寸较小、对比率较低的不利影响。FDA打算在评估这些产品的适当监管监督时,考虑到这些风险。
 此外,2016年12月13日颁布的《21世纪Cures法案》,修正了《FD&C法》第520条,将某些软件功能从《FD&C法》对器械的定义(201(h))中删除。FDA出版了以下指南文件,帮助澄清不符合器械定义的软件功能类型:- 根据《21世纪Cures法》15 第3060节对现有医疗软件政策作出的修改
 - 临床决定支持软件16
 - 医疗器械数据系统、医疗图像存储器械和医疗图像通信器械17
 - 一般获益:低风险器械政策18
 本指南澄清并概述了FDA目前的思维。FDA将继续评价这些技术可能对改善保健、减少潜在的医疗错误和保护病人的潜在影响。
+
 ## III. 定义
 ### A. 移动平台
 为本指南的目的,“移动平台”的定义是商业现成计算平台,无论有无无线连接,这些移动平台的例子包括智能电话、平板电脑或其他便携式电脑等移动计算机。
@@ -94,6 +99,7 @@ FDA以前澄清过,当使用软件应用分析医疗器械数据时,传统上,�
 但是,如果领有执照的开业医生XYZ医生分发“XYZ-recorder”和,通过贴标签或促销,打算向其他医生(或其他特别合格的人)普遍提供或供他们使用。XYZ将被视为移动医疗应用程序制造商。
 28 如脚注29所述,我们意指包括向移动平台上的客户软件应用程序提供服务的任何“服务器软件应用”。
 29 《FD&C法》第510(g)(2)节: - 毒品或器械生产者的登记 - 不适用第510(g)(2)节:“经法律许可,开具或管理毒品或器具,制造、准备、传播、制造、制造、传播、制造制造移动医疗应用程序的人仅用于研究、教学、或分析,不将此种器械引入商业分销。我们注意到,虽然使用涉及人体的移动医疗应用软件进行研究的人不受登记和列入名单的限制,相反,它们可能须遵守研究用器械豁免条例31、32
+
 ## IV. 范围
 本指南说明FDA打算将其监督重点放在软件功能的一组方面。第三节定义的移动医疗应用软件只包括符合器械定义的移动应用软件,其用意是:· 用作受监管医疗器械的附属物;或 将移动平台转化为受监管医疗器械。
 附录A提供了软件功能的例子,这些功能不符合器械的定义,因此,为本指南的目的,不是器械软件功能或移动医疗应用程序。
@@ -133,6 +139,7 @@ FDA已清理了几个移动医疗应用程序,并附有一个移动平台的附�
 45 我们认为,这些器械软件功能是 " 药物提醒 -- -- 产品编码NXQ " ,目前的定义是 " 药物提醒是一种医疗目的的器械,目的是向病人或医疗服务提供者发出预先确定的药物剂量时间表的警报。该器械可能包含无线通信。” FDA打算对21 CFR 890.5050 - 每日活动辅助器械所查明的这一具体产品编码(NXQ)不执行适用的监管要求。
 该软件一般为临床使用量身定制,但保留了类似于简单的通用工具的功能,如纸图、分布图、计时器或通用数学计算器。这类普通用途工具的例子包括用于下列目的的医疗计算器:身体质量指数;身体水总量/分配的尿量;平均动脉压力;o 格拉斯哥Coma 比例分; APGAR分; NIH Stroke 比例; 或 o 交付日期估计。
 关于FDA打算行使执法酌处权的软件功能的其他例子,见附录B。
+
 ## VI. 监管要求
 本指南旨在协助制造商确定软件功能是否符合器械的定义。47 本节更详细地说明本指南下适用于器械软件功能的监管要求(如第五节所述)。
 器械软件功能制造商须遵守下文适用器械分类条例所述的各项要求。视器械软件功能的分类和相关条例而定,制造商必须遵守条例规定的有关管制措施。
@@ -190,7 +197,7 @@ o 为防止不良药物反应而发出的毒品-毒品相互作用和抗药过�
 17. 显示特定病人医疗器械数据的软件功能 - 这些
 软件功能包括直接显示图片档案和通信系统服务器上的医疗图像;
 18. 用于转让、储存、转换
-55个非器械-MDDS被视为软件功能,仅用于传输,根据医疗器械数据系统、医疗图像存储器械、医疗器械等,储存、转换格式和显示医疗器械数据或结果。以及医疗图像通信器械指南,可在 提供
+55个非器械-MDDS被视为软件功能,仅用于传输,根据医疗器械数据系统、医疗图像存储器械、医疗器械等,储存、转换格式和显示医疗器械数据或结果。以及医疗图像通信器械指南,可在相应FDA指南页面查阅
 保健专业人员对此类数据和结果的调查结果,关于此类结果的一般资料,以及这种实验室试验或其他器械的一般背景资料,除非这种功能旨在解释或分析临床实验室试验或其他器械数据、结果和结果。储存、转换格式和显示医疗器械数据,不修改数据,不控制或改变任何相关医疗器械的功能或参数(即:符合非器械-MDDS定义的软件功能);o 符合非器械-MDDS定义的软件功能,与护理中心站连接,并将医疗器械数据显示(但不分析或解释)到医生的流动平台供审查;o 不准备用于诊断图像审查的软件功能,如多学科病人管理会议(例如,或病人咨询(并包括持续的屏幕上通知,例如“仅供参考,并非用于诊断”)。
 附录B FDA打算行使执法酌处权的软件功能实例 本附录提供了可能符合医疗器械定义但FDA打算行使执法酌处权的软件功能实例。这些软件功能可用于诊断疾病或其他状况,或用于治疗、减轻、治疗或预防疾病。尽管这个软件可能符合医疗器械的定义FDA打算对这些类型的软件功能行使执法酌处权,因为这些功能对公众的风险较低。FDA了解到,本清单可能没有涵盖的其他独特和创新的软件功能也可能构成与保健有关的软件。这一清单并非详尽无遗;这样做只是为了澄清和帮助确定目前不受监管要求约束的软件功能。
 1. 软件功能,帮助诊断患有精神病的患者(例如,
@@ -269,7 +276,7 @@ FDA还鼓励器械软件制造商搜索FDA的公共数据库,例如“产品分�
 医疗器械制造商必须向FDA登记其机构,并向FDA确认他们销售的器械,以列出63。
 更多信息,请查阅“建议书:“64 如需要进一步协助,可联系风险管理业务司、监管政策和系统处:电子邮件:Reglist@fda.hhs.gov,电话:301-796-7400。 援助也可从工业和消费者教育司获得:电子邮件:DICE@fda.hhs.gov,电话:301-796-7100或800-638-2041. 关于CBER,请联系制造商援助和技术培训处(MATTB):电子邮件:Industries.Biologics@fda.hhs.gov;电话:240-402-8020或800-835-4709。
 2. 研究用器械豁免(IDE)要求
-根据IDE的要求(21 CFR 812)进行临床研究65 有助于确保临床数据可信、准确和符合道德。a IDE 允许在临床研究中使用研究用器械,例如,为了收集所需的安全和有效性数据,以支持66 向FDA提交的营销报告(例如,预先市场批准(PMA),预先市场通知(510(k))),DeNovo,人道主义器械豁免(HDE))。具有重大风险器械的临床研究必须获得批准 66 如果打算使用临床调查的数据支持市场上市申请,我们鼓励你参考“接受临床数据以支持医疗器械应用和提交”指南:在开始研究之前,FDA和机构审查委员会67 (IRB) 可在第%0 查询常见问题。研究带有非重大风险器械的研究必须在研究开始前得到IRB的批准。
+根据IDE的要求(21 CFR 812)进行临床研究65 有助于确保临床数据可信、准确和符合道德。a IDE 允许在临床研究中使用研究用器械,例如,为了收集所需的安全和有效性数据,以支持66 向FDA提交的营销报告(例如,预先市场批准(PMA),预先市场通知(510(k))),DeNovo,人道主义器械豁免(HDE))。具有重大风险器械的临床研究必须获得批准 66 如果打算使用临床调查的数据支持市场上市申请,我们鼓励你参考“接受临床数据以支持医疗器械应用和提交”指南:在开始研究之前,FDA和机构审查委员会67 (IRB) 可在第查询常见问题。研究带有非重大风险器械的研究必须在研究开始前得到IRB的批准。
 鼓励打算开展涉及人体研究的医疗器械制造商通过Q提交方案68与FDA接触,以获得关于测试和发展活动的反馈。
 有关研究用器械豁免和良好临床实践的更多信息,请访问“建议:研究用器械豁免。”
 3. 标签标签要求
@@ -351,35 +358,35 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^2]: 见 http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf
 
-[^3]: 数据系统-医疗图像-储存-器械-医疗图像-器械-医疗图像-通讯器械。
+[^3]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices
 
-[^4]: 医学软件政策-导致第3060-21世纪的
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act
 
 [^5]: 见 https://www.fda.gov/medical-devices/device-software-functions-including-mobile-medical-applications/examples-premarket-submissions-include-mmas-cleared-or-approved-fda
 
-[^6]: 见86 FR 20278 at  医疗器械分类条例,与医疗软件规定相符。
+[^6]: 见 https://www.federalregister.gov/documents/2021/04/19/2021-07860/medical-devices-medical-device-classification-regulations-to-conform-to-medical-software-provisions
 
-[^7]: 支持软件
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software
 
 [^8]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
 [^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^10]: 可在 " 开发与使用标准-监管-提交-经审查的生物中心-评估 " 上查阅。
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/standards-development-and-use-standards-regulatory-submissions-reviewed-center-biologics-evaluation
 
 [^11]: 为本指南的目的,FDA使用保健专业人员这一术语指获得许可证、登记或国家、领土、管理保健,包括但不限于护士执业医师、注册护士、有执照的实用护士、临床社会工作者、牙医、职业治疗师、药剂师、物理治疗师、医生、医生助理、心理医生、呼吸治疗师、语言病理学家、技术专家、心理医生、呼吸治疗师、语言病理学家、心理医生、语言病理学家、技术专家、心理医生或任何其他执业医师或相关的专业保健人员。
 
-[^13]: 见FDA的指南《医疗器械入口 -- -- 描述入口和分类路径》,可在以下网站查阅:+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways
 
 [^14]: 见 http://www.imdrf.org/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf
 
-[^15]: 医疗软件-政策-导致第3060-21世纪
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act
 
-[^16]: 支持软件
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software
 
-[^17]: 数据系统-医疗图像-储存-器械-医疗图像-图像-器械-医疗图像-通信-器械
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices
 
-[^18]: 政策低风险器械
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices
 
 [^23]: 见21 CFR 803.3(制造商定义)和21 CFR 807.20(a)(2)。
 
@@ -397,13 +404,13 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^33]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways
 
-[^34]: 支持软件
+[^34]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software
 
 [^35]: 见21 CFR Part 820。
 
-[^36]: 见“器械咨询:医疗器械分类” at  equip-offict-official-devictive-officitions.”
+[^36]: 见 https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device
 
-[^39]: 说明-接入和分类-病道心心电图和速率警报))使用硬件附加器械或与监测系统接口的其他流动医疗应用程序,包括21 CFR 870.1130下的自动电子血压监测仪和21 CFR 884.2740下的围产期监测系统。3 个软件功能,通过进行针对患者的分析,向保健专业人员提供具体产出或指令,供诊断使用,成为受监管的医疗器械,治疗、减轻、治疗或预防疾病或疾病。进行具体病人分析并向病人、照顾者提供具体病人诊断或治疗建议的软件功能,o 这些类型的软件功能的例子包括:使用具体病人参数和计算剂量或为辐射治疗制定剂量计划的软件功能;计算机辅助检测软件(CAD)图像处理软件;40 和辐射治疗规划软件;41 软件功能,分析特定病人的医疗信息,以发现威胁生命和/或时间危急状况,诸如中风或败血症,产生警报或警报,通知保健专业人员;42 软件功能,分析血糖监测器的读数,并提醒用户在预定范围以外进行读数;软件功能,用于分析经FDA批准的器械所产生的ECG波形输出,以检测或诊断心律失常(例如,43 我们认为,这些类型的软件对病人的风险程度相同,不管他们运行的平台是哪个平台。FDA鼓励生产这种器械软件功能的制造商进行针对病人的分析,以便与FDA联系,讨论可能适用哪些规章要求。
+[^39]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathwayscardiotachometerandratealarm))
 
 [^40]: 21 CFR 892.2050。
 
@@ -411,57 +418,57 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^47]: 见 https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device.
 
-[^48]: 援助/概览-器械监管。
+[^48]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation
 
-[^49]: 可在“OQ”研究与市场器械上查阅。
+[^49]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/how-study-and-market-your-device
 
 [^56]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm.
 
-[^57]: 有关平衡失调的诊断(如鼻腔镜),可能的产品编码:GWN(21 CFR 882.1460)。
+[^57]: 有关平衡失调的诊断(如鼻腔镜),可能的产品编码:GWN(21 CFR 882.1460)。 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm.
 
 [^62]: 根据21 CFR 807.3(c),“机构”的定义是“在制造、组装、装配器械的一般实际地点,由一个管理部门管理的一个营业地,其所在地为制造、组装、装配器械的一般实际地点,或以其他方式处理。”
 
 [^63]: 见21 CFR Part 807。
 
-[^64]: 可在和列表中查阅。
+[^64]: 见 https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing
 
 [^65]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-812
 
-[^68]: 和会议-医疗器械提交文件-q-提交方案。
+[^68]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^69]: 调查 - 设计 - 豁免 - ide。
+[^69]: 见 https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-advice-investigational-device-exemption-ide
 
-[^70]: 可在和列表中查阅。
+[^70]: 见 https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing
 
 [^71]: 见 https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-820
 
-[^72]: 《医疗-器械-良好制造-做法条例》。
+[^72]: 见 https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-system-qs-regulationmedical-device-good-manufacturing-practices
 
 [^73]: 见21 CFR Part 803。
 
-[^74]: 可在 &lt; _
+[^74]: 见 https://www.fda.gov/safety/medical-product-safety-information/medwatch-forms-fda-safety-reporting
 
 [^75]: 见 https://www.fda.gov/safety/forms-reporting-fda/instructions-completing-form-fda-3500.
 
-[^76]: 可在 报告制造商查阅。
+[^76]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-manufacturers
 
 [^77]: 根据21 CFR 806.1(b),下列行动不适用第806部分的报告要求:(1) 器械制造商或进口商为改善器械的性能或质量而采取的行动,但不会减少器械对健康造成的危险,也不会对器械造成的违法行为采取补救措施。(2) 21 CFR 806.2(i)所界定的市场提款。 (3) 21 CFR 806.2(l)所界定的例行维修。 (4) 21 CFR 806.2(m)所界定的股票回收。
 
-[^78]: 可在- Q- 清除器械上查阅。
+[^78]: 见 https://www.fda.gov/medical-devices/postmarket-requirements-devices/recalls-corrections-and-removals-devices
 
 [^79]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance.
 
 [^80]: 见 https://www.fda.gov/training-and-continuing-education/cdrh-learn.
 
-[^81]: 可在以下网站查阅第513g节-要求-信息不足-联邦-食品-药物-药物-混合物-程序。
+[^81]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic
 
-[^82]: 可在以下网站查阅第513g节-要求-信息不足-联邦-食品-药物-药物-混合物-程序。
+[^82]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/fda-and-industry-procedures-section-513g-requests-information-under-federal-food-drug-and-cosmetic
 
 [^84]: ISO 9001 质量管理体系-要求和ISO 13485 医疗器械-质量管理体系-监管要求。质量保证条例可适用于任何规模的制造商和任何种类的产品,并按比例加以调整。它还允许制造商选择最适合其特定器械和制造工艺的要求。 85(4) QS条例中哪些部分对器械软件功能特别重要,以及我在哪里能找到关于这些功能的更多资料?
 
 [^85]: 见21 CFR 820.1(指出“如果制造商仅从事某些符合本部分要求的操作,而其他制造商则不从事,制造商只需遵守适用于其从事的作业的要求即可。”)
 
-[^86]: 指导-医疗-器械-制造厂商。
+[^86]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-control-guidance-medical-device-manufacturers
 
 [^87]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-principles-software-validation
 
@@ -471,9 +478,9 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^90]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/315.cfm
 
-[^91]: 可在以下网址查阅:%0https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications 上市前提交软件-软件-自足医疗器械。
+[^91]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
-[^92]: 医疗器械功能。然而,这类软件的制造商和用户应该看到FDA关于临床试验使用计算机的指导, " 电子来源数据,临床,
+[^92]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-software-use-medical-devices
 
 [^93]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-source-data-clinical-investigations
 
@@ -481,4 +488,4 @@ AAMI = 促进医疗仪器学协会 ANSI = 美国国家标准研究所 IEC = 国�
 
 [^95]: 见 https://www.fda.gov/medical-devices/digital-health-center-excellence/guidances-digital-health-content
 
-[^96]: 10. AAMI TIR36验证受监管程序软件。IEC/TR 80002-1 医疗器械软件 -- -- 第1部分:医疗器械软件应用ISO 14971的指南。13. 基本安全和基本性能的一般要求(特别是第14条)。IEC 61508-2 电气/电子/可编程电子安全相关系统的职能安全 -- -- 第2部分:电气/电子/可规划电子安全相关系统的要求。
+[^96]: 10. AAMI TIR36验证受监管程序软件。IEC/TR 80002-1 医疗器械软件 -- -- 第1部分:医疗器械软件应用ISO 14971的指南。13. 基本安全和基本性能的一般要求(特别是第14条)。IEC 61508-2 电气/电子/可编程电子安全相关系统的职能安全 -- -- 第2部分:电气/电子/可规划电子安全相关系统的要求。 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm

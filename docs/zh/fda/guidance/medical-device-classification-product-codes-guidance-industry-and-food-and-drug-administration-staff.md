@@ -4,6 +4,8 @@ description: "Medical Device Classification Product Codes - Guidance for Industr
 published: 2013-04-10
 ---
 
+
+
 # 医疗器械分类产品代码：行业与FDA工作人员指南
 
 **Medical Device Classification Product Codes - Guidance for Industry and Food and Drug Administration Staff**
@@ -31,7 +33,7 @@ PDF：https://www.fda.gov/media/82781/download
 
 ## 官方文件全文
 
-FDA的指南文件,包括本指南,没有规定法律上可执行的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某种东西,但并不要求。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
 
 
 
@@ -302,13 +304,13 @@ COBER管理一系列器械,其中大多数只受《FD&C法》的监管。然而,
 
 ## 脚注
 
-[^2]: 见自动等级III指认评价指南:
+[^2]: 见自动等级III指认评价指南: http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm080195.htm
 
-[^3]: 欲了解关于指定住房和城市发展部的其他信息,请查阅FDA网站上的信息:
+[^3]: 欲了解关于指定住房和城市发展部的其他信息,请查阅FDA网站上的信息: http://www.fda.gov/ForIndustry/DevelopingProductsforRareDiseasesConditions/DesignatingHumanitarianUse
 
 [^4]: 见21 CFR Part 807。
 
-[^5]: 纳克/ucm053185.htm
+[^5]: 纳克/ucm053185.htm http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/default.htm
 
 [^7]: 见21 CFR Part 807
 

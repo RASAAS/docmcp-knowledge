@@ -4,6 +4,8 @@ description: "Peripheral Vascular Atherectomy Devices - Premarket Notification [
 published: 2021-05-20
 ---
 
+
+
 # 外周血管斑块旋切器械 - 上市前通知[510(k)]提交：行业与FDA工作人员指南
 
 **Peripheral Vascular Atherectomy Devices - Premarket Notification [510(k)] Submissions: Guidance for Industry and Food and Drug Administration Staff**
@@ -31,7 +33,7 @@ PDF：https://www.fda.gov/media/114852/download
 
 ## 官方文件全文
 
-2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
+2024年2月2日,FDA在21 CFR 第820部分(89 FR 7496,自2026年2月2日起生效)公布了修订质量管理体系法规的最后规则。经修订的21 CFR Part 820现题为 " 质量管理体系法规 " 。QMSR统一了质量管理体系的要求,以参考方式纳入了国际标准化组织(ISO)为医疗器械质量管理体系制定的国际标准,ISO 13485:2016. FDA确定,ISO 13485中的要求如果全部采用,与质量体系条例的要求基本相似,在企业的质量管理体系中提供类似程度的保证,并有能力始终如一地制造安全和有效的、在其他方面符合FD&C法的器械,《联邦食品、药品和化妆品法》(FD&C法)。
 本指南文件是在最后规则生效日期之前印发的。FDA鼓励制造商审查当前的QMSR,以确保遵守相关监管要求。
 FDA特别指出,QMSR没有使用先前的QS条例中的某些术语,“设计变化”和“设计历史文件”等术语。 构成这些术语的要素现在在ISO 13485:2016第7.3条及其分节中作了说明,以提及方式纳入QMSR。
 
@@ -44,10 +46,12 @@ FDA特别指出,QMSR没有使用先前的QS条例中的某些术语,“设计变
 围外血管血管切切开器械 -- -- 上市前通知 [510(k)]
 
 本指南代表了美国食品药品监督管理局(FDA或我们)目前对这一主题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 本指南文件为510(k)份外围血管切开器械提交提供了建议。这些建议反映了目前的审查做法,目的是促进一致性,便利有效审查外侧血管切口提交。
 本文件引用的FDA确认的协商一致标准现版,见FDA公认的共识标准数据库网站:欲了解更多关于在提交监管文件时使用协商一致标准的信息,请参考FDA的指导意见:“在医疗器械上市前提交材料中适当使用自愿共识标准——工业及美国食品药品监督管理局工作人员指南。”
-本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议某事,但并不要求。
+本文件的内容不具有法律效力,也不旨在以任何方式约束公众,除非具体纳入合同。该文件的目的只是向公众澄清法律的现有要求。FDA的指南文件,包括本指南,只应视为建议,除非提到具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 切除术是一种干预性程序,用于从疾病动脉中除去神乐感应板。2.3 切开器械在设计和复杂程度上各不相同,目前切开器械有四大类:4,5。
 1. 方向: 方向外切口涉及对具有以下特性的
@@ -66,11 +70,13 @@ FDA特别指出,QMSR没有使用先前的QS条例中的某些术语,“设计变
 4 Akkus、Nuri I.、Abdulrahman Abdulbaki、Enrique Jimenez和Neeraj Tandon,“外科切除器械:技术更新”。 医疗器械:证据和研究,第8卷,2015年,pp。1-10。
 5 Quevedo、Henry C.、Salman A. Arain、Gholam Ali和Nidal Abi Rafeh。“在治疗次生动疾病时的近视切除数据的关键观点”。 《侵入性心脏病学期刊》,第26卷,第24/2001号。
 1 2014年,第22-29页。
+
 ## III. 范围
 本文件的范围限于外围血管血管、脑外科、外科、脑外科、脑外科、外21 CFR 870.4875和下表所列产品编码监管:产品编码条例编号MCW 870.4875 光导射线试纸条器,因为具有较高风险解剖地点,a 冠状血管动脉动器中使用的外科切开器械是三级器械,在营销前需要上市前批准申请。(见《联邦食品、药品和化妆法》(FD&C法)第513(a)(1)(C)节和第515节(21 U.S.C.360c(a)(1)(C)和360e)以及21 CFR 第814部分)。冠状血管动脉动中标明用于冠状动脉动的切开器械不属于本指南文件的范围;然而,本指南文件中提供的一些资料可能适用于带有冠状动脉指示的外科切开器械。关于FDA关于审查冠冠状冠状动脉切开器械的建议的详情,请与Plaque联系。
 卫生技术2C司改造器械小组,卫生技术2C司,隶属卫生技术2办公室。
 外切开器械用于通过去除作为该器械主要功能的板块,在细度边缘板块中取得大量发光收益。一个新的外侧切开器械严格地说可能不属于上文背景部分所列四类之一;然而,本指南中提供的信息仍可能有助于制定风险分析和性能测试战略。
 用于便利导线通过或绕过慢性全部隔绝或用于通过重塑、压缩、和裂开的牌状 改变牌状体积,但不故意去除牌子(例如主要通过气球血管成形或切割/分层实现铝收益的器械),不属于切除器械,不属于本指南文件的范围。
+
 ## IV. 上市前提交建议
 ### A. 器械描述
 我们建议,如上文第三节所述,通过条例和产品编码查明你的器械,并列入下文所述的资料。作为器械描述的一部分,我们还建议你确定所有附件并说明其功能。
@@ -275,49 +281,49 @@ FDA认为这一变化是一个重大变化。FDA确定,这一变化通过改变�
 
 ## 脚注
 
-[^1]: 标准 - 上市前提交 - 医疗器械。
+[^1]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^6]: 医疗器械提交文件 q提交方案通知书(510(k))提交。您还应参考21 CFR 807.87和FDA的指导, " 传统和缩写510(k)s格式 " 。
+[^6]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^7]: 510k 510k
+[^7]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-and-abbreviated-
 
-[^8]: 提交材料-软件-自足医疗器械
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-content-premarket-submissions-software-contained-medical-devices
 
-[^9]: 软件改变现有器械
+[^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device
 
-[^10]: 管理 - 网络安全 - 医疗器械 - 0
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-management-cybersecurity-medical-devices-0
 
-[^11]: 和“网络医疗器械的网络安全,
+[^11]: 和“网络医疗器械的网络安全, https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-software-use-medical-devices
 
-[^12]: *0 装有现成软件的器械
+[^12]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-networked-medical-devices-containing-shelf-ots-software
 
-[^13]: 上市前提交建议 - 互操作性医疗器械
+[^13]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices
 
-[^14]: 10993 -1生物评估 -1医疗器械 -1部分
+[^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-
 
-[^15]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签。
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^16]: 内毒素测试问答
+[^16]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-endotoxins-testing-questions-and-answers
 
-[^17]: 10993-1 -生物评估 -医疗器械 - 1部分 - - 评估和
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-
 
-[^18]: 信息 - 上市前通知 - 510k - 提交书 - 器械 - 标签
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled
 
-[^19]: 电磁兼容性-电动-医疗器械 □
+[^19]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/information-support-claim-electromagnetic-compatibility-emc-electrically-powered-medical-devices
 
 [^21]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/peripheral-vascular-atherectomy-devices-premarket-notification-510k-submissions
 
-[^22]: * 文档确定为具有一定性、可燃性、可燃性、冠状、阳性。· 旋转部件长度;和
+[^22]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/class-ii-special-controls-guidance-document-certain-percutaneous-transluminal-coronary-angioplasty
 
-[^23]: 推荐的标签 - 防腐剂 -
+[^23]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/non-clinical-engineering-tests-and-recommended-labeling-intravascular-stents-and-associated-delivery
 
-[^24]: 医疗器械提交文件 q提交方案
+[^24]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program
 
-[^27]: 研究 -心血管器械 - 指导 - 工业 - - 工作人员配置。例如,如上所述,可使用超伸展模型在ISR 28,29(2)中用于评价外科切开系统的支架中产生分泌硬化。
+[^27]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-animal-studies-cardiovascular-devices-guidance-industry-and-fda-staff
 
-[^30]: 风险医疗器械研究a 合法销售的器械要求调查药物豁免取决于情况。具体而言,如果在正常医疗实践中使用已清除器械,很可能不需要使用IDE。关于这个专题的其他资料,请参看FDA的指南,“利用真实世界证据支持监管决策,以
+[^30]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/significant-risk-and-nonsignificant-risk-medical-device-studies
 
-[^32]: 现有器械
+[^32]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device
 
-[^33]: 软件改变现有器械。
+[^33]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device
 

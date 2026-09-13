@@ -29,7 +29,6 @@ PDF：https://www.fda.gov/media/135629/download
 
 <!-- fulltext-start -->
 
----
 
 ## 官方文件全文
 
@@ -333,7 +332,6 @@ FDA 认为，本节确定的测试与性能标准至少提供与题为《II 类�
 
 **提交资料**：请参阅 FDA 生物相容性指南
 
----
 
 ## 脚注
 

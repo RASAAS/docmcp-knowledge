@@ -4,6 +4,8 @@ description: "Orthopedic Non-Spinal Metallic Bone Screws and Washers - Performan
 published: 2024-11-22
 ---
 
+
+
 # 骨科非脊柱金属骨螺钉和垫圈 - 安全性和性能的性能标准：行业与FDA工作人员指南
 
 **Orthopedic Non-Spinal Metallic Bone Screws and Washers - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
@@ -40,8 +42,9 @@ PDF：https://www.fda.gov/media/130866/download
 
 本文件提到的FDA认可的共识标准现版见FDA公认的共识标准数据库。如果按照公认的标准提交符合声明,我们建议你列入适当的证明文件。欲进一步了解监管提交中使用共识标准的情况,请参考FDA题为“在医疗器械预先提交药品时适当使用自愿共识标准”的本指南。
 
-总的来说,FDA的指南文件没有规定法律上可执行的责任。
-相反,本指南目前对一个专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的本指南中使用这个词意味着建议或建议了一些东西,但并不需要。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,指南描述FDA对某一主题的当前观点,且除非援引具体的法规或法定要求,否则应仅视为建议。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 范围/设计说明
 本指南准则所涉器械为二级非脊椎金属骨螺和草原,受21 CFR 888.3040和21 CFR 888.30监管,下表所列产品编码:
 

@@ -4,6 +4,8 @@ description: "Magnetic Resonance (MR) Receive-only Coil - Performance Criteria f
 published: 2020-12-11
 ---
 
+
+
 # 磁共振(MR)仅接收线圈 - 基于安全与性能路径的性能标准：行业与FDA工作人员指南
 
 **Magnetic Resonance (MR) Receive-only Coil - Performance Criteria for Safety and Performance Based Pathway: Guidance for Industry and Food and Drug Administration Staff**
@@ -49,7 +51,7 @@ FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
 
 **预期用途/适应症:** 本指南范围内的MR仅接收线圈用于氢/质子成像。这些器械预期不与患者接触,或仅与完整皮肤有限接触(即不包括腔内线圈)。用于特定临床适应症的MR线圈(例如疾病识别或排除、诊断或预后、以及与特定疾病相关的发病率和/或死亡率预防或降低),或用于新成像剂用途的MR线圈,均不在本指南范围内。
 
-**器械设计特征:** 本指南范围内的MR线圈设计为风冷(即无水冷或 cryogen 冷却电子部件)。此外,本指南范围仅包括仅接收射频(RF)线圈。
+**器械设计特征:** 本指南范围内的MR线圈设计为风冷(即无水冷或  cryogen冷却电子部件)。此外,本指南范围仅包括仅接收射频(RF)线圈。
 
 关于提交MR线圈510(k)的一般性指导(如标签),超出本安全与性能指南的范围,见FDA指南《磁共振诊断器械上市前通知提交》。FDA可逐案确定是否需要额外数据以评价器械是否适合基于安全与性能的路径。若您认为除本指南所列测试外还需其他测试以确定器械是否适合该路径,我们鼓励您在提交510(k)前提交Pre-Submission(Q-Sub),与FDA讨论。
 

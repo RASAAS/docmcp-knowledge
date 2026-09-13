@@ -4,6 +4,8 @@ description: "Mouse Embryo Assay for Assisted Reproduction Technology Devices"
 published: 2021-01-05
 ---
 
+
+
 # 辅助生殖技术器械的小鼠胚胎试验
 
 **Mouse Embryo Assay for Assisted Reproduction Technology Devices**
@@ -34,12 +36,14 @@ PDF：https://www.fda.gov/media/127874/download
 辅助复制技术器械鼠标 Emblyo 测试 
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA工作人员或负责本指南的办公室联系。
+
 ## I. 简介
 FDA正在发布这项指南,以概述关于进行鼠胚胎检测的建议,以支持上市前的提交和批量发放辅助生殖技术(ART)器械。大部分辅助生殖技术(ART)疗法器械在预定使用期间直接或间接接触调子(即标准和卵细胞)和/或胚胎。MEA用于评估接触调子和/或胚胎的器械的胚胎毒性潜力。21 CFR 第884部分21部分的若干分类条例包括要求进行MEA测试或信息的特殊控制措施。MEA还可用来支持其他器械的上市前提交,这些器械意在在其使用期间接触调子和/或胚胎。然而,没有自愿共识标准来描述如何进行MEA。本指南为开展MEA提供了建议,以支持对旨在接触调子和/或胚胎的器械的上市前提交材料,并遵守对21 CFR 884下分类、需要MEA测试或信息的器械的特殊监管。
 本文件提及的FDA确认的协商一致标准本版,见FDA《共识标准》数据库。 1 关于在提交监管文件时使用协商一致标准的更多信息,请参考FDA题为 " 在医疗器械上市前提交材料中适当使用自愿共识标准 " 的指南。包括本指南在内,不确立法律上可执行的责任。相反,指南描述了FDA目前对某一专题的想法,应仅视为建议,除非有具体的规章或法定要求
 
 ## II. 范围
 本文件的范围限于21 CFR 第884部分所监管的、直接或间接接触调子和(或)胚胎的器械。本指南就如何遵守对21 CFR 884下分类的、需要进行MEA测试或资料的那些器械的特殊控制提出建议。 3 本指南也适用于可用于支持上市前提交材料的MEA测试或资料的器械。仅在使用时接触标准的器械(例如标准处理或储存介质、分离器械等)处理实验室软件和人类标准生存测定(HSSA)不属于本指南文件的范围。
+
 ## III. MEA测试方法
 FDA建议利用MEA测试来评估直接和(或)间接接触调子和(或)胚胎的辅助生殖技术(ART)疗法器械的胚胎毒性。MEA评估单细胞或两细胞阶段胚胎(即单细胞系统或两细胞系统)的爆炸性发育。FDA意识到用于评估胚胎毒性的单细胞和双细胞系统,认为这两种方法都可接受。下文介绍FDA关于MEA测试的具体建议。
 ### A. 试验条款
@@ -79,6 +83,7 @@ FDA建议,根据所使用的系统,在测试和控制物品时采用下列MEA接
 当试验物品孵化超过96小时时,试验报告应包括实际孵化期,并说明孵化期的理由。申办者还应根据测试程序提出接受标准。
 ### E. 测试报告
 关于本节所述的测试建议内容和测试报告格式的资料,请参考FDA的指导意见," 上市前提交中建议的非临床台架性能测试的完整测试报告的内容和格式 " 。 8 为了便利FDA的审查,我们建议,你们的MEA的完整测试报告还应包括所使用的MEA测试方法,包括老鼠菌株、测试和控制组的胚胎数量,文化条件(如气体、温度、中度下降大小、每滴胚胎数)和程序。应提供控制组和试验物品组(视情况而定)中使用的胚胎培养介质的名称。
+
 ## IV. 器械标签中的 MEA 信息
 在进行MEA测试时,FDA建议,包件、瓶状标签和使用说明应说明所使用的MEA接受标准。
 ### V. 分析证书(COA)
@@ -91,11 +96,11 @@ FDA建议,根据所使用的系统,在测试和控制物品时采用下列MEA接
 
 [^1]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm.
 
-[^2]: 参见《自愿-协商一致-标准-上市前提交书-医疗器械》,第0--在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+[^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^4]: 1 -生物评估 -医疗器械 - 1部分 - 评估和。
+[^4]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-
 
 [^6]: 关于胚胎菌株的更多信息,见(1)Khan、Zaraq等人,“动物菌株和质量控制测试:鼠胚胎的灵敏度提高,与出血小鼠的胚胎进行检测。”“使用老鼠胚胎化验对人工辅助生殖器进行不连续测试”。 生殖生物医学在线18.4(2009年):529-535。
 
-[^8]: 非临床-性能测试-信息-上市前期。
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommended-content-and-format-non-clinical-bench-performance-testing-information-premarket
 

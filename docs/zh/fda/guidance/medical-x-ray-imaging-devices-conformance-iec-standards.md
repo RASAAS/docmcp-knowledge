@@ -4,6 +4,8 @@ description: "Medical X-Ray Imaging Devices Conformance with IEC Standards: Guid
 published: 2023-02-21
 ---
 
+
+
 # 医疗X射线成像器械符合IEC标准：行业与FDA工作人员指南
 
 **Medical X-Ray Imaging Devices Conformance with IEC Standards: Guidance for Industry and Food and Drug Administration Staff**
@@ -32,13 +34,15 @@ PDF：https://www.fda.gov/media/99466/download
 ## 官方文件全文
 
 本指南代表了美国食品药品监督管理局(FDA或机构)目前对这一专题的想法。它没有规定任何人的任何权利,对FDA或公众没有约束力。您可采取另一种方式,即满足适用的法规和条例的要求。为了讨论另一种办法,请与标题页所列FDA负责本指南的工作人员联系。
+
 ## I. 简介
 这份指导说明FDA关于管理受联邦食品监管的医用X光成像器械的政策。药品和化妆法(FD&C法)和FDA适用于医疗器械和电子产品的条例。FDA正在设法使《FD&C法》C分章(电子产品辐射控制)第534节规定的性能标准与国际电工委员会(电工委员会)的标准相一致,酌情帮助确保对这些产品的提交材料进行更有效和更一致的监管审查。该指南还就如何遵守适用要求向行业提出建议。FDA确定,行业遵守某些IEC标准至少可以提供:保护公众健康和安全免受电子辐射的程度与EPRC的某些监管标准相同。
 医疗X射线成像器械的制造商和进口商必须遵循目前《欧洲禁止洗钱法》的条例和程序,或提供符合等效的国际独立选举委员会标准的申报,如本指南所述,履行《出口加工合同条例》的要求。使用符合等同的IEC标准的申报,可以减少制造商的重复工作,使FDA能够对提交的医疗X光成像器械进行更有效和更一致的监管审查。
 本文件提及的FDA确认的协商一致标准本版,见FDA《共识标准》数据库。 1 关于在提交监管文件时使用协商一致标准的更多信息,请参考FDA指导医疗器械。”
 
-总的来说,FDA的指南文件没有规定法律上可执行的责任。
-相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA的指导意见中使用这个词意味着建议或建议了一些东西,但并不需要。
+FDA指南文件(包括本指南)不确立具有法律强制执行力的责任。
+相反,FDA目前对某一专题的想法,只应视为建议,除非引述具体的规章或法规要求。在FDA指南中使用“应当(should)”一词,表示某事项被建议或推荐,但并非强制要求。
+
 ## II. 背景
 医疗X射线成像器械可能属于《FD&C法》第201(h)节所述医疗器械的定义范围,也可能属于电子产品的定义范围,根据《FD&C法》第531(2)条。这些器械可能须遵守《FD&C法》和FDA适用于医疗器械4 和电子产品的条例3 的规定。这些当局分别规定的要求有某些重叠。FDA正在发布本指南,以澄清相关适用标准,并帮助确保对提交这些器械的提交进行有效和一致的监管审查。本指南说明FDA目前在以下领域的想法:(1) 产品符合信息、教育和宣传标准;和(2) 符合出口和消费促进委员会性能标准。
 ### A. 器械规章
@@ -61,6 +65,7 @@ X射线成像器械的制造商和进口商必须遵守适用要求,包括但不
 22; 第50号激光通知,9 和“激光产品――符合IEC 60825-1 Ed.3和IEC 60601-2-22 Ed.3.1;第56号激光通知”10, 和
 2. 辐射健康条例;辐射记录和报告的修正
 电子产品:X光诊断、激光和超声波产品的性能标准修正案。
+
 ## III. 范围
 ### A. 指南中述及的器械
 本指南涉及诊断X射线成像系统及其主要组成部分(见21 CFR 1002.1和21 CFR 1020.30(a)(1))。大多数诊断性X射线成像系统及其主要组成部分被归类为一级或二级器械。表1和表2列有这些器械的条例和产品编码。
@@ -72,6 +77,7 @@ IZG 21 CFR 892.1740 托米X射线系统 IZF 21 CF FR 892.1750 计算断层摄影
 放射治疗器械分类条例见21 CFR 892 F分节。
 ### B. 《指南》中述及的标准
 为了避免工作重复,并对与医疗X光成像器械有关的提交进行有效和一致的监管审查,本指南澄清了医疗X光系统和部件的有关适用的自愿协商一致标准。FDA承认适用于本指南所涵盖的一种或多种器械的下列独立选举委员会标准(见附录A):- IEC 60601-1-3 医用电气设备 -- -- 第1-3部分:基本安全和基本性能的一般要求 -- -- 抵押标准:诊断X射线设备中的辐射防护; 医用电气设备 -- -- 第2-28部分:医疗诊断X射线管组件的基本安全和基本性能方面的具体要求;IEC 60601-2-43医用电气设备 -- -- 第2-43部分:用于干预程序的X光器械的安全和基本性能的特别要求;IEC 60601-2-44医用电气设备 -- -- 第2-44部分:• 医用电气设备 -- -- 第2至45部分:(a) 特别需要基本安全和基本性能,如X光器械和X光立体器械;- IEC 60601-2-54 医用电气设备 -- -- 第2-54部分:对X光器械的基本安全和基本性能进行放射和放射检查的特别要求;- IEC 60601-2-63 医用电气设备 -- -- 第2-63部分:牙科外X光器械基本安全和基本性能的特别要求;医用电气设备 -- -- 第2-65部分:牙科内X光器械基本安全和基本性能的特别要求。
+
 ## IV. 政策
 FDA确定,遵守某些独立选举委员会标准至少可以提供:保护公众健康和安全免受电子辐射的程度与埃佩克电子辐射方案某些性能标准相同。FDA建议制造商选择遵守公认和适用的独立选举委员会标准,以符合下文表3所列性能标准的某些要求。遵守必须达到一个版本,包括更正和修正,13 关于承认较新的协商一致标准新版本的过渡期的更多信息,见《关于自愿、
 《医疗器械预上市前提交中的共识标准》14。
@@ -89,6 +95,7 @@ FDA确定,遵守已查明的独立选举委员会标准至少可提供:与21 CFR
 ### V. 提交性能声明
 如果制造商和进口商选择遵守公认和适用的IEC标准,以达到EPRC性能标准的适用要求,它们必须填写符合标准的申报单,证明该器械符合标准(见《FD&C法》第514(c)(1)(B)节),并将申报单作为上市前提交的一部分列入,如果该器械类型不需要上市前提交,则应将申报作为制造商记录的一部分予以保存。
 题为“在医疗器械上市前提交材料中适当使用自愿共识标准”的指南18 载有关于此类申报的资料。
+
 ## VI. 认证认证
 诊断X射线系统及其主要部件的制造商,其适用的EPRC性能标准对其有效,包括符合可适用的独立选举委员会标准以达到EPRC性能标准的产品,必须为其产品提供认证(见21 CFR 1010.2(a))。为了适当核证其产品,制造商必须在交货时向经销商或经销商提供产品证书,产品符合相关合规申报中申报的IEC标准以及化学阻燃剂统一分类第21章J章(生殖健康)中的任何其他标准(如21 CFR 1020.30的组成部分)(见21 CFR 1010.2(a))。
 必须在永久贴在产品上或永久贴在产品上的标签或标签上提供证明,包括具有EPRC适用性能的主要部件,以英文(见21 CFR 1010.2(b))。
@@ -96,6 +103,7 @@ FDA确定,遵守已查明的独立选举委员会标准至少可提供:与21 CFR
 符合21 CFR J分章,包括第21 CFR 1020.30和1020.33节,部分符合IEC 60601-2-44 ed1.0(2009),包括第1号修正案(2012年)根据《FD&C法》第514(c)(1)(A)节,如日期为[最后指导发布日]的“医疗X射线成像器械:符合IEC标准”所述。
 根据21 CFR 1010.2(c),这种认证必须“以根据标准进行的测试为基础,制造商的质量管理体系应处理辐射安全的各个方面,并通过设计控制达到标准。
 测试结果应记录在案并列入公司记录。
+
 ## VII. 向召集人和其他方面提供的信息
 21 CFR 1020.30(a)(1)所列诊断性X射线设备部件制造商,21 CFR 1020.30(g) 要求其提供安装、安装、安装和安装指令。调整和测试(AIAT),以确保产品符合适用的性能标准规定。性能标准中的这一要求有助于确保诊断性X光器械,其特性可能需要在装配、安装时进行调整。此后,将继续遵守辐射安全要求,从而保护公众免受不必要的辐射照射。如表4所述,第1020.30(g)节不符合适用的独立选举委员会标准。
 遵守关于AIAT要求21 CFR 1020.30(g)的指示,a 制造商如果选择宣布符合信息、安全与通信标准以达到表3概述的EPRC性能标准的其他部分,则应在其AIAT文件中列入一份辐射安全规格和测试比较文件。 19 辐射安全规格和测试比较文件(“文件”)应提供信息,以便:例如,装配工、合格的医学物理学家或国家辐射控制方案检查员,测试该器械,确定它是否符合适用的IEC辐射安全规格,而不是EPRC性能标准。
@@ -103,6 +111,7 @@ FDA确定,遵守已查明的独立选举委员会标准至少可提供:与21 CFR
 19 例如,辐射安全规格和测试比较文件,至少可在以下网站查阅:文件应包括:b. 适用于该器械的辐射安全规格,否则这些规格将达不到欧洲炼油厂可比性能标准;bIEC文件编号、版本和具体条款,其中每一项规格都可据此找到;c。EPRC性能标准要求被IEC标准所取代;d. 测试方法和接受标准。
 在线提供文件使装配人员和其他人员能够方便地查阅,可在制造商的个别网站或中央数据库上查阅。
 如何查阅文件的资料应列入器械的随附文件。如果该器械包括以电子方式提供的用户文件20,将《文件》纳入电子文件可能对装配人员和其他人员有帮助。
+
 ## VIII. 遵守和执行
 如果制造商不遵守适用的法律和条例,本指南并不限制FDA采取执法行动的能力。
 如果制造商正在使用符合本指南所讨论的符合某些要求的申报,制造商或进口商必须宣布符合某些IEC标准,21 制造商的质量管理体系必须通过设计核查和验证处理辐射安全和符合标准的各个方面。 22 测试结果必须作为器械设计历史档案23 的一部分记录在案并存入公司记录,并须按照21 CFR 820.180进行检查。如果FDA发现制造商的测试方案不能保证防止危险电子产品辐射的适当保障措施,或不能确保电子产品符合适当的标准,FDA将认为某一产品违反了电子产品性能标准(见21 CFR 1010.2(c))。
@@ -128,29 +137,29 @@ FDA确认的共识标准现有清单见FDA确认的共识标准数据库25。
 
 ## 脚注
 
-[^1]: 可在以下文件查阅: 题为“在为
+[^1]: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
 [^2]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^4]: 有关医疗器械条例的更多信息:见建议-全面监管-援助/总体审查-规章-条例
+[^4]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation
 
-[^5]: 关于电子产品监管的其他资料,见《FD&C法》(见21 CFR 860.3(c)(1))中产品/电子产品-辐照-控制-方案/植被-辐照-排放-产品-市场-经常询问-问题和520(一般规定)。下列条例规定了与这些一般控制有关的要求:21 CFR 801:标签;21 CFR 803:医疗器械报告;21 CFR 807:制造商和制造商及
+[^5]: 见 https://www.fda.gov/radiation-emitting-products/electronic-product-radiation-control-program/getting-radiation-emitting-product-market-frequently-asked-questionsand
 
-[^8]: 欲了解更多资料,了解关于遵守EPRC含氟系统器械性能标准的情况,见题为“某些氟化器械要求的政策澄清”的指南,载于 %
+[^8]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-clarification-certain-fluoroscopic-equipment-requirements
 
 [^9]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-and-iec-60601-2-22-laser-notice-no-50
 
-[^10]: 可在以下网址查阅:%0 /% 符合要求的 iec-60825-1-ed-3-ed-iec-60601-2-22-31-laser-no-56
+[^10]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56
 
 [^14]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
-[^15]: 16 关于实质性等同审查进程的讨论见题为“510(k)方案:
+[^15]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devicesconsensusstandardsthatthe
 
 [^16]: 见 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/search.cfm
 
-[^17]: 可在以下网站查阅:  QQ- 评估- 实质等效- 市场流行性- 通知-510k
+[^17]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k
 
-[^18]: “医疗X射线成像器械:符合IEC标准的情况,”日期为[最后指导意见发放的深入日期]。”
+[^18]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devicesoutlinedin
 
 [^21]: 见FDA的指导意见, " 在上市前提交医药公司时适当采用自愿共识标准 "
 
