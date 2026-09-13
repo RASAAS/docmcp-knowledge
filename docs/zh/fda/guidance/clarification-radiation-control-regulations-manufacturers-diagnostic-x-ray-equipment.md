@@ -461,11 +461,11 @@ b. 如果加入管插件不影响遵守规定的任何方面,还可以使用附�
 
 ## 脚注
 
-[^1]: 可在  查阅
+[^1]: 可在FDA官网查阅
 
 [^4]: 见 https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation
 
-[^5]: 可在  查阅
+[^5]: 可在FDA官网查阅
 
 [^6]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-x-ray-imaging-devices-conformance-iec-standards
 

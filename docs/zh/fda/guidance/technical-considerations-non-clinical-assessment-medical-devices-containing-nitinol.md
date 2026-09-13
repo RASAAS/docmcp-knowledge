@@ -155,7 +155,7 @@ C.和Spinelli,A.(尼提二基合金(尼蒂诺)的活体人体电化学特性),�
 
 [^22]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and­
 
-[^23]: 可用于 @% 0  510k- change- al- along- section https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-
+[^23]: 可用于 k- change- al- along- section https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-
 
 [^25]: 详情见“医疗器械反馈请求书:与美国食品药品监督管理局工作人员举行的Pre-Sub方案和会议”可查:0 _ https://www.fda.gov/regulatory­
 
@@ -165,7 +165,7 @@ C.和Spinelli,A.(尼提二基合金(尼蒂诺)的活体人体电化学特性),�
 
 [^39]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reporting-
 
-[^49]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评价-和50°Q1-inces/ucm287535.htm的口服镍矿矿矿。必须指出的是,TI值并不是要保护当地效应(如坏死、炎症、性病、艾滋病毒/艾滋病、艾滋病毒/艾滋病等)。可能是植入物释放到植入物周围组织中的镍释放引起的刺激。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international­
+[^49]: 标准-iso-10993-1-生物评估-医疗器械-第1部分-评价-和50°Q1-inces/ucm287535.htm的口服镍矿矿矿。必须指出的是,TI值并不是要保护当地效应(如坏死、炎症、性病、等微生物等)。可能是植入物释放到植入物周围组织中的镍释放引起的刺激。 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international­
 
 [^52]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/factors-consider-when-
 

@@ -139,7 +139,7 @@ n. 灰色跟踪:灰色阴影,包括白点等不同亮度的灰色阴影的色度
 
 ## 脚注
 
-[^1]: 可在  查阅
+[^1]: 可在FDA官网查阅
 
 [^2]: 可在以下网站查阅:https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices。
 

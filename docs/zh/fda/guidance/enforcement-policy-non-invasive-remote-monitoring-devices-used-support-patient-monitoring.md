@@ -93,7 +93,7 @@ ISO13485,医疗器械质量管理体系——监管要求,第820部分。如该�
 
 ## 脚注
 
-[^2]: 可在  查阅
+[^2]: 可在FDA官网查阅
 
 [^3]: 可在以下网站查阅：https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensus-standards-premarket-submissions-medical-devices
 
@@ -107,5 +107,5 @@ ISO13485,医疗器械质量管理体系——监管要求,第820部分。如该�
 
 [^26]: 可在以下网站查阅:[参见原文脚注] 管理-网络安全-医疗器械。
 
-[^27]: 可在  查阅
+[^27]: 可在FDA官网查阅
 
