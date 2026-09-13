@@ -375,7 +375,7 @@ B节说明以数量为基础的eCopy和非以数量为基础的eCopy如何包括
 
 [^1]: 见《FD&C法》第745A(b)(1)节。
 
-[^2]: 见FDA的CDRH门户网站网页Send and track medical Professional Premarked Premarked Profession Online:CDRH门户网站。
+[^2]: 见FDA的CDRH门户网站网页Send and track your submission online: CDRH Customer Collaboration Portal。
 
 [^3]: 见FDA电子提交书网页《下一代电子提交书网关》(ESG NextGen),由本指南提供,供FDA处理和接受该提交书供审查。除非已查明这些实体被豁免或放弃,或符合第745A(b)(3)条规定的仅以电子格式提交的标准。在745A(b)(1)和(2)项下提交的提交中,如未提交不符合本指南规定的标准的eCopy和eCopy提交书,格式将被搁置,直至向FDA提交有效的eCopy并核实其符合标准,提交格式不变,审查时间将不开始,提交将不予审查。格式持有状态适用于原提交材料、补编、修正和报告。
 

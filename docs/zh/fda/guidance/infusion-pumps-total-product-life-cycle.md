@@ -116,8 +116,7 @@ FDA评估了各制造商的各类输注泵,在器械软件、人因、可靠性�
 
 5 根据FDA对这些器械的分析,FDA预计,对输注泵的大多数改动或修改会严重影响器械的安全或有效性,因此需要提交新的510(k)提交。见21 CFR 807.81(a)(3)。请注意,对510(k)已清除器械的预定用途或技术的修改,可能使该器械与合法销售的参照器械实质性等同(NSE)。关于实质性等同和提交的510(k)详细信息,请参见FDA题为“510(k)方案”的指南:
 评估上市前通知的实质性等同[510(k)]见 FDA 官网。因此,任何这类器械都可能是III类器械,需要上市前批准申请,除非该器械被重新归类为《联邦食品、药品和化妆品法》。
-系统和网络,爱丁堡,联合王国,2007年;Kelly, T.,《辩论安全-安全案例管理的系统办法》,博士论文,联合王国,纽约大学,1998年;Kelly, T.,“审查保证的论据——逐步处理方法”,Proc.安全保证案例讲习班 -- -- 计量挑战、可依赖的系统和网络,2007年7月;Kelly、Tim和J。McDermid,“安全案例模式—重复成功论证”,国际电子工程师学院理解模式及其对系统工程的应用座谈会文件,伦敦,1998年4月;温斯托克、查尔斯·B·温斯托克和古德纳夫、约翰·B·约翰·B·“争取在
-卡内基·梅隆软件工程研究所,2009年10月;Hawkins, Richard, et.2011年2月,在联合王国南安普敦举行的安全临界系统专题讨论会上,《创建清晰安全参数的新办法》;联合王国国防部,国防标准00-56,国防系统安全管理要求 -- -- 第1部分和第2部分,2007年6月。
+Systems and Networks, Edinburgh, U.K., 2007; Kelly, T., Arguing Safety — A Systematic Approach to Managing Safety Cases, Ph.D. Dissertation, University of York, U.K., 1998; Kelly, T., "Reviewing Assurance Arguments - A Step-by-Step Approach," Proc. of Workshop on Assurance Cases for Security - The Metrics Challenge, Dependable Systems and Networks, July 2007; Kelly, Tim, and J. McDermid, "Safety Case Patterns – Reusing Successful Arguments," Proc. of IEE Colloquium on Understanding Patterns and Their Application to System Engineering, London, Apr. 1998; Weinstock, Charles B. and Goodenough, John B., "Towards an Assurance Case Practice for Medical Devices," Carnegie Mellon Software Engineering Institute, October 2009; Hawkins, Richard, et.2011年2月,在联合王国南安普敦举行的安全临界系统专题讨论会上,《创建清晰安全参数的新办法》;联合王国国防部,国防标准00-56,国防系统安全管理要求 -- -- 第1部分和第2部分,2007年6月。
 安全情况具体针对器械,取决于制造商指定的设计要求、7 相关危害、设计规格和其他设计控制文件。因此,任何新开发的器械都应有自己的独特的安全案例。如果您提交510(k),用于修改合法销售的、无安全情况的输注泵,您应开发并提交用于输注泵的安全案例。
 
 在开发该器械的同时,最好也能开发出安全保障案例。

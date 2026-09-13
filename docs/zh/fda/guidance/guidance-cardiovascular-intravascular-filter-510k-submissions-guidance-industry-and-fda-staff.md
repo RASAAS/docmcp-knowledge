@@ -4,7 +4,7 @@ description: "Guidance for Cardiovascular Intravascular Filter 510(k) Submission
 published: 1999-11-25
 ---
 
-# 关于心血管静脉过器的指南 510 ((k) 提交：行业与FDA工作人员指南
+# 心血管静脉内滤器510(k)提交：行业与FDA工作人员指南
 
 **Guidance for Cardiovascular Intravascular Filter 510(k) Submissions - Guidance for Industry and FDA Staff**
 

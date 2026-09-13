@@ -126,5 +126,5 @@ c. 如果进行了,动物检验,以确定质量控制标准,并接受相关标�
 12. Kutty PK, Forster TS, Wood-Koob C等人,《2005年多州爆发有毒的脑膜炎综合症》,J Cataract Refract Surg, Apr 2008;34(4):585-590。
 13. Buchen SY、Cologero D、Hilmantel G、Eydelman MB. 兔子的眼部反应与水溶液和眼科皮外科器械中含有的细菌内毒素。
 2012年;1119(7):e4-e10。
-14. 《美国药用植物公约》,USP +QQQ 85>细菌内分毒素试验。
+14. 《美国药用植物公约》,USP <85>细菌内分毒素试验。
 15. Buchen Sy、Cologero D、Hilmantel G、Eydelman MB. 检测内毒素对眼科内皮外科外科器械的污染:兔子体内的室内和体外分析。眼科,2012年7月;119(7):e11-18。

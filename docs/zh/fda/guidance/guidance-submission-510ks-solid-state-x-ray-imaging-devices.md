@@ -56,7 +56,7 @@ PDF：https://www.fda.gov/media/71798/download
 ## IV. 说明说明
 ### A. Scintillator- 摄影探测器
 ### B. 直接转换
-### C. 光电结合的《防治荒漠化公约》
+### C. 光学耦合CCD
 ### D. 光模拟磷
 ## V. 监管要求
 ## VI. 非临床考虑

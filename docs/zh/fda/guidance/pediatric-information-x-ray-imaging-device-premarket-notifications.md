@@ -142,7 +142,7 @@ FDA器械和放射保健中心界定了婴儿出生到21岁的年龄年龄范围
 儿科成像和大致等同年龄的水平(欧洲联盟委员会)。2016年《欧洲儿科成像诊断参考水平准则》,辐射防护。卢森堡)和辐射防委会的“医学成像方面的诊断性参考水平”(ICRP Ref 4836-8337-6684, 草稿公布于2016年1月11日)[群名(体重、年龄)]:Nenate (_5公斤, https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 婴儿、幼儿和幼儿(5-1+15公斤,1米 - +2+4y); 中年儿童(15 - 3+30公斤,4 - 4https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications); 青春期早期(30 - 5https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 幼儿(15 - 3https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications 4 - 4https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications y); 幼儿(30 - https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pediatric-information-x-ray-imaging-device-premarket-notifications)。
 良好的风险评估应包括审查与器械有关的所有可预见的风险。即使没有具体指明用于儿科治疗的一般用途X射线成像器械,但可以预见该器械将被用于儿科病人。
 由于该器械造成的风险可能因特定人群而异(包括不同规模的病人的不同儿科分组),为小儿病人(以及预计大量使用小儿科的普通用途器械)指明的X射线成像器械的风险评估应包括与可能使用该器械的所有病人群体相关的额外危害和减轻风险的手段。你风险评估应包括考虑FDA题为 " 小儿医疗器械预市场评估:
-29 如果风险评估结果显示,在处理儿科使用方面不需要特殊特征或标签,然后,预售前的510(k)提交材料应包括这一理由。
+29 如果风险评估结果显示,在处理儿科使用方面不需要特殊特征或标签,然后,上市前的510(k)提交材料应包括这一理由。
 
 在制定旨在减少儿科病人辐射照射的特征或用户指示时,应考虑在理想临床任务中平衡辐射照射和图像质量。虽然临床医生有责任确定该器械的最终设置,以满足图像质量要求,制造商有责任提供适当的指导。
 

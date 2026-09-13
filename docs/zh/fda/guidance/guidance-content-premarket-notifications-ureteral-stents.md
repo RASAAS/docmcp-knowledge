@@ -4,7 +4,7 @@ description: "Guidance for the Content of Premarket Notifications for Ureteral S
 published: 1993-02-09
 ---
 
-# 关于尿管片上市前通知内容的指南
+# 输尿管支架上市前通知内容指南
 
 **Guidance for the Content of Premarket Notifications for Ureteral Stents**
 
