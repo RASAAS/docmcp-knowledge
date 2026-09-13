@@ -1,7 +1,34 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-07-26T20:07:13Z",
+  "last_updated": "2026-09-13T21:14:31Z",
   "items": [
+    {
+      "id": "eu_mdr_20260913_mdcg_2020_16_rev_5_updated_ivdr_classification_rules_guidanc",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "MDCG 2020-16 Rev.5: Updated IVDR Classification Rules Guidance (September 2026)",
+        "zh": "MDCG 2020-16 第5版：IVDR分类规则指南更新（2026年9月）"
+      },
+      "summary": {
+        "en": "The European Commission has published revision 5 of MDCG 2020-16, updating guidance on classification rules for in vitro diagnostic medical devices under Regulation (EU) 2017/746 (IVDR). This revision affects IVD manufacturers, notified bodies, and other economic operators who must apply the IVDR classification rules. Stakeholders should review the updated guidance, reassess the risk class of their IVD products, and adjust technical documentation and conformity assessment procedures where necessary.",
+        "zh": "欧盟委员会发布了MDCG 2020-16第5版，更新了关于体外诊断医疗器械根据（EU）2017/746法规（IVDR）分类规则的指南。此次修订影响IVD制造商、公告机构及其他经济运营者，需适用IVDR分类规则。相关方应审查更新后的指南，重新评估其IVD产品的风险等级，并在必要时调整技术文件和符合性评定程序。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en",
+      "source_name": "European Commission",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-13T21:14:31Z",
+      "importance": "medium",
+      "tags": [
+        "ivdr",
+        "classification_rules",
+        "mdcg_guidance",
+        "in_vitro_diagnostics",
+        "regulatory_affairs"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_20260726_new_mdcg_position_paper_clarifies_udi_assignment_responsibil",
       "framework": "eu_mdr",

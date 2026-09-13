@@ -18,6 +18,18 @@ This COFEPRIS notice announces strengthened interinstitutional coordination to r
 
 ---
 
+### MDCG 2020-16 Rev.5: Updated IVDR Classification Rules Guidance (September 2026)
+
+**2026-09-09** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission has published revision 5 of MDCG 2020-16, updating guidance on classification rules for in vitro diagnostic medical devices under Regulation (EU) 2017/746 (IVDR). This revision affects IVD manufacturers, notified bodies, and other economic operators who must apply the IVDR classification rules. Stakeholders should review the updated guidance, reassess the risk class of their IVD products, and adjust technical documentation and conformity assessment procedures where necessary.
+
+**Tags**: `ivdr`, `classification_rules`, `mdcg_guidance`, `in_vitro_diagnostics`, `regulatory_affairs`
+
+[View Source (European Commission)](https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en)
+
+---
+
 ### Swissmedic FSCA: GORE VIABAHN Endoprosthesis with Heparin/PROPATEN Surface – New Language Added
 
 **2026-09-09** | Swissmedic | Safety Communication | !! MEDIUM

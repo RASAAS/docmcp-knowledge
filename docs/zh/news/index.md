@@ -18,6 +18,18 @@ COFEPRIS此通知宣布加强机构间协调，以应对墨西哥2026年雨季�
 
 ---
 
+### MDCG 2020-16 第5版：IVDR分类规则指南更新（2026年9月）
+
+**2026-09-09** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧盟委员会发布了MDCG 2020-16第5版，更新了关于体外诊断医疗器械根据（EU）2017/746法规（IVDR）分类规则的指南。此次修订影响IVD制造商、公告机构及其他经济运营者，需适用IVDR分类规则。相关方应审查更新后的指南，重新评估其IVD产品的风险等级，并在必要时调整技术文件和符合性评定程序。
+
+**标签**: `ivdr`, `classification_rules`, `mdcg_guidance`, `in_vitro_diagnostics`, `regulatory_affairs`
+
+[查看来源 (European Commission)](https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en)
+
+---
+
 ### 瑞士Swissmedic FSCA：GORE VIABAHN肝素/PROPATEN表面覆膜支架新增语言
 
 **2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
