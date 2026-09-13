@@ -42,7 +42,7 @@ PDF：https://www.fda.gov/media/154994/download
 ## I. 简介
 一种由传感器、起动器、起动器、电动器组成的系统,即由物理闭环控制器械组成的系统。控制算法,通过对能量或物品的输送或移走进行自动调整,调整或保持生理变量(例如,使用物理测量传感器反馈的药物、2 或作为一种医疗器械监管的液体或气体。PCLC技术可以使各种医疗器械类型自动化。准确和一致的治疗,并可在减少认知超负荷、尽量减少人为错误、加强医疗护理方面发挥重要作用,例如,在应急反应和医疗突发事件期间,确保病人安全是评估PCLC器械潜在好处的重要考虑因素。
 
-本文件着重介绍利用PCLC技术开发医疗器械的技术考虑,以确保安全和有效地使用,并就上市前提交的内容提出建议(即:预先市场通知(510(k)s)、De Novo申请、预先市场批准申请、人道主义器械豁免等)。
+本文件着重介绍利用PCLC技术开发医疗器械的技术考虑,以确保安全和有效地使用,并就上市前提交的内容提出建议(即:上市前通知(510(k)s)、De Novo申请、上市前批准申请、人道主义器械豁免等)。
 
 本文件提及的FDA确认的协商一致标准本版,3 关于在提交监管文件时使用协商一致标准方面的更多资料,请参见FDA。
 
@@ -118,7 +118,7 @@ IEC 60601-1-10-10版1.2 2020-07第16条第3.11款“后退模式”:医用电气
 控制这些风险,监测控制的有效性。这一过程应包括风险分析、风险评估、风险控制/缓解以及纳入生产和生产后信息。以下与设计过程有关的建议涉及风险管理考虑、系统和构件层面的设计考虑,以及核实和审定方面的考虑。具有PCLC技术器械的设计投入应考虑与完整器械有关的风险,而不仅仅是PCLC功能。PCLC器械的设计应支持在患者群体、环境和临床工作流程中安全有效地使用该器械。我们建议制造商遵守IEC 60601-1-10:医用电气设备----第一部分----所述开发程序。
 10:基本安全和基本性能的一般要求 -- -- 抵押标准:在设计PCLC器械时,要求开发生理闭环控制器或同等方法,国际标准化组织(标准化组织)14971号文件所述的风险管理程序建议:医疗器械 -- -- 将风险管理应用于医疗器械。
 
-FDA认识到,PCLC器械可能对患者护理具有多重潜在好处(见第二节)。在作出监管决定时应考虑这一点,并建议制造商参考FDA现有的指南文件,收集和编制用于提交监管提交的资料,以支持确定获益-风险。例如,见FDA指南文件“在医疗器械预先市场批准和De Novo分类中确定获益-风险时应考虑的因素”23 和“获益-风险”。
+FDA认识到,PCLC器械可能对患者护理具有多重潜在好处(见第二节)。在作出监管决定时应考虑这一点,并建议制造商参考FDA现有的指南文件,收集和编制用于提交监管提交的资料,以支持确定获益-风险。例如,见FDA指南文件“在医疗器械上市前批准和De Novo分类中确定获益-风险时应考虑的因素”23 和“获益-风险”。
 在确定上市前通知(510(k))与不同的技术特点24 的实质性等同时,酌情考虑各种因素。
 
 PCLC器械是复杂的系统,其性能可能受到传感器、治疗性送货器械、控制算法、控制算法的影响。使用软件、用户界面、投送物品的特性和病人的生理学。部件之间失去沟通、软件故障、控制算法设计不当、使用错误或病人生理紊乱。
@@ -418,7 +418,7 @@ FDA指南文件 " 医疗器械提交材料中计算模型研究报告 " 39,供FD
 
 [^26]: 有关医疗器械报告的更多信息,见“FDA指南文件:医疗器械”
 
-[^27]: 可用于%0 系数和可用性-工程-医疗器械 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-
+[^27]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices
 
 [^28]: FDA的指南文件,载于《产品-生命周期》,“设计考虑和预先提交 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/infusion-pumps-total-
 
@@ -450,7 +450,7 @@ FDA指南文件 " 医疗器械提交材料中计算模型研究报告 " 39,供FD
 
 [^41]: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
-[^42]: 可用于%0 系数和可用性-工程-医疗器械 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-
+[^42]: 见 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices
 
 [^43]: 可在下列地点查阅:-会议-医疗器械提交文件-q-提交方案 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-
 
