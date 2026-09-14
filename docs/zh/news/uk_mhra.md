@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA发布2026年9月7日至11日现场安全通告
+
+**2026-09-14** | UK MHRA | 安全通报 | !!! HIGH
+
+此MHRA出版物列出了2026年9月7日至11日发布的现场安全通告（FSN），包含两条新增条目。相关方包括医疗保健提供者、医疗器械供应商及可能使用受影响器械的用户。责任人员应查阅通告，识别受影响设备，并尽快执行制造商建议的安全措施；如发现本地安全问题，可能需要向MHRA报告。
+
+**标签**: `mhra`, `field_safety_notice`, `medical_device_safety`, `regulatory_alerts`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
+### MHRA 现场安全通告：2026年9月7日至11日
+
+**2026-09-14** | UK MHRA | 法规更新 | !!! HIGH
+
+英国MHRA发布了2026年9月7日至11日当周的现场安全通告（FSN）列表。该页面汇总了制造商针对在英国市场的医疗器械和体外诊断产品发出的安全沟通信息。医疗机构、临床工程团队和器械供应商应查阅相关通告，并按照各FSN中的建议采取必要措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
+### MHRA更新医疗器械例外使用授权清单
+
+**2026-09-11** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA已发布最新版医疗器械例外使用授权（EUA）决定清单，列明获得豁免的制造商及其器械，并包括已到期或被取消的授权。相关制造商和法规事务人员应核对清单，确认其设备当前的授权状态。如授权已过期或被取消，需评估对市场供应和合规的影响并采取相应措施。
+
+**标签**: `mhra`, `exceptional_use_authorisation`, `medical_devices`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA现场安全通告：2026年8月31日至9月4日
+
+**2026-09-09** | UK MHRA | 安全通报 | !!! HIGH
+
+该MHRA页面汇总了2026年8月31日至9月4日发布的现场安全通告（FSN），涵盖制造商发现的医疗器械安全问题。医疗机构、器械供应商和使用者应查阅这些通告，识别受影响器械并执行建议措施。这是英国医疗器械上市后监督和警戒报告的常规内容。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026)
+
+---
+
+### MHRA更新英国药品生产商与批发商暂停/撤销许可证名单
+
+**2026-09-09** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA更新了因违规被暂停或撤销药品及原料药生产、批发许可/注册的公司公开名单。此次更新涉及药品和原料药生产商及批发商的新执法决定。相关法规事务人员和供应链企业应查阅名单，确认合作方和供应商是否持有有效许可。
+
+**标签**: `mhra`, `medicines_manufacturing`, `licence_suspension`, `wholesale_distribution`, `regulatory_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
 ### 英国MHRA现场安全通告：2026年8月24日至28日
 
 **2026-09-03** | UK MHRA | 安全通报 | !! MEDIUM

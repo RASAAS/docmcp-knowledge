@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Weekly Field Safety Notices: 7–11 September 2026
+
+**2026-09-14** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA publication lists Field Safety Notices (FSNs) issued between 7 and 11 September 2026, with two new entries. It is intended for healthcare providers, medical device suppliers, and users who may have affected devices in their facilities. Responsible persons should review the notices, identify any impacted devices, and implement the manufacturer’s recommended safety actions promptly. Additional reporting to MHRA may be required if safety issues are identified locally.
+
+**Tags**: `mhra`, `field_safety_notice`, `medical_device_safety`, `regulatory_alerts`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
+### MHRA Field Safety Notices: 7–11 September 2026
+
+**2026-09-14** | UK MHRA | Regulation Update | !!! HIGH
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 7 and 11 September 2026. This page compiles manufacturer-initiated safety communications for medical devices and in vitro diagnostics on the UK market. Healthcare providers, clinical engineering teams, and device suppliers should review the list and implement the recommended actions in the relevant FSNs.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
 ### COFEPRIS Strengthens Coordination for Health Emergencies During 2026 Rainy and Hurricane Season
 
 **2026-09-12** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
@@ -18,6 +42,54 @@ This COFEPRIS notice announces strengthened interinstitutional coordination to r
 
 ---
 
+### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations
+
+**2026-09-11** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published its updated decision list of medical devices granted exceptional use authorisations (EUAs) in the UK. The list identifies manufacturers and devices with active exemptions, as well as those whose authorisations have expired or been cancelled. Regulatory affairs professionals and manufacturers should check the list to confirm the current status of their device and take any necessary compliance actions.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_devices`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### Health Canada Alert: IMN Screws System Advanced Locking Screw Device Compatibility Issue
+
+**2026-09-10** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the IMN Screws System Advanced Locking Screw due to a device compatibility concern. Healthcare facilities and users should check affected lots, quarantine incompatible units, and follow the manufacturer's field action or recall instructions. This issue may affect surgical procedures using the IMN system and requires inventory verification.
+
+**Tags**: `health_canada`, `medical_device_recall`, `device_compatibility`, `orthopedic_implants`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw)
+
+---
+
+### Health Canada Recall Alert: DxC 500i and DxC 500 AU Clinical Chemistry Analyzers – Performance Issue
+
+**2026-09-10** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the DxC 500i Clinical Analyzer and DxC 500 AU Clinical Chemistry Analyzer due to a performance issue. Laboratories and healthcare facilities using these analyzers are affected. Users should review the recall notice, follow the manufacturer's corrective actions, and implement any recommended performance verification or mitigation measures to ensure accurate clinical chemistry results.
+
+**Tags**: `medical_device_recall`, `clinical_chemistry_analyzer`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer)
+
+---
+
+### Health Canada Recall: Centricity High Acuity Anesthesia Performance Issue
+
+**2026-09-10** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Centricity High Acuity Anesthesia due to a performance issue. Healthcare facilities using this anesthesia information system may be affected by unreliable device performance. Affected users should review the recall notice and contact the manufacturer or Health Canada for corrective actions.
+
+**Tags**: `health_canada`, `medical_device_recall`, `anesthesia_software`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1)
+
+---
+
 ### MDCG 2020-16 Rev.5: Updated IVDR Classification Rules Guidance (September 2026)
 
 **2026-09-09** | EU MDR/IVDR | Regulation Update | !! MEDIUM
@@ -27,6 +99,54 @@ The European Commission has published revision 5 of MDCG 2020-16, updating guida
 **Tags**: `ivdr`, `classification_rules`, `mdcg_guidance`, `in_vitro_diagnostics`, `regulatory_affairs`
 
 [View Source (European Commission)](https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en)
+
+---
+
+### MHRA Field Safety Notices: 31 August to 4 September 2026
+
+**2026-09-09** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA page lists Field Safety Notices (FSNs) published between 31 August and 4 September 2026, covering medical device safety issues identified by manufacturers. Healthcare providers, device suppliers, and users should review the notices to identify affected devices and implement recommended actions. It is part of routine post-market surveillance and vigilance reporting for medical devices in the UK.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026)
+
+---
+
+### MHRA Updated Suspended and Revoked Licences for UK Medicines Manufacturers and Wholesalers
+
+**2026-09-09** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. This update covers new enforcement decisions affecting manufacturers and wholesalers of medicines and ingredients. Regulatory affairs professionals and supply chain stakeholders should review the list to identify affected entities and verify that partners and suppliers hold valid authorisations.
+
+**Tags**: `mhra`, `medicines_manufacturing`, `licence_suspension`, `wholesale_distribution`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### Health Canada Recall/Alert: Philips Ingenia, Achieva and Intera MR Systems Performance Issue
+
+**2026-09-09** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for Philips Ingenia, Achieva and Intera MR systems due to a performance issue. Healthcare facilities using these MRI models are affected. Users should review the Health Canada notice and the manufacturer's field safety notice, follow recommended safety measures, and contact Philips Canada for corrective action or additional information.
+
+**Tags**: `health_canada`, `mri_systems`, `medical_device_recall`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems)
+
+---
+
+### Health Canada Recall: Veradius Unity and BV Pulsera Mobile C-Arm Systems (9in. and 12in.)
+
+**2026-09-09** | Health Canada | Safety Communication | !!! HIGH
+
+This Health Canada safety alert/recall concerns a performance issue with the Veradius Unity and BV Pulsera Mobile C-Arm Systems, 9-inch and 12-inch versions. Healthcare facilities using these mobile C-arm imaging systems are affected. Users should review the recall notice and follow manufacturer-recommended corrective actions, including any inspection, testing, or use restrictions.
+
+**Tags**: `health_canada`, `medical_device_recall`, `mobile_c_arm`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/veradius-unity-and-bv-pulsera-mobile-c-arm-system-9in-and-12in-versions)
 
 ---
 
@@ -606,6 +726,42 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for VICTO artif
 
 ---
 
+### Health Canada Recall: Imager™ II Angiographic Catheter – Performance Issue
+
+**2026-09-04** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for the Imager™ II Angiographic Catheter due to a performance issue. The notice applies to Canadian healthcare facilities and staff using this angiographic catheter in interventional procedures. Affected users should identify and quarantine any impacted units, consult the recall notice for affected lot or serial information, and follow the manufacturer’s or Health Canada’s instructions for return or replacement.
+
+**Tags**: `medical_device_recall`, `angiographic_catheter`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter)
+
+---
+
+### Health Canada Issues Recall for GORE® VIABAHN® Endoprosthesis with PROPATEN Bioactive Due to Performance Issue
+
+**2026-09-04** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the GORE® VIABAHN® Endoprosthesis with PROPATEN Bioactive surface due to a performance issue. Healthcare providers using this vascular endoprosthesis should identify affected inventory and stop using recalled devices. Facilities should quarantine and return affected product according to the manufacturer's instructions and follow any recommended patient monitoring or follow-up actions.
+
+**Tags**: `medical_device_recall`, `vascular_endoprosthesis`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive)
+
+---
+
+### Health Canada Alert: Stryker LIFEPAK 35 Monitor/Defibrillator Performance Issue
+
+**2026-09-04** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Stryker LIFEPAK 35 Monitor/Defibrillator due to a performance issue. This affects healthcare providers and emergency responders who use the device for monitoring and defibrillation. Affected facilities should identify and quarantine affected units, consult the recall notice, and follow Stryker’s recommended corrective actions immediately.
+
+**Tags**: `medical_device_recall`, `defibrillator`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0)
+
+---
+
 ### UK MHRA Field Safety Notices: 24 to 28 August 2026
 
 **2026-09-03** | UK MHRA | Safety Communication | !! MEDIUM
@@ -695,6 +851,54 @@ This MHRA Drug Safety Alert (DSI/2026/011) requires the use of in-line filters d
 **Tags**: `parenteral_nutrition`, `infusion_filters`, `mhra_safety_alert`
 
 [View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011)
+
+---
+
+### Canada Recall: Quantum PureFlow Standard Heat Exchanger High Flow – Sterility Issue
+
+**2026-09-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the Quantum PureFlow Standard Heat Exchanger High Flow due to a sterility concern. The affected device may not meet sterility requirements, posing a potential infection risk to patients during clinical use. Healthcare facilities should identify and quarantine affected units, stop use, and follow the manufacturer's recall instructions and Health Canada guidance.
+
+**Tags**: `medical_device_recall`, `sterility`, `heat_exchanger`, `health_canada`, `infection_risk`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/quantum-pureflow-standard-heat-exchanger-high-flow)
+
+---
+
+### Health Canada Recall Alert: BiCOAG Hemostasis Probe – Performance Issue
+
+**2026-09-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the BiCOAG Hemostasis Probe due to a performance issue that may affect its hemostasis function. Healthcare facilities and users should identify affected units, quarantine or discontinue use as directed, and follow the manufacturer’s recall instructions. This is part of recent Canadian medical device safety actions.
+
+**Tags**: `medical_device_recall`, `health_canada`, `hemostasis_probe`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bicoag-hemostasis-probe)
+
+---
+
+### Health Canada Recall: LEO+ Intracranial Self-Expandable Stent and Delivery System – Performance Issue
+
+**2026-09-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the LEO+ Intracranial Self-Expandable Stent and Delivery System due to a performance issue. The device is used in neurovascular procedures, and the alert is directed at healthcare facilities and professionals that use or stock this system. Regulatory affairs teams should review inventory, quarantine affected units, and follow Health Canada’s recall notice for return or correction actions.
+
+**Tags**: `medical_device_recall`, `intracranial_stent`, `performance_issue`, `health_canada`, `neurovascular`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/leo-intracranial-self-expandable-stent-and-delivery-system)
+
+---
+
+### Health Canada Recall Alert: LIFEPAK 35 Monitor/Defibrillator Performance Issue
+
+**2026-09-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the LIFEPAK 35 Monitor/Defibrillator due to a performance issue. This alert affects Canadian healthcare facilities and emergency medical services that use the device for patient monitoring and defibrillation. Users should immediately review the recall notice and follow the manufacturer's recommended actions, including inspection, mitigation, or discontinuation as advised.
+
+**Tags**: `medical_device_recall`, `defibrillator`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator)
 
 ---
 

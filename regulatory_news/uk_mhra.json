@@ -1,7 +1,136 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-09-07T22:02:12Z",
+  "last_updated": "2026-09-14T22:25:31Z",
   "items": [
+    {
+      "id": "uk_mhra_20260914_mhra_weekly_field_safety_notices_7_11_september_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Weekly Field Safety Notices: 7–11 September 2026",
+        "zh": "MHRA发布2026年9月7日至11日现场安全通告"
+      },
+      "summary": {
+        "en": "This MHRA publication lists Field Safety Notices (FSNs) issued between 7 and 11 September 2026, with two new entries. It is intended for healthcare providers, medical device suppliers, and users who may have affected devices in their facilities. Responsible persons should review the notices, identify any impacted devices, and implement the manufacturer’s recommended safety actions promptly. Additional reporting to MHRA may be required if safety issues are identified locally.",
+        "zh": "此MHRA出版物列出了2026年9月7日至11日发布的现场安全通告（FSN），包含两条新增条目。相关方包括医疗保健提供者、医疗器械供应商及可能使用受影响器械的用户。责任人员应查阅通告，识别受影响设备，并尽快执行制造商建议的安全措施；如发现本地安全问题，可能需要向MHRA报告。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-14",
+      "detected_date": "2026-09-14T22:22:03Z",
+      "importance": "high",
+      "tags": [
+        "mhra",
+        "field_safety_notice",
+        "medical_device_safety",
+        "regulatory_alerts"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260914_mhra_field_safety_notices_7_11_september_2026",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Field Safety Notices: 7–11 September 2026",
+        "zh": "MHRA 现场安全通告：2026年9月7日至11日"
+      },
+      "summary": {
+        "en": "The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 7 and 11 September 2026. This page compiles manufacturer-initiated safety communications for medical devices and in vitro diagnostics on the UK market. Healthcare providers, clinical engineering teams, and device suppliers should review the list and implement the recommended actions in the relevant FSNs.",
+        "zh": "英国MHRA发布了2026年9月7日至11日当周的现场安全通告（FSN）列表。该页面汇总了制造商针对在英国市场的医疗器械和体外诊断产品发出的安全沟通信息。医疗机构、临床工程团队和器械供应商应查阅相关通告，并按照各FSN中的建议采取必要措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-14",
+      "detected_date": "2026-09-14T22:22:24Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260914_mhra_updates_list_of_medical_devices_granted_exceptional_use",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations",
+        "zh": "MHRA更新医疗器械例外使用授权清单"
+      },
+      "summary": {
+        "en": "The MHRA has published its updated decision list of medical devices granted exceptional use authorisations (EUAs) in the UK. The list identifies manufacturers and devices with active exemptions, as well as those whose authorisations have expired or been cancelled. Regulatory affairs professionals and manufacturers should check the list to confirm the current status of their device and take any necessary compliance actions.",
+        "zh": "MHRA已发布最新版医疗器械例外使用授权（EUA）决定清单，列明获得豁免的制造商及其器械，并包括已到期或被取消的授权。相关制造商和法规事务人员应核对清单，确认其设备当前的授权状态。如授权已过期或被取消，需评估对市场供应和合规的影响并采取相应措施。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-11",
+      "detected_date": "2026-09-14T22:22:40Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "exceptional_use_authorisation",
+        "medical_devices",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260914_mhra_field_safety_notices_31_august_to_4_september_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 31 August to 4 September 2026",
+        "zh": "MHRA现场安全通告：2026年8月31日至9月4日"
+      },
+      "summary": {
+        "en": "This MHRA page lists Field Safety Notices (FSNs) published between 31 August and 4 September 2026, covering medical device safety issues identified by manufacturers. Healthcare providers, device suppliers, and users should review the notices to identify affected devices and implement recommended actions. It is part of routine post-market surveillance and vigilance reporting for medical devices in the UK.",
+        "zh": "该MHRA页面汇总了2026年8月31日至9月4日发布的现场安全通告（FSN），涵盖制造商发现的医疗器械安全问题。医疗机构、器械供应商和使用者应查阅这些通告，识别受影响器械并执行建议措施。这是英国医疗器械上市后监督和警戒报告的常规内容。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-14T22:22:14Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260914_mhra_updated_suspended_and_revoked_licences_for_uk_medicines",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Updated Suspended and Revoked Licences for UK Medicines Manufacturers and Wholesalers",
+        "zh": "MHRA更新英国药品生产商与批发商暂停/撤销许可证名单"
+      },
+      "summary": {
+        "en": "The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. This update covers new enforcement decisions affecting manufacturers and wholesalers of medicines and ingredients. Regulatory affairs professionals and supply chain stakeholders should review the list to identify affected entities and verify that partners and suppliers hold valid authorisations.",
+        "zh": "英国MHRA更新了因违规被暂停或撤销药品及原料药生产、批发许可/注册的公司公开名单。此次更新涉及药品和原料药生产商及批发商的新执法决定。相关法规事务人员和供应链企业应查阅名单，确认合作方和供应商是否持有有效许可。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-14T22:23:02Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "medicines_manufacturing",
+        "licence_suspension",
+        "wholesale_distribution",
+        "regulatory_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260907_uk_mhra_field_safety_notices_24_to_28_august_2026",
       "framework": "uk_mhra",

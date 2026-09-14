@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Weekly Field Safety Notices: 7–11 September 2026
+
+**2026-09-14** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA publication lists Field Safety Notices (FSNs) issued between 7 and 11 September 2026, with two new entries. It is intended for healthcare providers, medical device suppliers, and users who may have affected devices in their facilities. Responsible persons should review the notices, identify any impacted devices, and implement the manufacturer’s recommended safety actions promptly. Additional reporting to MHRA may be required if safety issues are identified locally.
+
+**Tags**: `mhra`, `field_safety_notice`, `medical_device_safety`, `regulatory_alerts`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
+### MHRA Field Safety Notices: 7–11 September 2026
+
+**2026-09-14** | UK MHRA | Regulation Update | !!! HIGH
+
+The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 7 and 11 September 2026. This page compiles manufacturer-initiated safety communications for medical devices and in vitro diagnostics on the UK market. Healthcare providers, clinical engineering teams, and device suppliers should review the list and implement the recommended actions in the relevant FSNs.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026)
+
+---
+
+### MHRA Updates List of Medical Devices Granted Exceptional Use Authorisations
+
+**2026-09-11** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published its updated decision list of medical devices granted exceptional use authorisations (EUAs) in the UK. The list identifies manufacturers and devices with active exemptions, as well as those whose authorisations have expired or been cancelled. Regulatory affairs professionals and manufacturers should check the list to confirm the current status of their device and take any necessary compliance actions.
+
+**Tags**: `mhra`, `exceptional_use_authorisation`, `medical_devices`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Field Safety Notices: 31 August to 4 September 2026
+
+**2026-09-09** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA page lists Field Safety Notices (FSNs) published between 31 August and 4 September 2026, covering medical device safety issues identified by manufacturers. Healthcare providers, device suppliers, and users should review the notices to identify affected devices and implement recommended actions. It is part of routine post-market surveillance and vigilance reporting for medical devices in the UK.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026)
+
+---
+
+### MHRA Updated Suspended and Revoked Licences for UK Medicines Manufacturers and Wholesalers
+
+**2026-09-09** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has updated its public list of companies whose licences or registrations to manufacture or wholesale medicines and active ingredients have been suspended or revoked. This update covers new enforcement decisions affecting manufacturers and wholesalers of medicines and ingredients. Regulatory affairs professionals and supply chain stakeholders should review the list to identify affected entities and verify that partners and suppliers hold valid authorisations.
+
+**Tags**: `mhra`, `medicines_manufacturing`, `licence_suspension`, `wholesale_distribution`, `regulatory_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
 ### UK MHRA Field Safety Notices: 24 to 28 August 2026
 
 **2026-09-03** | UK MHRA | Safety Communication | !! MEDIUM

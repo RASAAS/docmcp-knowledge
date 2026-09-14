@@ -1,7 +1,135 @@
 {
   "framework": "canada",
-  "last_updated": "2026-09-07T22:02:12Z",
+  "last_updated": "2026-09-14T22:25:31Z",
   "items": [
+    {
+      "id": "canada_20260914_health_canada_alert_imn_screws_system_advanced_locking_screw",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: IMN Screws System Advanced Locking Screw Device Compatibility Issue",
+        "zh": "加拿大卫生部警示：IMN螺钉系统高级锁定螺钉兼容性问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the IMN Screws System Advanced Locking Screw due to a device compatibility concern. Healthcare facilities and users should check affected lots, quarantine incompatible units, and follow the manufacturer's field action or recall instructions. This issue may affect surgical procedures using the IMN system and requires inventory verification.",
+        "zh": "加拿大卫生部已针对IMN螺钉系统高级锁定螺钉发布医疗器械召回/警示，原因是器械兼容性问题。相关医疗机构和用户应核查受影响批次，隔离不兼容产品，并遵循制造商的现场行动或召回指示。该问题可能影响使用该IMN系统的手术操作，需进行库存核实。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-10",
+      "detected_date": "2026-09-14T22:23:13Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "device_compatibility",
+        "orthopedic_implants"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_alert_dxc_500i_and_dxc_500_au_clinical",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: DxC 500i and DxC 500 AU Clinical Chemistry Analyzers – Performance Issue",
+        "zh": "加拿大卫生部召回DxC 500i和DxC 500 AU临床化学分析仪—性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the DxC 500i Clinical Analyzer and DxC 500 AU Clinical Chemistry Analyzer due to a performance issue. Laboratories and healthcare facilities using these analyzers are affected. Users should review the recall notice, follow the manufacturer's corrective actions, and implement any recommended performance verification or mitigation measures to ensure accurate clinical chemistry results.",
+        "zh": "加拿大卫生部已针对DxC 500i临床分析仪和DxC 500 AU临床化学分析仪发布医疗器械召回/警报，原因是性能问题。使用这些分析仪的实验室和医疗机构受到影响。用户应查阅召回通知，遵循制造商的纠正措施，并实施建议的性能验证或缓解措施，以确保临床化学检测结果的准确性。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-10",
+      "detected_date": "2026-09-14T22:23:22Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "clinical_chemistry_analyzer",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_centricity_high_acuity_anesthesia_perfo",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Centricity High Acuity Anesthesia Performance Issue",
+        "zh": "加拿大卫生部召回Centricity High Acuity Anesthesia性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Centricity High Acuity Anesthesia due to a performance issue. Healthcare facilities using this anesthesia information system may be affected by unreliable device performance. Affected users should review the recall notice and contact the manufacturer or Health Canada for corrective actions.",
+        "zh": "加拿大卫生部已就Centricity High Acuity Anesthesia的性能问题发布医疗器械召回/警报。使用该麻醉信息系统的医疗机构可能受到设备性能不可靠的影响。受影响用户应查看召回通知，并联系制造商或加拿大卫生部采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-10",
+      "detected_date": "2026-09-14T22:23:29Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "anesthesia_software",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_alert_philips_ingenia_achieva_and_inter",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Philips Ingenia, Achieva and Intera MR Systems Performance Issue",
+        "zh": "加拿大卫生部安全警报：飞利浦Ingenia、Achieva和Intera MR系统性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for Philips Ingenia, Achieva and Intera MR systems due to a performance issue. Healthcare facilities using these MRI models are affected. Users should review the Health Canada notice and the manufacturer's field safety notice, follow recommended safety measures, and contact Philips Canada for corrective action or additional information.",
+        "zh": "加拿大卫生部发布了针对飞利浦Ingenia、Achieva和Intera MR系统的医疗器械召回/安全警报，原因是性能问题。使用这些MRI型号的医疗机构受到影响。相关用户应查看加拿大卫生部通知和制造商现场安全通告，遵循建议的安全措施，并联系飞利浦加拿大公司进行纠正措施或获取更多信息。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-14T22:23:50Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "mri_systems",
+        "medical_device_recall",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_veradius_unity_and_bv_pulsera_mobile_c",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Veradius Unity and BV Pulsera Mobile C-Arm Systems (9in. and 12in.)",
+        "zh": "加拿大卫生部召回Veradius Unity和BV Pulsera移动C型臂系统（9英寸和12英寸）"
+      },
+      "summary": {
+        "en": "This Health Canada safety alert/recall concerns a performance issue with the Veradius Unity and BV Pulsera Mobile C-Arm Systems, 9-inch and 12-inch versions. Healthcare facilities using these mobile C-arm imaging systems are affected. Users should review the recall notice and follow manufacturer-recommended corrective actions, including any inspection, testing, or use restrictions.",
+        "zh": "加拿大卫生部发布此安全警报/召回，涉及 Veradius Unity 和 BV Pulsera 移动C型臂系统的9英寸和12英寸版本，存在性能问题。受影响的是使用这些移动C型臂影像设备的医疗机构。用户应查阅召回通知，并遵循制造商建议的纠正措施，包括检查、测试或使用限制。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/veradius-unity-and-bv-pulsera-mobile-c-arm-system-9in-and-12in-versions",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-09",
+      "detected_date": "2026-09-14T22:24:04Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "mobile_c_arm"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260907_health_canada_updates_forms_for_exceptional_importation_and",
       "framework": "canada",
@@ -25,6 +153,187 @@
         "health_canada",
         "compliance_bulletin",
         "forms"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_imager_ii_angiographic_catheter_perform",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Imager™ II Angiographic Catheter – Performance Issue",
+        "zh": "加拿大召回 Imager™ II 血管造影导管（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert for the Imager™ II Angiographic Catheter due to a performance issue. The notice applies to Canadian healthcare facilities and staff using this angiographic catheter in interventional procedures. Affected users should identify and quarantine any impacted units, consult the recall notice for affected lot or serial information, and follow the manufacturer’s or Health Canada’s instructions for return or replacement.",
+        "zh": "加拿大卫生部已针对 Imager™ II 血管造影导管发布召回/警示，原因是存在性能问题。该警示适用于在介入手术中使用该导管的加拿大医疗机构和相关人员。相关用户应立即识别并隔离受影响产品，查阅召回通知中的批次或序列号信息，并按制造商或加拿大卫生部的指引进行退回或更换，以降低相关性能问题带来的手术风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-04",
+      "detected_date": "2026-09-14T22:24:16Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "angiographic_catheter",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_issues_recall_for_gore_viabahn_endoprosthesis",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall for GORE® VIABAHN® Endoprosthesis with PROPATEN Bioactive Due to Performance Issue",
+        "zh": "加拿大卫生部召回GORE® VIABAHN® PROPATEN生物活性血管内覆膜支架"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the GORE® VIABAHN® Endoprosthesis with PROPATEN Bioactive surface due to a performance issue. Healthcare providers using this vascular endoprosthesis should identify affected inventory and stop using recalled devices. Facilities should quarantine and return affected product according to the manufacturer's instructions and follow any recommended patient monitoring or follow-up actions.",
+        "zh": "加拿大卫生部针对带有PROPATEN生物活性涂层的GORE® VIABAHN®血管内覆膜支架发布医疗器械召回/警示，原因是性能问题。使用该血管内移植物的医疗机构应识别受影响库存，并停止使用被召回器械。相关机构应按照制造商指示隔离和退回受影响产品，并遵循建议的患者监测或随访措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-04",
+      "detected_date": "2026-09-14T22:24:30Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "vascular_endoprosthesis",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_alert_stryker_lifepak_35_monitor_defibrillator",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Stryker LIFEPAK 35 Monitor/Defibrillator Performance Issue",
+        "zh": "加拿大卫生部警示：Stryker LIFEPAK 35监护除颤器性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Stryker LIFEPAK 35 Monitor/Defibrillator due to a performance issue. This affects healthcare providers and emergency responders who use the device for monitoring and defibrillation. Affected facilities should identify and quarantine affected units, consult the recall notice, and follow Stryker’s recommended corrective actions immediately.",
+        "zh": "加拿大卫生部已就Stryker LIFEPAK 35监护除颤器的性能问题发布医疗器械召回/警示。使用该设备进行监护和除颤的医疗机构及急救人员受到影响。相关机构应立即识别并隔离受影响设备，查阅召回通知，并遵循Stryker建议的纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-04",
+      "detected_date": "2026-09-14T22:24:48Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "defibrillator",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_canada_recall_quantum_pureflow_standard_heat_exchanger_high",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canada Recall: Quantum PureFlow Standard Heat Exchanger High Flow – Sterility Issue",
+        "zh": "加拿大召回Quantum PureFlow标准热交换器高流量型：无菌问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the Quantum PureFlow Standard Heat Exchanger High Flow due to a sterility concern. The affected device may not meet sterility requirements, posing a potential infection risk to patients during clinical use. Healthcare facilities should identify and quarantine affected units, stop use, and follow the manufacturer's recall instructions and Health Canada guidance.",
+        "zh": "加拿大卫生部已针对Quantum PureFlow Standard Heat Exchanger High Flow发布召回/警示，原因是无菌性问题。受影响设备可能无法满足无菌要求，存在患者感染风险。医疗机构应识别并隔离受影响产品，停止使用，并遵循制造商召回说明及加拿大卫生部指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/quantum-pureflow-standard-heat-exchanger-high-flow",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-02",
+      "detected_date": "2026-09-14T22:25:00Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterility",
+        "heat_exchanger",
+        "health_canada",
+        "infection_risk"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_alert_bicoag_hemostasis_probe_performan",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: BiCOAG Hemostasis Probe – Performance Issue",
+        "zh": "加拿大卫生部召回警示：BiCOAG止血探头性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the BiCOAG Hemostasis Probe due to a performance issue that may affect its hemostasis function. Healthcare facilities and users should identify affected units, quarantine or discontinue use as directed, and follow the manufacturer’s recall instructions. This is part of recent Canadian medical device safety actions.",
+        "zh": "加拿大卫生部因BiCOAG止血探头存在可能影响止血功能的性能问题发布医疗器械召回/警示。相关医疗机构和使用者应识别受影响产品，按照制造商召回通知停用或隔离，并关注后续安全通报。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/bicoag-hemostasis-probe",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-02",
+      "detected_date": "2026-09-14T22:25:09Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "hemostasis_probe"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_leo_intracranial_self_expandable_stent",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: LEO+ Intracranial Self-Expandable Stent and Delivery System – Performance Issue",
+        "zh": "加拿大卫生部召回LEO+颅内自膨式支架及输送系统：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the LEO+ Intracranial Self-Expandable Stent and Delivery System due to a performance issue. The device is used in neurovascular procedures, and the alert is directed at healthcare facilities and professionals that use or stock this system. Regulatory affairs teams should review inventory, quarantine affected units, and follow Health Canada’s recall notice for return or correction actions.",
+        "zh": "加拿大卫生部因性能问题对LEO+颅内自膨式支架及输送系统发布召回/警示。该产品用于神经血管介入手术，相关医疗机构和专业人员需立即核对库存并隔离受影响批次。监管事务人员应依据加拿大卫生部召回通知执行退货或纠正措施，并关注具体批次信息。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/leo-intracranial-self-expandable-stent-and-delivery-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-02",
+      "detected_date": "2026-09-14T22:25:17Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "intracranial_stent",
+        "performance_issue",
+        "health_canada",
+        "neurovascular"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260914_health_canada_recall_alert_lifepak_35_monitor_defibrillator",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: LIFEPAK 35 Monitor/Defibrillator Performance Issue",
+        "zh": "加拿大卫生部召回 LIFEPAK 35 监护/除颤仪：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for the LIFEPAK 35 Monitor/Defibrillator due to a performance issue. This alert affects Canadian healthcare facilities and emergency medical services that use the device for patient monitoring and defibrillation. Users should immediately review the recall notice and follow the manufacturer's recommended actions, including inspection, mitigation, or discontinuation as advised.",
+        "zh": "加拿大卫生部针对 LIFEPAK 35 监护/除颤仪发布召回警报，原因是存在性能问题。该警报影响使用该设备进行患者监护和除颤的加拿大医疗机构及急救服务。相关用户应立即查看召回通知，并遵循制造商建议的措施，包括检查、缓解或按建议停用。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-02",
+      "detected_date": "2026-09-14T22:25:31Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "defibrillator",
+        "performance_issue",
+        "health_canada"
       ],
       "related_docs": [],
       "status": "published"

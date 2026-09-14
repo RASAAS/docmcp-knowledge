@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部警示：IMN螺钉系统高级锁定螺钉兼容性问题
+
+**2026-09-10** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对IMN螺钉系统高级锁定螺钉发布医疗器械召回/警示，原因是器械兼容性问题。相关医疗机构和用户应核查受影响批次，隔离不兼容产品，并遵循制造商的现场行动或召回指示。该问题可能影响使用该IMN系统的手术操作，需进行库存核实。
+
+**标签**: `health_canada`, `medical_device_recall`, `device_compatibility`, `orthopedic_implants`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw)
+
+---
+
+### 加拿大卫生部召回DxC 500i和DxC 500 AU临床化学分析仪—性能问题
+
+**2026-09-10** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对DxC 500i临床分析仪和DxC 500 AU临床化学分析仪发布医疗器械召回/警报，原因是性能问题。使用这些分析仪的实验室和医疗机构受到影响。用户应查阅召回通知，遵循制造商的纠正措施，并实施建议的性能验证或缓解措施，以确保临床化学检测结果的准确性。
+
+**标签**: `medical_device_recall`, `clinical_chemistry_analyzer`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer)
+
+---
+
+### 加拿大卫生部召回Centricity High Acuity Anesthesia性能问题
+
+**2026-09-10** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Centricity High Acuity Anesthesia的性能问题发布医疗器械召回/警报。使用该麻醉信息系统的医疗机构可能受到设备性能不可靠的影响。受影响用户应查看召回通知，并联系制造商或加拿大卫生部采取纠正措施。
+
+**标签**: `health_canada`, `medical_device_recall`, `anesthesia_software`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1)
+
+---
+
+### 加拿大卫生部安全警报：飞利浦Ingenia、Achieva和Intera MR系统性能问题
+
+**2026-09-09** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了针对飞利浦Ingenia、Achieva和Intera MR系统的医疗器械召回/安全警报，原因是性能问题。使用这些MRI型号的医疗机构受到影响。相关用户应查看加拿大卫生部通知和制造商现场安全通告，遵循建议的安全措施，并联系飞利浦加拿大公司进行纠正措施或获取更多信息。
+
+**标签**: `health_canada`, `mri_systems`, `medical_device_recall`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems)
+
+---
+
+### 加拿大卫生部召回Veradius Unity和BV Pulsera移动C型臂系统（9英寸和12英寸）
+
+**2026-09-09** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布此安全警报/召回，涉及 Veradius Unity 和 BV Pulsera 移动C型臂系统的9英寸和12英寸版本，存在性能问题。受影响的是使用这些移动C型臂影像设备的医疗机构。用户应查阅召回通知，并遵循制造商建议的纠正措施，包括检查、测试或使用限制。
+
+**标签**: `health_canada`, `medical_device_recall`, `mobile_c_arm`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/veradius-unity-and-bv-pulsera-mobile-c-arm-system-9in-and-12in-versions)
+
+---
+
 ### 加拿大卫生部更新医疗器械特殊进口和销售表格
 
 **2026-09-07** | Health Canada | 法规更新 | !! MEDIUM
@@ -15,6 +75,90 @@ title: 法规速递
 **标签**: `medical_devices`, `exceptional_importation`, `health_canada`, `compliance_bulletin`, `forms`
 
 [查看来源 (Health Canada)](https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin/updates-forms-exceptional-importation-sale.html)
+
+---
+
+### 加拿大召回 Imager™ II 血管造影导管（性能问题）
+
+**2026-09-04** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Imager™ II 血管造影导管发布召回/警示，原因是存在性能问题。该警示适用于在介入手术中使用该导管的加拿大医疗机构和相关人员。相关用户应立即识别并隔离受影响产品，查阅召回通知中的批次或序列号信息，并按制造商或加拿大卫生部的指引进行退回或更换，以降低相关性能问题带来的手术风险。
+
+**标签**: `medical_device_recall`, `angiographic_catheter`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter)
+
+---
+
+### 加拿大卫生部召回GORE® VIABAHN® PROPATEN生物活性血管内覆膜支架
+
+**2026-09-04** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对带有PROPATEN生物活性涂层的GORE® VIABAHN®血管内覆膜支架发布医疗器械召回/警示，原因是性能问题。使用该血管内移植物的医疗机构应识别受影响库存，并停止使用被召回器械。相关机构应按照制造商指示隔离和退回受影响产品，并遵循建议的患者监测或随访措施。
+
+**标签**: `medical_device_recall`, `vascular_endoprosthesis`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive)
+
+---
+
+### 加拿大卫生部警示：Stryker LIFEPAK 35监护除颤器性能问题
+
+**2026-09-04** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Stryker LIFEPAK 35监护除颤器的性能问题发布医疗器械召回/警示。使用该设备进行监护和除颤的医疗机构及急救人员受到影响。相关机构应立即识别并隔离受影响设备，查阅召回通知，并遵循Stryker建议的纠正措施。
+
+**标签**: `medical_device_recall`, `defibrillator`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0)
+
+---
+
+### 加拿大召回Quantum PureFlow标准热交换器高流量型：无菌问题
+
+**2026-09-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Quantum PureFlow Standard Heat Exchanger High Flow发布召回/警示，原因是无菌性问题。受影响设备可能无法满足无菌要求，存在患者感染风险。医疗机构应识别并隔离受影响产品，停止使用，并遵循制造商召回说明及加拿大卫生部指导。
+
+**标签**: `medical_device_recall`, `sterility`, `heat_exchanger`, `health_canada`, `infection_risk`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/quantum-pureflow-standard-heat-exchanger-high-flow)
+
+---
+
+### 加拿大卫生部召回警示：BiCOAG止血探头性能问题
+
+**2026-09-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因BiCOAG止血探头存在可能影响止血功能的性能问题发布医疗器械召回/警示。相关医疗机构和使用者应识别受影响产品，按照制造商召回通知停用或隔离，并关注后续安全通报。
+
+**标签**: `medical_device_recall`, `health_canada`, `hemostasis_probe`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bicoag-hemostasis-probe)
+
+---
+
+### 加拿大卫生部召回LEO+颅内自膨式支架及输送系统：性能问题
+
+**2026-09-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对LEO+颅内自膨式支架及输送系统发布召回/警示。该产品用于神经血管介入手术，相关医疗机构和专业人员需立即核对库存并隔离受影响批次。监管事务人员应依据加拿大卫生部召回通知执行退货或纠正措施，并关注具体批次信息。
+
+**标签**: `medical_device_recall`, `intracranial_stent`, `performance_issue`, `health_canada`, `neurovascular`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/leo-intracranial-self-expandable-stent-and-delivery-system)
+
+---
+
+### 加拿大卫生部召回 LIFEPAK 35 监护/除颤仪：性能问题
+
+**2026-09-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对 LIFEPAK 35 监护/除颤仪发布召回警报，原因是存在性能问题。该警报影响使用该设备进行患者监护和除颤的加拿大医疗机构及急救服务。相关用户应立即查看召回通知，并遵循制造商建议的措施，包括检查、缓解或按建议停用。
+
+**标签**: `medical_device_recall`, `defibrillator`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator)
 
 ---
 
