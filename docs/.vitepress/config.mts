@@ -358,7 +358,7 @@ const zhSidebar = Object.assign(
 )
 
 export default defineConfig({
-  title: 'DocMCP Knowledge Base',
+  title: 'Reguverse Knowledge Base',
   description: 'Open regulatory knowledge base for medical device compliance',
   srcDir: '.',
   ignoreDeadLinks: true,

@@ -1,4 +1,4 @@
-# DocMCP Knowledge Base
+# Reguverse Knowledge Base
 
 > Open regulatory knowledge base for medical device compliance — EU MDR, FDA, NMPA regulations, standards, and guidance documents.
 

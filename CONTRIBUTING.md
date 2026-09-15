@@ -1,4 +1,4 @@
-# Contributing to DocMCP Knowledge Base
+# Contributing to Reguverse Knowledge Base
 
 感谢您对医疗器械合规知识库的贡献！/ Thank you for contributing to the medical device regulatory knowledge base!
 

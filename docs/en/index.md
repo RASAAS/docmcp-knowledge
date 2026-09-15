@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: DocMCP Knowledge Base
+  name: Reguverse Knowledge Base
   text: Open Medical Device Regulatory Knowledge
   tagline: EU MDR | FDA | NMPA | International Standards
   actions:

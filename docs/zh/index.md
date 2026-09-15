@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: DocMCP 知识库
+  name: Reguverse 知识库
   text: 开放的医疗器械合规知识库
   tagline: EU MDR | FDA | NMPA | 国际标准
   actions:

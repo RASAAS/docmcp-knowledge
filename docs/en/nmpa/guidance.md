@@ -4,7 +4,7 @@ title: NMPA Guidance Documents
 
 # NMPA Guidance Documents
 
-Total 770 guidance documents, 498 with full text available.
+Total 771 guidance documents, 499 with full text available.
 
 ## General Guidance (72)
 
@@ -781,6 +781,10 @@ Total 770 guidance documents, 498 with full text available.
 - 新型冠状病毒（2019-nCoV）抗原检测试剂注册技术审评要点（试行）
 - 体外膜氧合（ECMO）耗材产品动物试验审评要点
 - [基孔肯雅病毒核酸检测试剂技术审评要点（试行）](./guidance/nmpa-guidance-bf095b5feb1e)
+
+## Quality Management (1)
+
+- [医疗器械生产质量管理规范检查指导原则 (Guidelines for Inspection of GMP for Medical Devices)](./guidance/gmp-inspection-2026)
 
 ## Other Guidance Documents (60)
 
