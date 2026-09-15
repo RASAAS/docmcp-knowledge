@@ -3560,7 +3560,7 @@ export default {
       ]
     },
     {
-      "text": "EU MDR 合规动态 (15)",
+      "text": "EU MDR 合规动态 (16)",
       "collapsed": true,
       "items": [
         {
@@ -3574,6 +3574,10 @@ export default {
         {
           "text": "EU MDR 分类",
           "link": "/zh/insights/eu-mdr-updates/classification"
+        },
+        {
+          "text": "COMBINE计划：联合研究安全报告赞助商指南",
+          "link": "/zh/insights/eu-mdr-updates/combine-safety-reporting"
         },
         {
           "text": "EU IVDR 分类",
@@ -3596,7 +3600,7 @@ export default {
           "link": "/zh/insights/eu-mdr-updates/eudamed-udi-user-guide-v3110"
         },
         {
-          "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)",
+          "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)",
           "link": "/zh/insights/eu-mdr-updates/ivdr-rules-examples"
         },
         {

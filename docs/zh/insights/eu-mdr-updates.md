@@ -1,6 +1,6 @@
 ---
 title: EU MDR 合规动态
-generated: '2026-02-23'
+generated: '2026-09-15'
 doc_count: 9
 ---
 
@@ -8,12 +8,13 @@ doc_count: 9
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **15** 篇文档，最后更新：2026-07-20
+> 共 **16** 篇文档，最后更新：2026-09-15
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
+| [COMBINE计划：联合研究安全报告赞助商指南深度解读](/zh/insights/eu-mdr-updates/combine-safety-reporting) | `COMBINE Project 2` | 2026 |
 | [EU IVDR 分类](/zh/insights/eu-mdr-updates/eu-ivdr-classification) |  | 2025 |
-| [IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)](/zh/insights/eu-mdr-updates/ivdr-rules-examples) | `MDCG 2020-16` | 2025 |
+| [IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)](/zh/insights/eu-mdr-updates/ivdr-rules-examples) | `MDCG 2020-16` | 2026 |
 | [Practical issues and examples](/zh/insights/eu-mdr-updates/practical-issues-and-examples) |  | 2025 |
 | [医疗器械法规 (MDR) 技术文档编写说明](/zh/insights/eu-mdr-updates/mdr-td-bpg) |  | 2025 |
 | [EU MDR 分类](/zh/insights/eu-mdr-updates/classification) |  | 2024 |

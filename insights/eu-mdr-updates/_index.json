@@ -1,8 +1,23 @@
 {
   "category": "insights/eu-mdr-updates",
-  "last_updated": "2026-02-23",
-  "count": 15,
+  "last_updated": "2026-09-15",
+  "count": 16,
   "entries": [
+    {
+      "id": "insights-combine-safety-reporting",
+      "title": {
+        "zh": "COMBINE计划：联合研究安全报告赞助商指南深度解读",
+        "en": "COMBINE Programme: Sponsors Guide for Safety Reporting in Combined Studies"
+      },
+      "published_date": "2026-09-15",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/combine-programme-project-2-safety-reporting-combined-studies-sponsors-guide",
+      "excerpt": {
+        "zh": "COMBINE计划第2期项目赞助商指南深度解读。该指南由CTAG和MDCG联合背书，首次在官方层面提供了跨CTR/MDR/IVDR三大法规的安全报告协调方案，涵盖联合研究中安全事件的定义统一、严重性判定、因果关系评估、报告时限协调、紧急安全措施以及特殊场景（如CDx仅使用剩余样本的性能研究）的处理指南。",
+        "en": ""
+      },
+      "status": "active"
+    },
     {
       "id": "insights-pmcf-survey-ec-ic",
       "title": {
@@ -226,10 +241,10 @@
     {
       "id": "insights-ivdr-rules-examples",
       "title": {
-        "zh": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)",
+        "zh": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)",
         "en": ""
       },
-      "published_date": "2025-01-01",
+      "published_date": "2026-09-15",
       "subcategory": "eu-mdr-updates",
       "source_url": "https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/ivdr-rules-examples/",
       "excerpt": {

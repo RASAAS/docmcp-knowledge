@@ -24,9 +24,11 @@ effective_date: '2025-11-24'
 
 # IVDR 附录 VIII 分类规则 (中英对照)
 
-This document correlates the official legal text from **Regulation (EU) 2017/746 Annex VIII** with the practical guidance and examples provided in **MDCG 2020-16 Rev.4**. 
+This document correlates the official legal text from **Regulation (EU) 2017/746 Annex VIII** with the practical guidance and examples provided in **MDCG 2020-16 Rev.5** (September 2026). 
 
-本文档将 **(EU) 2017/746 法规附录 VIII** 的官方法律文本与 **MDCG 2020-16 Rev.4** 中提供的实践指南和示例相互关联。
+本文档将 **(EU) 2017/746 法规附录 VIII** 的官方法律文本与 **MDCG 2020-16 Rev.5** (2026年9月) 中提供的实践指南和示例相互关联。
+
+> **Rev.5 更新说明 (2026-09)：** 本次修订仅涉及 **Rule 7** -- 澄清了无赋值质控品的基本原理，扩充并修订了相关示例。详细变更分析请参见 [IVDR 分类规则与实例汇总](/zh/insights/eu-mdr-updates/ivdr-rules-examples) 中的 Rule 7 章节。
 
 ## 1\. IMPLEMENTING RULES
 
@@ -202,6 +204,10 @@ _实例：甲状腺激素、一般代谢标志物、季节性流感。_
 
 Devices which are controls without a quantitative or qualitative assigned value are classified as **class B**.
 
+> **Rev.5 更新 (2026-09)：** Rule 7 是本次修订的重点。MDCG 对 Rule 7 的基本原理 (Rationale) 进行了全面澄清，明确了独立质控品 (standalone QC materials) 制造商提供的分析物存在或浓度范围指示不构成"赋值 (assigned values)"，并扩充了示例。详细分析请参见 [IVDR 分类规则与实例汇总](/zh/insights/eu-mdr-updates/ivdr-rules-examples) 中的 Rule 7 章节。
+
 ### 2.7. 规则 7 (B 类)
 
 无定量或定性赋值的质控品归类为 **B 类** 。
+
+> **Rev.5 更新 (2026-09)：** Rule 7 是本次修订的唯一实质变更。澄清了独立质控品中由制造商提供的分析物指示信息不属于"赋值"，以及独立 QC 材料不能替代 IVD 本身要求的强制性 QC 材料。
