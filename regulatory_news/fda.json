@@ -1,7 +1,60 @@
 {
   "framework": "fda",
-  "last_updated": "2026-09-08T21:49:59Z",
+  "last_updated": "2026-09-15T22:01:56Z",
   "items": [
+    {
+      "id": "fda_20260915_fda_announces_medtronic_and_given_imaging_recall_of_esophage",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device",
+        "zh": "FDA通报Medtronic及Given Imaging召回食管pH监测胶囊输送装置"
+      },
+      "summary": {
+        "en": "The FDA posted a recall notice for the esophageal pH monitoring capsule delivery device manufactured by Medtronic and Given Imaging. This device is used to deliver a pH capsule for gastroesophageal reflux monitoring, and the recall addresses delivery system safety concerns. Healthcare providers should identify and quarantine affected devices, stop use, and follow the manufacturers' instructions for return, replacement, or correction. Regulatory affairs professionals should verify impacted lot numbers and report adverse events to the FDA.",
+        "zh": "FDA发布美敦力与Given Imaging食管pH监测胶囊输送装置的召回通知。该装置用于放置监测胃食管反流的pH胶囊，召回针对输送系统相关安全隐患。医疗机构应识别并隔离受影响产品，停止使用，并按制造商的指示进行退回、更换或纠正；法规事务人员应核对受影响批次并向FDA报告不良事件。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "source_name": "FDA",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-15T22:01:33Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "esophageal_ph_monitoring",
+        "medtronic",
+        "given_imaging",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260915_medical_action_industries_issues_correction_for_epidural_kit",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
+        "zh": "Medical Action Industries纠正含Spectra利多卡因安瓿的硬膜外套件"
+      },
+      "summary": {
+        "en": "FDA CDRH posted a notice that Medical Action Industries issued a correction for epidural kits containing lidocaine ampules manufactured by Spectra Medical Devices. Healthcare facilities, distributors, and providers with affected kits should immediately identify and quarantine the products and follow the manufacturer's recall/correction instructions. The notice appears under FDA medical device recalls and early alerts; affected parties should monitor the FDA listing for lot-specific details and report any adverse events.",
+        "zh": "FDA CDRH发布通知，Medical Action Industries对含有Spectra Medical Devices利多卡因安瓿的硬膜外套件发布纠正措施。相关医疗机构、分销商和供应商应立即识别并隔离受影响套件，按照制造商的召回/纠正通知处理，并报告不良事件。请关注FDA公告中的具体批次信息和截止日期。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "source_name": "FDA",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-15T22:01:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "epidural_kits",
+        "lidocaine_ampules",
+        "cdrh_news"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260908_spinal_cord_stimulator_recall_boston_scientific_removes_infi",
       "framework": "fda",

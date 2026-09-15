@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device
+
+**2026-09-15** | FDA | cdrh_news | !!! HIGH
+
+The FDA posted a recall notice for the esophageal pH monitoring capsule delivery device manufactured by Medtronic and Given Imaging. This device is used to deliver a pH capsule for gastroesophageal reflux monitoring, and the recall addresses delivery system safety concerns. Healthcare providers should identify and quarantine affected devices, stop use, and follow the manufacturers' instructions for return, replacement, or correction. Regulatory affairs professionals should verify impacted lot numbers and report adverse events to the FDA.
+
+**Tags**: `medical_device_recall`, `esophageal_ph_monitoring`, `medtronic`, `given_imaging`, `cdrh_news`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring)
+
+---
+
+### Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules
+
+**2026-09-15** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH posted a notice that Medical Action Industries issued a correction for epidural kits containing lidocaine ampules manufactured by Spectra Medical Devices. Healthcare facilities, distributors, and providers with affected kits should immediately identify and quarantine the products and follow the manufacturer's recall/correction instructions. The notice appears under FDA medical device recalls and early alerts; affected parties should monitor the FDA listing for lot-specific details and report any adverse events.
+
+**Tags**: `medical_device_recall`, `epidural_kits`, `lidocaine_ampules`, `cdrh_news`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra)
+
+---
+
 ### Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Leads
 
 **2026-09-08** | FDA | cdrh_news | !! MEDIUM

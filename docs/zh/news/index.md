@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### FDA通报Medtronic及Given Imaging召回食管pH监测胶囊输送装置
+
+**2026-09-15** | FDA | cdrh_news | !!! HIGH
+
+FDA发布美敦力与Given Imaging食管pH监测胶囊输送装置的召回通知。该装置用于放置监测胃食管反流的pH胶囊，召回针对输送系统相关安全隐患。医疗机构应识别并隔离受影响产品，停止使用，并按制造商的指示进行退回、更换或纠正；法规事务人员应核对受影响批次并向FDA报告不良事件。
+
+**标签**: `medical_device_recall`, `esophageal_ph_monitoring`, `medtronic`, `given_imaging`, `cdrh_news`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring)
+
+---
+
+### Medical Action Industries纠正含Spectra利多卡因安瓿的硬膜外套件
+
+**2026-09-15** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH发布通知，Medical Action Industries对含有Spectra Medical Devices利多卡因安瓿的硬膜外套件发布纠正措施。相关医疗机构、分销商和供应商应立即识别并隔离受影响套件，按照制造商的召回/纠正通知处理，并报告不良事件。请关注FDA公告中的具体批次信息和截止日期。
+
+**标签**: `medical_device_recall`, `epidural_kits`, `lidocaine_ampules`, `cdrh_news`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra)
+
+---
+
 ### MHRA发布2026年9月7日至11日现场安全通告
 
 **2026-09-14** | UK MHRA | 安全通报 | !!! HIGH
