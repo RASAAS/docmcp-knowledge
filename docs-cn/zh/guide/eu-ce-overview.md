@@ -23,7 +23,7 @@
 | **PMCF** | Post-Market Clinical Follow-up，上市后临床跟踪，附件 XIV B 部分。 |
 | **PMS** | Post-Market Surveillance，上市后监督，第 83–86 条及附件 III。 |
 | **SSCP** | Summary of Safety and Clinical Performance，安全与临床性能摘要，第 32 条。植入物和 III 类器械需要。 |
-| **CS** | Common Specifications，共同规范。若某类器械存在产品特定 CS，临床评价须符合该 CS。 |
+| **CS** | Common Specifications，共同规范。若某类器械存在产品特定 CS，临床评价须符合该 CS。截至 2026-09 已采纳的 MDR CS 仅有 (EU) 2022/2346（Annex XVI 无预期医疗目的产品）和配套的 (EU) 2022/2347（主动类 Annex XVI 产品重新分类）。**尚未采纳任何针对传统医疗器械（含 WET 类型）的产品专用 CS**；第 61 条第 6 款 (b) 项中 "where such a CS is available" 的限定条件意味着：有 CS 时须遵守，无 CS 时仍可享受豁免但须基于充分临床数据。IVDR 下另有 (EU) 2022/1107（Class D IVD 器械）。 |
 | **NB** | Notified Body，公告机构。 |
 | **MEDDEV 2.7/1 Rev.4** | 指令时代的临床评价方法指南，MDR 下仍被广泛用于检索—评价—分析的方法学骨架，但不能替代 MDR 新增的等同定义、证据水平和 PMS/PMCF 义务。 |
 | **MDCG 2020-5** | 等同性。 |
@@ -279,9 +279,15 @@ WET 回答的问题，首先是针对 **植入物或 III 类器械**：在临床
 
 关联条款是：
 
-- **第 61 条第 6 款 (b) 项（2026-07-19 起适用修订后条文）**：DUE 属于第 6 款 (b) 项名单上明文列举的类型。**原名单**（现为 (b) 项 (a) 小项）包含 12 类：缝合线、吻合钉、牙科填充、牙套、牙冠、螺钉、楔形物、接骨板、钢丝、销钉、夹子或连接件。**扩展名单**（(b) 项 (b) 小项，由 Commission Delegated Regulation (EU) 2026/1451 增列）新增了髓内钉、外固定架、人工椎间盘、椎体间融合器、脊柱棒/连接板等骨科与脊柱类型，以及牙科植体体部、基台、愈合帽，口腔正畸锚定钉、弓丝、托槽、带环，部分血管内弹簧圈/栓塞微球，手术缝合锚/干涉螺钉等运动医学固定件，以及特定被动植入式缝合器械等。临床评价须基于充分临床数据，且符合适用 CS。完整清单以 OJEU L 2026/1451 附件原文为准。
+- **第 61 条第 6 款 (b) 项（2026-07-19 起适用修订后条文）**：DUE 属于第 6 款 (b) 项名单上明文列举的类型。临床评价须基于充分临床数据，且符合适用的产品专用 CS（where such a CS is available）。修订后的完整清单如下（来源：OJEU L 2026/1451 原文）：
+
+  **(a) 小项（原 12 类，保留不变）：** sutures（缝线）, staples（缝合钉）, dental fillings（牙科充填材料）, dental braces（牙套/正畸托槽）, tooth crowns（牙冠）, screws（螺钉）, wedges（楔块）, plates（接骨板）, wires（丝/线材）, pins（钉/针）, clips（夹子）, connectors（连接器）。
+
+  **(b) 小项（(EU) 2026/1451 新增，共 55 类）：** cranial perforators（颅骨钻）, cranio-blades（颅骨刀片）, catheter passers（导管通过器）, patties and strips（脑棉片与条带）, magnets for implantable pulse generators（植入式脉冲发生器磁铁）, port plugs（输液港塞）, stylets and stylet guides（管芯与管芯导引）, needles（针）, needle holders（持针器）, forceps（镊子/钳）, cannulas（套管针）, atrioseptostomy balloon catheters（房间隔造口球囊导管）, catheters coated with anticoagulants（抗凝涂层导管）, blood bags incorporating anticoagulants（含抗凝剂的血袋）, port catheters（输液港导管）, introducers（引导器/鞘管）, dilators（扩张器）, ventricular drains（脑室引流管）, feeding tubes（喂食管/营养管）, suture pledgets（缝合垫片）, suture sleeves（缝合套管）, suture buttons（缝合纽扣）, gastrostomy buttons（胃造口纽扣）, bone tacks（骨钉）, bone wax（骨蜡）, bone fillers（骨填充物）, bone substitutes（骨替代材料）, stem centralisers（柄定中器）, diaphyseal obturators（骨干封堵器）, radiography markers（放射标记物）, fiber ligatures（纤维结扎线）, tubal extraluminal ligation devices（输卵管腔外结扎器）, transpalatal distractors（经腭牵张器）, nails（髓内钉）, anchors（锚钉）, spinal posterior fixations（脊柱后路固定系统）, textile braids（织物编织带）, dental implants（牙种植体）, orthodontic devices（正畸器械）, dental barriers（牙科屏障膜）, dental veneers（牙贴面）, suspensory fixations and cinches（悬吊固定与扎紧装置）, reusable surgical instruments（可复用手术器械）, springs for skull enlargement（颅骨扩张弹簧）, guidewires（导丝）, pressure wires（压力导丝）, pacing wires and leads（起搏导线）, snares（圈套器）, lead caps（导线帽）, fixation and connector tools（固定与连接工具）, endovascular embolisation coils（血管内栓塞弹簧圈）, embolisation particles（栓塞颗粒）, cables（缆线）, shunts（分流管）, internal defibrillation paddles（体内除颤电极板）。
+
+  **合计：Art. 61(6)(b) 现含 67 类 WET 器械。**
 - **第 61 条第 8 款**：委员会可将类似的成熟技术增列入该名单（及第 52 条第 4 款第二段的名单）。该授权已由 (EU) 2026/1451 和 (EU) 2026/1359 行使。
-- **第 52 条第 4 款和第 5 款**：部分 IIb 植入 WET / III 类 WET 在符合性评估程序上的规定。(EU) 2026/1359 同步扩容了第 52 条第 4 款第二段名单。Team-NB BPG Rev.4 要求在器械描述中单独论证为何属于 WET，并对照 MDCG 2020-6 的定义。
+- **第 52 条第 4 款和第 5 款**：IIb 类植入器械合格评定中，公告机构通常须对每一台器械评审技术文档（Annex IX Section 4）。第 52 条第 4 款第二段列出豁免该逐一评审的类型。(EU) 2026/1359 同步扩容了该名单，修订后共含 36 类（原 12 类 + 新增 24 类：cannulas, catheters, feeding tubes, suture pledgets, suture sleeves, suture buttons, gastrostomy buttons, bone wax, bone fillers, bone substitutes, stem centralisers, diaphyseal obturators, radiography markers, fiber ligatures, transpalatal distractors, nails, anchors, spinal posterior fixations, textile braids, dental implants, orthodontic devices, dental barriers, suspensory fixations and cinches）。注意：Art. 52(4) 清单比 Art. 61(6)(b) 略短，因为它仅适用于 IIb 类植入器械。Team-NB BPG Rev.4 要求在器械描述中单独论证为何属于 WET，并对照 MDCG 2020-6 的定义。
 
 MDCG 2020-6 指出，「well-established technology」一词出现在第 52 条第 5 款和第 61 条第 8 款， **并不限于** 第 6 款 (b) 项名单；但若要享受第 6 款 (b) 项的免试验，必须落在该名单（含 2026-07-19 后的扩展名单）上。操作上，被认定为 WET 的器械通常同时具备：设计相对简单、常见、稳定且演进很少；其通用器械组安全已知、历史上未与系统性安全问题挂钩；临床性能特征已知，该通用器械组属于标准治疗，适应症和 SOTA 变化很小；有长期上市历史。
 
@@ -302,6 +308,19 @@ WET **不** 意味着可以不做临床评价，也 **不** 意味着可以没�
 7. **PMCF**：对新品尤其必要，因为获证时没有本器械上市后数据。PMCF 在 WET 上的典型目的是确认没有出现新风险、SOTA 未发生使接受标准失效的变化，而不是去「第一次证明该技术能否工作」。
 
 **在本系统中。** 创建时选择「WET」。Step 8 选择 WET 场景。文献执行默认全部一次。若同时完成等同性论证（把可比已上市产品升格为 D2(a)），则 Step 10 应当出现，并可以选用等同优先分叉；仅主张 WET、不主张等同时，Step 10 跳过。不要把 WET 选成「第 61 条第 10 款」。
+
+::: info 产品专用 CS 现状（截至 2026-09）
+第 61 条第 6 款 (b) 项的免试验条件之一是 "in compliance with the relevant product-specific CS, **where such a CS is available**"。截至 2026 年 9 月，MDR 下已采纳的 Common Specifications 仅有：
+
+| 法规 | 适用范围 | 适用日期 |
+|---|---|---|
+| **(EU) 2022/2346** | Annex XVI 无预期医疗目的产品（6 大类：隐形眼镜、注射填充物、手术侵入改变解剖结构的产品、脂肪处理设备、激光/IPL 等皮肤治疗设备、脑刺激设备） | 2024-06-22 起分阶段 |
+| **(EU) 2022/2347** | Annex XVI 某些主动产品的重新分类（与 2022/2346 配套） | 同上 |
+
+**尚无任何针对传统医疗器械（含上述 67 类 WET 器械）的产品专用 CS。** 这意味着目前 "where such a CS is available" 这一限定对 WET 器械不构成实际约束；但若未来委员会采纳了针对特定 WET 类型（如缝合线、牙科植体、骨螺钉等）的 CS，则享受第 6 款 (b) 项豁免的前提将增加一条：临床评价须额外符合该 CS。
+
+此外，IVDR (2017/746) 下已采纳 **(EU) 2022/1107**（Class D IVD 器械，13 个附件覆盖 HIV、HBV、HCV、HDV、HTLV、vCJD、CMV、EBV、梅毒、恰加斯病、SARS-CoV-2 及血型抗原），与 MDR 临床评价无关，此处仅供参考。
+:::
 
 #### 6.5.3 新品申请、符合 WET、但除 D2(b) 相似器械文献外没有其他临床数据——是否可行？
 
@@ -387,7 +406,7 @@ Team-NB BPG Rev.4 进一步收紧实践标准：若提出任何临床宣称，�
 1. **是否 III 类或植入物？** 若是，默认需要本器械临床试验，除非能准确落入第 61 条第 4 款其余项、第 5 款、第 6 款 (a) 或 (b) 之一。若否，第 4 款并不自动要求试验，但仍须按第 61 条第 1 款完成临床评价，并在六条路径中选出证据策略。
 2. **是否主张把另一台已上市器械的临床数据当作本器械临床数据使用？** 若是，必须走等同或混合，完成附件 XIV A(3) 的三特性比较，使该文献成为 D2(a)。III 类/植入物若同时要用第 4 款免除强制试验，还要准备第 5 款的技术文档访问。相似器械文献在未完成等同性之前停留在 D2(b)，只用于制定接受标准。
 3. **是否为指令遗留器械且不主张等同？** 走第 61 条第 6 款 (a) 项。准备 D1（指令时期临床数据 + MDR 下 PMS/PMCF）的充分性论证；D2(b) 仍用于制定接受标准。曾按指令获证 **不等于** 自动满足 MDR 证据水平。遗留器械也可以同时是 WET，但必须写明同时满足哪几款，而不是互相替代。
-4. **是否属于第 61 条第 6 款 (b) 项列名类型（含 2026-07-19 生效的扩展名单），且无新颖特征？** 可评估 WET。(EU) 2026/1451 已大幅扩容该名单，新增髓内钉、外固定架、椎间融合器、牙科植体、正畸锚定钉、部分栓塞材料、运动医学固定件等类型。WET 免除的是 III 类/植入物的强制临床试验，不是临床评价，也不是第 2 条第 48 款。新品仍须解决临床数据来源：不能只交 D2(b)；更稳妥的是 WET + 等同，把可比已上市产品升格为 D2(a)。
+4. **是否属于第 61 条第 6 款 (b) 项列名类型（含 2026-07-19 生效的扩展名单），且无新颖特征？** 可评估 WET。(EU) 2026/1451 已将该名单从原来的 12 类大幅扩容至 **67 类**，新增包括但不限于：cranial perforators, nails, anchors, spinal posterior fixations, dental implants, orthodontic devices, guidewires, pacing wires and leads, endovascular embolisation coils, embolisation particles, reusable surgical instruments, shunts 等（完整清单见第 6.5.1 节）。WET 免除的是 III 类/植入物的强制临床试验，不是临床评价，也不是第 2 条第 48 款。新品仍须解决临床数据来源：不能只交 D2(b)；更稳妥的是 WET + 等同，把可比已上市产品升格为 D2(a)。注意：目前 **尚无针对 WET 器械的产品专用 CS**，"where such a CS is available" 这一限定暂不构成实际约束，但若未来委员会采纳产品专用 CS，则该类器械的临床评价须额外符合该 CS。
 5. **是否既非 III 类也非植入、无临床宣称、无可测量临床终点，且同类也没有临床数据？** 才讨论第 61 条第 10 款。存在同类临床数据、或 IFU 里已有临床收益宣称，都会使第 10 款更不可用。不要因为「技术看起来成熟」就选这一条——那是把 WET 误写成第 10 款。
 6. **以上都不成立：** 开展本器械临床试验（D1），或在 Step BF 收缩宣称，直到 D1 / D2(a) 能够覆盖已由 D2(b) 制定的接受标准。
 
