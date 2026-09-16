@@ -4,8 +4,8 @@ title:
   zh: MDR合规深度解析：按照各国语言要求优化欧洲市场准入
   en: ''
 type: insight
-subcategory: nmpa-updates
-category: insights/nmpa-updates
+subcategory: eu-mdr-updates
+category: insights/eu-mdr-updates
 status: active
 published_date: '2025-11-24'
 source_url: https://reguverse.com/nmpa-update/mdr-language-requirements/

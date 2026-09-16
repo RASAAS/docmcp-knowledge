@@ -1,20 +1,20 @@
 ---
 title: EU MDR 合规动态
-generated: '2026-09-15'
-doc_count: 9
+generated: '2026-09-16'
+doc_count: 17
 ---
 
 # EU MDR 合规动态
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **16** 篇文档，最后更新：2026-09-15
+> 共 **17** 篇文档，最后更新：2026-09-16
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
 | [COMBINE计划：联合研究安全报告赞助商指南深度解读](/zh/insights/eu-mdr-updates/combine-safety-reporting) | `COMBINE Project 2` | 2026 |
-| [EU IVDR 分类](/zh/insights/eu-mdr-updates/eu-ivdr-classification) |  | 2025 |
 | [IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)](/zh/insights/eu-mdr-updates/ivdr-rules-examples) | `MDCG 2020-16` | 2026 |
+| [EU IVDR 分类](/zh/insights/eu-mdr-updates/eu-ivdr-classification) |  | 2025 |
 | [Practical issues and examples](/zh/insights/eu-mdr-updates/practical-issues-and-examples) |  | 2025 |
 | [医疗器械法规 (MDR) 技术文档编写说明](/zh/insights/eu-mdr-updates/mdr-td-bpg) |  | 2025 |
 | [EU MDR 分类](/zh/insights/eu-mdr-updates/classification) |  | 2024 |
@@ -25,6 +25,7 @@ doc_count: 9
 | [EUDAMED数据库分阶段实施政策重要更新解读](/zh/insights/eu-mdr-updates/eudamed-implementation-phases) |  | 2025 |
 | [官方指南：EUDAMED UDI/器械模块操作详解](/zh/insights/eu-mdr-updates/eudamed-udi-user-guide-v3110) |  | 2025 |
 | [MDCG 2019-6 Rev5关于公告机构要求问答解析](/zh/insights/eu-mdr-updates/mdcg-2019-6-rev5) |  | 2025 |
+| [MDR合规深度解析：按照各国语言要求优化欧洲市场准入](/zh/insights/eu-mdr-updates/mdr-language-requirements) |  | 2025 |
 | [PMCF 问卷调查的伦理审查和知情同意](/zh/insights/eu-mdr-updates/pmcf-survey-ec-ic) |  | 2025 |
 | [公告机构认证流程全解析：欧盟医疗器械合规的关键路径](/zh/insights/eu-mdr-updates/team-nb-mdr-certification-process) |  | 2024 |
 | [欧盟医疗器械技术审评机构发布 MDR 认证流程共识文件](/zh/insights/eu-mdr-updates/team-nb-position-paper-on-mdr-certification-process) |  | 2025 |

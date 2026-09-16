@@ -1,7 +1,7 @@
 {
   "category": "insights/eu-mdr-updates",
-  "last_updated": "2026-09-15",
-  "count": 16,
+  "last_updated": "2026-09-16",
+  "count": 17,
   "entries": [
     {
       "id": "insights-combine-safety-reporting",
@@ -253,6 +253,21 @@
       },
       "migrated_from": "eu_mdr/ivdr-rules-examples",
       "migration_date": "2026-02-23",
+      "status": "active"
+    },
+    {
+      "id": "insights-mdr-language-requirements",
+      "title": {
+        "zh": "MDR合规深度解析：按照各国语言要求优化欧洲市场准入",
+        "en": ""
+      },
+      "published_date": "2025-11-24",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://reguverse.com/nmpa-update/mdr-language-requirements/",
+      "excerpt": {
+        "zh": "在欧盟医疗器械法规（MDR 2017/745）全面实施的背景下，合规要求已渗透至产品生命周期的每一个环节。除了临床评估、质量体系等核心要素外，语言要求（Language Requirements）作为市场准入的直接门槛，其战略重要性日益凸显。 根据MDR第10(11)条的规定，制造商必须确保向用户提供的信息（包括使用说明书IFU和标签）采用器械使用地成员国确定的官方语言。这一规定旨在确保终端用户能",
+        "en": ""
+      },
       "status": "active"
     }
   ]

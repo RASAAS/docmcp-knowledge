@@ -58,7 +58,7 @@ jobs:
           sudo apt-get install -y -qq libreoffice-writer-nogui
 
       - name: Install Python dependencies
-        run: pip install requests pyyaml python-docx beautifulsoup4
+        run: pip install requests pyyaml python-docx beautifulsoup4 pymupdf
 
       - name: Configure git
         run: |
@@ -184,6 +184,38 @@ jobs:
           git add regulatory_news/ docs/en/news/ docs/zh/news/ || true
           git diff --staged --quiet || {
             git commit -m "chore: add regulatory news from automated detection"
+            git push
+          }
+        continue-on-error: true
+
+      - name: Generate deep insights for new regulatory items
+        id: insights
+        if: steps.news.outputs.news_added != '0' && steps.news.outputs.news_added != ''
+        run: |
+          GROUP="${{ steps.group.outputs.group }}"
+          # Map group to framework(s) for the insight pipeline
+          case "$GROUP" in
+            nmpa)    FW="--framework nmpa" ;;
+            fda)     FW="--framework fda" ;;
+            eu_mdr)  FW="--framework eu_mdr" ;;
+            all)     FW="--all" ;;
+            *)       echo "No insight pipeline for group=$GROUP"; exit 0 ;;
+          esac
+          python scripts/auto_regulatory_pipeline.py $FW 2>&1 | tee /tmp/pipeline.log
+          PUBLISHED=$(grep "Published:" /tmp/pipeline.log | grep -oP '\d+' | tail -1 || echo "0")
+          echo "insights_published=$PUBLISHED" >> $GITHUB_OUTPUT
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4-pro' }}
+        continue-on-error: true
+
+      - name: Commit and push insight articles
+        if: steps.insights.outputs.insights_published != '0' && steps.insights.outputs.insights_published != ''
+        run: |
+          git add insights/ docs/zh/insights/ docs/en/insights/ docs/.vitepress/sidebar*.ts scripts/.pipeline_state.json || true
+          git diff --staged --quiet || {
+            git commit -m "chore: auto-generate regulatory insight articles"
             git push
           }
         continue-on-error: true

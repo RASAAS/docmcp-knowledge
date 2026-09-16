@@ -3522,7 +3522,7 @@ export default {
       "link": "/zh/insights/"
     },
     {
-      "text": "NMPA 合规动态 (9)",
+      "text": "NMPA 合规动态 (8)",
       "collapsed": true,
       "items": [
         {
@@ -3554,17 +3554,13 @@ export default {
           "link": "/zh/insights/nmpa-updates/46-new-standards-take-effect-how-nmpa-is-redrawing-the-quality-baseline-for-high"
         },
         {
-          "text": "MDR合规深度解析：按照各国语言要求优化欧洲市场准入",
-          "link": "/zh/insights/nmpa-updates/mdr-language-requirements"
-        },
-        {
           "text": "国务院关于修改和废止部分行政法规的决定",
           "link": "/zh/insights/nmpa-updates/state-council-order-797"
         }
       ]
     },
     {
-      "text": "EU MDR 合规动态 (16)",
+      "text": "EU MDR 合规动态 (17)",
       "collapsed": true,
       "items": [
         {
@@ -3610,6 +3606,10 @@ export default {
         {
           "text": "MDCG 2019-6 Rev5关于公告机构要求问答解析",
           "link": "/zh/insights/eu-mdr-updates/mdcg-2019-6-rev5"
+        },
+        {
+          "text": "MDR合规深度解析：按照各国语言要求优化欧洲市场准入",
+          "link": "/zh/insights/eu-mdr-updates/mdr-language-requirements"
         },
         {
           "text": "医疗器械法规 (MDR) 技术文档编写说明",

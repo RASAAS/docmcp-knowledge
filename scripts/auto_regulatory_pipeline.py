@@ -108,6 +108,29 @@ USER_AGENT = (
 
 PIPELINE_STATE_FILE = REPO_ROOT / "scripts" / ".pipeline_state.json"
 
+# Alternative news mirror/aggregator sites for NMPA content.
+# These sites re-publish NMPA announcements without anti-bot protection.
+# Ordered by reliability: try first site, fall back to next on failure.
+NMPA_MIRROR_SITES = [
+    # Major financial news portals (fast repost, no paywall, no anti-bot)
+    "finance.sina.com.cn",
+    "finance.eastmoney.com",
+    "stock.hexun.com",
+    "med.china.com.cn",
+    # Government portals (usually accessible)
+    "www.gov.cn",
+    "www.moj.gov.cn",
+    # Medical industry portals
+    "www.cn-healthcare.com",
+    "www.qgyyzs.net",
+]
+
+# Search engines for finding mirror copies of NMPA content
+SEARCH_ENGINES = {
+    "bing": "https://www.bing.com/search?q={query}&cc=cn",
+    "baidu": "https://www.baidu.com/s?wd={query}",
+}
+
 
 # ---------------------------------------------------------------------------
 # State management
@@ -213,6 +236,62 @@ class FullTextFetcher:
             content = page.content()
             browser.close()
             return self._extract_html_content(content, url, title)
+
+    def fetch_with_mirrors(self, source_url: str, title: str, framework: str = "") -> Optional[str]:
+        """Fetch full text with mirror site fallback for NMPA content.
+
+        For NMPA items whose official URL is blocked by anti-bot protection,
+        search for the same content on mirror/aggregator sites.
+        """
+        # First try the original URL
+        text = self.fetch(source_url, title)
+        if text and len(text) > 500:
+            return text
+
+        # Only use mirror strategy for NMPA/Chinese regulatory content
+        if framework not in ("nmpa", "samr"):
+            return text
+
+        logger.info("  Trying mirror sites for NMPA content...")
+
+        # Strategy 1: Search known mirror sites via Bing
+        search_query = f'"{title[:40]}" site:({" OR site:".join(NMPA_MIRROR_SITES[:4])})'
+        mirror_url = self._search_bing_for_mirror(search_query)
+        if mirror_url:
+            text = self.fetch(mirror_url, title)
+            if text and len(text) > 500:
+                logger.info(f"  Found content via mirror: {mirror_url}")
+                return text
+
+        # Strategy 2: Direct search on sina.com.cn (most reliable repost site)
+        sina_query = f'site:finance.sina.com.cn "{title[:30]}"'
+        mirror_url = self._search_bing_for_mirror(sina_query)
+        if mirror_url:
+            text = self.fetch(mirror_url, title)
+            if text and len(text) > 500:
+                logger.info(f"  Found content via Sina mirror: {mirror_url}")
+                return text
+
+        logger.warning(f"  No mirror found for: {title[:50]}...")
+        return None
+
+    def _search_bing_for_mirror(self, query: str) -> Optional[str]:
+        """Search Bing for a mirror URL. Returns first result URL or None."""
+        try:
+            encoded = requests.utils.quote(query)
+            url = f"https://www.bing.com/search?q={encoded}&cc=cn"
+            resp = self.session.get(url, timeout=15)
+            if resp.status_code != 200:
+                return None
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for result in soup.select("li.b_algo h2 a"):
+                href = result.get("href", "")
+                if href and any(site in href for site in NMPA_MIRROR_SITES):
+                    return href
+        except Exception as e:
+            logger.debug(f"  Bing search failed: {e}")
+        return None
 
     def _fetch_doc(self, url: str) -> Optional[str]:
         """Download .doc/.docx and extract text."""
@@ -804,9 +883,10 @@ def process_single_item(
 
     # Step 1: Fetch full text
     full_text = None
+    framework = item.get("framework", "")
     if not insight_only:
         logger.info("  Step 1: Fetching full text...")
-        full_text = fetcher.fetch(source_url, title_zh)
+        full_text = fetcher.fetch_with_mirrors(source_url, title_zh, framework)
         if full_text:
             logger.info(f"  Fetched {len(full_text)} chars of full text")
         else:
@@ -921,6 +1001,14 @@ def run_pipeline(
     if not dry_run:
         save_pipeline_state(state)
 
+    # Update standards library from insight full text (if applicable)
+    if stats["published"] > 0 and not dry_run:
+        logger.info("\nChecking for standards to add to standards library...")
+        try:
+            _update_standards_library()
+        except Exception as e:
+            logger.error(f"  Standards library update failed: {e}")
+
     # Run index regeneration if anything was published
     if stats["published"] > 0 and not dry_run:
         logger.info("\nRegenerating knowledge base indexes...")
@@ -940,6 +1028,104 @@ def run_pipeline(
         deploy_to_cloudflare()
 
     return stats
+
+
+def _update_standards_library():
+    """Parse newly generated insight articles for standards lists and update
+    the master standards.json if new standards are found."""
+    standards_json = REPO_ROOT / "nmpa" / "standards" / "master" / "standards.json"
+    if not standards_json.exists():
+        return
+
+    standards = json.loads(standards_json.read_text(encoding="utf-8"))
+    existing_numbers = {s.get("number", "").strip() for s in standards}
+
+    # Pattern: "YY 1234-2026" or "YY/T 1234.2-2026"
+    std_pattern = re.compile(
+        r"((?:GB|GB/T|YY|YY/T)\s+\d[\d.]*[\u2014\-]\d{4})"
+    )
+
+    state = load_pipeline_state()
+    new_count = 0
+
+    for item_id, info in state.get("processed_items", {}).items():
+        if info.get("status") != "published":
+            continue
+        slug = info.get("slug", "")
+        if not slug:
+            continue
+
+        # Check the insight content for standards references
+        for subcat in ("nmpa-updates", "analysis"):
+            zh_path = INSIGHTS_DIR / subcat / f"{slug}.zh.md"
+            if not zh_path.exists():
+                continue
+            content = zh_path.read_text(encoding="utf-8")
+
+            # Look for a standards table (markdown table with standard numbers)
+            for match in std_pattern.finditer(content):
+                number = match.group(1).replace("\u2014", "-").strip()
+                # Normalize spacing: "YY 1234-2026" -> "YY 1234-2026"
+                number = re.sub(r"\s+", " ", number)
+                if number not in existing_numbers:
+                    # Try to extract title from the same line
+                    line = content[max(0, match.start() - 5):match.end() + 200]
+                    # Look for title in table: | number | title | or after number
+                    title_match = re.search(
+                        r"[|\s]" + re.escape(number) + r"\s*[|\s]+([^|]+)",
+                        line,
+                    )
+                    title = title_match.group(1).strip() if title_match else ""
+
+                    if not title:
+                        # Try "number《title》" pattern
+                        title_match2 = re.search(
+                            re.escape(number) + r"\s*(?:\u300A|)(.+?)(?:\u300B|$)",
+                            line,
+                        )
+                        title = title_match2.group(1).strip() if title_match2 else ""
+
+                    if title and len(title) > 4:
+                        # Determine domain and standard type
+                        is_mandatory = number.startswith("GB ") or number.startswith("YY ")
+                        is_general = False  # Default to professional
+
+                        new_entry = {
+                            "seq": len(standards) + new_count + 1,
+                            "dir_name": "通用技术领域" if is_general else "专业技术领域",
+                            "l1": "",
+                            "l2": "",
+                            "number": number,
+                            "title_zh": title,
+                            "approval_date": "",
+                            "effective_date": "",
+                            "status_zh": "即将实施",
+                            "status": "upcoming",
+                            "id": f"nmpa-{number.lower().replace('/', '-').replace(' ', '-')}",
+                            "source_url": "https://app.nifdc.org.cn/biaogzx/qxqwk.do",
+                            "auto_added": True,
+                        }
+                        standards.append(new_entry)
+                        existing_numbers.add(number)
+                        new_count += 1
+                        logger.info(f"  Added standard: {number} - {title[:40]}...")
+
+    if new_count > 0:
+        standards_json.write_text(
+            json.dumps(standards, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        logger.info(f"  Updated standards.json: +{new_count} standards (total: {len(standards)})")
+
+        # Regenerate standards pages
+        try:
+            subprocess.run(
+                [sys.executable, str(SCRIPTS_DIR / "generate_standards_pages.py")],
+                check=True, capture_output=True, text=True,
+            )
+            logger.info("  Standards pages regenerated")
+        except Exception as e:
+            logger.error(f"  Standards page generation failed: {e}")
 
 
 def deploy_to_cloudflare():
