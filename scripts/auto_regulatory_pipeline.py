@@ -1009,6 +1009,18 @@ def run_pipeline(
         except Exception as e:
             logger.error(f"  Standards library update failed: {e}")
 
+    # Check if new content supersedes any existing insight articles
+    if stats["published"] > 0 and not dry_run:
+        logger.info("\nChecking for superseded insight articles...")
+        try:
+            from detect_superseded_insights import scan_all_insights
+            superseded_results = scan_all_insights(fix=True, use_llm=False)
+            n_sup = len(superseded_results.get("superseded", []))
+            if n_sup > 0:
+                logger.info(f"  Marked {n_sup} insight(s) as superseded")
+        except Exception as e:
+            logger.error(f"  Superseded check failed: {e}")
+
     # Run index regeneration if anything was published
     if stats["published"] > 0 and not dry_run:
         logger.info("\nRegenerating knowledge base indexes...")

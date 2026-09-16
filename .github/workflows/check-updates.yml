@@ -210,6 +210,14 @@ jobs:
           LLM_MODEL: ${{ vars.LLM_MODEL || 'deepseek-v4-pro' }}
         continue-on-error: true
 
+      - name: Check for superseded insight articles
+        if: always()
+        run: |
+          python scripts/detect_superseded_insights.py --fix 2>&1 | tee /tmp/superseded.log
+          SUPERSEDED=$(grep -c "SUPERSEDED" /tmp/superseded.log || echo "0")
+          echo "superseded_count=$SUPERSEDED" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
       - name: Commit and push insight articles
         if: steps.insights.outputs.insights_published != '0' && steps.insights.outputs.insights_published != ''
         run: |
