@@ -1,8 +1,23 @@
 {
   "category": "insights/nmpa-updates",
-  "last_updated": "2026-02-23",
-  "count": 8,
+  "last_updated": "2026-09-16",
+  "count": 9,
   "entries": [
+    {
+      "id": "insights-46-new-standards-take-effect-how-nmpa-is-redrawing-the-quality-baseline-for-high",
+      "title": {
+        "zh": "46项新标准落地：从体外心肺支持到可吸收生物材料，NMPA如何重塑高端医疗器械质量底线",
+        "en": "46 New Standards Take Effect: How NMPA Is Redrawing the Quality Baseline for High-End Medical Devices, from ECMO to Absorbable Biomaterials"
+      },
+      "published_date": "2026-08-14",
+      "subcategory": "nmpa-updates",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2477598.shtml",
+      "excerpt": {
+        "zh": "# 46项新标准落地：从体外心肺支持到可吸收生物材料，NMPA如何重塑高端医疗器械质量底线  2026年8月14日，国家药品监督管理局发布《牙科学 光固化机》《心肺转流系统 体外心肺支持辅助设备》等46项医疗器械行业标准。这不是一次常规的标准批量发布——从标准构成、技术指向到实施节奏来看，它标志着我国医疗器械标准体系正在从\"补空白\"阶段转入\"提质量、强底线、控源头\"的新阶段。  ## 一、政策背景",
+        "en": "# 46 New Standards Take Effect: How NMPA Is Redrawing the Quality Baseline for High-End Medical Devices, from ECMO to Absorbable Biomaterials  On 14 August 2026, the National Medical Products Administ"
+      },
+      "status": "active"
+    },
     {
       "id": "insights-mdr-language-requirements",
       "title": {

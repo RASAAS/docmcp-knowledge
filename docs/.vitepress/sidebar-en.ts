@@ -6,21 +6,21 @@ export default {
       "link": "/en/insights/"
     },
     {
-      "text": "NMPA Updates (8)",
+      "text": "NMPA Updates (9)",
       "collapsed": true,
       "items": [
         {
-          "text": "View in Chinese (8 articles)",
+          "text": "View in Chinese (9 articles)",
           "link": "/zh/insights/nmpa-updates"
         }
       ]
     },
     {
-      "text": "EU MDR Updates (15)",
+      "text": "EU MDR Updates (16)",
       "collapsed": true,
       "items": [
         {
-          "text": "View in Chinese (15 articles)",
+          "text": "View in Chinese (16 articles)",
           "link": "/zh/insights/eu-mdr-updates"
         }
       ]
