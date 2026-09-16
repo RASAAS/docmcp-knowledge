@@ -6,6 +6,90 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### PMDA II级召回：波士顿科学日本Direction导管系统（中心循环微导管）
+
+**2026-09-16** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类（中等）召回（编号2-12966），涉及波士顿科学日本株式会社上市的中心循环系统微导管——Direction导管系统。该召回公告将该产品列为医疗器械，但PMDA列表中未详述具体安全原因。相关监管事务人员和受影响机构应查阅正式召回通知，确认受影响库存，并按照波士顿科学日本的指示进行退货或纠正措施。
+
+**标签**: `pmda`, `class_ii_recall`, `microcatheter`, `boston_scientific`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12966)
+
+---
+
+### 日本PMDA II类召回：史赛克Hoffman 3外固定支架系统（召回编号2-12964）
+
+**2026-09-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类召回（召回编号2-12964），涉及日本史赛克株式会社的Hoffman 3外固定支架系统（外固定器）。该通知将该产品列为医疗器械，但所提供来源未详述具体安全原因。相关机构应查阅PMDA官方召回通知，确认受影响设备，并按照日本史赛克的指示进行隔离、退回或纠正措施。
+
+**标签**: `pmda_recall`, `class_ii`, `external_fixation`, `stryker_japan`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12964)
+
+---
+
+### PMDA II级召回：T-FLEX麻醉/呼吸回路套件（Total Medical Supply，编号2-12963）
+
+**2026-09-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对株式会社トータルメディカルサプライ（Total Medical Supply）生产的T-FLEX麻醉/呼吸回路套件的II级召回（召回编号2-12963）。该召回为II级，表示存在中等程度健康风险。相关医疗机构应核对受影响批次，按照厂商指示停止使用、退回或更换产品，并查阅官方公告了解具体安全问题和处理措施。
+
+**标签**: `pmda_recall`, `class_ii`, `anesthesia_circuit`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963)
+
+---
+
+### 日本PMDA二级召回：Coloplast Porges输尿管支架（长期使用）
+
+**2026-09-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II级（中等）医疗器械召回（编号2-12962），涉及Coloplast株式会社经销的Porges输尿管支架，属于长期使用输尿管管支架。该召回影响使用或库存该产品的医疗机构。具体安全原因和受影响批次需查阅PMDA官方召回通知；相关机构应识别并隔离受影响产品，遵循Coloplast的召回指示，并报告相关不良事件。
+
+**标签**: `japan_pmda`, `medical_device_recall`, `class_ii`, `ureteral_stent`, `coloplast`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962)
+
+---
+
+### PMDA II类召回：GE医疗日本Aisys麻醉系统（召回编号2-12961）
+
+**2026-09-11** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布GE医疗日本公司Aisys麻醉系统的II类召回（编号2-12961）。II类召回表示存在中等风险的安全或性能问题。医疗机构应识别受影响设备，查阅PMDA官方通知了解具体缺陷，并按照GE医疗日本的召回说明执行。
+
+**标签**: `pmda_recall`, `class_ii`, `anesthesia_system`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12961)
+
+---
+
+### II类召回：波士顿科学日本胰管塑料支架系统（胰腺支架）
+
+**2026-09-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类医疗器械召回（编号2-12959），涉及Boston Scientific Japan K.K.的胰管塑料支架系统（胰腺支架）。II类召回表示导致严重不良健康后果的可能性较低，但可能出现暂时性或可逆的不良健康后果。相关医疗机构和使用者应查看制造商召回通知，核对受影响批次，并按要求执行退货或纠正措施。该警示元数据未说明具体缺陷原因。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `pancreatic_stent`, `boston_scientific`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12959)
+
+---
+
+### 日本PMDA二级召回：日本美敦力Nav器械和被动活检针
+
+**2026-09-10** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布二级召回#2-12958，涉及日本美敦力的Nav器械（骨手术用器械）和被动活检针（一次性组织活检针）。该通知将上述医疗器械列为召回对象，但摘录中未说明具体安全原因。相关机构应核对库存、隔离受影响批次，并遵循日本美敦力的召回指示。
+
+**标签**: `pmda_recall`, `class_ii`, `medtronic_japan`, `bone_surgery_instruments`, `biopsy_needles`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12958)
+
+---
+
 ### 日本PMDA II类召回：富士胶片VersiFlex VISTA多用途X线透视系统
 
 **2026-09-08** | Japan PMDA | 安全通报 | !! MEDIUM

@@ -1,7 +1,192 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-09-09T21:32:15Z",
+  "last_updated": "2026-09-16T21:54:05Z",
   "items": [
+    {
+      "id": "japan_pmda_20260916_pmda_class_ii_recall_boston_scientific_japan_direction_cathe",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Boston Scientific Japan Direction Catheter System (Central Circulatory Microcatheter), Recall No. 2-12966",
+        "zh": "PMDA II级召回：波士顿科学日本Direction导管系统（中心循环微导管）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II (moderate) recall (No. 2-12966) for the Direction Catheter System, a central circulatory system microcatheter marketed by Boston Scientific Japan K.K. The recall notice identifies the affected device as a medical device, but the specific safety issue is not detailed in the PMDA listing. Regulatory affairs professionals and affected facilities should review the official recall notice, identify affected inventory, and follow Boston Scientific Japan's instructions for return or corrective action.",
+        "zh": "日本PMDA发布了一项II类（中等）召回（编号2-12966），涉及波士顿科学日本株式会社上市的中心循环系统微导管——Direction导管系统。该召回公告将该产品列为医疗器械，但PMDA列表中未详述具体安全原因。相关监管事务人员和受影响机构应查阅正式召回通知，确认受影响库存，并按照波士顿科学日本的指示进行退货或纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12966",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-16T21:52:59Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "microcatheter",
+        "boston_scientific",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_japan_pmda_class_ii_recall_stryker_hoffman_3_external_fixati",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: Stryker Hoffman 3 External Fixation System (Recall #2-12964)",
+        "zh": "日本PMDA II类召回：史赛克Hoffman 3外固定支架系统（召回编号2-12964）"
+      },
+      "summary": {
+        "en": "Japan's PMDA issued a Class II recall (Recall #2-12964) for the Hoffman 3 External Fixation System, an external fixator from Stryker Japan K.K. The notice identifies it as a medical device; the specific safety reason is not detailed in the provided source. Affected facilities should check the official PMDA notice, identify impacted devices, and follow Stryker Japan's instructions for quarantine, return, or corrective action.",
+        "zh": "日本PMDA发布了一项II类召回（召回编号2-12964），涉及日本史赛克株式会社的Hoffman 3外固定支架系统（外固定器）。该通知将该产品列为医疗器械，但所提供来源未详述具体安全原因。相关机构应查阅PMDA官方召回通知，确认受影响设备，并按照日本史赛克的指示进行隔离、退回或纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12964",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-16T21:53:08Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "external_fixation",
+        "stryker_japan",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_pmda_class_ii_recall_t_flex_anesthesia_breathing_circuit_set",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: T-FLEX Anesthesia/Breathing Circuit Set by Total Medical Supply, Recall #2-12963",
+        "zh": "PMDA II级召回：T-FLEX麻醉/呼吸回路套件（Total Medical Supply，编号2-12963）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (#2-12963) for the T-FLEX Anesthesia/Breathing Circuit Set manufactured by Total Medical Supply Co., Ltd. The Class II classification indicates a moderate risk of adverse health consequences. Healthcare facilities using this device should check the recall notice, identify affected lots, and follow the manufacturer's instructions for return or correction. The specific safety issue and required actions are detailed in the official PMDA notice.",
+        "zh": "日本PMDA发布了对株式会社トータルメディカルサプライ（Total Medical Supply）生产的T-FLEX麻醉/呼吸回路套件的II级召回（召回编号2-12963）。该召回为II级，表示存在中等程度健康风险。相关医疗机构应核对受影响批次，按照厂商指示停止使用、退回或更换产品，并查阅官方公告了解具体安全问题和处理措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-15",
+      "detected_date": "2026-09-16T21:53:22Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "anesthesia_circuit",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_japan_pmda_class_ii_recall_coloplast_porges_ureteral_stent_l",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: Coloplast Porges Ureteral Stent (Long-Term Ureteral Tube Stent)",
+        "zh": "日本PMDA二级召回：Coloplast Porges输尿管支架（长期使用）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II (moderate) medical device recall (#2-12962) for the Porges Ureteral Stent, a long-term ureteral tube stent distributed by Coloplast K.K. This recall affects healthcare facilities that use or stock this device. The specific safety issue and affected lots should be confirmed in the official PMDA notice; actions include identifying and quarantining affected units, following Coloplast's recall instructions, and reporting related adverse events.",
+        "zh": "日本PMDA发布了一项II级（中等）医疗器械召回（编号2-12962），涉及Coloplast株式会社经销的Porges输尿管支架，属于长期使用输尿管管支架。该召回影响使用或库存该产品的医疗机构。具体安全原因和受影响批次需查阅PMDA官方召回通知；相关机构应识别并隔离受影响产品，遵循Coloplast的召回指示，并报告相关不良事件。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-14",
+      "detected_date": "2026-09-16T21:53:33Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "medical_device_recall",
+        "class_ii",
+        "ureteral_stent",
+        "coloplast"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_pmda_class_ii_recall_ge_healthcare_japan_aisys_anesthesia_sy",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: GE Healthcare Japan Aisys Anesthesia System (Recall #2-12961)",
+        "zh": "PMDA II类召回：GE医疗日本Aisys麻醉系统（召回编号2-12961）"
+      },
+      "summary": {
+        "en": "The Japan PMDA has posted a Class II recall (#2-12961) for the Aisys anesthesia system marketed by GE Healthcare Japan Corporation. Class II indicates a moderate-risk safety or performance issue. Healthcare facilities should identify affected units, review the official PMDA notice for the specific defect, and follow GE Healthcare Japan's recall instructions.",
+        "zh": "日本PMDA已发布GE医疗日本公司Aisys麻醉系统的II类召回（编号2-12961）。II类召回表示存在中等风险的安全或性能问题。医疗机构应识别受影响设备，查阅PMDA官方通知了解具体缺陷，并按照GE医疗日本的召回说明执行。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12961",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-11",
+      "detected_date": "2026-09-16T21:53:43Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "anesthesia_system"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_class_ii_recall_pancreatic_duct_plastic_stent_system_pancrea",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Class II Recall: Pancreatic Duct Plastic Stent System (Pancreatic Stent) – Boston Scientific Japan",
+        "zh": "II类召回：波士顿科学日本胰管塑料支架系统（胰腺支架）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has posted a Class II medical device recall (#2-12959) for the Pancreatic Duct Plastic Stent System (Pancreatic Stent) manufactured by Boston Scientific Japan K.K. A Class II recall indicates a moderate risk situation where serious adverse health consequences are unlikely but temporary or medically reversible adverse consequences may occur. Affected users and facilities should review the manufacturer's recall notification, identify affected lots, and follow required return or corrective actions. The notice metadata does not describe the specific failure mode.",
+        "zh": "日本PMDA发布了一项II类医疗器械召回（编号2-12959），涉及Boston Scientific Japan K.K.的胰管塑料支架系统（胰腺支架）。II类召回表示导致严重不良健康后果的可能性较低，但可能出现暂时性或可逆的不良健康后果。相关医疗机构和使用者应查看制造商召回通知，核对受影响批次，并按要求执行退货或纠正措施。该警示元数据未说明具体缺陷原因。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12959",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-10",
+      "detected_date": "2026-09-16T21:53:55Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "pancreatic_stent",
+        "boston_scientific"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260916_pmda_class_ii_recall_medtronic_japan_nav_instruments_and_pas",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Medtronic Japan Nav Instruments and Passive Biopsy Needles",
+        "zh": "日本PMDA二级召回：日本美敦力Nav器械和被动活检针"
+      },
+      "summary": {
+        "en": "Japan's PMDA posted Class II recall #2-12958 for Nihon Medtronic's Nav instruments (bone surgery instruments) and passive biopsy needles (single-use tissue biopsy needles). The notice identifies these medical devices as recalled, though the specific safety reason is not detailed in the provided excerpt. Affected facilities should check inventory, quarantine affected products, and follow Medtronic Japan's recall instructions.",
+        "zh": "日本PMDA发布二级召回#2-12958，涉及日本美敦力的Nav器械（骨手术用器械）和被动活检针（一次性组织活检针）。该通知将上述医疗器械列为召回对象，但摘录中未说明具体安全原因。相关机构应核对库存、隔离受影响批次，并遵循日本美敦力的召回指示。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12958",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-10",
+      "detected_date": "2026-09-16T21:54:05Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "medtronic_japan",
+        "bone_surgery_instruments",
+        "biopsy_needles"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260909_pmda_class_ii_recall_fujifilm_versiflex_vista_multipurpose_x",
       "framework": "japan_pmda",

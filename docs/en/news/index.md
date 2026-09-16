@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Class II Recall: Boston Scientific Japan Direction Catheter System (Central Circulatory Microcatheter), Recall No. 2-12966
+
+**2026-09-16** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II (moderate) recall (No. 2-12966) for the Direction Catheter System, a central circulatory system microcatheter marketed by Boston Scientific Japan K.K. The recall notice identifies the affected device as a medical device, but the specific safety issue is not detailed in the PMDA listing. Regulatory affairs professionals and affected facilities should review the official recall notice, identify affected inventory, and follow Boston Scientific Japan's instructions for return or corrective action.
+
+**Tags**: `pmda`, `class_ii_recall`, `microcatheter`, `boston_scientific`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12966)
+
+---
+
 ### FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device
 
 **2026-09-15** | FDA | cdrh_news | !!! HIGH
@@ -27,6 +39,30 @@ FDA CDRH posted a notice that Medical Action Industries issued a correction for 
 **Tags**: `medical_device_recall`, `epidural_kits`, `lidocaine_ampules`, `cdrh_news`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra)
+
+---
+
+### Japan PMDA Class II Recall: Stryker Hoffman 3 External Fixation System (Recall #2-12964)
+
+**2026-09-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA issued a Class II recall (Recall #2-12964) for the Hoffman 3 External Fixation System, an external fixator from Stryker Japan K.K. The notice identifies it as a medical device; the specific safety reason is not detailed in the provided source. Affected facilities should check the official PMDA notice, identify impacted devices, and follow Stryker Japan's instructions for quarantine, return, or corrective action.
+
+**Tags**: `pmda_recall`, `class_ii`, `external_fixation`, `stryker_japan`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12964)
+
+---
+
+### PMDA Class II Recall: T-FLEX Anesthesia/Breathing Circuit Set by Total Medical Supply, Recall #2-12963
+
+**2026-09-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (#2-12963) for the T-FLEX Anesthesia/Breathing Circuit Set manufactured by Total Medical Supply Co., Ltd. The Class II classification indicates a moderate risk of adverse health consequences. Healthcare facilities using this device should check the recall notice, identify affected lots, and follow the manufacturer's instructions for return or correction. The specific safety issue and required actions are detailed in the official PMDA notice.
+
+**Tags**: `pmda_recall`, `class_ii`, `anesthesia_circuit`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963)
 
 ---
 
@@ -54,6 +90,18 @@ The UK MHRA has published its weekly list of Field Safety Notices (FSNs) issued 
 
 ---
 
+### Japan PMDA Class II Recall: Coloplast Porges Ureteral Stent (Long-Term Ureteral Tube Stent)
+
+**2026-09-14** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II (moderate) medical device recall (#2-12962) for the Porges Ureteral Stent, a long-term ureteral tube stent distributed by Coloplast K.K. This recall affects healthcare facilities that use or stock this device. The specific safety issue and affected lots should be confirmed in the official PMDA notice; actions include identifying and quarantining affected units, following Coloplast's recall instructions, and reporting related adverse events.
+
+**Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `ureteral_stent`, `coloplast`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962)
+
+---
+
 ### COFEPRIS Strengthens Coordination for Health Emergencies During 2026 Rainy and Hurricane Season
 
 **2026-09-12** | Mexico COFEPRIS | Safety Communication | !! MEDIUM
@@ -75,6 +123,18 @@ The MHRA has published its updated decision list of medical devices granted exce
 **Tags**: `mhra`, `exceptional_use_authorisation`, `medical_devices`, `regulatory_compliance`
 
 [View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### PMDA Class II Recall: GE Healthcare Japan Aisys Anesthesia System (Recall #2-12961)
+
+**2026-09-11** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has posted a Class II recall (#2-12961) for the Aisys anesthesia system marketed by GE Healthcare Japan Corporation. Class II indicates a moderate-risk safety or performance issue. Healthcare facilities should identify affected units, review the official PMDA notice for the specific defect, and follow GE Healthcare Japan's recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `anesthesia_system`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12961)
 
 ---
 
@@ -111,6 +171,30 @@ Health Canada has issued a medical device recall/alert for Centricity High Acuit
 **Tags**: `health_canada`, `medical_device_recall`, `anesthesia_software`, `performance_issue`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1)
+
+---
+
+### Class II Recall: Pancreatic Duct Plastic Stent System (Pancreatic Stent) – Boston Scientific Japan
+
+**2026-09-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has posted a Class II medical device recall (#2-12959) for the Pancreatic Duct Plastic Stent System (Pancreatic Stent) manufactured by Boston Scientific Japan K.K. A Class II recall indicates a moderate risk situation where serious adverse health consequences are unlikely but temporary or medically reversible adverse consequences may occur. Affected users and facilities should review the manufacturer's recall notification, identify affected lots, and follow required return or corrective actions. The notice metadata does not describe the specific failure mode.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `pancreatic_stent`, `boston_scientific`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12959)
+
+---
+
+### PMDA Class II Recall: Medtronic Japan Nav Instruments and Passive Biopsy Needles
+
+**2026-09-10** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA posted Class II recall #2-12958 for Nihon Medtronic's Nav instruments (bone surgery instruments) and passive biopsy needles (single-use tissue biopsy needles). The notice identifies these medical devices as recalled, though the specific safety reason is not detailed in the provided excerpt. Affected facilities should check inventory, quarantine affected products, and follow Medtronic Japan's recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `medtronic_japan`, `bone_surgery_instruments`, `biopsy_needles`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12958)
 
 ---
 
