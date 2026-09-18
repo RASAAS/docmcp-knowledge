@@ -18,6 +18,52 @@ The Japanese PMDA has issued a Class II (moderate) recall (No. 2-12966) for the 
 
 ---
 
+### Swissmedic FSCA: Boston Scientific Direxion and Direxion HI-FLO Torqueable Microcatheter
+
+**2026-09-16** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Boston Scientific Direxion and Direxion HI-FLO Torqueable Microcatheter, a vascular microcatheter. The Swissmedic entry refers to the manufacturer's Field Safety Notice (FSN) for the specific reason and affected model/lot details, which are not summarized in the alert. Regulatory affairs and healthcare professionals should review the FSN and follow the manufacturer's recommended actions, including identifying and quarantining affected devices if applicable.
+
+**Tags**: `swissmedic`, `fsca`, `boston_scientific`, `microcatheter`, `field_safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260914_018)
+
+---
+
+### Swissmedic FSCA: My Lubie Ultra Fin Male Contraceptive Device by Richter Rubber Technology Sdn Bhd
+
+**2026-09-16** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for My Lubie Ultra Fin, a male contraceptive device manufactured by Richter Rubber Technology Sdn Bhd. The available notice does not specify the reason for the action or the affected model/lot details. Healthcare professionals and users should review the official Swissmedic FSCA notice and follow any instructions from the manufacturer or distributor.
+
+**Tags**: `swissmedic`, `fsca`, `male_contraceptive_devices`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_024)
+
+---
+
+### Swissmedic FSCA: Abbott Amplatzer Amulet Left Atrial Appendage Occluders, Specific 9-ACP2 Models
+
+**2026-09-16** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Abbott Medical's Amplatzer Amulet left atrial appendage occluders. The notice lists affected models 9-ACP2-007-016, 9-ACP2-007-018, 9-ACP2-007-020, 9-ACP2-007-022, 9-ACP2-010-025, 9-ACP2-010-028, 9-ACP2-010-031, and 9-ACP2-010-034. The public notice does not state the specific reason; affected facilities should review the official Swissmedic/FSN documentation and follow Abbott Medical's instructions.
+
+**Tags**: `swissmedic`, `fsca`, `left_atrial_appendage_occluder`, `abbott_medical`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260910_032)
+
+---
+
+### Williams Cystoscopic Injection Needle - Cook Incorporated
+
+**2026-09-16** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: General-purpose endoscopic needle, single-use. Reason: . Model: 090001-S26; G16112.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_007)
+
+---
+
 ### FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device
 
 **2026-09-15** | FDA | cdrh_news | !!! HIGH
@@ -63,6 +109,42 @@ Japan's PMDA has issued a Class II recall (#2-12963) for the T-FLEX Anesthesia/B
 **Tags**: `pmda_recall`, `class_ii`, `anesthesia_circuit`, `medical_device_safety`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12963)
+
+---
+
+### Swissmedic FSCA: Gyrus ACMI SOLTIVE Single-Use Laser Fiber Products
+
+**2026-09-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Gyrus ACMI, Inc.'s SOLTIVE single-use laser fiber products, classified as general/multiple surgical laser system beam guides. The specific safety reason, affected models, and lot numbers are detailed in the manufacturer's Field Safety Notice (FSN). Users should identify and quarantine affected products and follow the manufacturer's instructions for return or replacement.
+
+**Tags**: `swissmedic`, `fsca`, `surgical_laser`, `single_use_device`, `gyrus_acmi`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### Swissmedic FSCA: Gyrus ACMI SOLTIVE Reusable Laser Fiber Products
+
+**2026-09-15** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action for Gyrus ACMI, Inc.'s SOLTIVE Laser Fiber Products, reusable general/multiple surgical laser system beam guides. Affected models and lots are identified in the manufacturer's Field Safety Notice (FSN), while the specific reason for the action is not detailed in the Swissmedic entry. Healthcare facilities and users should review the FSN, identify affected devices, and follow the manufacturer's recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `laser_fiber`, `gyrus_acmi`, `surgical_laser`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### Swissmedic FSCA: Winncare Nordic Cart for Luna X5 Transport Trolley
+
+**2026-09-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic issued a field safety corrective action (FSCA) for the Cart for Luna X5, a transport trolley for the LUNA ceiling lift, manufactured by Winncare Nordic. The Swissmedic entry does not state the specific corrective reason; affected model/lot details are provided in the manufacturer's field safety notice (FSN). Users and healthcare facilities should review the FSN and follow Winncare Nordic's recommended actions, including any inspections or use restrictions.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `ceiling_lift`, `winncare_nordic`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_025)
 
 ---
 

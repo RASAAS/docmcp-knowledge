@@ -36,6 +36,88 @@ title: 法规速递
 
 ## 最新动态
 
+### Swissmedic FSCA：波士顿科学 Direxion 和 Direxion HI-FLO 扭矩微导管
+
+**2026-09-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布针对波士顿科学 Direxion 和 Direxion HI-FLO 扭矩微导管（血管微导管）的现场安全纠正措施（FSCA）。该通报中具体原因及受影响型号/批次信息请参阅制造商的现场安全通知（FSN），未在摘要中详述。相关法规事务和临床人员应查阅 FSN 并按制造商建议采取行动，包括识别和隔离受影响器械（如适用）。
+
+**标签**: `swissmedic`, `fsca`, `boston_scientific`, `microcatheter`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260914_018)
+
+---
+
+### Swissmedic发布My Lubie Ultra Fin男用避孕器具FSCA
+
+**2026-09-16** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic发布了由Richter Rubber Technology Sdn Bhd生产的男用避孕器具My Lubie Ultra Fin的现场安全纠正措施（FSCA）。该通知摘要未说明纠正原因及受影响型号/批次。相关使用者和医护人员应查阅Swissmedic官方FSCA通知，并遵循制造商或经销商的指示。
+
+**标签**: `swissmedic`, `fsca`, `male_contraceptive_devices`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260902_024)
+
+---
+
+### Swissmedic发布Abbott Amplatzer Amulet左心耳封堵器FSCA
+
+**2026-09-16** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布Abbott Medical Amplatzer Amulet左心耳封堵器的现场安全纠正措施（FSCA）。涉及型号包括9-ACP2-007-016、9-ACP2-007-018、9-ACP2-007-020、9-ACP2-007-022、9-ACP2-010-025、9-ACP2-010-028、9-ACP2-010-031、9-ACP2-010-034。公告未说明具体原因，相关医疗机构应查阅Swissmedic/FSN官方文件并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `left_atrial_appendage_occluder`, `abbott_medical`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260910_032)
+
+---
+
+### Williams Cystoscopic Injection Needle - Cook Incorporated
+
+**2026-09-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: General-purpose endoscopic needle, single-use. Reason: . Model: 090001-S26; G16112.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_007)
+
+---
+
+### Swissmedic发布Gyrus ACMI SOLTIVE一次性激光光纤产品安全通告
+
+**2026-09-15** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Gyrus ACMI公司SOLTIVE一次性激光光纤产品的现场安全纠正措施（FSCA），该产品属于通用/多种手术激光系统光束导引装置。具体安全原因、受影响型号及批次需参见制造商现场安全通知（FSN）。用户应识别并隔离受影响产品，并按照制造商指示进行退货或更换。
+
+**标签**: `swissmedic`, `fsca`, `surgical_laser`, `single_use_device`, `gyrus_acmi`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### Swissmedic发布Gyrus ACMI SOLTIVE可重复使用激光光纤产品FSCA
+
+**2026-09-15** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对Gyrus ACMI, Inc. SOLTIVE激光光纤产品（可重复使用的通用/多用途手术激光系统光束导引器）的现场安全纠正措施。受影响型号和批次详见制造商现场安全通知（FSN），Swissmedic条目未列明具体原因。医疗机构和用户应查阅FSN、识别相关设备并遵循制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `laser_fiber`, `gyrus_acmi`, `surgical_laser`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_025)
+
+---
+
+### 瑞士Swissmedic发布Winncare Nordic Luna X5推车FSCA
+
+**2026-09-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了Winncare Nordic制造的Luna X5推车（LUNA天花板移位机运输推车）的现场安全纠正措施（FSCA）。Swissmedic条目中未列明具体纠正原因，受影响型号/批次详见制造商的现场安全通知（FSN）。用户和医疗机构应查阅FSN并遵循Winncare Nordic建议的措施，包括任何检查或使用限制。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `ceiling_lift`, `winncare_nordic`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_025)
+
+---
+
 ### 瑞士Swissmedic FSCA：GORE VIABAHN肝素/PROPATEN表面覆膜支架新增语言
 
 **2026-09-09** | Swissmedic | 安全通报 | !! MEDIUM
