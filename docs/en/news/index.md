@@ -64,6 +64,18 @@ FSCA: MD: General-purpose endoscopic needle, single-use. Reason: . Model: 090001
 
 ---
 
+### ANMAT Bans All Series of TEXEL Brand High-Frequency Medical Equipment (September 16, 2026)
+
+**2026-09-16** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+Argentina’s ANMAT has issued a prohibition covering all series of TEXEL brand high-frequency medical equipment, effective September 16, 2026. The alert affects all marketed series/units of this brand; the manufacturer is identified only by the TEXEL brand in the notice. The specific safety defect or non-compliance triggering the ban is not detailed in the alert title/description. Users, distributors, and healthcare facilities should immediately discontinue use and distribution, remove affected devices from service, and follow ANMAT instructions.
+
+**Tags**: `anmat`, `medical_device_ban`, `high_frequency_equipment`, `texel`, `safety_alert`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel)
+
+---
+
 ### FDA Announces Medtronic and Given Imaging Recall of Esophageal pH Monitoring Capsule Delivery Device
 
 **2026-09-15** | FDA | cdrh_news | !!! HIGH
@@ -181,6 +193,18 @@ The Japanese PMDA has issued a Class II (moderate) medical device recall (#2-129
 **Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `ureteral_stent`, `coloplast`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12962)
+
+---
+
+### ANMAT Bans Individually Packaged Screw Branded 'BIO ASIST - IMPLANTS'
+
+**2026-09-14** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On 14 September 2026, Argentina’s ANMAT prohibited any medical product identified as 'Tornillo acondicionado individualmente' marketed under the designation 'BIO ASIST - IMPLANTS.' The action covers all lots/presentations of this individually packaged screw; the manufacturer/marketer is identified by the BIO ASIST - IMPLANTS denomination. Distributors, healthcare facilities, and professionals should immediately stop use, distribution, and commercialization, and verify whether the product has proper ANMAT registration.
+
+**Tags**: `argentina_anmat`, `medical_device_ban`, `orthopedic_screw`, `bio_asist_implants`, `regulatory_action`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibio-cualquier-producto-medico-identificado-como-tornillo-acondicionado)
 
 ---
 

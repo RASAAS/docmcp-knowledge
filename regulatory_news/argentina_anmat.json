@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "argentina_anmat_20260919_anmat_bans_all_series_of_texel_brand_high_frequency_medical",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans All Series of TEXEL Brand High-Frequency Medical Equipment (September 16, 2026)",
+        "zh": "ANMAT禁止TEXEL品牌所有系列高频医疗设备（2026年9月16日）"
+      },
+      "summary": {
+        "en": "Argentina’s ANMAT has issued a prohibition covering all series of TEXEL brand high-frequency medical equipment, effective September 16, 2026. The alert affects all marketed series/units of this brand; the manufacturer is identified only by the TEXEL brand in the notice. The specific safety defect or non-compliance triggering the ban is not detailed in the alert title/description. Users, distributors, and healthcare facilities should immediately discontinue use and distribution, remove affected devices from service, and follow ANMAT instructions.",
+        "zh": "阿根廷国家药品、食品和医疗器械管理局（ANMAT）于2026年9月16日发布禁令，禁止TEXEL品牌所有系列高频医疗设备。受影响产品为该品牌在阿根廷上市的所有系列/批次；通知中制造商仅以TEXEL品牌标示。触发禁令的具体安全缺陷或不合规原因在警报标题/描述中未详细说明。医疗机构、分销商和用户应立即停止使用和销售，下架受影响设备，并遵循ANMAT指示。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel",
+      "source_name": "Official Source",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-19T21:11:59Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_device_ban",
+        "high_frequency_equipment",
+        "texel",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20260919_anmat_bans_individually_packaged_screw_branded_bio_asist_imp",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Bans Individually Packaged Screw Branded 'BIO ASIST - IMPLANTS'",
+        "zh": "ANMAT禁止标示为BIO ASIST - IMPLANTS的单个包装螺钉"
+      },
+      "summary": {
+        "en": "On 14 September 2026, Argentina’s ANMAT prohibited any medical product identified as 'Tornillo acondicionado individualmente' marketed under the designation 'BIO ASIST - IMPLANTS.' The action covers all lots/presentations of this individually packaged screw; the manufacturer/marketer is identified by the BIO ASIST - IMPLANTS denomination. Distributors, healthcare facilities, and professionals should immediately stop use, distribution, and commercialization, and verify whether the product has proper ANMAT registration.",
+        "zh": "2026年9月14日，阿根廷ANMAT禁止任何标识为“Tornillo acondicionado individualmente”且以“BIO ASIST - IMPLANTS”名义销售的医疗器械。该禁令适用于此类单个包装螺钉的所有批次/规格，生产/销售方仅以BIO ASIST - IMPLANTS名称识别。经销商、医疗机构和专业人员应立即停止使用、分销和销售，并核实该产品是否具有有效的ANMAT注册。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-prohibio-cualquier-producto-medico-identificado-como-tornillo-acondicionado",
+      "source_name": "Official Source",
+      "published_date": "2026-09-14",
+      "detected_date": "2026-09-19T21:12:16Z",
+      "importance": "high",
+      "tags": [
+        "argentina_anmat",
+        "medical_device_ban",
+        "orthopedic_screw",
+        "bio_asist_implants",
+        "regulatory_action"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "argentina_anmat_20260905_anmat_bans_medical_products_of_brand_medical_advance_sep_3_2",
       "framework": "argentina_anmat",
       "category": "safety_communication",
@@ -105,5 +159,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-09-05T20:50:27Z"
+  "last_updated": "2026-09-19T21:12:16Z"
 }

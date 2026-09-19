@@ -45,6 +45,30 @@ title: 法规速递
 
 ## 最新动态
 
+### ANMAT禁止TEXEL品牌所有系列高频医疗设备（2026年9月16日）
+
+**2026-09-16** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+阿根廷国家药品、食品和医疗器械管理局（ANMAT）于2026年9月16日发布禁令，禁止TEXEL品牌所有系列高频医疗设备。受影响产品为该品牌在阿根廷上市的所有系列/批次；通知中制造商仅以TEXEL品牌标示。触发禁令的具体安全缺陷或不合规原因在警报标题/描述中未详细说明。医疗机构、分销商和用户应立即停止使用和销售，下架受影响设备，并遵循ANMAT指示。
+
+**标签**: `anmat`, `medical_device_ban`, `high_frequency_equipment`, `texel`, `safety_alert`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel)
+
+---
+
+### ANMAT禁止标示为BIO ASIST - IMPLANTS的单个包装螺钉
+
+**2026-09-14** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+2026年9月14日，阿根廷ANMAT禁止任何标识为“Tornillo acondicionado individualmente”且以“BIO ASIST - IMPLANTS”名义销售的医疗器械。该禁令适用于此类单个包装螺钉的所有批次/规格，生产/销售方仅以BIO ASIST - IMPLANTS名称识别。经销商、医疗机构和专业人员应立即停止使用、分销和销售，并核实该产品是否具有有效的ANMAT注册。
+
+**标签**: `argentina_anmat`, `medical_device_ban`, `orthopedic_screw`, `bio_asist_implants`, `regulatory_action`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibio-cualquier-producto-medico-identificado-como-tornillo-acondicionado)
+
+---
+
 ### ANMAT禁止“MEDICAL ADVANCE”品牌医疗产品
 
 **2026-09-03** | Argentina ANMAT | 安全通报 | !!! HIGH
