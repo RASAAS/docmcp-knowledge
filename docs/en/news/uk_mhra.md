@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA DSI/2026/012: RF Safety Considerations for Wireless CTG Monitoring Systems
+
+**2026-09-17** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has published Device Safety Information DSI/2026/012 following a review of wireless cardiotocography (CTG) monitoring systems that use radiofrequency (RF) telemetry. The review identified signal crossover, erroneous CTG traces, and signal dropouts as potential patient safety concerns. Healthcare providers using these systems should review local RF channel management and monitoring configurations, and report any suspected issues to MHRA.
+
+**Tags**: `mhra_safety`, `wireless_ctg`, `radiofrequency_safety`, `signal_dropout`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/radiofrequency-rf-safety-considerations-for-wireless-cardiotocography-ctg-monitoring-systems-dsi-slash-2026-slash-012)
+
+---
+
+### National Patient Safety Alert: Patient hoists and slings risk of death and serious harm from falls (NatPSA/2026/005/MHRA)
+
+**2026-09-16** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued National Patient Safety Alert NatPSA/2026/005/MHRA on continued fatal and serious harm from falls involving patient hoists and slings during transfers and repositioning. It applies to all types of patient hoists and slings used in healthcare and social care settings. Providers and staff should review incidents, ensure appropriate equipment selection, training, and maintenance, and follow MHRA recommended actions to reduce fall risks.
+
+**Tags**: `national_patient_safety_alert`, `patient_hoists`, `slings`, `falls`, `mhra`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-patient-hoists-and-slings-all-types-risk-of-death-and-serious-harm-from-falls-natpsa-slash-2026-slash-005-slash-mhra)
+
+---
+
 ### MHRA Weekly Field Safety Notices: 7–11 September 2026
 
 **2026-09-14** | UK MHRA | Safety Communication | !!! HIGH

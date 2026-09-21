@@ -6,6 +6,114 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Issues Recall Alert for GE SIGNA™ Artist and SIGNA™ Artist Evo MRI Systems Due to Performance Issue
+
+**2026-09-18** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for GE HealthCare's SIGNA™ Artist and SIGNA™ Artist Evo magnetic resonance imaging (MRI) systems due to a performance concern. Healthcare facilities operating these systems are affected. Users should review the Health Canada notice, contact GE HealthCare for corrective action, and follow any recommended workarounds or servicing.
+
+**Tags**: `health_canada`, `medical_device_recall`, `mri_safety`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signatm-artist-and-signatm-artist-evo)
+
+---
+
+### MHRA DSI/2026/012: RF Safety Considerations for Wireless CTG Monitoring Systems
+
+**2026-09-17** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has published Device Safety Information DSI/2026/012 following a review of wireless cardiotocography (CTG) monitoring systems that use radiofrequency (RF) telemetry. The review identified signal crossover, erroneous CTG traces, and signal dropouts as potential patient safety concerns. Healthcare providers using these systems should review local RF channel management and monitoring configurations, and report any suspected issues to MHRA.
+
+**Tags**: `mhra_safety`, `wireless_ctg`, `radiofrequency_safety`, `signal_dropout`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/radiofrequency-rf-safety-considerations-for-wireless-cardiotocography-ctg-monitoring-systems-dsi-slash-2026-slash-012)
+
+---
+
+### Health Canada Alert: Philips Ingenia, Achieva and Intera MR Systems – Performance Issue
+
+**2026-09-17** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Philips Ingenia, Achieva and Intera MR systems due to a performance issue. This affects healthcare facilities and imaging departments using these MRI systems. Affected users should review the Health Canada notice and Philips field action instructions and implement any required corrective actions or monitoring.
+
+**Tags**: `health_canada`, `medical_device_recall`, `mri_safety`, `philips`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems-0)
+
+---
+
+### Health Canada Alert: Trinity Biotech Oxalate Reagent Kit Recall Due to Performance Issue
+
+**2026-09-17** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Trinity Biotech Oxalate Reagent Kit due to performance concerns. This in vitro diagnostic product may produce unreliable oxalate measurements, potentially affecting patient results and clinical decisions. Affected laboratories and healthcare facilities should verify inventory, discontinue use as directed, and follow manufacturer or Health Canada instructions for return or replacement.
+
+**Tags**: `recall`, `ivd`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/trinity-biotech-oxalate-reagent-kit)
+
+---
+
+### Health Canada Safety Alert: RAPICIDE™ PA High Level Disinfectant Performance Concern
+
+**2026-09-17** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for RAPICIDE™ PA High Level Disinfectant due to a performance issue. Healthcare facilities using this product for high-level disinfection of medical devices may be affected, with potential risk that disinfection efficacy could be compromised. Users should review the Health Canada notice, follow any recommended corrective actions, and verify recent disinfection processes according to facility protocols.
+
+**Tags**: `medical_device_recall`, `high_level_disinfectant`, `disinfection_efficacy`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant)
+
+---
+
+### National Patient Safety Alert: Patient hoists and slings risk of death and serious harm from falls (NatPSA/2026/005/MHRA)
+
+**2026-09-16** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued National Patient Safety Alert NatPSA/2026/005/MHRA on continued fatal and serious harm from falls involving patient hoists and slings during transfers and repositioning. It applies to all types of patient hoists and slings used in healthcare and social care settings. Providers and staff should review incidents, ensure appropriate equipment selection, training, and maintenance, and follow MHRA recommended actions to reduce fall risks.
+
+**Tags**: `national_patient_safety_alert`, `patient_hoists`, `slings`, `falls`, `mhra`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-patient-hoists-and-slings-all-types-risk-of-death-and-serious-harm-from-falls-natpsa-slash-2026-slash-005-slash-mhra)
+
+---
+
+### Platinum Naturals Easymulti Stress (men): Incorrect Vitamin B6 Quantity Labelling on Affected Lots
+
+**2026-09-16** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a labelling alert for Platinum Naturals Easymulti Stress (men) because affected lots are incorrectly labelled for Vitamin B6 quantity. Consumers and retailers should check product lot numbers against the recall notice and stop using or distributing the affected lots. Regulatory affairs professionals should review labelling compliance and screen inventory for the mislabelled product.
+
+**Tags**: `labelling_error`, `recall`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/platinum-naturals-easymulti-stress-men-affected-lots-incorrectly-labelled-vitamin-b6)
+
+---
+
+### Canada Recall: NDI Passive Spheres™ Performance Alert
+
+**2026-09-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for NDI Passive Spheres™, optical tracking markers used in surgical navigation and image-guided procedures, due to a performance issue. Healthcare facilities using these spheres should identify affected lots, quarantine the devices, and contact the manufacturer or distributor for corrective action. The performance defect may affect tracking accuracy and could impact procedural safety, so users should follow the alert instructions and monitor for navigation deviations.
+
+**Tags**: `medical_device_recall`, `surgical_navigation`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ndi-passive-spherestm)
+
+---
+
+### Health Canada Recall Alert: IntelliSpace Critical Care and Anesthesia Performance Issue
+
+**2026-09-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for Philips IntelliSpace Critical Care and Anesthesia due to a performance-related issue. Healthcare facilities using the affected software may be impacted by impaired system performance or reliability. Affected users should review the Health Canada notice, identify installed versions, and follow Philips' recommended mitigations or updates.
+
+**Tags**: `medical_device_recall`, `health_canada`, `clinical_software`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/intellispace-critical-care-and-anesthesia)
+
+---
+
 ### PMDA Class II Recall: Boston Scientific Japan Direction Catheter System (Central Circulatory Microcatheter), Recall No. 2-12966
 
 **2026-09-16** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -97,6 +205,18 @@ FDA CDRH posted a notice that Medical Action Industries issued a correction for 
 **Tags**: `medical_device_recall`, `epidural_kits`, `lidocaine_ampules`, `cdrh_news`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra)
+
+---
+
+### Organika® Gummies: Foreign Site Not Listed on Site Licence
+
+**2026-09-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued an alert for Organika® Gummies because the product was manufactured at a foreign site that is not listed on the Canadian site licence. Importers, distributors, and retailers in Canada are affected and should verify their inventory against the notice; affected lots may need to be removed from sale. Consumers who purchased Organika® Gummies should check the recall notice for batch/lot details and discontinue use of any affected product. The alert highlights the need to verify foreign site licensing before importation.
+
+**Tags**: `canada_recall`, `establishment_licensing`, `foreign_site_compliance`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence)
 
 ---
 

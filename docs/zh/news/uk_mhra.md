@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA DSI/2026/012：无线CTG监护系统射频安全考虑
+
+**2026-09-17** | UK MHRA | 安全通报 | !!! HIGH
+
+MHRA发布设备安全信息DSI/2026/012，针对使用射频(RF)遥测的无线胎心监护(CTG)系统进行审查。审查发现信号串扰、错误CTG曲线和信号丢失等潜在患者安全风险。相关医疗机构应检查射频频道管理和监护配置，并向MHRA报告可疑问题。
+
+**标签**: `mhra_safety`, `wireless_ctg`, `radiofrequency_safety`, `signal_dropout`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/radiofrequency-rf-safety-considerations-for-wireless-cardiotocography-ctg-monitoring-systems-dsi-slash-2026-slash-012)
+
+---
+
+### 英国国家患者安全警报：患者升降机与吊兜坠落致死及严重伤害风险
+
+**2026-09-16** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布国家患者安全警报NatPSA/2026/005/MHRA，针对患者在转移和体位调整过程中从升降机或吊兜坠落导致持续发生的死亡和严重伤害事件。该警报适用于医疗和社会护理机构中使用的所有类型患者升降机及吊兜。相关机构应审查事件、确保正确选配设备、培训与维护，并遵循MHRA建议的措施降低坠落风险。
+
+**标签**: `national_patient_safety_alert`, `patient_hoists`, `slings`, `falls`, `mhra`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-patient-hoists-and-slings-all-types-risk-of-death-and-serious-harm-from-falls-natpsa-slash-2026-slash-005-slash-mhra)
+
+---
+
 ### MHRA发布2026年9月7日至11日现场安全通告
 
 **2026-09-14** | UK MHRA | 安全通报 | !!! HIGH

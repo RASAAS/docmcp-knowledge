@@ -1,7 +1,60 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-09-14T22:25:31Z",
+  "last_updated": "2026-09-21T22:34:16Z",
   "items": [
+    {
+      "id": "uk_mhra_20260921_mhra_dsi_2026_012_rf_safety_considerations_for_wireless_ctg",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA DSI/2026/012: RF Safety Considerations for Wireless CTG Monitoring Systems",
+        "zh": "MHRA DSI/2026/012：无线CTG监护系统射频安全考虑"
+      },
+      "summary": {
+        "en": "The MHRA has published Device Safety Information DSI/2026/012 following a review of wireless cardiotocography (CTG) monitoring systems that use radiofrequency (RF) telemetry. The review identified signal crossover, erroneous CTG traces, and signal dropouts as potential patient safety concerns. Healthcare providers using these systems should review local RF channel management and monitoring configurations, and report any suspected issues to MHRA.",
+        "zh": "MHRA发布设备安全信息DSI/2026/012，针对使用射频(RF)遥测的无线胎心监护(CTG)系统进行审查。审查发现信号串扰、错误CTG曲线和信号丢失等潜在患者安全风险。相关医疗机构应检查射频频道管理和监护配置，并向MHRA报告可疑问题。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/radiofrequency-rf-safety-considerations-for-wireless-cardiotocography-ctg-monitoring-systems-dsi-slash-2026-slash-012",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-17",
+      "detected_date": "2026-09-21T22:32:24Z",
+      "importance": "high",
+      "tags": [
+        "mhra_safety",
+        "wireless_ctg",
+        "radiofrequency_safety",
+        "signal_dropout"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20260921_national_patient_safety_alert_patient_hoists_and_slings_risk",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "National Patient Safety Alert: Patient hoists and slings risk of death and serious harm from falls (NatPSA/2026/005/MHRA)",
+        "zh": "英国国家患者安全警报：患者升降机与吊兜坠落致死及严重伤害风险"
+      },
+      "summary": {
+        "en": "The UK MHRA has issued National Patient Safety Alert NatPSA/2026/005/MHRA on continued fatal and serious harm from falls involving patient hoists and slings during transfers and repositioning. It applies to all types of patient hoists and slings used in healthcare and social care settings. Providers and staff should review incidents, ensure appropriate equipment selection, training, and maintenance, and follow MHRA recommended actions to reduce fall risks.",
+        "zh": "英国MHRA发布国家患者安全警报NatPSA/2026/005/MHRA，针对患者在转移和体位调整过程中从升降机或吊兜坠落导致持续发生的死亡和严重伤害事件。该警报适用于医疗和社会护理机构中使用的所有类型患者升降机及吊兜。相关机构应审查事件、确保正确选配设备、培训与维护，并遵循MHRA建议的措施降低坠落风险。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-patient-hoists-and-slings-all-types-risk-of-death-and-serious-harm-from-falls-natpsa-slash-2026-slash-005-slash-mhra",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-21T22:32:33Z",
+      "importance": "high",
+      "tags": [
+        "national_patient_safety_alert",
+        "patient_hoists",
+        "slings",
+        "falls",
+        "mhra"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260914_mhra_weekly_field_safety_notices_7_11_september_2026",
       "framework": "uk_mhra",

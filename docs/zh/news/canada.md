@@ -6,6 +6,102 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部召回GE SIGNA™ Artist与Artist Evo MRI系统（性能问题）
+
+**2026-09-18** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了针对GE HealthCare SIGNA™ Artist和SIGNA™ Artist Evo磁共振成像（MRI）系统的召回/安全警示，涉及性能问题。使用这些设备的医疗机构受到影响。相关机构应查阅加拿大卫生部通知，联系GE HealthCare获取纠正措施，并遵循建议的临时缓解或维修方案。
+
+**标签**: `health_canada`, `medical_device_recall`, `mri_safety`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signatm-artist-and-signatm-artist-evo)
+
+---
+
+### 加拿大卫生部警示：飞利浦Ingenia、Achieva和Intera MR系统性能问题
+
+**2026-09-17** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对飞利浦Ingenia、Achieva和Intera MR系统发布医疗器械召回/警示，原因是性能问题。受影响对象包括使用这些MRI系统的医疗机构和影像科室。相关用户应查看加拿大卫生部通知和飞利浦现场行动说明，并实施所需的纠正措施或监测。
+
+**标签**: `health_canada`, `medical_device_recall`, `mri_safety`, `philips`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems-0)
+
+---
+
+### 加拿大卫生部警示：Trinity Biotech草酸盐试剂盒因性能问题召回
+
+**2026-09-17** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Trinity Biotech草酸盐试剂盒发布医疗器械召回/警示，原因是存在性能问题。该体外诊断产品可能导致草酸盐检测结果不可靠，进而影响患者结果和临床决策。受影响的实验室和医疗机构应核查库存，按要求停止使用，并遵循制造商或加拿大卫生部的指示进行退货或更换。
+
+**标签**: `recall`, `ivd`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/trinity-biotech-oxalate-reagent-kit)
+
+---
+
+### 加拿大卫生部发布RAPICIDE™ PA高水平消毒剂性能问题安全警报
+
+**2026-09-17** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部就RAPICIDE™ PA高水平消毒剂发布医疗器械召回/警示，原因是性能问题。使用该产品进行医疗器械高水平消毒的医疗机构可能受到影响，存在消毒效力可能受损的风险。用户应查看加拿大卫生部通知，遵循建议的纠正措施，并按机构规程核查近期消毒流程。
+
+**标签**: `medical_device_recall`, `high_level_disinfectant`, `disinfection_efficacy`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant)
+
+---
+
+### Platinum Naturals Easymulti Stress（男性）：受影响批次维生素B6含量标签错误
+
+**2026-09-16** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部发布 Platinum Naturals Easymulti Stress（男性）标签警示，受影响批次的维生素B6含量标识不正确。消费者和零售商应核对产品批号，并停止使用或销售受影响批次。法规事务人员应审查标签合规性并排查相关库存。
+
+**标签**: `labelling_error`, `recall`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/platinum-naturals-easymulti-stress-men-affected-lots-incorrectly-labelled-vitamin-b6)
+
+---
+
+### 加拿大召回NDI Passive Spheres™：性能问题警报
+
+**2026-09-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对NDI Passive Spheres™发布召回/警报，该产品是用于手术导航和影像引导操作的光学追踪标记球，存在性能问题。使用该产品的医疗机构应识别受影响批次、隔离设备，并联系制造商或经销商采取纠正措施。该性能缺陷可能影响追踪精度并可能影响操作安全，用户应遵循警报指示并警惕导航偏差。
+
+**标签**: `medical_device_recall`, `surgical_navigation`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ndi-passive-spherestm)
+
+---
+
+### 加拿大卫生部召回警报：IntelliSpace 重症监护与麻醉系统性能问题
+
+**2026-09-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就 Philips IntelliSpace Critical Care and Anesthesia 的性能相关问题发布召回/警报。使用受影响软件的医疗机构可能受到系统性能或可靠性问题的影响。受影响用户应查看加拿大卫生部通知，确认已安装版本，并遵循飞利浦建议的缓解措施或更新。
+
+**标签**: `medical_device_recall`, `health_canada`, `clinical_software`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/intellispace-critical-care-and-anesthesia)
+
+---
+
+### Organika® 软糖：境外生产场地未列入场地许可证
+
+**2026-09-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就 Organika® 软糖发布警报，原因是产品在未列入加拿大场地许可证的境外场地生产。加拿大进口商、分销商和零售商均受影响，应依据通知核对库存，受影响批次可能需要下架停售。购买过该产品的消费者应查阅召回通知中的批次信息，并停止使用受影响产品。该警报提醒进口前必须核验境外场地许可。
+
+**标签**: `canada_recall`, `establishment_licensing`, `foreign_site_compliance`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence)
+
+---
+
 ### 加拿大卫生部警示：IMN螺钉系统高级锁定螺钉兼容性问题
 
 **2026-09-10** | Health Canada | 安全通报 | !!! HIGH
