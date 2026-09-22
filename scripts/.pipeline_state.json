@@ -6,7 +6,28 @@
       "subcategory": "nmpa-updates",
       "has_fulltext": true,
       "timestamp": "2026-09-16T11:45:50.403499"
+    },
+    "fda_20260630_fda_title_21_cfr_update_medical_device_parts_800_898_revised": {
+      "status": "published",
+      "slug": "fda-21-cfr-parts-800-898-june-2026-update-qmsr-implementation-and-whole-lifecycl",
+      "subcategory": "fda-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-09-22T21:58:58.447733"
+    },
+    "fda_2026_cybersecurity_guidance": {
+      "status": "published",
+      "slug": "the-spdf-era-fully-arrives-fda-s-february-2026-cybersecurity-guidance-extends-re",
+      "subcategory": "fda-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-09-22T22:00:50.052008"
+    },
+    "fda_2026_qmsr": {
+      "status": "published",
+      "slug": "fda-quality-system-regulation-enters-the-iso-13485-era-the-restructuring-of-21-c",
+      "subcategory": "fda-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-09-22T22:02:49.898871"
     }
   },
-  "last_run": "2026-09-16T11:45:53.404452"
+  "last_run": "2026-09-22T22:02:52.899030"
 }

@@ -16,12 +16,9 @@ contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 3944
 effective_date: '2025-04-19'
+superseded_by: '/zh/eu_mdr/td/'
+superseded_reason: 'Content updated to Team-NB BPG Rev.4 (2026-04-21); insight was based on V3 (2025-04-09)'
 ---
-
-::: warning 本文内容已更新
-内容已更新至 Team-NB BPG Rev.4 (2026-04-21)，本文基于旧版 V3 (2025-04-09)。请参阅最新版本：[点击查看](/zh/eu_mdr/td/)
-:::
-
 
 # 医疗器械法规 (MDR) 技术文档编写说明
 

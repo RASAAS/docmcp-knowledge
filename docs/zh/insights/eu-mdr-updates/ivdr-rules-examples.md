@@ -1,27 +1,29 @@
 ---
-id: eu_mdr-ivdr-分类规则与实例汇总-基于-mdcg-2020-16-rev4
+id: eu_mdr-ivdr-分类规则与实例汇总-基于-mdcg-2020-16-rev5
 title:
-  zh: IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)
+  zh: IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)
   en: ''
 regulation: eu_mdr
 category: insights/eu-mdr-updates
 status: active
 source_url: https://reguverse.com/documentation/eu-mdr-indexing/eu-ivdr-classification/ivdr-rules-examples/
-source_url_verified: '2026-02-23'
+source_url_verified: '2026-09-15'
 source_url_status: migrated
 source_format: html
 translation: original
-last_verified: '2026-02-23'
+last_verified: '2026-09-15'
 contributor: RASAAS
 migrated_from: wordpress
 wordpress_id: 4903
 document_number: MDCG 2020-16
-effective_date: '2025-11-24'
+effective_date: '2026-09-01'
 ---
 
-# IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.4)
+# IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)
 
-本文档汇总了 MDCG 2020-16 Rev.4 指南中关于《体外诊断医疗器械法规》(IVDR) (EU) 2017/746 的分类规则及其具体实例。
+本文档汇总了 MDCG 2020-16 Rev.5 (2026年9月) 指南中关于《体外诊断医疗器械法规》(IVDR) (EU) 2017/746 的分类规则及其具体实例。
+
+> **版本更新说明：** Rev.5 (2026年9月) 的唯一实质变更为 **Rule 7** -- 对无赋值质控品的分类基本原理进行了全面澄清和示例修订。其他规则 (Rule 1-6) 内容与 Rev.4 保持一致。各版本变更历史请参见下方[修订历史](#修订历史)。
 
 * * *
 
@@ -339,9 +341,66 @@ effective_date: '2025-11-24'
 
 **适用范围：** 无赋值的质控品。
 
+> **:warning: Rev.5 重要更新 (2026年9月) -- 本条规则是 Rev.5 修订的唯一实质变更**
+
+### Rev.5 变更详解
+
+#### 基本原理 (Rationale) 的全面重写
+
+**Rev.4 原始表述：**
+> "Rule 7 applies to controls which are described as un-assayed where control values are assigned by the user and not the manufacturer. The manufacturer may indicate whether a specific analyte is present or absent in these controls without indicating expected assay results."
+
+**Rev.5 新表述：**
+> "Rule 7 applies to controls without an assigned value intended by their manufacturers to be used in IVD procedures."
+
+**核心变更分析：**
+
+| 方面 | Rev.4 | Rev.5 |
+|------|-------|-------|
+| 适用对象描述 | "un-assayed（未定值）" 质控品 | "controls without an assigned value（无赋值）" 质控品 |
+| 制造商信息披露 | 可标明分析物是否存在/缺失 | 可在 IFU 中指示各参数值的**范围**，但用户实际使用的目标值由实验室自行确定 |
+| 独立 QC 材料定位 | 未明确 | 明确独立 QC 材料用于监测实验室检验程序的有效性，**不能替代 IVD 本身要求的强制性 QC 材料** |
+| "赋值"的定义边界 | 未充分澄清 | **明确：** 独立 QC 材料制造商提供的分析物存在或浓度范围指示**不构成"赋值 (assigned values)"** |
+
+#### 关键澄清点
+
+1. **独立质控品 vs. 配套质控品的分类差异**
+   - **配套质控品**（由试剂/仪器制造商提供、有定量/定性赋值）：按实施规则 1.6 分类，即与其配套的器械同类别
+   - **独立质控品**（由第三方制造商提供、无赋值）：按 Rule 7 分类为 B 类
+
+2. **"赋值"的明确边界**
+   - Rev.5 首次明确：制造商提供的分析物浓度范围指示**不构成赋值**
+   - 诊断实验室日常使用的目标值由实验室自行确定，非制造商指定
+   - 这一澄清解决了行业长期存在的争议：第三方 QC 材料制造商提供浓度范围信息是否将其质控品从 Rule 7 (B 类) 升级到更高类别
+
+3. **独立 QC 材料的功能限定**
+   - Rev.5 新增说明：独立 QC 材料的预期用途**仅限于监测实验室检验程序的有效性**
+   - 它们不能替代验证 IVD 本身性能所需的强制性 QC 材料
+   - IFU 中必须明确声明这一限制
+
+4. **"国际认证参考物质"和"外部质量评估方案材料"的排除**
+   - Rev.5 保持与 Rev.4 一致的排除条款：按 IVDR 第 1 条第 3(c) 和 3(d) 段，这些材料不属于 IVD
+
+### 具体实例（Rev.5 更新后）
+
   * 未赋值的控制血清
   * 免疫层析分析迁移对照材料
-  * 未赋值的质控材料 (用于监测提取/扩增/检测性能)
+  * 未赋值的杂合质控品，用于监测核酸提取/扩增/检测的分析性能
   * 非检测特异性控制血浆 (凝血用)
   * 含多种生化分析物的非检测特异性控制血清
   * 原位杂交 (ISH) 用正常对照 DNA/RNA 探针
+
+> **注意：** Rev.5 的示例列表与 Rev.4 在内容上保持一致，但基本原理的澄清为这些示例提供了更明确的分类依据。
+
+---
+
+## 修订历史
+
+| 版本 | 日期 | 变更内容 |
+|------|------|----------|
+| Rev.5 | 2026-09 | Rule 7: 基本原理全面澄清，示例修订 |
+| Rev.4 | 2024 | Rule 1 第二条: 示例修订; Rule 3(m): 脚注 8 修改; Rule 4(a): 示例修订; Rule 6: 基本原理微调及示例修订; 附件 1/2: 编辑修订 |
+| Rev.3 | 2023 | 定义: 添加"kit"定义; Rule 3(a): 示例修订; Rule 4(a): 修订; Rule 5(c): 修订; Rule 6: 示例微调 |
+| Rev.2 | 2022 | Rule 1 第二条: 示例微调; Rule 2 D 类: 编辑修订; Rule 3 总述/3(f)/3(j)/3(m): 修订; 附件 2: 新增 |
+| Rev.1 | 2021 | Rule 5(b): 示例修订 |
+| Rev.0 | 2020 | 初始发布 |

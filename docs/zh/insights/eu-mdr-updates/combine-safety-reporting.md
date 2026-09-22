@@ -1,21 +1,20 @@
 ---
-id: insights-combine-safety-reporting
+id: eu_mdr-combine-programme-safety-reporting
 title:
   zh: COMBINE计划：联合研究安全报告赞助商指南深度解读
   en: 'COMBINE Programme: Sponsors Guide for Safety Reporting in Combined Studies'
-type: insight
-subcategory: eu-mdr-updates
+regulation: eu_mdr
 category: insights/eu-mdr-updates
 status: active
-published_date: '2026-09-15'
 source_url: https://health.ec.europa.eu/latest-updates/combine-programme-project-2-safety-reporting-combined-studies-sponsors-guide
+source_url_verified: '2026-09-15'
+source_url_status: active
 source_format: pdf
 translation: original
+last_verified: '2026-09-15'
 contributor: RASAAS
 document_number: COMBINE Project 2
-excerpt:
-  zh: COMBINE计划第2期项目赞助商指南深度解读。该指南由CTAG和MDCG联合背书，首次在官方层面提供了跨CTR/MDR/IVDR三大法规的安全报告协调方案，涵盖联合研究中安全事件的定义统一、严重性判定、因果关系评估、报告时限协调、紧急安全措施以及特殊场景的处理指南。
-  en: ''
+effective_date: '2026-09-01'
 ---
 
 # COMBINE 计划安全报告赞助商指南深度解读：CTR、MDR 与 IVDR 联合研究的安全事件管理
@@ -221,7 +220,7 @@ excerpt:
 ### 8.2 研究实施阶段
 
 1. 确保所有研究者充分了解联合研究的安全报告特殊要求
-2. 建立双向沟通机制：研究者与赞助者、赞助者与赞助者
+2. 建立双向沟通机制：研究者<->赞助者、赞助者<->赞助者
 3. 对安全事件及时进行多维度评估（严重性、因果关系、器械缺陷）
 4. 使用适当的系统和工具记录和报告
 

@@ -1,8 +1,53 @@
 {
   "category": "insights/fda-updates",
-  "last_updated": "2026-02-23",
-  "count": 4,
+  "last_updated": "2026-09-22",
+  "count": 7,
   "entries": [
+    {
+      "id": "insights-fda-quality-system-regulation-enters-the-iso-13485-era-the-restructuring-of-21-c",
+      "title": {
+        "zh": "FDA质量体系监管进入ISO 13485时代：QMSR生效对21 CFR Part 820的重构与制造商合规路径",
+        "en": "FDA Quality System Regulation Enters the ISO 13485 Era: The Restructuring of 21 CFR Part 820 and Compliance Pathways for Manufacturers After QMSR Takes Effect"
+      },
+      "published_date": "2026-02-02",
+      "subcategory": "fda-updates",
+      "source_url": "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-management-system-regulation-qmsr",
+      "excerpt": {
+        "zh": "## 一、政策背景与意义  2026年2月2日，美国食品药品监督管理局（FDA）《医疗器械质量管理体系法规》（Quality Management System Regulation，简称QMSR）正式生效。此次修订并非对原有21 CFR Part 820的简单修补，而是将**ISO 13485:2016《医疗器械——质量管理体系——用于法规的要求》**正式纳入美国联邦法规，使美国医疗器械质量体系",
+        "en": "## 1. Policy Background and Significance  On February 2, 2026, the U.S. Food and Drug Administration (FDA) Quality Management System Regulation (QMSR) officially took effect. This amendment does not m"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-the-spdf-era-fully-arrives-fda-s-february-2026-cybersecurity-guidance-extends-re",
+      "title": {
+        "zh": "SPDF时代全面落地：FDA 2026版网络安全指南将监管边界从\"联网器械\"扩展至所有具网络安全考量器械",
+        "en": "The SPDF Era Fully Arrives: FDA's February 2026 Cybersecurity Guidance Extends Regulatory Oversight from Connected Devices to All Devices with Cybersecurity Considerations"
+      },
+      "published_date": "2026-02-03",
+      "subcategory": "fda-updates",
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket",
+      "excerpt": {
+        "zh": "## 一、政策背景与发布意义  2026年2月3日，美国食品药品监督管理局（FDA）正式发布了修订版《医疗器械网络安全：质量体系考量与上市前提交内容》指南文件。该版本取代了2025年6月的过渡版本，并作为FDA自2014年发布首份医疗器械网络安全上市前指南以来，在历经2018年草案、2022年草案更新、2023年9月最终指南及2025年6月修订后的第五个重要里程碑文件，标志着FDA对医疗器械网络安",
+        "en": "## I. Policy Background and Significance  On February 3, 2026, the U.S. Food and Drug Administration (FDA) officially published a revised guidance document titled *Cybersecurity in Medical Devices: Qu"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-fda-21-cfr-parts-800-898-june-2026-update-qmsr-implementation-and-whole-lifecycl",
+      "title": {
+        "zh": "FDA 21 CFR第800–898部分2026年6月更新：QMSR正式落地与医疗器械全生命周期合规行动指南",
+        "en": "FDA 21 CFR Parts 800–898 June 2026 Update: QMSR Implementation and Whole-Lifecycle Compliance Action Guide for Medical Devices"
+      },
+      "published_date": "2026-06-30",
+      "subcategory": "fda-updates",
+      "source_url": "https://www.ecfr.gov/current/title-21",
+      "excerpt": {
+        "zh": "## 一、政策背景与意义  2026年6月26日，美国联邦公报办公室在《联邦法规》电子版（eCFR）上更新了第21篇第I章第H子章下的医疗器械法规部分，即第800至898部分。此次更新覆盖医疗器械的一般控制、标签、不良事件报告、纠正与移除报告、注册与列名、临床研究豁免、上市前批准、质量体系、唯一器械标识（UDI）和分类目录等关键合规领域。  从法规性质看，21 CFR是生效的联邦行政法汇编。eCF",
+        "en": "## 1. Policy Background and Significance  On June 26, 2026, the U.S. Office of the Federal Register updated the medical device regulations in Subchapter H of Chapter I, Title 21 of the Code of Federal"
+      },
+      "status": "active"
+    },
     {
       "id": "insights-fda-recombinant-collagen-dressing",
       "title": {

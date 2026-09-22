@@ -26,11 +26,11 @@ export default {
       ]
     },
     {
-      "text": "FDA Updates (4)",
+      "text": "FDA Updates (7)",
       "collapsed": true,
       "items": [
         {
-          "text": "View in Chinese (4 articles)",
+          "text": "View in Chinese (7 articles)",
           "link": "/zh/insights/fda-updates"
         }
       ]
