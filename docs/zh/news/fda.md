@@ -6,6 +6,90 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### CooperSurgical召回INCA婴儿鼻CPAP套件（呼吸机相关）
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA发布通告，CooperSurgical正在召回INCA婴儿经鼻CPAP套件，该产品与呼吸机配套用于婴儿呼吸支持。受影响的是使用该套件的医疗机构及新生儿患者。相关机构应立即停止使用并隔离受影响产品，按照CooperSurgical的通知进行退回或更换。
+
+**标签**: `recall`, `ventilator`, `neonatal_cpap`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets)
+
+---
+
+### AVID Medical 对含 Huons 氯化钠安瓿的便利包发布纠正措施
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH 发布 AVID Medical 的纠正通知，涉及含有 Huons 氯化钠安瓿的便利包。持有相关 AVID Medical 便利包的医疗机构和经销商应识别并隔离受影响产品，并遵循公司的纠正指示。该警报未单独列出截止日期，用户应关注 FDA 页面和 AVID Medical 的后续通知。
+
+**标签**: `medical_device_correction`, `convenience_kits`, `sodium_chloride_ampules`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride)
+
+---
+
+### Spectra Medical召回用于冲洗的氯化钠注射液USP安瓿
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA发布了一则关于Spectra Medical氯化钠注射液USP安瓿的召回通知，该产品用于氯化钠冲洗。医疗机构和医护人员应立即停止使用受影响批号的产品，隔离库存并按照Spectra Medical的退货或处置说明执行。该召回因无菌保证不足，可能导致严重感染。
+
+**标签**: `recall`, `sterility_assurance`, `sodium_chloride_flush`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules)
+
+---
+
+### FDA CDRH 生物相容性风险评估市民会议（2026年9月9日）
+
+**2026-09-22** | FDA | cdrh_news | !! MEDIUM
+
+FDA 医疗器械与放射健康中心（CDRH）宣布将于 2026 年 9 月 9 日举办生物相容性风险评估市民会议。该会议面向医疗器械制造商、法规事务人员和生物相容性相关专业人员。建议相关方参会或提交问题，以了解 CDRH 当前对生物相容性评估的要求与最佳实践。
+
+**标签**: `biocompatibility`, `risk_assessment`, `cdrh`, `town_hall`, `medical_devices`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026)
+
+---
+
+### Medical Action单次硬膜外穿刺套件（REF 59553）因无菌问题I级召回
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+FDA已将此项行动列为I级召回。Medical Action Industries, Inc. 正在召回3,606套单次硬膜外20/Cs套件（REF: 59553及相关REF），原因是其中含有的氯化钠安瓿因无菌性可能受损而被另一项召回涉及，存在严重感染风险。相关套件应立即隔离、停止使用，并按企业召回说明退回。
+
+**标签**: `class_i_recall`, `epidural_kit`, `sterility`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3107-2026)
+
+---
+
+### Medical Action Industries召回REF 82465硬膜外/疼痛套件，涉无菌受损
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+Medical Action Industries, Inc.正在召回其硬膜外/疼痛套件（REF 82465），原因是套件中所含氯化钠注射液安瓿因可能无菌受损而被另行召回。本次I级召回涉及1,960套，若使用受污染组件可能引发严重感染。医疗机构应立即隔离并停用受影响产品，并按公司召回通知处理。
+
+**标签**: `class_i_recall`, `compromised_sterility`, `epidural_pain_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3106-2026)
+
+---
+
+### Given Imaging Bravo CF 胶囊输送装置 FGS-0635 一级召回
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+FDA 发布一级召回（Z-3090-2026），涉及 Given Imaging Ltd. 的 Bravo CF 胶囊输送装置 5 件装，产品编号 FGS-0635。该胶囊可能无法附着于食管或从输送装置脱落，可能导致误吸/吸入、食管穿孔、气道阻塞和出血/失血。召回数量为 127,416 件。医疗机构应立即隔离受影响器械，并遵循 Given Imaging 的召回通知。
+
+**标签**: `class_i_recall`, `medical_device_recall`, `capsule_delivery_device`, `patient_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3090-2026)
+
+---
+
 ### FDA通报Medtronic及Given Imaging召回食管pH监测胶囊输送装置
 
 **2026-09-15** | FDA | cdrh_news | !!! HIGH

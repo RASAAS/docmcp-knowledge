@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA announced that CooperSurgical is removing INCA Infant Nasal CPAP Sets, which are used with ventilators for infant respiratory support. The recall affects healthcare facilities and neonatal patients using these CPAP sets. Facilities should immediately identify and quarantine affected products, discontinue use, and follow CooperSurgical's recall instructions for return or replacement.
+
+**Tags**: `recall`, `ventilator`, `neonatal_cpap`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets)
+
+---
+
+### AVID Medical Convenience Kit Correction: Huons Sodium Chloride Ampules
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH posted a correction notice from AVID Medical concerning convenience kits that contain Huons Sodium Chloride Ampules. Healthcare providers and distributors who received these AVID Medical kits should identify and quarantine affected inventory and follow the company’s correction instructions. No separate deadline is specified in the alert; users should monitor the FDA page and AVID Medical communications for updates.
+
+**Tags**: `medical_device_correction`, `convenience_kits`, `sodium_chloride_ampules`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride)
+
+---
+
+### Spectra Medical Recalls Sodium Chloride Injection USP Ampules Used for Flushing
+
+**2026-09-22** | FDA | cdrh_news | !!! HIGH
+
+FDA posted a recall notice for Spectra Medical’s Sodium Chloride Injection USP ampules, which are used as sodium chloride flushes. Healthcare facilities and providers should immediately identify and quarantine affected ampules and follow Spectra Medical’s return or disposal instructions. The recall is due to a lack of sterility assurance, which may lead to serious infections.
+
+**Tags**: `recall`, `sterility_assurance`, `sodium_chloride_flush`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules)
+
+---
+
+### FDA CDRH Town Hall on Biocompatibility Risk Assessment – September 9, 2026
+
+**2026-09-22** | FDA | cdrh_news | !! MEDIUM
+
+FDA’s Center for Devices and Radiological Health (CDRH) announced a town hall on biocompatibility risk assessment scheduled for September 9, 2026. The event is intended for medical device manufacturers, regulatory affairs professionals, and biocompatibility specialists. Stakeholders should attend or submit questions to gain insight into CDRH’s current expectations and best practices for biocompatibility evaluation.
+
+**Tags**: `biocompatibility`, `risk_assessment`, `cdrh`, `town_hall`, `medical_devices`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026)
+
+---
+
 ### Health Canada Issues Recall Alert for GE SIGNA™ Artist and SIGNA™ Artist Evo MRI Systems Due to Performance Issue
 
 **2026-09-18** | Health Canada | Safety Communication | !!! HIGH
@@ -63,6 +111,42 @@ Health Canada has issued a medical device recall/alert for RAPICIDE™ PA High L
 **Tags**: `medical_device_recall`, `high_level_disinfectant`, `disinfection_efficacy`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant)
+
+---
+
+### Class I Recall: Medical Action Single Shot Epidural Kits (REF 59553) Due to Compromised Sterility
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+FDA has classified this as a Class I recall. Medical Action Industries, Inc. is recalling 3,606 Single Shot Epidural 20/Cs kits (REF: 59553 and related REF) because they contain Sodium Chloride ampules subject to another recall due to potentially compromised sterility, posing a serious infection risk. Affected kits should be immediately quarantined, not used, and returned per the firm's recall instructions.
+
+**Tags**: `class_i_recall`, `epidural_kit`, `sterility`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3107-2026)
+
+---
+
+### Medical Action Industries Recalls Epidural/Pain Kit REF 82465 Due to Potential Sterility Compromise
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+Medical Action Industries, Inc. is recalling its Kit: Epidural/Pain TQC 20/Cs, REF 82465, because the kits contain sodium chloride injection ampules subject to another recall for potentially compromised sterility. This Class I recall covers 1,960 kits and poses a risk of serious infection if compromised components are used. Healthcare providers should immediately quarantine and discontinue use of affected kits and follow the firm’s recall instructions.
+
+**Tags**: `class_i_recall`, `compromised_sterility`, `epidural_pain_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3106-2026)
+
+---
+
+### Class I Recall: Given Imaging Bravo CF Capsule Delivery Device FGS-0635 (Z-3090-2026)
+
+**2026-09-16** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3090-2026) for Given Imaging Ltd.’s Bravo CF capsule delivery device, 5-pack, product number FGS-0635. The capsule may fail to attach to the esophagus or detach from the delivery device, creating risks of aspiration/inhalation, esophageal perforation, airway obstruction, and hemorrhage/blood loss. The recall involves 127,416 units. Healthcare providers should immediately quarantine affected devices and follow Given Imaging’s recall instructions.
+
+**Tags**: `class_i_recall`, `medical_device_recall`, `capsule_delivery_device`, `patient_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3090-2026)
 
 ---
 

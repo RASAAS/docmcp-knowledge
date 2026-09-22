@@ -1,7 +1,185 @@
 {
   "framework": "fda",
-  "last_updated": "2026-09-15T22:01:56Z",
+  "last_updated": "2026-09-22T21:57:15Z",
   "items": [
+    {
+      "id": "fda_20260922_ventilator_recall_coopersurgical_removes_inca_infant_nasal_c",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
+        "zh": "CooperSurgical召回INCA婴儿鼻CPAP套件（呼吸机相关）"
+      },
+      "summary": {
+        "en": "FDA announced that CooperSurgical is removing INCA Infant Nasal CPAP Sets, which are used with ventilators for infant respiratory support. The recall affects healthcare facilities and neonatal patients using these CPAP sets. Facilities should immediately identify and quarantine affected products, discontinue use, and follow CooperSurgical's recall instructions for return or replacement.",
+        "zh": "FDA发布通告，CooperSurgical正在召回INCA婴儿经鼻CPAP套件，该产品与呼吸机配套用于婴儿呼吸支持。受影响的是使用该套件的医疗机构及新生儿患者。相关机构应立即停止使用并隔离受影响产品，按照CooperSurgical的通知进行退回或更换。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:56:33Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "ventilator",
+        "neonatal_cpap"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_avid_medical_convenience_kit_correction_huons_sodium_chlorid",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "AVID Medical Convenience Kit Correction: Huons Sodium Chloride Ampules",
+        "zh": "AVID Medical 对含 Huons 氯化钠安瓿的便利包发布纠正措施"
+      },
+      "summary": {
+        "en": "FDA CDRH posted a correction notice from AVID Medical concerning convenience kits that contain Huons Sodium Chloride Ampules. Healthcare providers and distributors who received these AVID Medical kits should identify and quarantine affected inventory and follow the company’s correction instructions. No separate deadline is specified in the alert; users should monitor the FDA page and AVID Medical communications for updates.",
+        "zh": "FDA CDRH 发布 AVID Medical 的纠正通知，涉及含有 Huons 氯化钠安瓿的便利包。持有相关 AVID Medical 便利包的医疗机构和经销商应识别并隔离受影响产品，并遵循公司的纠正指示。该警报未单独列出截止日期，用户应关注 FDA 页面和 AVID Medical 的后续通知。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:56:51Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_correction",
+        "convenience_kits",
+        "sodium_chloride_ampules"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_spectra_medical_recalls_sodium_chloride_injection_usp_ampule",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Spectra Medical Recalls Sodium Chloride Injection USP Ampules Used for Flushing",
+        "zh": "Spectra Medical召回用于冲洗的氯化钠注射液USP安瓿"
+      },
+      "summary": {
+        "en": "FDA posted a recall notice for Spectra Medical’s Sodium Chloride Injection USP ampules, which are used as sodium chloride flushes. Healthcare facilities and providers should immediately identify and quarantine affected ampules and follow Spectra Medical’s return or disposal instructions. The recall is due to a lack of sterility assurance, which may lead to serious infections.",
+        "zh": "FDA发布了一则关于Spectra Medical氯化钠注射液USP安瓿的召回通知，该产品用于氯化钠冲洗。医疗机构和医护人员应立即停止使用受影响批号的产品，隔离库存并按照Spectra Medical的退货或处置说明执行。该召回因无菌保证不足，可能导致严重感染。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:57:06Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "sterility_assurance",
+        "sodium_chloride_flush"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_fda_cdrh_town_hall_on_biocompatibility_risk_assessment_septe",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Town Hall on Biocompatibility Risk Assessment – September 9, 2026",
+        "zh": "FDA CDRH 生物相容性风险评估市民会议（2026年9月9日）"
+      },
+      "summary": {
+        "en": "FDA’s Center for Devices and Radiological Health (CDRH) announced a town hall on biocompatibility risk assessment scheduled for September 9, 2026. The event is intended for medical device manufacturers, regulatory affairs professionals, and biocompatibility specialists. Stakeholders should attend or submit questions to gain insight into CDRH’s current expectations and best practices for biocompatibility evaluation.",
+        "zh": "FDA 医疗器械与放射健康中心（CDRH）宣布将于 2026 年 9 月 9 日举办生物相容性风险评估市民会议。该会议面向医疗器械制造商、法规事务人员和生物相容性相关专业人员。建议相关方参会或提交问题，以了解 CDRH 当前对生物相容性评估的要求与最佳实践。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026",
+      "source_name": "FDA",
+      "published_date": "2026-09-22",
+      "detected_date": "2026-09-22T21:57:15Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "risk_assessment",
+        "cdrh",
+        "town_hall",
+        "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_class_i_recall_medical_action_single_shot_epidural_kits_ref",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medical Action Single Shot Epidural Kits (REF 59553) Due to Compromised Sterility",
+        "zh": "Medical Action单次硬膜外穿刺套件（REF 59553）因无菌问题I级召回"
+      },
+      "summary": {
+        "en": "FDA has classified this as a Class I recall. Medical Action Industries, Inc. is recalling 3,606 Single Shot Epidural 20/Cs kits (REF: 59553 and related REF) because they contain Sodium Chloride ampules subject to another recall due to potentially compromised sterility, posing a serious infection risk. Affected kits should be immediately quarantined, not used, and returned per the firm's recall instructions.",
+        "zh": "FDA已将此项行动列为I级召回。Medical Action Industries, Inc. 正在召回3,606套单次硬膜外20/Cs套件（REF: 59553及相关REF），原因是其中含有的氯化钠安瓿因无菌性可能受损而被另一项召回涉及，存在严重感染风险。相关套件应立即隔离、停止使用，并按企业召回说明退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3107-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:55:58Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "epidural_kit",
+        "sterility"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_medical_action_industries_recalls_epidural_pain_kit_ref_8246",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Medical Action Industries Recalls Epidural/Pain Kit REF 82465 Due to Potential Sterility Compromise",
+        "zh": "Medical Action Industries召回REF 82465硬膜外/疼痛套件，涉无菌受损"
+      },
+      "summary": {
+        "en": "Medical Action Industries, Inc. is recalling its Kit: Epidural/Pain TQC 20/Cs, REF 82465, because the kits contain sodium chloride injection ampules subject to another recall for potentially compromised sterility. This Class I recall covers 1,960 kits and poses a risk of serious infection if compromised components are used. Healthcare providers should immediately quarantine and discontinue use of affected kits and follow the firm’s recall instructions.",
+        "zh": "Medical Action Industries, Inc.正在召回其硬膜外/疼痛套件（REF 82465），原因是套件中所含氯化钠注射液安瓿因可能无菌受损而被另行召回。本次I级召回涉及1,960套，若使用受污染组件可能引发严重感染。医疗机构应立即隔离并停用受影响产品，并按公司召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3106-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:56:09Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "compromised_sterility",
+        "epidural_pain_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20260922_class_i_recall_given_imaging_bravo_cf_capsule_delivery_devic",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Given Imaging Bravo CF Capsule Delivery Device FGS-0635 (Z-3090-2026)",
+        "zh": "Given Imaging Bravo CF 胶囊输送装置 FGS-0635 一级召回"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall (Z-3090-2026) for Given Imaging Ltd.’s Bravo CF capsule delivery device, 5-pack, product number FGS-0635. The capsule may fail to attach to the esophagus or detach from the delivery device, creating risks of aspiration/inhalation, esophageal perforation, airway obstruction, and hemorrhage/blood loss. The recall involves 127,416 units. Healthcare providers should immediately quarantine affected devices and follow Given Imaging’s recall instructions.",
+        "zh": "FDA 发布一级召回（Z-3090-2026），涉及 Given Imaging Ltd. 的 Bravo CF 胶囊输送装置 5 件装，产品编号 FGS-0635。该胶囊可能无法附着于食管或从输送装置脱落，可能导致误吸/吸入、食管穿孔、气道阻塞和出血/失血。召回数量为 127,416 件。医疗机构应立即隔离受影响器械，并遵循 Given Imaging 的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3090-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-16",
+      "detected_date": "2026-09-22T21:56:18Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medical_device_recall",
+        "capsule_delivery_device",
+        "patient_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260915_fda_announces_medtronic_and_given_imaging_recall_of_esophage",
       "framework": "fda",
