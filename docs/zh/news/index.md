@@ -114,6 +114,30 @@ MHRA发布设备安全信息DSI/2026/012，针对使用射频(RF)遥测的无线
 
 ---
 
+### 日本PMDA II类召回：美敦力OmniaSecure MRI导线（ICD/起搏器导线）
+
+**2026-09-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II类召回（#2-12968），涉及日本美敦力生产的OmniaSecure MRI导线（植入型除颤器/起搏器导线）。该通知提示存在中等程度的安全风险，具体故障模式应以PMDA/美敦力官方公告为准。医疗机构应识别受影响产品，按要求进行隔离和召回处理。
+
+**标签**: `pmda_recall`, `class_ii`, `cardiac_lead`, `medtronic`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12968)
+
+---
+
+### 日本PMDA 2-12967 II类召回：Getinge HLS肝素涂层中心循环动静脉插管
+
+**2026-09-17** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了Getinge Group Japan K.K.的HLS插管（肝素涂层中心循环动静脉插管）II类召回（编号2-12967）。该召回为中等风险级别，因医疗器械安全问题启动。相关机构应查阅PMDA通知，识别受影响批次并执行制造商召回要求。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `medical_device_recall`, `getinge`, `hls_cannula`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12967)
+
+---
+
 ### Medical Action单次硬膜外穿刺套件（REF 59553）因无菌问题I级召回
 
 **2026-09-16** | FDA | recall_class1 | !!! HIGH

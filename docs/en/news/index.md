@@ -114,6 +114,30 @@ Health Canada has issued a medical device recall/alert for RAPICIDE™ PA High L
 
 ---
 
+### Japan PMDA Class II Recall: Medtronic OmniaSecure MRI Lead (ICD/Pacemaker Lead)
+
+**2026-09-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (#2-12968) for the OmniaSecure MRI lead, an implantable defibrillator/pacemaker lead manufactured by Japan Medtronic. The notice indicates a moderate device safety risk; healthcare facilities should confirm the specific failure mode in the official PMDA/Medtronic communication. Affected products should be identified, quarantined, and handled according to the recall instructions.
+
+**Tags**: `pmda_recall`, `class_ii`, `cardiac_lead`, `medtronic`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12968)
+
+---
+
+### PMDA Class II Recall No. 2-12967: Getinge HLS Cannula (Heparin-Coated Central Circulatory AV Cannula)
+
+**2026-09-17** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-12967) for the HLS Cannula, a heparin-coated central circulatory arteriovenous cannula from Getinge Group Japan K.K. The recall is classified as moderate risk and was initiated due to a medical device safety concern. Affected facilities should review the PMDA notice, identify affected lots, and follow the manufacturer's recall instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `medical_device_recall`, `getinge`, `hls_cannula`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12967)
+
+---
+
 ### Class I Recall: Medical Action Single Shot Epidural Kits (REF 59553) Due to Compromised Sterility
 
 **2026-09-16** | FDA | recall_class1 | !!! HIGH
