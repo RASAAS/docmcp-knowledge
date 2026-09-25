@@ -36,6 +36,114 @@ title: 法规速递
 
 ## 最新动态
 
+### Swissmedic发布UTK Solution GMBH BlueLavage长骨尖端BL2004.1 FSCA
+
+**2026-09-24** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了一项针对UTK Solution GMBH生产的BlueLavage长骨尖端（型号BL2004.1）的现场安全纠正措施（FSCA）。该产品属于伤口和皮肤用有源非植入式器械；现有警报摘要中未说明具体纠正原因。相关用户应查阅Swissmedic FSCA通知，并遵循制造商关于受影响型号BL2004.1的指示。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `wound_care`, `product_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260916_018)
+
+---
+
+### Swissmedic：METASYS GREEN&CLEAN WK消毒剂FSCA（型号112000038/122000057）
+
+**2026-09-23** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对METASYS Medizintechnik GmbH医疗器械消毒剂GREEN&CLEAN WK的现场安全纠正措施（FSCA）。涉及型号为112000038和122000057。该通知摘要未提供具体原因，但受影响用户应按安全相关纠正处理。用户应查看Swissmedic FSCA页面或制造商通知并遵循现场安全指令。
+
+**标签**: `swissmedic_fsca`, `medical_device_disinfection`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_027)
+
+---
+
+### 瑞士Swissmedic FSCA：美敦力InterStim经皮延伸导线（型号3560030/3560022）
+
+**2026-09-22** | Swissmedic | 安全通报 | !!! HIGH
+
+本项瑞士药监局现场安全纠正措施涉及美敦力InterStim经皮延伸导线，该产品为尿失禁治疗设备的附件。受影响型号为3560030和3560022。通知中未列出具体纠正原因。相关用户和医疗机构应查阅制造商的现场安全通知并遵循建议措施。
+
+**标签**: `swissmedic`, `fsca`, `medtronic`, `interstim`, `incontinence`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_035)
+
+---
+
+### Swissmedic对Medtronic InterStim SureScan MRI导线套件978A1/978B1发布FSCA
+
+**2026-09-22** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic已针对Medtronic, Inc.的InterStim SureScan MRI导线套件（骶神经刺激导线）发布现场安全纠正措施（FSCA），受影响型号为978A1和978B1。瑞士Swissmedic摘要未列明具体故障原因，相关机构应识别受影响导线并遵循Medtronic现场安全通知的要求。
+
+**标签**: `swissmedic`, `fsca`, `medtronic`, `neurostimulation`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_035)
+
+---
+
+### 瑞士Swissmedic发布TROKAMED子宫操作器FSCA
+
+**2026-09-22** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了一项涉及TROKAMED GmbH子宫操作器（子宫举宫器）的现场安全纠正措施（FSCA）。目前公开摘要中未注明纠正原因、受影响型号/批次及具体建议措施。相关监管事务人员和用户应查阅Swissmedic官方FSCA条目获取完整信息，并遵循制造商现场安全通知。
+
+**标签**: `swissmedic`, `fsca`, `uterine_manipulator`, `medical_device_safety`, `trokamed_gmbh`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260917_003)
+
+---
+
+### Swissmedic发布TROKAMED GmbH筋膜闭合器针导FSCA
+
+**2026-09-22** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项针对TROKAMED GmbH筋膜闭合器（可重复使用针导）的现场安全纠正措施（FSCA）。该公告未列出纠正原因及受影响型号/批次。相关使用者应查阅Swissmedic完整通知及制造商说明，确认受影响产品和所需措施。
+
+**标签**: `swissmedic`, `fsca`, `needle_guide`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260917_003)
+
+---
+
+### 瑞士Swissmedic发布Inspire植入式脉冲发生器FSCA（型号3024/3028）
+
+**2026-09-22** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布Inspire Medical Systems Inc. Inspire植入式脉冲发生器的现场安全纠正措施（FSCA），该产品为用于睡眠呼吸暂停治疗的植入式神经刺激器及导线。受影响型号为3024和3028。具体纠正原因在现有描述中未列明，建议查阅Swissmedic完整FSCA通知及制造商说明，并遵循相关建议措施。
+
+**标签**: `swissmedic`, `fsca`, `implantable_neurostimulator`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260921_008)
+
+---
+
+### Swissmedic FSCA：Biomet UK Ltd Avantage 骨科假体器械
+
+**2026-09-22** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士医药监管局（Swissmedic）发布了一项针对Biomet UK Ltd生产的Avantage骨科假体可重复使用器械的现场安全纠正措施（FSCA）。该FSCA条目未详细说明具体原因及受影响型号/批号，相关信息见制造商现场安全通告（FSN）。受影响机构应查找相关器械，查阅FSN，并遵循Biomet UK Ltd的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `orthopedic_instruments`, `field_safety_corrective_action`, `biomet_uk`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260918_002)
+
+---
+
+### 瑞士Swissmedic发布Kluge & Fielitz Reha清洁消毒系统FSCA
+
+**2026-09-21** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布Kluge & Fielitz GmbH生产的Reha清洁与消毒系统的现场安全纠正措施（FSCA），该产品属于清洁消毒设备。目前公布的元数据未说明具体原因，受影响型号详见随附的现场安全通知（FSN）。使用者应查阅FSN，识别受影响设备并执行制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `cleaning_disinfection_equipment`, `medical_devices`, `field_safety_notice`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_011)
+
+---
+
 ### Swissmedic FSCA：波士顿科学 Direxion 和 Direxion HI-FLO 扭矩微导管
 
 **2026-09-16** | Swissmedic | 安全通报 | !! MEDIUM
@@ -2275,6 +2383,18 @@ Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 603200
 **标签**: `fsca`, `philips`, `angiographic_system`, `field_safety_notice`, `swissmedic`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251209_34)
+
+---
+
+### 瑞士药监局FSCA：奥林巴斯PolyLoop一次性结扎器HX-400U-30设计变更客户信息
+
+**2025-11-11** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布FSCA，涉及奥林巴斯医疗系统株式会社生产的PolyLoop一次性息肉结扎器，型号HX-400U-30（REF N5382130）。此次现场安全纠正措施旨在告知客户设计变更的新信息。法规事务人员应审查更新后的客户信息并通知相关使用者。
+
+**标签**: `swissmedic_fsca`, `olympus`, `design_change`, `endoscopic_ligator`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251110_06)
 
 ---
 

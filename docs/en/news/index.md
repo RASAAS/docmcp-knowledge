@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Swissmedic FSCA: BlueLavage Longe Bone Tip BL2004.1 by UTK Solution GMBH
+
+**2026-09-24** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the BlueLavage longe bone tip, model BL2004.1, manufactured by UTK Solution GMBH. The device is classified as an active non-implantable device for wound and skin; the specific reason for the corrective action is not detailed in the available alert summary. Users should consult the Swissmedic FSCA notice and follow the manufacturer's instructions for affected model BL2004.1.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `wound_care`, `product_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260916_018)
+
+---
+
+### Swissmedic FSCA for METASYS GREEN&CLEAN WK Disinfection Agent (Models 112000038, 122000057)
+
+**2026-09-23** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the METASYS Medizintechnik GmbH medical device disinfection agent GREEN&CLEAN WK. The notification covers models 112000038 and 122000057. The detailed reason for the corrective action is not specified in the alert description, but affected users should treat it as a safety-related correction. Users should check the Swissmedic FSCA page or manufacturer communication and follow the specified field safety instructions.
+
+**Tags**: `swissmedic_fsca`, `medical_device_disinfection`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_027)
+
+---
+
 ### Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets
 
 **2026-09-22** | FDA | cdrh_news | !!! HIGH
@@ -51,6 +75,90 @@ FDA’s Center for Devices and Radiological Health (CDRH) announced a town hall 
 **Tags**: `biocompatibility`, `risk_assessment`, `cdrh`, `town_hall`, `medical_devices`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026)
+
+---
+
+### Swissmedic FSCA: Medtronic InterStim Percutaneous Extension Models 3560030 and 3560022
+
+**2026-09-22** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic Field Safety Corrective Action concerns Medtronic's InterStim Percutaneous Extension, an accessory used with devices for treating incontinence. The notice affects models 3560030 and 3560022. The specific reason for the corrective action is not detailed in the provided alert. Affected users and healthcare facilities should consult the manufacturer's field safety notice and follow the recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `medtronic`, `interstim`, `incontinence`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_035)
+
+---
+
+### Swissmedic FSCA: Medtronic InterStim SureScan MRI Lead Kit Models 978A1/978B1
+
+**2026-09-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a field safety corrective action (FSCA) for Medtronic, Inc.'s InterStim SureScan MRI lead kit, a sacral spine neurostimulation lead system. The affected models are 978A1 and 978B1. The Swissmedic extract does not state the specific failure reason; users should identify affected leads and follow Medtronic's field safety notice for required corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `medtronic`, `neurostimulation`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260915_035)
+
+---
+
+### Swissmedic FSCA for TROKAMED GmbH Uterine Manipulator (Uterine Elevator)
+
+**2026-09-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) concerning a uterine manipulator (uterine elevator) from TROKAMED GmbH. The available alert summary does not specify the corrective action reason, affected models/lots, or recommended measures. Regulatory affairs professionals and users should consult the official Swissmedic FSCA entry for complete details and follow the manufacturer's field safety notice.
+
+**Tags**: `swissmedic`, `fsca`, `uterine_manipulator`, `medical_device_safety`, `trokamed_gmbh`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260917_003)
+
+---
+
+### Swissmedic FSCA: TROKAMED GmbH Fascia Closure Needle Guide
+
+**2026-09-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for TROKAMED GmbH’s fascia closure device, described as a reusable needle guide. The published entry does not specify the reason for the corrective action or the affected model/lot details. Users should review the full Swissmedic FSCA notice and manufacturer communications to identify affected products and required actions.
+
+**Tags**: `swissmedic`, `fsca`, `needle_guide`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260917_003)
+
+---
+
+### Swissmedic FSCA: Inspire Implantable Pulse Generator Models 3024 and 3028
+
+**2026-09-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Inspire Medical Systems Inc.'s Inspire Implantable Pulse Generator, an implantable neurostimulator used with leads for sleep apnea treatment. The notice affects Model 3024 and Model 3028. The specific reason for the corrective action is not detailed in the provided description, so regulatory affairs professionals should review the full Swissmedic FSCA notice and manufacturer instructions, and follow any recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `implantable_neurostimulator`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260921_008)
+
+---
+
+### Swissmedic FSCA for Avantage Orthopaedic Prosthetic Instruments by Biomet UK Ltd
+
+**2026-09-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Avantage orthopaedic prosthetic reusable instruments manufactured by Biomet UK Ltd. The specific reason and affected model/lot numbers are not detailed in the Swissmedic entry and are identified in the manufacturer’s Field Safety Notice (FSN). Affected facilities should locate relevant instruments, review the FSN, and follow Biomet UK Ltd’s corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `orthopedic_instruments`, `field_safety_corrective_action`, `biomet_uk`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260918_002)
+
+---
+
+### Swissmedic FSCA: Reha Cleaning and Disinfection System – Kluge & Fielitz GmbH
+
+**2026-09-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Reha Reinigungs- und Desinfektionssystem manufactured by Kluge & Fielitz GmbH, a cleaning and disinfection equipment medical device. The published metadata does not specify the reason; affected models are indicated in the associated Field Safety Notice (FSN). Users should review the FSN, identify affected units, and implement the manufacturer's recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `cleaning_disinfection_equipment`, `medical_devices`, `field_safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260911_011)
 
 ---
 
@@ -7515,6 +7623,18 @@ Swissmedic issued a Field Safety Corrective Action (FSCA) for Philips Medical Sy
 HSA medical device guidance update: GL-04-R4 Regulatory Guidelines for Software Medical Devices - A Life Cycle Approach (2025 Dec)
 
 [View Source (Official Source)](https://www.hsa.gov.sg/medical-devices/guidance-documents/)
+
+---
+
+### Swissmedic FSCA: Olympus PolyLoop Single Use Ligating Device (HX-400U-30) – Design Change Customer Information
+
+**2025-11-11** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA concerns the Olympus PolyLoop Single Use Ligating Device, model HX-400U-30 (REF N5382130), manufactured by Olympus Medical Systems Corporation. The field safety corrective action communicates new customer information regarding a design change. Regulatory affairs professionals should review the updated information and inform relevant users of the change.
+
+**Tags**: `swissmedic_fsca`, `olympus`, `design_change`, `endoscopic_ligator`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20251110_06)
 
 ---
 
