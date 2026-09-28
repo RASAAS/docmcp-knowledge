@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA更新医疗器械特殊使用授权清单
+
+**2026-09-28** | UK MHRA | 法规更新 | !! MEDIUM
+
+MHRA发布了已获得特殊使用授权的制造商及医疗器械的最新清单，同时包括授权已到期或被取消的情形。该更新影响依赖此类豁免的制造商和医疗机构。相关方应查看清单，确认其器械的当前状态，并确保持续符合英国医疗器械法规。
+
+**标签**: `mhra`, `medical_devices`, `exceptional_use_authorisation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA对虚假认证医疗器械欺诈案判决表示欢迎
+
+**2026-09-24** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA对涉及医疗器械虚假认证的欺诈案判决表示欢迎，标志着这项长期执法调查的结束。该案影响到依赖器械认证的制造商、进口商、分销商和医疗机构。法规事务人员应核查供应链中认证的真实性，并向MHRA报告任何涉嫌伪造的证书。
+
+**标签**: `mhra`, `medical_devices`, `fraud`, `certification`, `enforcement`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/mhra-welcomes-sentencing-after-fraud-convictions-over-falsely-certified-medical-devices)
+
+---
+
+### MHRA现场安全通告：2026年9月14日至18日
+
+**2026-09-23** | UK MHRA | 安全通报 | !! MEDIUM
+
+英国MHRA发布了2026年9月14日至18日期间的现场安全通告（FSN）周度清单。该清单汇集了制造商就医疗器械风险或纠正措施发出的通知，面向医疗机构、生物医学工程师和器械供应商。相关机构应查阅清单中涉及自身使用或分销设备的通告，并尽快执行建议的安全措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`, `uk_regulation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-14-to-18-september-2026)
+
+---
+
+### MHRA现场安全通知：2026年9月14日至18日（3项新条目）
+
+**2026-09-23** | UK MHRA | 法规更新 | !! MEDIUM
+
+英国MHRA发布了2026年9月14日至18日的每周现场安全通知清单，其中包括3项新条目。相关医疗机构、医疗器械供应商和使用者应查阅通知，确认受影响设备并采取必要措施。可能需要执行制造商安全纠正措施、停用或退回受影响产品，并按规定报告不良事件。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-14-to-18-september-2026)
+
+---
+
 ### MHRA DSI/2026/012：无线CTG监护系统射频安全考虑
 
 **2026-09-17** | UK MHRA | 安全通报 | !!! HIGH

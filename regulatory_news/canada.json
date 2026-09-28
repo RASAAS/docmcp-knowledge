@@ -1,7 +1,264 @@
 {
   "framework": "canada",
-  "last_updated": "2026-09-21T22:34:16Z",
+  "last_updated": "2026-09-28T23:48:33Z",
   "items": [
+    {
+      "id": "canada_20260928_health_canada_alert_perma_hand_silk_suture_recall_due_to_per",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: PERMA-HAND™ Silk Suture Recall Due to Performance Issue",
+        "zh": "加拿大卫生部发布PERMA-HAND™丝线缝合线性能召回警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for PERMA-HAND™ Silk Suture due to a performance issue. This affects healthcare facilities and providers using the affected suture product in Canada. Users should review the notice for affected lot information, discontinue use as directed, and follow the manufacturer's recall and reporting instructions.",
+        "zh": "加拿大卫生部已就PERMA-HAND™丝线缝合线发布医疗器械召回/警报，原因为性能问题。此问题影响加拿大使用该缝合线产品的医疗机构和医护人员。相关用户应核对受影响批次，按制造商指示停用产品，并遵循召回处理和报告要求。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/perma-handtm-silk-suture",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-28T23:46:42Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "suture",
+        "performance_issue",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_recall_amplatzer_amulet_left_atrial_appendage",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Amplatzer™ Amulet™ Left Atrial Appendage Occluder – Labelling and Packaging",
+        "zh": "加拿大卫生部召回Amplatzer™ Amulet™左心耳封堵器：标签与包装问题"
+      },
+      "summary": {
+        "en": "Health Canada has posted a medical device recall/alert for the Amplatzer™ Amulet™ Left Atrial Appendage Occluder due to labelling and packaging issues. The notice affects healthcare facilities and professionals that stock or implant this device. Affected parties should review the recall notice, identify affected lots, and follow the manufacturer’s and Health Canada’s instructions for quarantine, return, or corrective action.",
+        "zh": "加拿大卫生部发布了一则关于Amplatzer™ Amulet™左心耳封堵器的医疗器械召回/警示，原因为标签和包装问题。该通知适用于库存或植入该器械的医疗机构和专业人员。相关方应查阅召回通知，核对受影响批次，并遵循制造商和加拿大卫生部的指示进行隔离、退回或采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/amplatzertm-amulettm-left-atrial-appendage-occluder",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-28T23:46:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "labelling_packaging",
+        "left_atrial_appendage_occluder",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_limited_number_of_sarclisa_single_use_vials_may_have_been_fr",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Limited number of Sarclisa single use vials may have been frozen during shipment",
+        "zh": "Sarclisa单次使用药瓶在运输过程中可能被冻结"
+      },
+      "summary": {
+        "en": "Health Canada has issued a product quality alert concerning a limited number of Sarclisa (isatuximab) single-use vials that may have been frozen during shipment. Freezing can compromise the quality and effectiveness of the product. Healthcare professionals and distributors should check shipment records, quarantine any suspect vials, and follow the manufacturer’s or Health Canada’s instructions for reporting and disposal.",
+        "zh": "加拿大卫生部发布产品质量警示，指出部分Sarclisa（isatuximab）单次使用药瓶在运输过程中可能被冻结。冻结可能影响产品质量和疗效。医疗机构和分销商应核查运输记录，隔离可疑药瓶，并按照制造商或加拿大卫生部的指示进行报告和处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/limited-number-sarclisa-single-use-vials-may-have-been-frozen-during-shipment",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-28T23:47:07Z",
+      "importance": "high",
+      "tags": [
+        "product_quality",
+        "cold_chain",
+        "recall_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_sanofi_aventis_canada_recalls_certain_insulin_pens_and_cartr",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Sanofi-Aventis Canada Recalls Certain Insulin Pens and Cartridges",
+        "zh": "赛诺菲-安万特加拿大召回部分胰岛素笔和笔芯"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for certain insulin pens and cartridges distributed by Sanofi-Aventis Canada Inc. The alert applies to specific affected lots; patients and healthcare providers should check the recall notice to identify whether their products are included. Users with affected devices should contact Sanofi-Aventis Canada or their healthcare provider for return/replacement and to ensure continuity of insulin therapy.",
+        "zh": "加拿大卫生部已发布召回警报，涉及赛诺菲-安万特加拿大公司分销的某些胰岛素笔和笔芯。该警报适用于特定受影响批次，患者和医疗机构应核对召回通知以确认产品是否在列。使用受影响器械的人员应联系赛诺菲-安万特加拿大公司或其医疗专业人员，安排退货/更换并确保胰岛素治疗的连续性。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/sanofi-aventis-canada-inc-recalling-certain-insulin-pens-and-cartridges",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-28T23:47:19Z",
+      "importance": "high",
+      "tags": [
+        "insulin_pen",
+        "medical_device_recall",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_alert_medtronic_interstim_systems_device_compa",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Medtronic InterStim™ Systems Device Compatibility Issue",
+        "zh": "加拿大卫生部发布Medtronic InterStim™系统设备兼容性警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Medtronic InterStim™ Systems due to a device compatibility issue. The alert affects certain InterStim™ implantable neurostimulation systems and related components distributed in Canada. Healthcare providers should identify affected devices and follow the manufacturer's field action instructions, while patients should contact their clinician for guidance.",
+        "zh": "加拿大卫生部已针对Medtronic InterStim™系统发布医疗器械召回/警报，涉及设备兼容性问题。该警报影响在加拿大分销的部分InterStim™植入式神经刺激系统及相关组件。医疗机构应识别受影响产品并遵循制造商现场行动说明，患者应联系临床医生获取指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-24",
+      "detected_date": "2026-09-28T23:47:29Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "device_compatibility",
+        "neuromodulation",
+        "health_canada",
+        "medtronic_interstim"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_recall_likorall_patient_lift_systems_performan",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Likorall™ Patient Lift Systems – Performance Issue",
+        "zh": "加拿大卫生部召回Likorall™病人移位系统（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for Likorall™ Patient Lift Systems due to a performance issue. The affected devices are patient lift systems used to transfer patients in healthcare and home care settings. Users should consult the Health Canada notice and manufacturer instructions for inspection, maintenance, or discontinuation of affected units as appropriate.",
+        "zh": "加拿大卫生部已就Likorall™病人移位系统发布召回/警示，原因是设备性能问题。受影响产品是用于医疗机构和家庭护理中转移病人的移位系统。相关用户应查阅加拿大卫生部和制造商的通知，按规定对受影响设备进行检查、维护或停用。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-24",
+      "detected_date": "2026-09-28T23:47:48Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "patient_lift",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_safety_alert_inzone_detachment_system_performa",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Inzone® Detachment System Performance Issue",
+        "zh": "加拿大卫生部就Inzone®分离系统性能问题发布安全警报"
+      },
+      "summary": {
+        "en": "Health Canada has published a safety alert/recall concerning the Inzone® Detachment System due to a performance issue. Healthcare providers and facilities using this device should review the notice, identify affected units, and follow the manufacturer’s or Health Canada’s recommended actions. The alert is part of the latest Canadian medical device recall updates and may require quarantine or return of affected product.",
+        "zh": "加拿大卫生部已发布关于Inzone®分离系统性能问题的安全警报/召回通知。相关医疗机构和使用者应核对受影响产品，并按照制造商或加拿大卫生部的建议采取停用、隔离或退回等措施。该警报属于最新加拿大医疗器械召回更新之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-24",
+      "detected_date": "2026-09-28T23:47:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "performance_issue",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_alert_omniasecure_mri_surescan_performance_rec",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: OmniaSecure™ MRI SureScan™ Performance Recall",
+        "zh": "加拿大召回OmniaSecure™ MRI SureScan™导线：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for OmniaSecure™ MRI SureScan™ due to a performance issue. This affects patients implanted with this cardiac lead and the healthcare providers managing them. Affected facilities should identify and track patients, follow the manufacturer's corrective action, and monitor for potential lead performance problems.",
+        "zh": "加拿大卫生部针对OmniaSecure™ MRI SureScan™发布医疗器械召回/警示，原因是性能问题。受影响的是植入该心脏导线的患者及相关医护人员。相关机构应识别并随访患者，遵循制造商纠正措施，并监测导线性能问题。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/omniasecuretm-mri-surescantm",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-23",
+      "detected_date": "2026-09-28T23:48:04Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "cardiac_lead",
+        "performance_issue",
+        "mri_conditional"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_health_canada_recall_williams_cystoscopic_injection_needle_p",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Williams Cystoscopic Injection Needle – Performance Issue",
+        "zh": "加拿大卫生部召回Williams膀胱镜注射针（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Williams Cystoscopic Injection Needle due to a performance issue. The device is used in cystoscopic injection procedures; affected units may fail to perform as intended, potentially leading to procedural complications or patient harm. Healthcare professionals and facilities should immediately identify and quarantine affected lots, discontinue use, and follow the manufacturer’s recall instructions.",
+        "zh": "加拿大卫生部已就Williams膀胱镜注射针的性能问题发布医疗器械召回/警示。该器械用于膀胱镜注射操作，受影响产品可能无法按预期工作，可能导致操作并发症或患者伤害。医疗机构和专业人员应立即识别并隔离受影响批次，停止使用，并遵循制造商的召回指示。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/williams-cystoscopic-injection-needle",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-23",
+      "detected_date": "2026-09-28T23:48:15Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "cystoscopic_injection_needle",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20260928_imaavy_affected_lots_may_contain_glass_particles",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "IMAAVY: Affected Lots May Contain Glass Particles",
+        "zh": "IMAAVY：受影响批次可能含有玻璃颗粒"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for specific lots of the medical device IMAAVY because they may contain glass particles. Healthcare professionals and facilities should check inventory for affected lot numbers, quarantine the product immediately, and follow the manufacturer's recall instructions. Use of affected lots could pose a risk of particulate exposure or injury.",
+        "zh": "加拿大卫生部发布召回警报，指出特定批次的医疗器械 IMAAVY 可能含有玻璃颗粒。相关医疗机构和专业人员应核查库存中的受影响批号，立即隔离该产品，并遵循制造商的召回指示。使用受影响批次可能带来颗粒暴露或损伤风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/imaavy-affected-lots-may-contain-glass-particles",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-21",
+      "detected_date": "2026-09-28T23:48:33Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "glass_particles",
+        "product_quality"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260921_health_canada_issues_recall_alert_for_ge_signa_artist_and_si",
       "framework": "canada",

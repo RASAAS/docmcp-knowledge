@@ -6,6 +6,126 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部发布PERMA-HAND™丝线缝合线性能召回警报
+
+**2026-09-25** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就PERMA-HAND™丝线缝合线发布医疗器械召回/警报，原因为性能问题。此问题影响加拿大使用该缝合线产品的医疗机构和医护人员。相关用户应核对受影响批次，按制造商指示停用产品，并遵循召回处理和报告要求。
+
+**标签**: `health_canada`, `suture`, `performance_issue`, `medical_device_recall`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/perma-handtm-silk-suture)
+
+---
+
+### 加拿大卫生部召回Amplatzer™ Amulet™左心耳封堵器：标签与包装问题
+
+**2026-09-25** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于Amplatzer™ Amulet™左心耳封堵器的医疗器械召回/警示，原因为标签和包装问题。该通知适用于库存或植入该器械的医疗机构和专业人员。相关方应查阅召回通知，核对受影响批次，并遵循制造商和加拿大卫生部的指示进行隔离、退回或采取纠正措施。
+
+**标签**: `medical_device_recall`, `labelling_packaging`, `left_atrial_appendage_occluder`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/amplatzertm-amulettm-left-atrial-appendage-occluder)
+
+---
+
+### Sarclisa单次使用药瓶在运输过程中可能被冻结
+
+**2026-09-25** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布产品质量警示，指出部分Sarclisa（isatuximab）单次使用药瓶在运输过程中可能被冻结。冻结可能影响产品质量和疗效。医疗机构和分销商应核查运输记录，隔离可疑药瓶，并按照制造商或加拿大卫生部的指示进行报告和处理。
+
+**标签**: `product_quality`, `cold_chain`, `recall_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/limited-number-sarclisa-single-use-vials-may-have-been-frozen-during-shipment)
+
+---
+
+### 赛诺菲-安万特加拿大召回部分胰岛素笔和笔芯
+
+**2026-09-25** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发布召回警报，涉及赛诺菲-安万特加拿大公司分销的某些胰岛素笔和笔芯。该警报适用于特定受影响批次，患者和医疗机构应核对召回通知以确认产品是否在列。使用受影响器械的人员应联系赛诺菲-安万特加拿大公司或其医疗专业人员，安排退货/更换并确保胰岛素治疗的连续性。
+
+**标签**: `insulin_pen`, `medical_device_recall`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sanofi-aventis-canada-inc-recalling-certain-insulin-pens-and-cartridges)
+
+---
+
+### 加拿大卫生部发布Medtronic InterStim™系统设备兼容性警报
+
+**2026-09-24** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Medtronic InterStim™系统发布医疗器械召回/警报，涉及设备兼容性问题。该警报影响在加拿大分销的部分InterStim™植入式神经刺激系统及相关组件。医疗机构应识别受影响产品并遵循制造商现场行动说明，患者应联系临床医生获取指导。
+
+**标签**: `medical_device_recall`, `device_compatibility`, `neuromodulation`, `health_canada`, `medtronic_interstim`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems)
+
+---
+
+### 加拿大卫生部召回Likorall™病人移位系统（性能问题）
+
+**2026-09-24** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Likorall™病人移位系统发布召回/警示，原因是设备性能问题。受影响产品是用于医疗机构和家庭护理中转移病人的移位系统。相关用户应查阅加拿大卫生部和制造商的通知，按规定对受影响设备进行检查、维护或停用。
+
+**标签**: `medical_device_recall`, `patient_lift`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems)
+
+---
+
+### 加拿大卫生部就Inzone®分离系统性能问题发布安全警报
+
+**2026-09-24** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发布关于Inzone®分离系统性能问题的安全警报/召回通知。相关医疗机构和使用者应核对受影响产品，并按照制造商或加拿大卫生部的建议采取停用、隔离或退回等措施。该警报属于最新加拿大医疗器械召回更新之一。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system)
+
+---
+
+### 加拿大召回OmniaSecure™ MRI SureScan™导线：性能问题
+
+**2026-09-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对OmniaSecure™ MRI SureScan™发布医疗器械召回/警示，原因是性能问题。受影响的是植入该心脏导线的患者及相关医护人员。相关机构应识别并随访患者，遵循制造商纠正措施，并监测导线性能问题。
+
+**标签**: `medical_device_recall`, `cardiac_lead`, `performance_issue`, `mri_conditional`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/omniasecuretm-mri-surescantm)
+
+---
+
+### 加拿大卫生部召回Williams膀胱镜注射针（性能问题）
+
+**2026-09-23** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Williams膀胱镜注射针的性能问题发布医疗器械召回/警示。该器械用于膀胱镜注射操作，受影响产品可能无法按预期工作，可能导致操作并发症或患者伤害。医疗机构和专业人员应立即识别并隔离受影响批次，停止使用，并遵循制造商的召回指示。
+
+**标签**: `medical_device_recall`, `cystoscopic_injection_needle`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/williams-cystoscopic-injection-needle)
+
+---
+
+### IMAAVY：受影响批次可能含有玻璃颗粒
+
+**2026-09-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布召回警报，指出特定批次的医疗器械 IMAAVY 可能含有玻璃颗粒。相关医疗机构和专业人员应核查库存中的受影响批号，立即隔离该产品，并遵循制造商的召回指示。使用受影响批次可能带来颗粒暴露或损伤风险。
+
+**标签**: `medical_device_recall`, `glass_particles`, `product_quality`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imaavy-affected-lots-may-contain-glass-particles)
+
+---
+
 ### 加拿大卫生部召回GE SIGNA™ Artist与Artist Evo MRI系统（性能问题）
 
 **2026-09-18** | Health Canada | 安全通报 | !!! HIGH

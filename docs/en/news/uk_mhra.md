@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Updates Exceptional Use Authorisations List for Medical Devices
+
+**2026-09-28** | UK MHRA | Regulation Update | !! MEDIUM
+
+The MHRA has published an updated list of manufacturers and medical devices that have been granted exceptional use authorisations, along with those whose authorisations have expired or been cancelled. This update affects manufacturers and sponsors of devices relying on such exemptions, as well as healthcare providers using these devices. Affected parties should review the list to confirm the current status of their devices and ensure continued compliance with UK medical device regulations.
+
+**Tags**: `mhra`, `medical_devices`, `exceptional_use_authorisation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### MHRA Welcomes Sentencing After Fraud Convictions Over Falsely Certified Medical Devices
+
+**2026-09-24** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has welcomed the sentencing following fraud convictions involving falsely certified medical devices, marking the conclusion of a long-running enforcement investigation. The case affects medical device manufacturers, importers, distributors, and healthcare providers that rely on device certifications. Regulatory affairs professionals should verify the authenticity of certifications in their supply chains and report any suspected fraudulent certificates to MHRA.
+
+**Tags**: `mhra`, `medical_devices`, `fraud`, `certification`, `enforcement`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/news/mhra-welcomes-sentencing-after-fraud-convictions-over-falsely-certified-medical-devices)
+
+---
+
+### MHRA Field Safety Notices: 14 to 18 September 2026
+
+**2026-09-23** | UK MHRA | Safety Communication | !! MEDIUM
+
+The MHRA has published its weekly list of Field Safety Notices (FSNs) issued between 14 and 18 September 2026. This compilation alerts healthcare providers, biomedical engineers, and device suppliers to manufacturer communications about medical device risks or required corrective actions. Affected organisations should review the listed notices for devices they use or distribute and implement the recommended safety actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`, `uk_regulation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-14-to-18-september-2026)
+
+---
+
+### MHRA Field Safety Notices: 14–18 September 2026 (3 New Entries)
+
+**2026-09-23** | UK MHRA | Regulation Update | !! MEDIUM
+
+The UK MHRA has published its weekly list of Field Safety Notices for 14–18 September 2026, containing three new entries. Healthcare professionals, medical device suppliers, and users should review the notices to identify affected devices and required actions. Actions may include following manufacturer safety instructions, isolating or returning affected products, and reporting adverse events.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-14-to-18-september-2026)
+
+---
+
 ### MHRA DSI/2026/012: RF Safety Considerations for Wireless CTG Monitoring Systems
 
 **2026-09-17** | UK MHRA | Safety Communication | !!! HIGH

@@ -6,6 +6,126 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Alert: PERMA-HAND™ Silk Suture Recall Due to Performance Issue
+
+**2026-09-25** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for PERMA-HAND™ Silk Suture due to a performance issue. This affects healthcare facilities and providers using the affected suture product in Canada. Users should review the notice for affected lot information, discontinue use as directed, and follow the manufacturer's recall and reporting instructions.
+
+**Tags**: `health_canada`, `suture`, `performance_issue`, `medical_device_recall`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/perma-handtm-silk-suture)
+
+---
+
+### Health Canada Recall: Amplatzer™ Amulet™ Left Atrial Appendage Occluder – Labelling and Packaging
+
+**2026-09-25** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has posted a medical device recall/alert for the Amplatzer™ Amulet™ Left Atrial Appendage Occluder due to labelling and packaging issues. The notice affects healthcare facilities and professionals that stock or implant this device. Affected parties should review the recall notice, identify affected lots, and follow the manufacturer’s and Health Canada’s instructions for quarantine, return, or corrective action.
+
+**Tags**: `medical_device_recall`, `labelling_packaging`, `left_atrial_appendage_occluder`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/amplatzertm-amulettm-left-atrial-appendage-occluder)
+
+---
+
+### Limited number of Sarclisa single use vials may have been frozen during shipment
+
+**2026-09-25** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a product quality alert concerning a limited number of Sarclisa (isatuximab) single-use vials that may have been frozen during shipment. Freezing can compromise the quality and effectiveness of the product. Healthcare professionals and distributors should check shipment records, quarantine any suspect vials, and follow the manufacturer’s or Health Canada’s instructions for reporting and disposal.
+
+**Tags**: `product_quality`, `cold_chain`, `recall_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/limited-number-sarclisa-single-use-vials-may-have-been-frozen-during-shipment)
+
+---
+
+### Sanofi-Aventis Canada Recalls Certain Insulin Pens and Cartridges
+
+**2026-09-25** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for certain insulin pens and cartridges distributed by Sanofi-Aventis Canada Inc. The alert applies to specific affected lots; patients and healthcare providers should check the recall notice to identify whether their products are included. Users with affected devices should contact Sanofi-Aventis Canada or their healthcare provider for return/replacement and to ensure continuity of insulin therapy.
+
+**Tags**: `insulin_pen`, `medical_device_recall`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sanofi-aventis-canada-inc-recalling-certain-insulin-pens-and-cartridges)
+
+---
+
+### Health Canada Alert: Medtronic InterStim™ Systems Device Compatibility Issue
+
+**2026-09-24** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Medtronic InterStim™ Systems due to a device compatibility issue. The alert affects certain InterStim™ implantable neurostimulation systems and related components distributed in Canada. Healthcare providers should identify affected devices and follow the manufacturer's field action instructions, while patients should contact their clinician for guidance.
+
+**Tags**: `medical_device_recall`, `device_compatibility`, `neuromodulation`, `health_canada`, `medtronic_interstim`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems)
+
+---
+
+### Health Canada Recall: Likorall™ Patient Lift Systems – Performance Issue
+
+**2026-09-24** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for Likorall™ Patient Lift Systems due to a performance issue. The affected devices are patient lift systems used to transfer patients in healthcare and home care settings. Users should consult the Health Canada notice and manufacturer instructions for inspection, maintenance, or discontinuation of affected units as appropriate.
+
+**Tags**: `medical_device_recall`, `patient_lift`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems)
+
+---
+
+### Health Canada Safety Alert: Inzone® Detachment System Performance Issue
+
+**2026-09-24** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a safety alert/recall concerning the Inzone® Detachment System due to a performance issue. Healthcare providers and facilities using this device should review the notice, identify affected units, and follow the manufacturer’s or Health Canada’s recommended actions. The alert is part of the latest Canadian medical device recall updates and may require quarantine or return of affected product.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system)
+
+---
+
+### Health Canada Alert: OmniaSecure™ MRI SureScan™ Performance Recall
+
+**2026-09-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for OmniaSecure™ MRI SureScan™ due to a performance issue. This affects patients implanted with this cardiac lead and the healthcare providers managing them. Affected facilities should identify and track patients, follow the manufacturer's corrective action, and monitor for potential lead performance problems.
+
+**Tags**: `medical_device_recall`, `cardiac_lead`, `performance_issue`, `mri_conditional`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/omniasecuretm-mri-surescantm)
+
+---
+
+### Health Canada Recall: Williams Cystoscopic Injection Needle – Performance Issue
+
+**2026-09-23** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Williams Cystoscopic Injection Needle due to a performance issue. The device is used in cystoscopic injection procedures; affected units may fail to perform as intended, potentially leading to procedural complications or patient harm. Healthcare professionals and facilities should immediately identify and quarantine affected lots, discontinue use, and follow the manufacturer’s recall instructions.
+
+**Tags**: `medical_device_recall`, `cystoscopic_injection_needle`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/williams-cystoscopic-injection-needle)
+
+---
+
+### IMAAVY: Affected Lots May Contain Glass Particles
+
+**2026-09-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for specific lots of the medical device IMAAVY because they may contain glass particles. Healthcare professionals and facilities should check inventory for affected lot numbers, quarantine the product immediately, and follow the manufacturer's recall instructions. Use of affected lots could pose a risk of particulate exposure or injury.
+
+**Tags**: `medical_device_recall`, `glass_particles`, `product_quality`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/imaavy-affected-lots-may-contain-glass-particles)
+
+---
+
 ### Health Canada Issues Recall Alert for GE SIGNA™ Artist and SIGNA™ Artist Evo MRI Systems Due to Performance Issue
 
 **2026-09-18** | Health Canada | Safety Communication | !!! HIGH
