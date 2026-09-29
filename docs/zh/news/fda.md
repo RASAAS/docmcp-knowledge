@@ -6,6 +6,234 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Boston Scientific召回Imager II血管造影导管
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA发布了Boston Scientific Imager II血管造影导管的召回通知。该公司因导管头端可能分离并导致患者严重伤害而移除受影响设备。医疗机构应立即识别、隔离并退回受影响批次，并遵循Boston Scientific的移除指示。
+
+**标签**: `recall`, `angiographic_catheter`, `boston_scientific`, `safety_alert`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters)
+
+---
+
+### BD对含召回氯化钠安瓿的便利套装和手术托盘发布纠正措施
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA发布BD公司关于含被召回氯化钠安瓿的便利套装和手术托盘的纠正措施。收到受影响BD套装或托盘的医疗机构应识别、隔离并取出被召回的安瓿，遵循BD纠正通知。该问题涉及氯化钠安瓿的潜在安全风险，经销商和使用机构不得使用受影响组件。
+
+**标签**: `convenience_kit`, `sodium_chloride_ampules`, `recall_correction`, `becton_dickinson`, `cdrh`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing)
+
+---
+
+### 心脏泵控制器召回：Abiomed 移除自动 Impella 控制器
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA 发布召回通知，称 Abiomed 正在移除用于 Impella 心脏泵的自动 Impella 控制器。该行动影响使用此类控制器提供机械循环支持的医疗机构。受影响用户应立即识别、隔离并按 Abiomed 的指示退回或更换相关控制器，并向 FDA 报告不良事件。
+
+**标签**: `heart_pump_controller`, `recall`, `abiomed_impella`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers)
+
+---
+
+### Z-3151-2026 I级召回：AVID Medical Haylard 18G单次注射EPI托盘套件DPGE002-02
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA发布AVID Medical, Inc.的I级召回（Z-3151-2026），涉及1,640套Haylard 18G单次注射EPI托盘套件（型号DPGE002-02）。该套件可能含有Spectra Medical已召回的氯化钠安瓿，存在产品质量和无菌风险。医疗机构应立即隔离并停止使用受影响套件，核对库存，并按AVID Medical的召回通知处理。
+
+**标签**: `class_i_recall`, `sterility_issue`, `sodium_chloride_ampules`, `avid_medical`, `fda_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3151-2026)
+
+---
+
+### Medline便利套装DYKM1000B与DYKM218因曲霉污染被I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA发布美联工业（Medline Industries, LP）I级召回（Z-3125-2026），涉及2,718套Medline便利套装，目录号DYKM1000B和DYKM218。套件中某些批次的无菌涂抹器在特定环境条件下可能滋生曲霉（Aspergillus penicillioides），存在真菌感染风险。相关机构应识别并隔离受影响产品，并按Medline召回通知进行退货或处置。
+
+**标签**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`, `medline_industries`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3125-2026)
+
+---
+
+### Nova Biomedical StatStrip血糖/酮体仪63910因条码患者ID留存问题被I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA将Nova Biomedical Corporation的StatStrip血糖/酮体仪（型号63910）列为I级召回。该设备条码扫描和患者数据处理组件存在软件同步/时序问题，可能间歇性保留此前扫描的条码（包括患者ID），导致患者/样本混淆和结果错误风险。召回数量为8,939台。相关机构应识别并隔离受影响设备，按Nova Biomedical的召回通知处理，并在检测前核对患者条码/ID。
+
+**标签**: `class_i_recall`, `glucose_test_system`, `barcode_software_issue`, `patient_id_mixup`, `nova_biomedical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3131-2026)
+
+---
+
+### Abiomed自动Impella控制器因冲洗盒识别故障被I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA已发布Abiomed公司自动Impella控制器（AIC）的I级召回（Z-3148-2026）。召回原因是冲洗压力传感器组件的冲洗标志部件故障，可能导致冲洗盒识别问题，进而引起治疗中断或患者伤害。此次召回涉及5,232台设备（美国3,733台，美国以外1,499台）。医疗机构应立即识别并隔离受影响设备，并按Abiomed召回通知进行纠正或退回。
+
+**标签**: `class_i_recall`, `abiomed`, `impella_controller`, `purge_cassette_failure`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3148-2026)
+
+---
+
+### AVID Medical Haylard活检套件VARV042-03 I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. 正在召回340套Haylard UNIV IMAGING BIOPSY TRUCUSTOM套件（VARV042-03），原因是其中含有的氯化钠安瓿因Spectra Medical召回而可能存在产品质量与无菌性问题。这是一级召回，意味着使用该产品可能导致感染等严重健康后果。相关用户应立即隔离并停用受影响套件，按AVID Medical的指示退货或处置。
+
+**标签**: `class_i_recall`, `sterility_issue`, `biopsy_kit`, `sodium_chloride_ampules`, `avid_medical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3154-2026)
+
+---
+
+### Nova Biomedical StatStrip医院血糖监测系统I级召回：条码残留软件问题
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA发布Nova Biomedical Corporation StatStrip医院用血糖监测系统（型号63685）的I级召回（Z-3128-2026）。条码扫描与患者数据处理组件的软件同步/时序问题可能间歇性保留上一次扫描的条码（包括患者标识），导致血糖结果关联到错误患者并可能引发不当治疗。召回涉及20,616台设备。用户应立即按照Nova Biomedical的召回通知操作，每次检测前手动核对患者身份或清除上一条码，并在完成纠正前隔离受影响设备。
+
+**标签**: `class_i_recall`, `glucose_test_system`, `barcode_software_error`, `nova_biomedical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3128-2026)
+
+---
+
+### Medline 麻醉 L&D A-Line 套装便利包（目录号 DY）因真菌污染被 I 级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA 已发布 Medline Industries, LP 的 Medline 便利包（产品：KIT ANESTHESIA L&D A-LINE SET，目录号 DY）I 级召回（Z-3121-2026）。此次召回涉及 12 套产品，其中特定批次的无菌涂抹器可能在特定环境条件下滋生真菌 Aspergillus penicillioides，存在污染风险。医疗机构应立即隔离并停止使用受影响套件，并按 Medline 的召回通知进行退回或更换。
+
+**标签**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`, `convenience_kits`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3121-2026)
+
+---
+
+### I类召回Z-3149-2026：Abiomed Impella光学控制器冲洗盒识别故障
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. 已对1,422台Impella光学控制器启动I类召回（美国487台，美国以外935台），原因是冲洗压力传感器组件中的冲洗标志部件可能失效，导致冲洗盒识别问题。该问题可能影响冲洗压力监测，并可能导致设备故障或患者伤害。受影响机构应立即识别并隔离相关控制器，并联系Abiomed进行纠正或更换。
+
+**标签**: `class_i_recall`, `abiomed_impella`, `purge_system_failure`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3149-2026)
+
+---
+
+### 召回Z-3126-2026：Medline便利包DYNDH1193/DYNDH14曲霉污染I级
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP正在召回1,100套Medline便利包（目录号DYNDH1193和DYNDH14），原因是某些批次的无菌涂抹器可能受到真菌Aspergillus penicillioides污染，对高风险患者可能导致严重感染。这是I级召回，属于最严重类型，使用受影响产品可能造成严重健康危害或死亡。医疗机构和分销商应立即隔离并停止使用受影响套件，遵循Medline的召回通知进行处理。
+
+**标签**: `class_i_recall`, `aspergillus_contamination`, `sterile_applicators`, `medline_convenience_kits`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3126-2026)
+
+---
+
+### Medline Industries LP 召回 OPEN HEART ADULT 便利套件：无菌涂抹器真菌污染
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA 将 Medline Industries LP 对 Medline Convenience Kits（OPEN HEART ADULT，目录号 CDS840396Y）的召回列为 I 级。该套件中某些批次的无菌涂抹器在特定环境条件下可能受到 Aspergillus penicillioides 真菌污染，存在严重感染风险。召回数量为 489 套。相关机构应立即停止使用并隔离受影响套件，按照 Medline 的召回通知处理。
+
+**标签**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3122-2026)
+
+---
+
+### Medline便利套件因曲霉菌污染触发I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA发布Medline Industries, LP的I级召回（Z-3127-2026），涉及47,848套Medline便利套件，包括目录号DYNDB3086D和DYNDB31。该套件中的某些批次无菌涂药器在特定环境条件下可能被Aspergillus penicillioides污染，存在严重真菌感染风险。FDA公告未说明具体分销范围。相关用户应立即隔离受影响套件并遵循Medline的召回指示。
+
+**标签**: `class_i_recall`, `aspergillus_contamination`, `sterile_applicator`, `medline`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3127-2026)
+
+---
+
+### FDA I级召回Z-3150-2026：Abiomed Impella控制器及Connect套件
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA发布了一级召回（Z-3150-2026），涉及Abiomed, Inc.的Impella光学控制器、自动化Impella控制器和Impella Connect套件。召回原因是冲洗压力传感器组件的冲洗标志部件失效，可能导致冲洗盒识别问题，从而影响冲洗流量和患者安全。受影响数量为4100台，其中美国2785台，美国以外1315台。用户应遵循Abiomed的召回通知，识别受影响设备并安排更换或纠正。
+
+**标签**: `class_i_recall`, `abiomed_impella`, `purge_cassette`, `medical_device_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3150-2026)
+
+---
+
+### AVID Medical Haylard 基础活检托盘 PM415 I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. 正在召回240套 Haylard BASIC BIOPSY TRAY 套件，型号/货号为 PM415，FDA 召回编号为 Z-3153-2026。召回原因是套件中含有因 Spectra Medical 召回而存在产品质量和灭菌问题的氯化钠安瓿。用户应立即隔离并停用受影响套件，并遵循召回公司的指示。
+
+**标签**: `class_i_recall`, `sterility_issue`, `biopsy_tray`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3153-2026)
+
+---
+
+### FDA I级召回：Medline便利套装无菌涂抹器可能受曲霉污染 (Z-3124-2026)
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP 正在召回 10,407 套 Medline Convenience Kits（包括目录号 ACC010308A），因为其中某些批次的无菌涂抹器可能被曲霉 Aspergillus penicillioides 污染，存在严重真菌感染风险。这是 I 级召回，属于最严重类型，可能导致严重健康后果或死亡。医疗机构应立即识别、隔离并停用受影响套件，并按 Medline 的召回通知进行退回或处置。
+
+**标签**: `class_i_recall`, `medline_industries`, `aspergillus_penicillioides`, `sterile_applicators`, `fungal_contamination`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3124-2026)
+
+---
+
+### Bard Access Systems召回Power-Trialysis短期直型透析导管（REF 5605150）I级召回Z-2984-2026
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Bard Access Systems, Inc. 正在对 Power-Trialysis 短期直型透析导管（REF 5605150）发起 I 级召回（Z-2984-2026），涉及 149,521 件产品。此次为 I 级召回 RES 98777 的下游召回，表明存在与原召回相同的严重健康风险。相关机构应立即识别并隔离受影响库存，并按照该公司召回通知进行退货或纠正处理。
+
+**标签**: `class_i_recall`, `dialysis_catheter`, `downstream_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2984-2026)
+
+---
+
+### AVID Medical Halyard IV START KIT非无菌型I级召回：曲霉污染
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. 正在召回288套Halyard IV START KIT非无菌型（REF KRIV26-02），该便利包中的BD ChloraPrep Clear 1 mL和FREPP Clear 1.5 mL涂抹器被Aspergillus penicillioides污染。FDA将此列为I级召回（编号Z-3108-2026），存在严重感染风险，尤其对免疫功能低下患者。医疗机构应立即隔离并停止使用受影响产品，并按召回企业要求退货或销毁。
+
+**标签**: `class_i_recall`, `fda_recall`, `aspergillus_contamination`, `convenience_kit`, `avid_medical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3108-2026)
+
+---
+
 ### CooperSurgical召回INCA婴儿鼻CPAP套件（呼吸机相关）
 
 **2026-09-22** | FDA | cdrh_news | !!! HIGH
@@ -111,6 +339,18 @@ FDA CDRH发布通知，Medical Action Industries对含有Spectra Medical Devices
 **标签**: `medical_device_recall`, `epidural_kits`, `lidocaine_ampules`, `cdrh_news`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra)
+
+---
+
+### NOxBOX LTD NOxBOXi一氧化氮输送系统 NOXBOX-I 因氧读数异常被召回
+
+**2026-09-14** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回公告（Z-3306-2026），涉及NOXBOX LTD的NOxBOXi一氧化氮输送系统，型号NOXBOX-I，原因是某些氧传感器存在制造问题，可能导致氧气读数异常。受影响设备可能出现氧监测不准确，带来低氧或高氧输送风险。医疗机构应识别受影响设备，按厂商指示停用或纠正，并联系制造商。
+
+**标签**: `fda_recall`, `nitric_oxide_delivery_system`, `oxygen_sensor`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222525)
 
 ---
 

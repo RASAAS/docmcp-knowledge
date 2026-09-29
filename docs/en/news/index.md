@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Boston Scientific Recalls Imager II Angiographic Catheters
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA posted a recall notice for Boston Scientific Imager II Angiographic Catheters. The company is removing affected devices due to potential catheter tip separation, which may cause serious patient harm. Healthcare facilities should immediately identify, quarantine, and return affected lots and follow Boston Scientific's removal instructions.
+
+**Tags**: `recall`, `angiographic_catheter`, `boston_scientific`, `safety_alert`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters)
+
+---
+
+### Becton Dickinson Corrects Convenience Kits and Procedure Trays with Recalled Sodium Chloride Ampules
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA posted Becton Dickinson's correction for convenience kits and procedure trays containing recalled sodium chloride ampules. Healthcare facilities that received affected BD kits or trays should identify, quarantine, and remove the recalled ampules before use, and follow BD’s correction notice. The issue involves potential safety risks from the sodium chloride ampules; affected components should not be used.
+
+**Tags**: `convenience_kit`, `sodium_chloride_ampules`, `recall_correction`, `becton_dickinson`, `cdrh`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing)
+
+---
+
+### FDA Announces Abiomed Recall to Remove Automated Impella Heart Pump Controllers
+
+**2026-09-29** | FDA | cdrh_news | !!! HIGH
+
+FDA has posted a recall notice stating Abiomed is removing Automated Impella Controllers used with Impella heart pumps. This action affects healthcare facilities that use these controllers for mechanical circulatory support. Affected users should immediately identify, quarantine, and return or replace the recalled controllers according to Abiomed’s instructions and report adverse events to FDA.
+
+**Tags**: `heart_pump_controller`, `recall`, `abiomed_impella`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers)
+
+---
+
 ### MHRA Updates Exceptional Use Authorisations List for Medical Devices
 
 **2026-09-28** | UK MHRA | Regulation Update | !! MEDIUM
@@ -123,6 +159,198 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the BlueLav
 **Tags**: `swissmedic`, `fsca`, `medical_device`, `wound_care`, `product_correction`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260916_018)
+
+---
+
+### Class I Recall Z-3151-2026: AVID Medical Haylard 18G Single Shot EPI Tray Kit DPGE002-02
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA posted a Class I recall (Z-3151-2026) by AVID Medical, Inc. for 1,640 Haylard 18G Single Shot EPI Tray kits, model DPGE002-02. The kits may contain Sodium Chloride ampules subject to a separate Spectra Medical recall, creating potential product quality and sterility risks. Healthcare providers should immediately quarantine and stop using affected kits, verify inventory, and follow AVID Medical's recall instructions.
+
+**Tags**: `class_i_recall`, `sterility_issue`, `sodium_chloride_ampules`, `avid_medical`, `fda_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3151-2026)
+
+---
+
+### Class I Recall: Medline Convenience Kits DYKM1000B and DYKM218 Due to Aspergillus Contamination
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3125-2026) by Medline Industries, LP affecting 2,718 Medline Convenience Kits, catalog numbers DYKM1000B and DYKM218. The kits contain certain lots of sterile applicators that may allow growth of Aspergillus penicillioides under certain environmental conditions, posing a potential fungal infection risk. Healthcare facilities and users should identify and quarantine affected kits and follow Medline's recall return or disposal instructions.
+
+**Tags**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`, `medline_industries`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3125-2026)
+
+---
+
+### Class I Recall: Nova Biomedical StatStrip Glucose/B-Ketone Meter Model 63910 for Barcode Patient ID Retention Issue
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA classified this as a Class I recall of Nova Biomedical Corporation's StatStrip Glucose/B-Ketone Meter, model 63910. A software synchronization/timing issue in the barcode scanning and patient data processing component can intermittently retain a previously scanned barcode, including patient ID, creating a risk of patient/sample mix-up and incorrect results. The recall covers 8,939 units. Facilities should identify and quarantine affected meters, follow Nova Biomedical’s recall instructions, and verify patient barcode/ID before testing.
+
+**Tags**: `class_i_recall`, `glucose_test_system`, `barcode_software_issue`, `patient_id_mixup`, `nova_biomedical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3131-2026)
+
+---
+
+### Class I Recall: Abiomed Automated Impella Controller (AIC) Due to Purge Cassette Recognition Failure
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA has posted a Class I recall (Z-3148-2026) for Abiomed, Inc.'s Automated Impella Controller (AIC). The recall is due to potential purge cassette recognition issues caused by failure of the purge flag component of the purge pressure sensor assembly, which may lead to therapy interruption or patient harm. The recall covers 5,232 units (3,733 U.S.; 1,499 OUS). Healthcare facilities should immediately identify and quarantine affected AIC devices and follow Abiomed's recall instructions for correction or return.
+
+**Tags**: `class_i_recall`, `abiomed`, `impella_controller`, `purge_cassette_failure`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3148-2026)
+
+---
+
+### Class I Recall: AVID Medical Haylard UNIV IMAGING BIOPSY TRUCUSTOM Kit VARV042-03 (340 Kits)
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 340 kits of the Haylard UNIV IMAGING BIOPSY TRUCUSTOM (kit VARV042-03) because the kits contain Sodium Chloride ampules subject to a Spectra Medical recall due to potential product quality and sterility issues. This is a Class I recall, the most serious type, indicating a reasonable probability of serious health consequences such as infection. Affected kits should be immediately quarantined, removed from use, and returned or disposed of according to AVID Medical's instructions.
+
+**Tags**: `class_i_recall`, `sterility_issue`, `biopsy_kit`, `sodium_chloride_ampules`, `avid_medical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3154-2026)
+
+---
+
+### Nova Biomedical StatStrip Glucose Hospital Meter Class I Recall Over Barcode Retention Software Issue
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3128-2026) for Nova Biomedical Corporation’s StatStrip Glucose Hospital Meter System, Model 63685. A software synchronization/timing issue in barcode scanning and patient data processing can intermittently retain a previously scanned barcode, including patient identifiers, creating a risk that glucose results are linked to the wrong patient and leading to inappropriate treatment. The recall covers 20,616 units. Users should immediately follow Nova Biomedical’s recall instructions, verify patient identity manually before each test or clear the prior barcode, and quarantine affected devices until correction.
+
+**Tags**: `class_i_recall`, `glucose_test_system`, `barcode_software_error`, `nova_biomedical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3128-2026)
+
+---
+
+### Class I Recall: Medline Anesthesia L&D A-Line Set Convenience Kit (Catalog DY) Due to Aspergillus Contamination
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3121-2026) for Medline Industries, LP's Medline Convenience Kits, specifically the KIT ANESTHESIA L&D A-LINE SET, Catalog Number DY. The recall covers 12 kits containing certain lots of sterile applicators that may be contaminated with Aspergillus penicillioides, a fungal hazard. Healthcare facilities should immediately quarantine and stop using affected kits and follow Medline's recall instructions for return or replacement.
+
+**Tags**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`, `convenience_kits`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3121-2026)
+
+---
+
+### Class I Recall Z-3149-2026: Abiomed Impella Optical Controller Purge Cassette Recognition Failure
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Abiomed, Inc. has initiated a Class I recall of 1,422 Impella Optical Controller units (487 in the U.S., 935 outside the U.S.) because the purge flag component of the purge pressure sensor assembly may fail, leading to purge cassette recognition issues. This can compromise purge pressure monitoring and potentially cause device malfunction or patient harm. Affected facilities should immediately identify and quarantine affected controllers and contact Abiomed for correction or replacement.
+
+**Tags**: `class_i_recall`, `abiomed_impella`, `purge_system_failure`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3149-2026)
+
+---
+
+### Class I Recall Z-3126-2026: Medline Convenience Kits DYNDH1193 and DYNDH14 Aspergillus Risk
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is recalling 1,100 Medline Convenience Kits (catalog numbers DYNDH1193 and DYNDH14) because certain lots of sterile applicators may be contaminated with Aspergillus penicillioides, a fungus that can cause serious infections, particularly in vulnerable patients. This is a Class I recall, the most serious type, indicating use of affected kits may cause serious health consequences or death. Healthcare facilities and distributors should immediately locate and quarantine affected kits, stop use, and follow Medline’s recall instructions.
+
+**Tags**: `class_i_recall`, `aspergillus_contamination`, `sterile_applicators`, `medline_convenience_kits`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3126-2026)
+
+---
+
+### Class I Recall: Medline Convenience Kits OPEN HEART ADULT (CDS840396Y) Due to Fungal Contamination
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA classified Medline Industries LP’s recall of Medline Convenience Kits, OPEN HEART ADULT, catalog CDS840396Y, as Class I. The kits contain certain lots of sterile applicators that may be contaminated with Aspergillus penicillioides under certain environmental conditions, posing a serious infection risk. The recall covers 489 kits. Users should immediately quarantine affected kits, discontinue use, and follow Medline’s recall instructions.
+
+**Tags**: `class_i_recall`, `fungal_contamination`, `sterile_applicators`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3122-2026)
+
+---
+
+### Medline Class I Recall of Convenience Kits (DYNDB3086D/DYNDB31) Over Aspergillus Contamination
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3127-2026) by Medline Industries, LP affecting 47,848 Medline Convenience Kits, including catalog numbers DYNDB3086D and DYNDB31. The kits contain certain lots of sterile applicators that may be contaminated with Aspergillus penicillioides under certain environmental conditions, posing a serious fungal infection risk. Distribution details were not specified in the FDA posting. Users should immediately quarantine affected kits and follow Medline’s recall instructions.
+
+**Tags**: `class_i_recall`, `aspergillus_contamination`, `sterile_applicator`, `medline`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3127-2026)
+
+---
+
+### FDA Class I Recall Z-3150-2026: Abiomed Impella Optical, Automated Controllers and Connect Package
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (Z-3150-2026) by Abiomed, Inc. affecting the Impella Optical Controller, Automated Impella Controller, and Impella Connect Package. The recall is due to potential purge cassette recognition issues caused by failure of the purge flag component of the purge pressure sensor assembly, which may compromise purge flow and patient safety. A total of 4,100 units are affected, including 2,785 in the U.S. and 1,315 outside the U.S. Users should follow Abiomed's recall instructions, identify affected devices, and arrange for replacement or correction.
+
+**Tags**: `class_i_recall`, `abiomed_impella`, `purge_cassette`, `medical_device_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3150-2026)
+
+---
+
+### Class I Recall: AVID Medical Haylard BASIC BIOPSY TRAY Kit PM415 (Z-3153-2026)
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 240 Haylard BASIC BIOPSY TRAY kits, model/item number PM415, under FDA recall Z-3153-2026. The recall is due to potential product quality and sterility issues because the kits contain Sodium Chloride ampules subject to a separate Spectra Medical recall. Users should immediately quarantine and discontinue use of affected kits and follow the recalling firm’s instructions.
+
+**Tags**: `class_i_recall`, `sterility_issue`, `biopsy_tray`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3153-2026)
+
+---
+
+### FDA Class I Recall: Medline Convenience Kits - Sterile Applicators May Have Aspergillus penicillioides (Z-3124-2026)
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is recalling 10,407 Medline Convenience Kits, including catalog number ACC010308A, because certain lots of sterile applicators may be contaminated with Aspergillus penicillioides and cause serious fungal infection. This is a Class I recall, the most serious type, indicating a reasonable probability of serious adverse health consequences or death. Facilities should immediately identify, quarantine, and stop using affected kits, then follow Medline's recall instructions for return or disposal.
+
+**Tags**: `class_i_recall`, `medline_industries`, `aspergillus_penicillioides`, `sterile_applicators`, `fungal_contamination`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3124-2026)
+
+---
+
+### Bard Recalls Power-Trialysis Short-Term Straight Dialysis Catheter (REF 5605150), Class I Recall Z-2984-2026
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+Bard Access Systems, Inc. is conducting a Class I recall (Z-2984-2026) of the Power-Trialysis Short-Term Straight Dialysis Catheter, REF 5605150, involving 149,521 units. This is a downstream recall of Class I recall RES 98777, indicating the same serious health risk as the original action. Users should immediately identify and quarantine affected inventory and follow the firm’s recall notification for return or correction.
+
+**Tags**: `class_i_recall`, `dialysis_catheter`, `downstream_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-2984-2026)
+
+---
+
+### Class I Recall: AVID Medical Halyard IV START KIT NON-STERILE REF KRIV26-02 Due to Aspergillus Contamination
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 288 units of the Halyard IV START KIT NON-STERILE (REF KRIV26-02), a convenience kit containing BD ChloraPrep Clear 1 mL and FREPP Clear 1.5 mL applicators contaminated with Aspergillus penicillioides. This Class I recall (FDA #Z-3108-2026) poses a risk of serious infection, particularly in vulnerable patients. Healthcare facilities should immediately locate and quarantine affected kits, discontinue use, and follow the recalling firm's return or destruction instructions.
+
+**Tags**: `class_i_recall`, `fda_recall`, `aspergillus_contamination`, `convenience_kit`, `avid_medical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3108-2026)
 
 ---
 
@@ -661,6 +889,18 @@ Swissmedic issued a field safety corrective action (FSCA) for the Cart for Luna 
 **Tags**: `swissmedic`, `fsca`, `medical_device`, `ceiling_lift`, `winncare_nordic`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260827_025)
+
+---
+
+### Recall: NOxBOX LTD NOxBOXi Nitric Oxide Delivery System (NOXBOX-I) Due to Irregular Oxygen Readings
+
+**2026-09-14** | FDA | Safety Communication | !!! HIGH
+
+FDA has posted recall Z-3306-2026 for NOXBOX LTD's NOxBOXi Nitric Oxide Delivery System, model NOXBOX-I, due to a manufacturing issue affecting certain oxygen sensors that may cause irregular oxygen readings. Affected devices could provide inaccurate oxygen monitoring, potentially leading to hypoxic or hyperoxic gas delivery. Providers should identify affected units, follow manufacturer instructions for discontinuation or correction, and contact the manufacturer.
+
+**Tags**: `fda_recall`, `nitric_oxide_delivery_system`, `oxygen_sensor`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222525)
 
 ---
 
