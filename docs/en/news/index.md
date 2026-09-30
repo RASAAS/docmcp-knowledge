@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition
+
+**2026-09-30** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has listed a Class II recall (No. 2-12979) for Philips Japan's mobile digital fluoroscopic X-ray systems: Full Digital Mobile C-arm System BV Endura, Vectra, and Zenition series. The recall affects healthcare facilities using these devices in Japan. The provided excerpt does not specify the underlying safety issue, so affected users should review the official PMDA notice and Philips Japan's field corrective action instructions for required actions.
+
+**Tags**: `pmda`, `class_ii_recall`, `fluoroscopy`, `philips_japan`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12979)
+
+---
+
 ### Boston Scientific Recalls Imager II Angiographic Catheters
 
 **2026-09-29** | FDA | cdrh_news | !!! HIGH
@@ -54,6 +66,18 @@ The MHRA has published an updated list of manufacturers and medical devices that
 
 ---
 
+### PMDA Class II Recall 2-12975: Ethilon (Polyamide Suture) - Johnson & Johnson K.K.
+
+**2026-09-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+PMDA has posted a Class II recall (No. 2-12975) for Ethilon (polyamide suture) manufactured by Johnson & Johnson K.K. Class II indicates a moderate-risk device issue. The provided notice does not specify the detailed safety reason, so healthcare facilities should review the official PMDA notice, identify affected lots, and follow quarantine/return instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `suture`, `polyamide`, `johnson_and_johnson`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12975)
+
+---
+
 ### Health Canada Alert: PERMA-HAND™ Silk Suture Recall Due to Performance Issue
 
 **2026-09-25** | Health Canada | Safety Communication | !!! HIGH
@@ -99,6 +123,30 @@ Health Canada has issued a recall alert for certain insulin pens and cartridges 
 **Tags**: `insulin_pen`, `medical_device_recall`, `health_canada`
 
 [View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/sanofi-aventis-canada-inc-recalling-certain-insulin-pens-and-cartridges)
+
+---
+
+### PMDA Class II Recall: GE HealthCare Japan Senographe Pristina Digital Mammography System (Recall No. 2-12974)
+
+**2026-09-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has posted a Class II recall (No. 2-12974) for the Senographe Pristina, a stationary digital mammography X-ray system marketed by GE HealthCare Japan. Class II indicates a moderate-risk device issue. Affected facilities should review the PMDA notice for the specific safety reason and contact GE HealthCare Japan to implement the required corrective actions.
+
+**Tags**: `pmda`, `recall`, `class_ii`, `mammography`, `ge_healthcare_japan`, `senographe_pristina`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12974)
+
+---
+
+### PMDA Class II recall: Medtronic CareLink SmartSync Device Manager implantable active device programmer
+
+**2026-09-25** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA issued Class II recall no. 2-12973 for the CareLink SmartSync Device Manager, an implantable active device programmer marketed by Japan Medtronic Co., Ltd. The recall addresses a product issue associated with this programmer and is classified as moderate risk (Class II). Affected healthcare facilities should identify the recalled programmers and follow the manufacturer's corrective instructions in the official PMDA recall notice.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `medtronic`, `implantable_device_programmer`, `carelink_smartsync`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12973)
 
 ---
 

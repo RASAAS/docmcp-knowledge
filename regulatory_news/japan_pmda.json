@@ -1,7 +1,116 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-09-23T22:02:16Z",
+  "last_updated": "2026-09-30T22:50:33Z",
   "items": [
+    {
+      "id": "japan_pmda_20260930_pmda_class_ii_recall_philips_japan_mobile_c_arm_fluoroscopy",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition",
+        "zh": "PMDA二级召回：飞利浦日本BV Endura/Vectra/Zenition移动C臂X线透视系统"
+      },
+      "summary": {
+        "en": "The PMDA has listed a Class II recall (No. 2-12979) for Philips Japan's mobile digital fluoroscopic X-ray systems: Full Digital Mobile C-arm System BV Endura, Vectra, and Zenition series. The recall affects healthcare facilities using these devices in Japan. The provided excerpt does not specify the underlying safety issue, so affected users should review the official PMDA notice and Philips Japan's field corrective action instructions for required actions.",
+        "zh": "PMDA已发布飞利浦日本移动式数字通用一体化X线透视诊断装置的二级召回（编号2-12979），涉及Full Digital Mobile C-arm System BV Endura、Vectra及Zenition系列。此次召回影响日本使用这些设备的医疗机构；提供的摘要未包含具体安全原因，相关机构应查阅PMDA正式通知和飞利浦日本的现场纠正措施说明，核对序列号并按指示处理。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12979",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-30",
+      "detected_date": "2026-09-30T22:49:40Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "fluoroscopy",
+        "philips_japan",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260930_pmda_class_ii_recall_2_12975_ethilon_polyamide_suture_johnso",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall 2-12975: Ethilon (Polyamide Suture) - Johnson & Johnson K.K.",
+        "zh": "PMDA II类召回2-12975：强生日本Ethilon聚酰胺缝线"
+      },
+      "summary": {
+        "en": "PMDA has posted a Class II recall (No. 2-12975) for Ethilon (polyamide suture) manufactured by Johnson & Johnson K.K. Class II indicates a moderate-risk device issue. The provided notice does not specify the detailed safety reason, so healthcare facilities should review the official PMDA notice, identify affected lots, and follow quarantine/return instructions.",
+        "zh": "PMDA已发布强生日本株式会社Ethilon（聚酰胺缝合线）的II类召回（编号2-12975）。II类表示中等风险问题。所提供信息未说明具体安全原因，医疗机构应查阅PMDA官方通知，识别受影响批次，并按照隔离和退货要求处理。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12975",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-28",
+      "detected_date": "2026-09-30T22:49:53Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "suture",
+        "polyamide",
+        "johnson_and_johnson"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260930_pmda_class_ii_recall_ge_healthcare_japan_senographe_pristina",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: GE HealthCare Japan Senographe Pristina Digital Mammography System (Recall No. 2-12974)",
+        "zh": "PMDA II类召回：GE医疗日本Senographe Pristina乳腺X线诊断装置（召回号2-12974）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has posted a Class II recall (No. 2-12974) for the Senographe Pristina, a stationary digital mammography X-ray system marketed by GE HealthCare Japan. Class II indicates a moderate-risk device issue. Affected facilities should review the PMDA notice for the specific safety reason and contact GE HealthCare Japan to implement the required corrective actions.",
+        "zh": "日本PMDA发布了由GE医疗日本销售的Senographe Pristina（固定式数字乳腺X线诊断装置）II类召回（召回号2-12974）。II类召回表示中等风险。受影响机构应查阅PMDA通知了解具体安全原因，并联系GE医疗日本采取纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12974",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-30T22:50:16Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "recall",
+        "class_ii",
+        "mammography",
+        "ge_healthcare_japan",
+        "senographe_pristina"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20260930_pmda_class_ii_recall_medtronic_carelink_smartsync_device_man",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II recall: Medtronic CareLink SmartSync Device Manager implantable active device programmer",
+        "zh": "PMDA II类召回：美敦力CareLink SmartSync Device Manager植入式有源设备程控仪"
+      },
+      "summary": {
+        "en": "Japan's PMDA issued Class II recall no. 2-12973 for the CareLink SmartSync Device Manager, an implantable active device programmer marketed by Japan Medtronic Co., Ltd. The recall addresses a product issue associated with this programmer and is classified as moderate risk (Class II). Affected healthcare facilities should identify the recalled programmers and follow the manufacturer's corrective instructions in the official PMDA recall notice.",
+        "zh": "日本PMDA已发布编号为2-12973的II类召回，涉及日本美敦力株式会社销售的CareLink SmartSync Device Manager（植入式有源设备用程控仪）。此次召回针对该程控仪相关产品问题，风险等级为中等（II类）。相关医疗机构应识别受影响的程控仪，并按照PMDA官方召回通知中的制造商纠正措施执行。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12973",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-09-30T22:50:33Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "medtronic",
+        "implantable_device_programmer",
+        "carelink_smartsync"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260923_japan_pmda_class_ii_recall_medtronic_omniasecure_mri_lead_ic",
       "framework": "japan_pmda",

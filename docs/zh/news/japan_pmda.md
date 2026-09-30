@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### PMDA二级召回：飞利浦日本BV Endura/Vectra/Zenition移动C臂X线透视系统
+
+**2026-09-30** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布飞利浦日本移动式数字通用一体化X线透视诊断装置的二级召回（编号2-12979），涉及Full Digital Mobile C-arm System BV Endura、Vectra及Zenition系列。此次召回影响日本使用这些设备的医疗机构；提供的摘要未包含具体安全原因，相关机构应查阅PMDA正式通知和飞利浦日本的现场纠正措施说明，核对序列号并按指示处理。
+
+**标签**: `pmda`, `class_ii_recall`, `fluoroscopy`, `philips_japan`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12979)
+
+---
+
+### PMDA II类召回2-12975：强生日本Ethilon聚酰胺缝线
+
+**2026-09-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+PMDA已发布强生日本株式会社Ethilon（聚酰胺缝合线）的II类召回（编号2-12975）。II类表示中等风险问题。所提供信息未说明具体安全原因，医疗机构应查阅PMDA官方通知，识别受影响批次，并按照隔离和退货要求处理。
+
+**标签**: `pmda`, `class_ii_recall`, `suture`, `polyamide`, `johnson_and_johnson`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12975)
+
+---
+
+### PMDA II类召回：GE医疗日本Senographe Pristina乳腺X线诊断装置（召回号2-12974）
+
+**2026-09-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了由GE医疗日本销售的Senographe Pristina（固定式数字乳腺X线诊断装置）II类召回（召回号2-12974）。II类召回表示中等风险。受影响机构应查阅PMDA通知了解具体安全原因，并联系GE医疗日本采取纠正措施。
+
+**标签**: `pmda`, `recall`, `class_ii`, `mammography`, `ge_healthcare_japan`, `senographe_pristina`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12974)
+
+---
+
+### PMDA II类召回：美敦力CareLink SmartSync Device Manager植入式有源设备程控仪
+
+**2026-09-25** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布编号为2-12973的II类召回，涉及日本美敦力株式会社销售的CareLink SmartSync Device Manager（植入式有源设备用程控仪）。此次召回针对该程控仪相关产品问题，风险等级为中等（II类）。相关医疗机构应识别受影响的程控仪，并按照PMDA官方召回通知中的制造商纠正措施执行。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `medtronic`, `implantable_device_programmer`, `carelink_smartsync`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12973)
+
+---
+
 ### 日本PMDA II类召回：美敦力OmniaSecure MRI导线（ICD/起搏器导线）
 
 **2026-09-17** | Japan PMDA | 安全通报 | !! MEDIUM
