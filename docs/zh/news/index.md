@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 瑞士药监局发布B. Braun Pleuracan胸/腹膜引流导管套件FSCA
+
+**2026-10-01** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）发布了一项针对B. Braun Melsungen AG生产的Pleuracan胸/腹膜引流导管穿刺套件（非药物型）的现场安全纠正措施（FSCA），涉及型号4462556。该通知编号为Vk_20260930_043。摘要中未列出具体纠正原因和受影响批次；医疗机构应查阅完整的Swissmedic FSCA，并遵循B. Braun的识别、隔离或退回受影响产品的指示。
+
+**标签**: `swissmedic`, `fsca`, `drainage_catheter`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260930_043)
+
+---
+
+### HSA更新医疗器械产品注册指南GN-15-R15（2026年10月）
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布了更新版《GN-15-R15 医疗器械产品注册指南》，日期为2026年10月。该指南适用于在新加坡申请医疗器械注册的制造商、进口商和注册人。相关方应审查更新后的注册要求，并确保新的或进行中的产品注册申请符合HSA的最新要求。
+
+**标签**: `singapore_hsa`, `medical_device_registration`, `guidance_update`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-15-r15-30-09-2026)
+
+---
+
+### HSA更新GN-17 R5：使用东盟CSDT编制普通医疗器械产品注册申报指南
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布GN-17指南第5修订版，规定使用东盟通用提交档案模板（ASEAN CSDT）编制普通医疗器械产品注册申报的要求。医疗器械注册申请人和持证人需确保HSA申报资料符合更新后的ASEAN CSDT格式及GN-17 R5要求。企业应审查该修订指南并相应更新注册档案。
+
+**标签**: `singapore_hsa`, `asean_csdt`, `medical_device_registration`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-17-r5-30-09-2026)
+
+---
+
+### HSA更新GN-18 R5：使用东盟CSDT提交IVD产品注册申请指南（2026年10月）
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布GN-18 R5，更新了使用东盟通用提交档案模板（ASEAN CSDT）准备体外诊断医疗器械（IVD）产品注册申请的指南。该修订使IVD注册申报要求与东盟CSDT格式保持一致，适用于IVD注册申请。制造商和注册人应审查更新后的模板和说明，确保申报资料在提交前符合修订后的文件和格式要求。
+
+**标签**: `singapore_hsa`, `ivd`, `asean_csdt`, `product_registration`, `guidance_update`
+
+[查看来源 (Official Source)](https://go.gov.sg/annex2-gn-17-gn-18-loc-30-09-2026)
+
+---
+
 ### PMDA二级召回：飞利浦日本BV Endura/Vectra/Zenition移动C臂X线透视系统
 
 **2026-09-30** | Japan PMDA | 安全通报 | !! MEDIUM
@@ -15,6 +63,54 @@ PMDA已发布飞利浦日本移动式数字通用一体化X线透视诊断装置
 **标签**: `pmda`, `class_ii_recall`, `fluoroscopy`, `philips_japan`, `medical_device`
 
 [查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12979)
+
+---
+
+### 瑞士Swissmedic发布西门子ARTIS icono ceiling血管造影X射线系统FSCA
+
+**2026-09-30** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对西门子医疗（Siemens Healthcare GmbH）ARTIS icono ceiling固定式数字血管造影X射线系统的现场安全纠正措施（FSCA）。该公开警报摘要未说明具体纠正原因及受影响型号/批次。使用该设备的医疗机构应查阅Swissmedic官方FSCA通知并遵循制造商的指示。
+
+**标签**: `fsca`, `swissmedic`, `angiographic_x-ray`, `siemens_healthineers`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### Swissmedic针对西门子ARTIS icono floor血管造影X射线系统发布FSCA
+
+**2026-09-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已针对西门子医疗（Siemens Healthcare GmbH）的ARTIS icono floor固定式数字血管造影X射线系统发布现场安全纠正措施（FSCA）。现有信息中未说明纠正原因及受影响型号/批次。相关用户和经销商应查阅Swissmedic官方FSCA通知（Vk_20260925_013）并遵循制造商指示。
+
+**标签**: `swissmedic`, `fsca`, `angiographic_x_ray`, `siemens_healthineers`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### 瑞士Swissmedic发布西门子ARTIS pheno血管造影X射线系统FSCA
+
+**2026-09-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已针对西门子医疗（Siemens Healthcare GmbH）生产的ARTIS pheno固定式数字血管造影X射线系统发布现场安全纠正措施（FSCA）。现有警报摘要未注明原因、受影响型号/批次及具体要求，相关机构应查阅Swissmedic官方通知。使用该系统的医疗机构应审查FSCA并遵循西门子的纠正措施说明。
+
+**标签**: `swissmedic`, `fsca`, `siemens_healthineers`, `angiographic_xray`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### 瑞士药监局发布西门子ARTIS icono双翼血管造影X射线系统FSCA
+
+**2026-09-30** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布了西门子医疗（Siemens Healthcare GmbH）ARTIS icono双翼血管造影X射线系统的现场安全纠正措施（FSCA），该系统为固定式数字血管造影X射线设备。警报元数据提供了FSCA编号Vk_20260925_013，但未说明具体原因及受影响型号/批次。使用该系统的医疗机构应查阅瑞士药监局官方通知并遵循西门子医疗的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `siemens_healthineers`, `angiography_xray`, `medical_device_safety`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
 
 ---
 
@@ -51,6 +147,76 @@ FDA 发布召回通知，称 Abiomed 正在移除用于 Impella 心脏泵的自�
 **标签**: `heart_pump_controller`, `recall`, `abiomed_impella`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers)
+
+---
+
+### CareLink SmartSync Micra AV2/VR2 Application - Medtronic, Inc.
+
+**2026-09-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Implantable cardiac devices programmers and accessories. Reason: . Model: D00U022.
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_019)
+
+---
+
+### 瑞士药监局FSCA：ArjoHuntleigh Carevo沐浴/更换台FSN命名更正（型号BAC1xxx-xx）
+
+**2026-09-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布的现场安全纠正措施涉及ArjoHuntleigh AB的Carevo移动式沐浴/更换台，型号为BAC1xxx-xx。此次纠正旨在更正现场安全通知（FSN）的命名，未涉及产品缺陷。用户应查阅更正后的FSN并更新相关记录。
+
+**标签**: `swissmedic`, `fsca`, `field_safety_notice`, `medical_device`, `arjo`, `carevo`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260907_059)
+
+---
+
+### Swissmedic FSCA：美敦力CareLink SmartSync通用应用程序（型号M01A02）
+
+**2026-09-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了针对美敦力CareLink SmartSync通用应用程序（型号M01A02）的现场安全纠正措施（FSCA），该软件用于植入式心脏设备程控仪。该警示摘要中未列出具体纠正原因，但归类为医疗器械软件FSCA。用户应获取Swissmedic和美敦力的完整通知，并对受影响程控仪执行指定的软件更正或验证。
+
+**标签**: `swissmedic`, `fsca`, `medtronic`, `cardiac_device_software`, `software_correction`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_018)
+
+---
+
+### Swissmedic FSCA：SCHILLER Fred easy电池型号4-07-0001新增回复表
+
+**2026-09-29** | Swissmedic | 安全通报 | !! MEDIUM
+
+本Swissmedic现场安全纠正措施（FSCA）涉及SCHILLER MEDICAL SAS生产的Fred easy公众自动体外除颤器用非充电电池，型号4-07-0001。FSCA原因为新增回复表。受影响用户应查看该FSCA，并按制造商指示填写并返回回复表。
+
+**标签**: `swissmedic_fsca`, `schiller_medical`, `aed_battery`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260928_039)
+
+---
+
+### 瑞士药监局FSCA：PENTAX Medical OS-H5内窥镜冲洗/扩张水瓶组件
+
+**2026-09-29** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士药监局（Swissmedic）已发布针对PENTAX Medical OS-H5型内窥镜冲洗/扩张水瓶组件的现场安全纠正措施（FSCA）。该FSCA旨在处理该产品的器械相关安全问题，具体风险原因需查阅官方通知。使用该设备的内镜机构应识别受影响的OS-H5产品，并按照制造商建议采取隔离、更换或其他纠正措施。
+
+**标签**: `swissmedic_fsca`, `medical_device_safety`, `endoscopy_irrigation`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_037)
+
+---
+
+### 瑞士Swissmedic发布PENTAX医用超声胃十二指肠镜FSCA（EG36-J10UR等型号）
+
+**2026-09-29** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对PENTAX Medical Corporation柔性超声胃十二指肠镜的现场安全纠正措施（FSCA），涉及型号包括EG36-J10UR、EG38-J10UT、EG34-J10U、EG-3870UTK、EG-3670URK和EG-3270UK。提供的FSCA条目中未具体说明纠正措施的原因。相关机构应查阅Swissmedic的FSCA通知，并遵循制造商对这些设备的建议措施。
+
+**标签**: `swissmedic`, `fsca`, `pentax_medical`, `ultrasound_endoscope`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_037)
 
 ---
 

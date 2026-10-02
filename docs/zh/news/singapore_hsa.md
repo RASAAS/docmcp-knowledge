@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### HSA更新医疗器械产品注册指南GN-15-R15（2026年10月）
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布了更新版《GN-15-R15 医疗器械产品注册指南》，日期为2026年10月。该指南适用于在新加坡申请医疗器械注册的制造商、进口商和注册人。相关方应审查更新后的注册要求，并确保新的或进行中的产品注册申请符合HSA的最新要求。
+
+**标签**: `singapore_hsa`, `medical_device_registration`, `guidance_update`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-15-r15-30-09-2026)
+
+---
+
+### HSA更新GN-17 R5：使用东盟CSDT编制普通医疗器械产品注册申报指南
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布GN-17指南第5修订版，规定使用东盟通用提交档案模板（ASEAN CSDT）编制普通医疗器械产品注册申报的要求。医疗器械注册申请人和持证人需确保HSA申报资料符合更新后的ASEAN CSDT格式及GN-17 R5要求。企业应审查该修订指南并相应更新注册档案。
+
+**标签**: `singapore_hsa`, `asean_csdt`, `medical_device_registration`
+
+[查看来源 (Official Source)](https://go.gov.sg/gn-17-r5-30-09-2026)
+
+---
+
+### HSA更新GN-18 R5：使用东盟CSDT提交IVD产品注册申请指南（2026年10月）
+
+**2026-10-01** | Singapore HSA | 法规更新 | !! MEDIUM
+
+新加坡卫生科学局（HSA）发布GN-18 R5，更新了使用东盟通用提交档案模板（ASEAN CSDT）准备体外诊断医疗器械（IVD）产品注册申请的指南。该修订使IVD注册申报要求与东盟CSDT格式保持一致，适用于IVD注册申请。制造商和注册人应审查更新后的模板和说明，确保申报资料在提交前符合修订后的文件和格式要求。
+
+**标签**: `singapore_hsa`, `ivd`, `asean_csdt`, `product_registration`, `guidance_update`
+
+[查看来源 (Official Source)](https://go.gov.sg/annex2-gn-17-gn-18-loc-30-09-2026)
+
+---
+
 ### HSA更新医疗器械产品注册指南GN-15-R14（2026年9月）
 
 **2026-09-01** | Singapore HSA | 法规更新 | !! MEDIUM

@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Swissmedic FSCA for B. Braun Pleuracan Pleural/Peritoneal Drainage Catheterization Kit, Model 4462556
+
+**2026-10-01** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Pleuracan pleural/peritoneal drainage catheterization kit, non-medicated, manufactured by B. Braun Melsungen AG, affecting model number 4462556. The notice identifier is Vk_20260930_043. The specific reason for the corrective action and affected lot details are not included in the summary listing; healthcare facilities should review the full Swissmedic FSCA and follow B. Braun's instructions for identifying, quarantining, or returning affected product.
+
+**Tags**: `swissmedic`, `fsca`, `drainage_catheter`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260930_043)
+
+---
+
+### HSA Updates GN-15-R15 Guidance on Medical Device Product Registration (Oct 2026)
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Singapore Health Sciences Authority (HSA) has released an updated GN-15-R15 Guidance on Medical Device Product Registration, dated October 2026. This guidance applies to manufacturers, importers, and registrants seeking to register medical devices in Singapore. Affected stakeholders should review the revised registration requirements and ensure that new or ongoing product registration submissions align with the updated HSA expectations.
+
+**Tags**: `singapore_hsa`, `medical_device_registration`, `guidance_update`
+
+[View Source (Official Source)](https://go.gov.sg/gn-15-r15-30-09-2026)
+
+---
+
+### HSA Updates GN-17 R5: Product Registration Submission for General Medical Devices Using ASEAN CSDT
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore HSA has issued revision 5 of guidance document GN-17, which sets out requirements for preparing product registration submissions for general medical devices using the ASEAN Common Submission Dossier Template (CSDT). Medical device registrants and applicants must align their HSA submissions with the updated ASEAN CSDT format and GN-17 R5 requirements. Companies should review the revised guidance and update their registration dossiers accordingly.
+
+**Tags**: `singapore_hsa`, `asean_csdt`, `medical_device_registration`
+
+[View Source (Official Source)](https://go.gov.sg/gn-17-r5-30-09-2026)
+
+---
+
+### HSA Updates GN-18 R5: IVD Product Registration Submission Using ASEAN CSDT (2026 Oct)
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore's HSA has issued GN-18 R5, providing updated guidance on preparing product registration submissions for in vitro diagnostic medical devices (IVDs) using the ASEAN CSDT format. The revision aligns IVD submission requirements with the ASEAN Common Submission Dossier Template and applies to IVD registration applications. Manufacturers and registrants should review the updated template and instructions to ensure their dossiers meet the revised documentation and format expectations before submission.
+
+**Tags**: `singapore_hsa`, `ivd`, `asean_csdt`, `product_registration`, `guidance_update`
+
+[View Source (Official Source)](https://go.gov.sg/annex2-gn-17-gn-18-loc-30-09-2026)
+
+---
+
 ### PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition
 
 **2026-09-30** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -15,6 +63,54 @@ The PMDA has listed a Class II recall (No. 2-12979) for Philips Japan's mobile d
 **Tags**: `pmda`, `class_ii_recall`, `fluoroscopy`, `philips_japan`, `medical_device`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12979)
+
+---
+
+### Swissmedic FSCA for Siemens ARTIS icono ceiling Angiographic X-ray System
+
+**2026-09-30** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) concerning the ARTIS icono ceiling, a stationary digital angiographic X-ray system manufactured by Siemens Healthcare GmbH. The public alert summary does not specify the reason for the corrective action or the affected model/lot details. Healthcare facilities using this system should review the official Swissmedic FSCA notice and follow the manufacturer's instructions.
+
+**Tags**: `fsca`, `swissmedic`, `angiographic_x-ray`, `siemens_healthineers`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### Swissmedic FSCA: Siemens ARTIS icono floor Stationary Angiographic X-Ray System
+
+**2026-09-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Siemens Healthcare GmbH ARTIS icono floor, a stationary digital angiographic x-ray system. The specific reason for the corrective action and affected model/lot details are not provided in the available initial notice. Users and distributors should review the official Swissmedic FSCA notice (Vk_20260925_013) and follow any manufacturer instructions.
+
+**Tags**: `swissmedic`, `fsca`, `angiographic_x_ray`, `siemens_healthineers`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### Swissmedic FSCA: Siemens ARTIS pheno Stationary Angiographic X-Ray System
+
+**2026-09-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the ARTIS pheno, a stationary digital angiographic X-ray system manufactured by Siemens Healthcare GmbH. The available alert summary does not specify the reason, model/lot, or required actions; these details must be checked in the official Swissmedic notice. Healthcare facilities using this system should review the FSCA and follow Siemens' corrective action instructions.
+
+**Tags**: `swissmedic`, `fsca`, `siemens_healthineers`, `angiographic_xray`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
+
+---
+
+### Swissmedic FSCA: Siemens ARTIS icono biplane Stationary Angiographic X-ray System
+
+**2026-09-30** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Siemens Healthcare GmbH ARTIS icono biplane, a stationary digital angiographic X-ray system. The alert metadata identifies FSCA reference Vk_20260925_013 but does not specify the reason or affected models/lots. Healthcare facilities using this system should review the official Swissmedic notice and follow Siemens Healthcare's corrective instructions.
+
+**Tags**: `swissmedic`, `fsca`, `siemens_healthineers`, `angiography_xray`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260925_013)
 
 ---
 
@@ -51,6 +147,76 @@ FDA has posted a recall notice stating Abiomed is removing Automated Impella Con
 **Tags**: `heart_pump_controller`, `recall`, `abiomed_impella`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers)
+
+---
+
+### CareLink SmartSync Micra AV2/VR2 Application - Medtronic, Inc.
+
+**2026-09-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Implantable cardiac devices programmers and accessories. Reason: . Model: D00U022.
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_019)
+
+---
+
+### Swissmedic FSCA: ArjoHuntleigh Carevo Bathing/Changing Table FSN Naming Correction (Model BAC1xxx-xx)
+
+**2026-09-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action concerns the ArjoHuntleigh AB Carevo mobile bathing/changing table, model BAC1xxx-xx. The action is issued to correct the naming of the field safety notice (FSN); no product defect is indicated. Users should review the corrected FSN and update their records accordingly.
+
+**Tags**: `swissmedic`, `fsca`, `field_safety_notice`, `medical_device`, `arjo`, `carevo`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260907_059)
+
+---
+
+### Swissmedic FSCA: Medtronic CareLink SmartSync Common Application (Model M01A02)
+
+**2026-09-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Medtronic CareLink SmartSync Common Application, software used with implantable cardiac device programmers, model M01A02. The published notice does not specify the detailed reason in the alert summary, but it is classified as a medical device software FSCA. Users should obtain the full Swissmedic and Medtronic communication and implement any required software correction or verification for affected programmers.
+
+**Tags**: `swissmedic`, `fsca`, `medtronic`, `cardiac_device_software`, `software_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_018)
+
+---
+
+### Swissmedic FSCA: SCHILLER Fred Easy Battery Model 4-07-0001 – Reply Form Added
+
+**2026-09-29** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action (FSCA) concerns the non-rechargeable battery for the Fred easy public automated external defibrillator, model 4-07-0001, manufactured by SCHILLER MEDICAL SAS. The stated reason is the addition of a reply form to the corrective action documentation. Users of the affected battery/device should review the FSCA and complete and return the reply form as instructed by the manufacturer.
+
+**Tags**: `swissmedic_fsca`, `schiller_medical`, `aed_battery`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260928_039)
+
+---
+
+### Swissmedic FSCA: PENTAX Medical OS-H5 Water Bottle Assembly (Endoscopic Irrigation/Distension Bottle)
+
+**2026-09-29** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for the PENTAX Medical Water Bottle Assembly, model OS-H5, an endoscopic irrigation/distension bottle. The FSCA was issued to address a device-related safety concern; the specific hazard details should be reviewed in the linked Swissmedic and manufacturer notices. Healthcare facilities using this device during endoscopic procedures should identify affected OS-H5 units and follow the manufacturer’s recommended corrective actions, such as quarantine or replacement.
+
+**Tags**: `swissmedic_fsca`, `medical_device_safety`, `endoscopy_irrigation`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_037)
+
+---
+
+### Swissmedic FSCA for PENTAX Medical Flexible Ultrasound Gastroduodenoscopes (EG36-J10UR, EG38-J10UT, etc.)
+
+**2026-09-29** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for PENTAX Medical Corporation flexible ultrasound gastroduodenoscopes, covering models EG36-J10UR, EG38-J10UT, EG34-J10U, EG-3870UTK, EG-3670URK, and EG-3270UK. The specific reason for the corrective action is not detailed in the provided FSCA entry. Affected facilities should review the Swissmedic FSCA notice and follow the manufacturer's recommended actions for these devices.
+
+**Tags**: `swissmedic`, `fsca`, `pentax_medical`, `ultrasound_endoscope`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_037)
 
 ---
 

@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### HSA Updates GN-15-R15 Guidance on Medical Device Product Registration (Oct 2026)
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+The Singapore Health Sciences Authority (HSA) has released an updated GN-15-R15 Guidance on Medical Device Product Registration, dated October 2026. This guidance applies to manufacturers, importers, and registrants seeking to register medical devices in Singapore. Affected stakeholders should review the revised registration requirements and ensure that new or ongoing product registration submissions align with the updated HSA expectations.
+
+**Tags**: `singapore_hsa`, `medical_device_registration`, `guidance_update`
+
+[View Source (Official Source)](https://go.gov.sg/gn-15-r15-30-09-2026)
+
+---
+
+### HSA Updates GN-17 R5: Product Registration Submission for General Medical Devices Using ASEAN CSDT
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore HSA has issued revision 5 of guidance document GN-17, which sets out requirements for preparing product registration submissions for general medical devices using the ASEAN Common Submission Dossier Template (CSDT). Medical device registrants and applicants must align their HSA submissions with the updated ASEAN CSDT format and GN-17 R5 requirements. Companies should review the revised guidance and update their registration dossiers accordingly.
+
+**Tags**: `singapore_hsa`, `asean_csdt`, `medical_device_registration`
+
+[View Source (Official Source)](https://go.gov.sg/gn-17-r5-30-09-2026)
+
+---
+
+### HSA Updates GN-18 R5: IVD Product Registration Submission Using ASEAN CSDT (2026 Oct)
+
+**2026-10-01** | Singapore HSA | Regulation Update | !! MEDIUM
+
+Singapore's HSA has issued GN-18 R5, providing updated guidance on preparing product registration submissions for in vitro diagnostic medical devices (IVDs) using the ASEAN CSDT format. The revision aligns IVD submission requirements with the ASEAN Common Submission Dossier Template and applies to IVD registration applications. Manufacturers and registrants should review the updated template and instructions to ensure their dossiers meet the revised documentation and format expectations before submission.
+
+**Tags**: `singapore_hsa`, `ivd`, `asean_csdt`, `product_registration`, `guidance_update`
+
+[View Source (Official Source)](https://go.gov.sg/annex2-gn-17-gn-18-loc-30-09-2026)
+
+---
+
 ### HSA Updates GN-15-R14 Guidance on Medical Device Product Registration (Sep 2026)
 
 **2026-09-01** | Singapore HSA | Regulation Update | !! MEDIUM

@@ -1,7 +1,84 @@
 {
   "framework": "singapore_hsa",
-  "last_updated": "2026-09-11T21:40:39Z",
+  "last_updated": "2026-10-02T22:44:00Z",
   "items": [
+    {
+      "id": "singapore_hsa_20261002_hsa_updates_gn_15_r15_guidance_on_medical_device_product_reg",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-15-R15 Guidance on Medical Device Product Registration (Oct 2026)",
+        "zh": "HSA更新医疗器械产品注册指南GN-15-R15（2026年10月）"
+      },
+      "summary": {
+        "en": "The Singapore Health Sciences Authority (HSA) has released an updated GN-15-R15 Guidance on Medical Device Product Registration, dated October 2026. This guidance applies to manufacturers, importers, and registrants seeking to register medical devices in Singapore. Affected stakeholders should review the revised registration requirements and ensure that new or ongoing product registration submissions align with the updated HSA expectations.",
+        "zh": "新加坡卫生科学局（HSA）发布了更新版《GN-15-R15 医疗器械产品注册指南》，日期为2026年10月。该指南适用于在新加坡申请医疗器械注册的制造商、进口商和注册人。相关方应审查更新后的注册要求，并确保新的或进行中的产品注册申请符合HSA的最新要求。"
+      },
+      "source_url": "https://go.gov.sg/gn-15-r15-30-09-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-02T22:43:42Z",
+      "importance": "medium",
+      "tags": [
+        "singapore_hsa",
+        "medical_device_registration",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20261002_hsa_updates_gn_17_r5_product_registration_submission_for_gen",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-17 R5: Product Registration Submission for General Medical Devices Using ASEAN CSDT",
+        "zh": "HSA更新GN-17 R5：使用东盟CSDT编制普通医疗器械产品注册申报指南"
+      },
+      "summary": {
+        "en": "Singapore HSA has issued revision 5 of guidance document GN-17, which sets out requirements for preparing product registration submissions for general medical devices using the ASEAN Common Submission Dossier Template (CSDT). Medical device registrants and applicants must align their HSA submissions with the updated ASEAN CSDT format and GN-17 R5 requirements. Companies should review the revised guidance and update their registration dossiers accordingly.",
+        "zh": "新加坡卫生科学局（HSA）发布GN-17指南第5修订版，规定使用东盟通用提交档案模板（ASEAN CSDT）编制普通医疗器械产品注册申报的要求。医疗器械注册申请人和持证人需确保HSA申报资料符合更新后的ASEAN CSDT格式及GN-17 R5要求。企业应审查该修订指南并相应更新注册档案。"
+      },
+      "source_url": "https://go.gov.sg/gn-17-r5-30-09-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-02T22:43:52Z",
+      "importance": "medium",
+      "tags": [
+        "singapore_hsa",
+        "asean_csdt",
+        "medical_device_registration"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "singapore_hsa_20261002_hsa_updates_gn_18_r5_ivd_product_registration_submission_usi",
+      "framework": "singapore_hsa",
+      "category": "regulation_update",
+      "title": {
+        "en": "HSA Updates GN-18 R5: IVD Product Registration Submission Using ASEAN CSDT (2026 Oct)",
+        "zh": "HSA更新GN-18 R5：使用东盟CSDT提交IVD产品注册申请指南（2026年10月）"
+      },
+      "summary": {
+        "en": "Singapore's HSA has issued GN-18 R5, providing updated guidance on preparing product registration submissions for in vitro diagnostic medical devices (IVDs) using the ASEAN CSDT format. The revision aligns IVD submission requirements with the ASEAN Common Submission Dossier Template and applies to IVD registration applications. Manufacturers and registrants should review the updated template and instructions to ensure their dossiers meet the revised documentation and format expectations before submission.",
+        "zh": "新加坡卫生科学局（HSA）发布GN-18 R5，更新了使用东盟通用提交档案模板（ASEAN CSDT）准备体外诊断医疗器械（IVD）产品注册申请的指南。该修订使IVD注册申报要求与东盟CSDT格式保持一致，适用于IVD注册申请。制造商和注册人应审查更新后的模板和说明，确保申报资料在提交前符合修订后的文件和格式要求。"
+      },
+      "source_url": "https://go.gov.sg/annex2-gn-17-gn-18-loc-30-09-2026",
+      "source_name": "Official Source",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-02T22:43:59Z",
+      "importance": "medium",
+      "tags": [
+        "singapore_hsa",
+        "ivd",
+        "asean_csdt",
+        "product_registration",
+        "guidance_update"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "singapore_hsa_20260911_hsa_updates_gn_15_r14_guidance_on_medical_device_product_reg",
       "framework": "singapore_hsa",
