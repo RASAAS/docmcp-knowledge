@@ -45,6 +45,18 @@ title: Regulatory News
 
 ## Latest Updates
 
+### ANMAT Prohibits Smith & Nephew Medical Device Product
+
+**2026-10-01** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+Argentina’s ANMAT has prohibited a Smith & Nephew medical device, barring its use, distribution, and sale due to safety concerns. The alert title does not specify the exact device name, model, or affected lots, so affected parties should consult the official ANMAT notice for full product and lot details. Healthcare facilities, importers, and distributors should immediately stop using and distributing the relevant Smith & Nephew product.
+
+**Tags**: `argentina_anmat`, `smith_nephew`, `product_prohibition`, `medical_device_safety`, `regulatory_alert`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-producto-medico-de-la-marca-smith-nephew)
+
+---
+
 ### ANMAT Bans All Series of TEXEL Brand High-Frequency Medical Equipment (September 16, 2026)
 
 **2026-09-16** | Argentina ANMAT | Safety Communication | !!! HIGH

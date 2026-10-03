@@ -54,6 +54,18 @@ Singapore's HSA has issued GN-18 R5, providing updated guidance on preparing pro
 
 ---
 
+### ANMAT Prohibits Smith & Nephew Medical Device Product
+
+**2026-10-01** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+Argentina’s ANMAT has prohibited a Smith & Nephew medical device, barring its use, distribution, and sale due to safety concerns. The alert title does not specify the exact device name, model, or affected lots, so affected parties should consult the official ANMAT notice for full product and lot details. Healthcare facilities, importers, and distributors should immediately stop using and distributing the relevant Smith & Nephew product.
+
+**Tags**: `argentina_anmat`, `smith_nephew`, `product_prohibition`, `medical_device_safety`, `regulatory_alert`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-producto-medico-de-la-marca-smith-nephew)
+
+---
+
 ### PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition
 
 **2026-09-30** | Japan PMDA | Safety Communication | !! MEDIUM

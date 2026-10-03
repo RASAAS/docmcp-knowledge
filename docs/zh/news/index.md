@@ -54,6 +54,18 @@ title: 法规速递
 
 ---
 
+### ANMAT禁止Smith & Nephew一款医疗器械
+
+**2026-10-01** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+阿根廷国家药品、食品和医疗器械管理局（ANMAT）发布禁令，禁止使用、分销和销售一款Smith & Nephew品牌医疗器械，原因是存在安全隐患。该警报标题未列出具体产品名称、型号及受影响批次，相关方应查阅ANMAT官方公告以获取完整产品和批次信息。医疗机构、进口商和经销商应立即停止使用和分销相关Smith & Nephew产品。
+
+**标签**: `argentina_anmat`, `smith_nephew`, `product_prohibition`, `medical_device_safety`, `regulatory_alert`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-prohibe-un-producto-medico-de-la-marca-smith-nephew)
+
+---
+
 ### PMDA二级召回：飞利浦日本BV Endura/Vectra/Zenition移动C臂X线透视系统
 
 **2026-09-30** | Japan PMDA | 安全通报 | !! MEDIUM
