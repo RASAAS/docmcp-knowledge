@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### BD与CareFusion 303召回BD Alaris输液泵输液套件
+
+**2026-10-06** | FDA | cdrh_news | !!! HIGH
+
+美国FDA发布BD及CareFusion 303, Inc.对BD Alaris输液泵输液套件的召回通知。使用相关输液套件的医疗机构和经销商应识别、隔离并停止使用受影响产品。应按照召回通知执行退货或处置程序。
+
+**标签**: `infusion_set`, `recall`, `bd_alaris`, `medical_device`, `fda`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets)
+
+---
+
+### Draeger召回VentStar Resus Neo呼吸管路
+
+**2026-10-06** | FDA | cdrh_news | !!! HIGH
+
+FDA/CDRH发布召回通知，Draeger将VentStar Resus Neo新生儿呼吸管路从市场移除。使用该管路的医疗机构、新生儿科和呼吸治疗人员应立即停用并隔离受影响产品。Draeger要求客户联系公司办理退货或更换。通知中未列明具体截止日期，但建议立即行动，因为呼吸管路缺陷可能影响通气安全。
+
+**标签**: `draeger`, `ventstar_resus_neo`, `breathing_circuit_recall`, `neonatal_ventilation`, `medical_device_recall`, `fda_cdrh`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses)
+
+---
+
+### CDRH公布2027财年拟制定指导文件清单
+
+**2026-10-06** | FDA | cdrh_news | !! MEDIUM
+
+FDA医疗器械与放射健康中心（CDRH）发布了2027财年拟制定的指导文件清单，涵盖器械上市前和上市后等优先主题。该清单影响医疗器械制造商、申办方及其他相关方；企业应审查该计划，提前关注即将发布的指导文件，并在草案或最终版本发布时准备提交意见或调整合规策略。
+
+**标签**: `cdrh`, `fda`, `guidance_documents`, `fiscal_year_2027`, `medical_devices`, `regulatory_planning`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027)
+
+---
+
 ### Boston Scientific召回Imager II血管造影导管
 
 **2026-09-29** | FDA | cdrh_news | !!! HIGH
@@ -231,6 +267,30 @@ AVID Medical, Inc. 正在召回288套Halyard IV START KIT非无菌型（REF KRIV
 **标签**: `class_i_recall`, `fda_recall`, `aspergillus_contamination`, `convenience_kit`, `avid_medical`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3108-2026)
+
+---
+
+### FDA I级召回：BD Switzerland SARL BD Alaris泵输液器（召回编号Z-3080-2026）
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+BD Switzerland SARL正在召回特定BD Alaris泵输液器（召回编号Z-3080-2026），原因是输液器性能数据属性的差异可能导致输液泵性能不当，存在严重伤害或死亡风险。此次召回涉及94,230,757件产品。医疗机构应识别并隔离受影响产品，查阅BD召回通知，并遵循退回或更换等建议措施。
+
+**标签**: `class_i_recall`, `infusion_sets`, `bd_alaris`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3080-2026)
+
+---
+
+### Nova Biomedical StatStrip血糖医院用检测仪系统（型号66739）I级召回
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA已发布Nova Biomedical Corporation的StatStrip血糖医院用检测仪系统（型号66739）I级召回（编号Z-3129-2026）。召回原因是条码扫描和患者数据处理组件存在软件同步/时序问题，可能间歇性保留先前扫描的条码（包括患者ID），导致患者身份混淆和不适当治疗风险。召回数量为10,941台。医疗机构应识别受影响设备，遵循Nova Biomedical的召回通知，并在软件问题纠正前采取临时措施防止患者/样本混淆。
+
+**标签**: `class_i_recall`, `glucose_test_system`, `patient_identification`, `software_issue`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3129-2026)
 
 ---
 

@@ -1,7 +1,90 @@
 {
   "framework": "fda",
-  "last_updated": "2026-09-29T22:58:30Z",
+  "last_updated": "2026-10-06T00:28:18Z",
   "items": [
+    {
+      "id": "fda_20261006_bd_and_carefusion_303_recall_bd_alaris_pump_infusion_sets",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "BD and CareFusion 303 Recall BD Alaris Pump Infusion Sets",
+        "zh": "BD与CareFusion 303召回BD Alaris输液泵输液套件"
+      },
+      "summary": {
+        "en": "FDA announced a recall of BD Alaris Pump Infusion Sets by BD and CareFusion 303, Inc. Healthcare facilities and distributors using these infusion sets should identify and remove affected product from use. Follow the recall notice for quarantine, return, or disposal instructions.",
+        "zh": "美国FDA发布BD及CareFusion 303, Inc.对BD Alaris输液泵输液套件的召回通知。使用相关输液套件的医疗机构和经销商应识别、隔离并停止使用受影响产品。应按照召回通知执行退货或处置程序。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+      "source_name": "FDA",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-06T00:27:44Z",
+      "importance": "high",
+      "tags": [
+        "infusion_set",
+        "recall",
+        "bd_alaris",
+        "medical_device",
+        "fda"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_draeger_recalls_ventstar_resus_neo_breathing_circuit_hoses",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Draeger Recalls VentStar Resus Neo Breathing Circuit Hoses",
+        "zh": "Draeger召回VentStar Resus Neo呼吸管路"
+      },
+      "summary": {
+        "en": "FDA/CDRH published a recall notice stating Draeger is removing its VentStar Resus Neo neonatal breathing circuit hoses. Healthcare facilities using these hoses for neonatal ventilation or resuscitation should immediately locate and quarantine affected product and discontinue use. Draeger is directing customers to contact the firm for return/replacement instructions. No specific compliance deadline was listed, but immediate action is advised because a breathing circuit defect may compromise ventilation.",
+        "zh": "FDA/CDRH发布召回通知，Draeger将VentStar Resus Neo新生儿呼吸管路从市场移除。使用该管路的医疗机构、新生儿科和呼吸治疗人员应立即停用并隔离受影响产品。Draeger要求客户联系公司办理退货或更换。通知中未列明具体截止日期，但建议立即行动，因为呼吸管路缺陷可能影响通气安全。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
+      "source_name": "FDA",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-06T00:28:09Z",
+      "importance": "high",
+      "tags": [
+        "draeger",
+        "ventstar_resus_neo",
+        "breathing_circuit_recall",
+        "neonatal_ventilation",
+        "medical_device_recall",
+        "fda_cdrh"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_cdrh_announces_proposed_guidance_documents_for_fiscal_year_2",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "CDRH Announces Proposed Guidance Documents for Fiscal Year 2027",
+        "zh": "CDRH公布2027财年拟制定指导文件清单"
+      },
+      "summary": {
+        "en": "FDA’s Center for Devices and Radiological Health (CDRH) has published its proposed list of guidance documents planned for Fiscal Year 2027. The list covers priority topics across premarket and postmarket device programs and affects medical device manufacturers, sponsors, and other stakeholders. Companies should review the agenda to anticipate upcoming guidances and prepare to submit comments or align compliance strategies when draft and final documents are issued.",
+        "zh": "FDA医疗器械与放射健康中心（CDRH）发布了2027财年拟制定的指导文件清单，涵盖器械上市前和上市后等优先主题。该清单影响医疗器械制造商、申办方及其他相关方；企业应审查该计划，提前关注即将发布的指导文件，并在草案或最终版本发布时准备提交意见或调整合规策略。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027",
+      "source_name": "FDA",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-06T00:28:18Z",
+      "importance": "medium",
+      "tags": [
+        "cdrh",
+        "fda",
+        "guidance_documents",
+        "fiscal_year_2027",
+        "medical_devices",
+        "regulatory_planning"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20260929_boston_scientific_recalls_imager_ii_angiographic_catheters",
       "framework": "fda",
@@ -493,6 +576,57 @@
         "aspergillus_contamination",
         "convenience_kit",
         "avid_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_fda_class_i_recall_bd_alaris_pump_infusion_sets_recall_z_308",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "FDA Class I Recall: BD Alaris Pump Infusion Sets (Recall #Z-3080-2026)",
+        "zh": "FDA I级召回：BD Switzerland SARL BD Alaris泵输液器（召回编号Z-3080-2026）"
+      },
+      "summary": {
+        "en": "BD Switzerland SARL is recalling certain BD Alaris Pump Infusion Sets under Recall #Z-3080-2026 due to discrepancies in performance data attributes that may cause inappropriate pump performance, posing a risk of serious injury or death. The recall involves 94,230,757 units. Healthcare facilities should identify and quarantine affected sets, review BD’s recall notice, and follow recommended actions for return or replacement.",
+        "zh": "BD Switzerland SARL正在召回特定BD Alaris泵输液器（召回编号Z-3080-2026），原因是输液器性能数据属性的差异可能导致输液泵性能不当，存在严重伤害或死亡风险。此次召回涉及94,230,757件产品。医疗机构应识别并隔离受影响产品，查阅BD召回通知，并遵循退回或更换等建议措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3080-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-23",
+      "detected_date": "2026-10-06T00:27:19Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "infusion_sets",
+        "bd_alaris"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_class_i_recall_nova_biomedical_statstrip_glucose_hospital_me",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Nova Biomedical StatStrip Glucose Hospital Meter System, Model No. 66739",
+        "zh": "Nova Biomedical StatStrip血糖医院用检测仪系统（型号66739）I级召回"
+      },
+      "summary": {
+        "en": "FDA posted Class I recall Z-3129-2026 for Nova Biomedical Corporation’s StatStrip Glucose Hospital Meter System, Model No. 66739, due to a software synchronization/timing issue in barcode scanning and patient data processing that can intermittently retain a previously scanned barcode, including patient ID, creating a risk of patient misidentification and inappropriate treatment. The recall covers 10,941 units. Healthcare facilities should identify affected devices, follow Nova Biomedical’s recall instructions, and implement interim safeguards to prevent patient/sample mix-ups until the software issue is corrected.",
+        "zh": "FDA已发布Nova Biomedical Corporation的StatStrip血糖医院用检测仪系统（型号66739）I级召回（编号Z-3129-2026）。召回原因是条码扫描和患者数据处理组件存在软件同步/时序问题，可能间歇性保留先前扫描的条码（包括患者ID），导致患者身份混淆和不适当治疗风险。召回数量为10,941台。医疗机构应识别受影响设备，遵循Nova Biomedical的召回通知，并在软件问题纠正前采取临时措施防止患者/样本混淆。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3129-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-23",
+      "detected_date": "2026-10-06T00:27:32Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "glucose_test_system",
+        "patient_identification",
+        "software_issue"
       ],
       "related_docs": [],
       "status": "published"

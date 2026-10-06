@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### BD and CareFusion 303 Recall BD Alaris Pump Infusion Sets
+
+**2026-10-06** | FDA | cdrh_news | !!! HIGH
+
+FDA announced a recall of BD Alaris Pump Infusion Sets by BD and CareFusion 303, Inc. Healthcare facilities and distributors using these infusion sets should identify and remove affected product from use. Follow the recall notice for quarantine, return, or disposal instructions.
+
+**Tags**: `infusion_set`, `recall`, `bd_alaris`, `medical_device`, `fda`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets)
+
+---
+
+### Draeger Recalls VentStar Resus Neo Breathing Circuit Hoses
+
+**2026-10-06** | FDA | cdrh_news | !!! HIGH
+
+FDA/CDRH published a recall notice stating Draeger is removing its VentStar Resus Neo neonatal breathing circuit hoses. Healthcare facilities using these hoses for neonatal ventilation or resuscitation should immediately locate and quarantine affected product and discontinue use. Draeger is directing customers to contact the firm for return/replacement instructions. No specific compliance deadline was listed, but immediate action is advised because a breathing circuit defect may compromise ventilation.
+
+**Tags**: `draeger`, `ventstar_resus_neo`, `breathing_circuit_recall`, `neonatal_ventilation`, `medical_device_recall`, `fda_cdrh`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses)
+
+---
+
+### CDRH Announces Proposed Guidance Documents for Fiscal Year 2027
+
+**2026-10-06** | FDA | cdrh_news | !! MEDIUM
+
+FDA’s Center for Devices and Radiological Health (CDRH) has published its proposed list of guidance documents planned for Fiscal Year 2027. The list covers priority topics across premarket and postmarket device programs and affects medical device manufacturers, sponsors, and other stakeholders. Companies should review the agenda to anticipate upcoming guidances and prepare to submit comments or align compliance strategies when draft and final documents are issued.
+
+**Tags**: `cdrh`, `fda`, `guidance_documents`, `fiscal_year_2027`, `medical_devices`, `regulatory_planning`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027)
+
+---
+
 ### Boston Scientific Recalls Imager II Angiographic Catheters
 
 **2026-09-29** | FDA | cdrh_news | !!! HIGH
@@ -231,6 +267,30 @@ AVID Medical, Inc. is recalling 288 units of the Halyard IV START KIT NON-STERIL
 **Tags**: `class_i_recall`, `fda_recall`, `aspergillus_contamination`, `convenience_kit`, `avid_medical`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3108-2026)
+
+---
+
+### FDA Class I Recall: BD Alaris Pump Infusion Sets (Recall #Z-3080-2026)
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+BD Switzerland SARL is recalling certain BD Alaris Pump Infusion Sets under Recall #Z-3080-2026 due to discrepancies in performance data attributes that may cause inappropriate pump performance, posing a risk of serious injury or death. The recall involves 94,230,757 units. Healthcare facilities should identify and quarantine affected sets, review BD’s recall notice, and follow recommended actions for return or replacement.
+
+**Tags**: `class_i_recall`, `infusion_sets`, `bd_alaris`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3080-2026)
+
+---
+
+### Class I Recall: Nova Biomedical StatStrip Glucose Hospital Meter System, Model No. 66739
+
+**2026-09-23** | FDA | recall_class1 | !!! HIGH
+
+FDA posted Class I recall Z-3129-2026 for Nova Biomedical Corporation’s StatStrip Glucose Hospital Meter System, Model No. 66739, due to a software synchronization/timing issue in barcode scanning and patient data processing that can intermittently retain a previously scanned barcode, including patient ID, creating a risk of patient misidentification and inappropriate treatment. The recall covers 10,941 units. Healthcare facilities should identify affected devices, follow Nova Biomedical’s recall instructions, and implement interim safeguards to prevent patient/sample mix-ups until the software issue is corrected.
+
+**Tags**: `class_i_recall`, `glucose_test_system`, `patient_identification`, `software_issue`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3129-2026)
 
 ---
 
