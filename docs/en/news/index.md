@@ -102,6 +102,42 @@ Argentina’s ANMAT has prohibited a Smith & Nephew medical device, barring its 
 
 ---
 
+### Class I Recall: CooperSurgical INCA Neonatal Nasal CPAP Replacement Set (Z-3140-2026)
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA has classified recall Z-3140-2026 as Class I for CooperSurgical's INCA Infant Nasal Cannulae Assembly, a neonatal nasal CPAP replacement set, due to a potential loose connection between the flexible tubing and nasal cannula that may cause CPAP pressure loss and reduced therapy effectiveness in neonates. The recall covers 149 boxes (745 units). Healthcare providers should immediately quarantine and discontinue use of affected lots and contact CooperSurgical for return or replacement.
+
+**Tags**: `class_i_recall`, `neonatal_cpap`, `coopersurgical`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3140-2026)
+
+---
+
+### Class I Recall: AVID Medical Halyard IV Start Kit with BD ChloraPrep Clear 1 mL, Aspergillus Contamination
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. is recalling 288 units (6 cases) of Halyard IV START KIT NON-STERILE, 48 kits per case, because the kits contain BD ChloraPrep Clear 1 mL Applicator that may be contaminated with Aspergillus penicillioides. This is a Class I recall, the most serious type, due to risk of serious infection or death, especially in vulnerable patients. Customers should immediately quarantine and discontinue use of affected kits and follow the firm's recall instructions.
+
+**Tags**: `class_i_recall`, `aspergillus_contamination`, `bd_chloraprep`, `convenience_kits`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3194-2026)
+
+---
+
+### Class I Recall: Boston Scientific Imager II Angiographic Catheters (Z-3214-2026) - Tip Fracture Risk
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA classified Boston Scientific's recall of Imager II Angiographic Catheters as Class I, recall number Z-3214-2026. The catheter tip may fracture or detach, potentially leaving fragments in the patient or causing embolism, prolonged procedure, or life-threatening events. The recall covers 262,686 units. Healthcare providers should immediately identify and quarantine affected products and follow Boston Scientific's recall instructions.
+
+**Tags**: `class_i_recall`, `angiographic_catheter`, `fda_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3214-2026)
+
+---
+
 ### PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition
 
 **2026-09-30** | Japan PMDA | Safety Communication | !! MEDIUM

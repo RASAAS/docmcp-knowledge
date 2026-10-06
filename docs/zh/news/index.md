@@ -102,6 +102,42 @@ FDA医疗器械与放射健康中心（CDRH）发布了2027财年拟制定的指
 
 ---
 
+### CooperSurgical INCA新生儿鼻导管CPAP替换套件I级召回
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA将CooperSurgical的INCA婴儿鼻导管组件（新生儿经鼻CPAP替换套件）召回Z-3140-2026列为I级，原因是软管与鼻导管之间可能连接松动，导致CPAP压力丧失并降低新生儿治疗效果。本次召回涉及149盒（745件）。医疗机构应立即隔离并停用受影响批次，并联系CooperSurgical进行退货或更换。
+
+**标签**: `class_i_recall`, `neonatal_cpap`, `coopersurgical`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3140-2026)
+
+---
+
+### AVID Medical Halyard IV START KIT因含可能受曲霉污染的BD ChloraPrep Clear 1 mL被I级召回
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+AVID Medical, Inc. 正在召回288套（6箱）Halyard IV START KIT NON-STERILE（每箱48套），原因是套装内的 BD ChloraPrep Clear 1 mL 涂抹器可能受到 Aspergillus penicillioides 污染。此为最严重的 I 级召回，可能导致严重感染或死亡，尤其是对易感患者。客户应立即隔离并停止使用受影响批次，并遵循公司的召回通知。
+
+**标签**: `class_i_recall`, `aspergillus_contamination`, `bd_chloraprep`, `convenience_kits`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3194-2026)
+
+---
+
+### FDA I级召回：Boston Scientific Imager II血管造影导管尖端断裂风险
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA已将Boston Scientific的Imager II血管造影导管召回列为I级，召回编号为Z-3214-2026。导管尖端可能断裂或脱落，碎片可能留在患者体内或随血管迁移，导致手术时间延长或危及生命的栓塞。此次召回涉及262,686件产品。医疗机构应立即识别并隔离受影响产品，并按照Boston Scientific的召回通知处理。
+
+**标签**: `class_i_recall`, `angiographic_catheter`, `fda_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3214-2026)
+
+---
+
 ### PMDA二级召回：飞利浦日本BV Endura/Vectra/Zenition移动C臂X线透视系统
 
 **2026-09-30** | Japan PMDA | 安全通报 | !! MEDIUM

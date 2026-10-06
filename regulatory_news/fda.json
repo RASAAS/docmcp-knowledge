@@ -1,6 +1,6 @@
 {
   "framework": "fda",
-  "last_updated": "2026-10-06T00:28:18Z",
+  "last_updated": "2026-10-06T22:57:45Z",
   "items": [
     {
       "id": "fda_20261006_bd_and_carefusion_303_recall_bd_alaris_pump_infusion_sets",
@@ -81,6 +81,82 @@
         "fiscal_year_2027",
         "medical_devices",
         "regulatory_planning"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_class_i_recall_coopersurgical_inca_neonatal_nasal_cpap_repla",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: CooperSurgical INCA Neonatal Nasal CPAP Replacement Set (Z-3140-2026)",
+        "zh": "CooperSurgical INCA新生儿鼻导管CPAP替换套件I级召回"
+      },
+      "summary": {
+        "en": "FDA has classified recall Z-3140-2026 as Class I for CooperSurgical's INCA Infant Nasal Cannulae Assembly, a neonatal nasal CPAP replacement set, due to a potential loose connection between the flexible tubing and nasal cannula that may cause CPAP pressure loss and reduced therapy effectiveness in neonates. The recall covers 149 boxes (745 units). Healthcare providers should immediately quarantine and discontinue use of affected lots and contact CooperSurgical for return or replacement.",
+        "zh": "FDA将CooperSurgical的INCA婴儿鼻导管组件（新生儿经鼻CPAP替换套件）召回Z-3140-2026列为I级，原因是软管与鼻导管之间可能连接松动，导致CPAP压力丧失并降低新生儿治疗效果。本次召回涉及149盒（745件）。医疗机构应立即隔离并停用受影响批次，并联系CooperSurgical进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3140-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-30",
+      "detected_date": "2026-10-06T22:57:31Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "neonatal_cpap",
+        "coopersurgical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_class_i_recall_avid_medical_halyard_iv_start_kit_with_bd_chl",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: AVID Medical Halyard IV Start Kit with BD ChloraPrep Clear 1 mL, Aspergillus Contamination",
+        "zh": "AVID Medical Halyard IV START KIT因含可能受曲霉污染的BD ChloraPrep Clear 1 mL被I级召回"
+      },
+      "summary": {
+        "en": "AVID Medical, Inc. is recalling 288 units (6 cases) of Halyard IV START KIT NON-STERILE, 48 kits per case, because the kits contain BD ChloraPrep Clear 1 mL Applicator that may be contaminated with Aspergillus penicillioides. This is a Class I recall, the most serious type, due to risk of serious infection or death, especially in vulnerable patients. Customers should immediately quarantine and discontinue use of affected kits and follow the firm's recall instructions.",
+        "zh": "AVID Medical, Inc. 正在召回288套（6箱）Halyard IV START KIT NON-STERILE（每箱48套），原因是套装内的 BD ChloraPrep Clear 1 mL 涂抹器可能受到 Aspergillus penicillioides 污染。此为最严重的 I 级召回，可能导致严重感染或死亡，尤其是对易感患者。客户应立即隔离并停止使用受影响批次，并遵循公司的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3194-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-30",
+      "detected_date": "2026-10-06T22:57:37Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "aspergillus_contamination",
+        "bd_chloraprep",
+        "convenience_kits"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261006_class_i_recall_boston_scientific_imager_ii_angiographic_cath",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Boston Scientific Imager II Angiographic Catheters (Z-3214-2026) - Tip Fracture Risk",
+        "zh": "FDA I级召回：Boston Scientific Imager II血管造影导管尖端断裂风险"
+      },
+      "summary": {
+        "en": "FDA classified Boston Scientific's recall of Imager II Angiographic Catheters as Class I, recall number Z-3214-2026. The catheter tip may fracture or detach, potentially leaving fragments in the patient or causing embolism, prolonged procedure, or life-threatening events. The recall covers 262,686 units. Healthcare providers should immediately identify and quarantine affected products and follow Boston Scientific's recall instructions.",
+        "zh": "FDA已将Boston Scientific的Imager II血管造影导管召回列为I级，召回编号为Z-3214-2026。导管尖端可能断裂或脱落，碎片可能留在患者体内或随血管迁移，导致手术时间延长或危及生命的栓塞。此次召回涉及262,686件产品。医疗机构应立即识别并隔离受影响产品，并按照Boston Scientific的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3214-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-30",
+      "detected_date": "2026-10-06T22:57:45Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "angiographic_catheter",
+        "fda_recall"
       ],
       "related_docs": [],
       "status": "published"
