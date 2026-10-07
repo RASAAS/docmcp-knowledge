@@ -42,6 +42,18 @@ FDA’s Center for Devices and Radiological Health (CDRH) has published its prop
 
 ---
 
+### PMDA Class II Recall No. 2-12980: Nikkiso TR-2020 Blood Purification Device
+
+**2026-10-01** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-12980) for the Nikkiso TR-2020 blood purification device, also described as a multi-purpose blood processing apparatus. The specific safety issue is not detailed in the available notice; healthcare facilities and distributors should verify affected units and follow Nikkiso's recall instructions. Class II indicates a moderate risk of adverse health consequences.
+
+**Tags**: `pmda_recall`, `class_ii`, `blood_purification_device`, `nikkiso_tr_2020`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12980)
+
+---
+
 ### Swissmedic FSCA for B. Braun Pleuracan Pleural/Peritoneal Drainage Catheterization Kit, Model 4462556
 
 **2026-10-01** | Swissmedic | Safety Communication | !!! HIGH

@@ -1,7 +1,34 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-09-30T22:50:33Z",
+  "last_updated": "2026-10-07T23:28:28Z",
   "items": [
+    {
+      "id": "japan_pmda_20261007_pmda_class_ii_recall_no_2_12980_nikkiso_tr_2020_blood_purifi",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall No. 2-12980: Nikkiso TR-2020 Blood Purification Device",
+        "zh": "日本PMDA II级召回编号2-12980：日机装TR-2020血液净化装置"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12980) for the Nikkiso TR-2020 blood purification device, also described as a multi-purpose blood processing apparatus. The specific safety issue is not detailed in the available notice; healthcare facilities and distributors should verify affected units and follow Nikkiso's recall instructions. Class II indicates a moderate risk of adverse health consequences.",
+        "zh": "日本PMDA已对日机装TR-2020血液净化装置（多功能血液处理用装置）发布II级召回（编号2-12980）。现有通知未披露具体安全原因；医疗机构和经销商应核对受影响设备并遵循日机装的召回指示。II级召回表示相关风险可能为中等程度。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12980",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-07T23:28:28Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "blood_purification_device",
+        "nikkiso_tr_2020",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20260930_pmda_class_ii_recall_philips_japan_mobile_c_arm_fluoroscopy",
       "framework": "japan_pmda",

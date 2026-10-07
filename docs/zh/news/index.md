@@ -42,6 +42,18 @@ FDA医疗器械与放射健康中心（CDRH）发布了2027财年拟制定的指
 
 ---
 
+### 日本PMDA II级召回编号2-12980：日机装TR-2020血液净化装置
+
+**2026-10-01** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已对日机装TR-2020血液净化装置（多功能血液处理用装置）发布II级召回（编号2-12980）。现有通知未披露具体安全原因；医疗机构和经销商应核对受影响设备并遵循日机装的召回指示。II级召回表示相关风险可能为中等程度。
+
+**标签**: `pmda_recall`, `class_ii`, `blood_purification_device`, `nikkiso_tr_2020`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12980)
+
+---
+
 ### 瑞士药监局发布B. Braun Pleuracan胸/腹膜引流导管套件FSCA
 
 **2026-10-01** | Swissmedic | 安全通报 | !!! HIGH
