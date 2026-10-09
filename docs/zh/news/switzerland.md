@@ -36,6 +36,88 @@ title: 法规速递
 
 ## 最新动态
 
+### 瑞士Swissmedic发布飞利浦Radiography 7000 M移动式X线/透视设备FSCA（型号712010）
+
+**2026-10-08** | Swissmedic | 安全通报 | !!! HIGH
+
+瑞士Swissmedic发布了一项针对飞利浦医疗系统DMC GmbH Radiography 7000 M移动式X射线/透视设备的现场安全纠正措施（FSCA），涉及型号712010。该通知指出存在安全相关纠正事项，但所提供摘要中未列明具体原因和建议措施。受影响设备的使用者应查阅官方FSCA通知并联系飞利浦执行必要的纠正措施。
+
+**标签**: `fsca`, `swissmedic`, `radiography`, `field_safety_corrective_action`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_004)
+
+---
+
+### 瑞士药监局FSCA：Stryker电磁精准定位器（型号8000-050-001）
+
+**2026-10-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了一项针对Stryker Leibinger GmbH & Co. KG生产的Precision Pointer电磁手术导航跟踪系统的现场安全纠正措施。受影响型号为8000-050-001。该通知未在现有来源中详述具体原因；用户应查阅Swissmedic FSCA并遵循Stryker的纠正措施指示。
+
+**标签**: `swissmedic`, `fsca`, `surgical_navigation`, `electromagnetic_tracking`, `stryker`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_014)
+
+---
+
+### 瑞士药监局发布Stryker InterPulse手术冲洗系统喷嘴FSCA
+
+**2026-10-07** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了Stryker Instruments USA生产的InterPulse手术冲洗系统喷嘴的现场安全纠正措施（FSCA）。受影响型号和批次及具体纠正原因详见相关现场安全通知（FSN）。医疗机构和用户应通过Swissmedic FSCA门户查阅FSN，并遵循制造商建议的措施。
+
+**标签**: `swissmedic`, `fsca`, `stryker`, `surgical_irrigation_system`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261001_018)
+
+---
+
+### 瑞士Swissmedic FSCA：RaySearch RayStation放疗软件4.7-v2026
+
+**2026-10-06** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了一项针对RaySearch Laboratories AB公司RayStation软件附件的现场安全纠正措施（FSCA），该软件用于多种放射治疗和放射外科设备，涉及型号/版本4.7 - v2026。受影响用户应查阅Swissmedic官方FSCA通知并遵循制造商的纠正措施；公布的原因栏目前为空，具体风险信息请以官方通知为准。
+
+**标签**: `swissmedic`, `fsca`, `radiotherapy`, `software_correction`, `raystation`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261005_040)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Allura Xper透视X射线系统FSCA
+
+**2026-10-06** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布飞利浦医疗系统荷兰公司Allura Xper系统（固定式通用模拟透视X射线系统）的现场安全纠正措施。该条目未列明具体纠正原因，受影响型号请参见现场安全通知（FSN）。用户应查阅FSN并遵循制造商的建议措施。
+
+**标签**: `swissmedic`, `fsca`, `fluoroscopy`, `x_ray_system`, `philips`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261005_027)
+
+---
+
+### Swissmedic FSCA Vk_20261001_025：Medtron AG Syriflow MR注射泵型号600
+
+**2026-10-06** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic发布了一项针对Medtron AG生产的Syriflow MR注射泵（型号600）的现场安全纠正措施（FSCA），通知编号为Vk_20261001_025。该公告摘要未说明具体纠正原因；相关医疗机构应核对受影响设备，联系Medtron AG并查阅Swissmedic官方通知，按制造商建议采取行动。
+
+**标签**: `swissmedic`, `fsca`, `syringe_pump`, `medical_device`, `medtron_ag`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261001_025)
+
+---
+
+### HeartSine samaritanÂ® PAD devices - HeartSine Technologies, LTD
+
+**2026-10-05** | Swissmedic | 安全通报 | !! MEDIUM
+
+FSCA: MD: Non-rechargeable semi-automatic external defibrillator. Reason: . Model: SAM 350P, 360P, 450P, 500P, HDF3500; .
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_002)
+
+---
+
 ### 瑞士药监局发布B. Braun Pleuracan胸/腹膜引流导管套件FSCA
 
 **2026-10-01** | Swissmedic | 安全通报 | !!! HIGH
@@ -2537,6 +2619,18 @@ Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 603200
 **标签**: `swissmedic_fsca`, `neonatal_cpap`, `product_correction`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250807_02)
+
+---
+
+### 瑞士药监局FSCA：HeartSine Samaritan PAD 350P/360P/450P/500P范围更新
+
+**2025-06-24** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布针对 HeartSine Technologies Ltd 的 HeartSine samaritan PAD 350P/360P/450P/500P 非充电式公共场所半自动体外除颤器的现场安全纠正措施（FSCA）。本次 FSCA 更新了此前纠正措施的范围，受影响型号详见随附的现场安全通知（FSN）。相关用户和经销商应查阅更新后的 FSN，并按照制造商说明识别受影响设备并采取相应纠正措施。
+
+**标签**: `field_safety_corrective_action`, `swissmedic`, `automated_external_defibrillator`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250618_06)
 
 ---
 

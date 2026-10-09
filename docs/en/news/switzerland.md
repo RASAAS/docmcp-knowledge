@@ -36,6 +36,88 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA: Philips Radiography 7000 M Mobile Radiographic/Fluoroscopic Unit (Model 712010)
+
+**2026-10-08** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems DMC GmbH Radiography 7000 M, a mobile radiographic/fluoroscopic unit, affecting model 712010. The notice identifies a safety-related correction; the specific reason and recommended actions were not detailed in the provided FSCA description. Users should review the official Swissmedic FSCA notice and contact Philips for the required corrective actions.
+
+**Tags**: `fsca`, `swissmedic`, `radiography`, `field_safety_corrective_action`, `philips`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_004)
+
+---
+
+### Swissmedic FSCA: Stryker Precision Pointer Electromagnetic Tracking System (Model 8000-050-001)
+
+**2026-10-07** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action for the Stryker Leibinger GmbH & Co. KG Precision Pointer Electromagnetic surgical navigation tracking system. The affected model is 8000-050-001. The notice does not specify the detailed reason in the provided source; users should consult the Swissmedic FSCA entry and follow Stryker's corrective action instructions.
+
+**Tags**: `swissmedic`, `fsca`, `surgical_navigation`, `electromagnetic_tracking`, `stryker`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260922_014)
+
+---
+
+### Swissmedic FSCA: Stryker InterPulse Surgical Irrigation System Nozzle
+
+**2026-10-07** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the InterPulse surgical irrigation system nozzle manufactured by Stryker Instruments USA. Affected model and lot details, as well as the specific reason for the corrective action, are provided in the associated Field Safety Notice (FSN). Healthcare facilities and users should review the FSN via the Swissmedic FSCA portal and follow the manufacturer's recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `stryker`, `surgical_irrigation_system`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261001_018)
+
+---
+
+### Swissmedic FSCA: RayStation Radiotherapy Software v4.7-v2026 by RaySearch
+
+**2026-10-06** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for RayStation software accessories, manufactured by RaySearch Laboratories AB, used with various radiotherapy and radiosurgery instruments. The notice affects model/version 4.7 - v2026. Affected users should review the official Swissmedic FSCA and follow the manufacturer's corrective instructions; the published reason field is currently empty, so consult the official notice for specific risk details.
+
+**Tags**: `swissmedic`, `fsca`, `radiotherapy`, `software_correction`, `raystation`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261005_040)
+
+---
+
+### Philips Allura Xper Fluoroscopic X-ray System: Swissmedic FSCA
+
+**2026-10-06** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for the Philips Medical Systems Nederland B.V. Allura Xper Systems, a stationary general-purpose analogue fluoroscopic X-ray system. The entry does not list the specific reason, and affected models are identified in the Field Safety Notice (FSN). Users should review the FSN and follow the manufacturer's recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `fluoroscopy`, `x_ray_system`, `philips`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261005_027)
+
+---
+
+### Swissmedic FSCA Vk_20261001_025: Medtron AG Syriflow MR Syringe Pump Model 600
+
+**2026-10-06** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Syriflow MR syringe pump manufactured by Medtron AG, affecting Model 600. The notice identifier is Vk_20261001_025. The available description does not specify the underlying reason for the corrective action; users should consult the official Swissmedic notice and contact Medtron AG for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `syringe_pump`, `medical_device`, `medtron_ag`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261001_025)
+
+---
+
+### HeartSine samaritanÂ® PAD devices - HeartSine Technologies, LTD
+
+**2026-10-05** | Swissmedic | Safety Communication | !! MEDIUM
+
+FSCA: MD: Non-rechargeable semi-automatic external defibrillator. Reason: . Model: SAM 350P, 360P, 450P, 500P, HDF3500; .
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_002)
+
+---
+
 ### Swissmedic FSCA for B. Braun Pleuracan Pleural/Peritoneal Drainage Catheterization Kit, Model 4462556
 
 **2026-10-01** | Swissmedic | Safety Communication | !!! HIGH
@@ -2537,6 +2619,18 @@ Swissmedic has published a Field Safety Corrective Action for the Medin-NC3 neon
 **Tags**: `swissmedic_fsca`, `neonatal_cpap`, `product_correction`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250807_02)
+
+---
+
+### Swissmedic FSCA Update: HeartSine Samaritan PAD 350P/360P/450P/500P Scope Change
+
+**2025-06-24** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for HeartSine Technologies Ltd regarding its HeartSine samaritan PAD 350P/360P/450P/500P non-rechargeable public semi-automated external defibrillators. The FSCA updates the scope of a previously communicated corrective action; affected models are listed in the enclosed field safety notice (FSN). Users and distributors should review the updated FSN and follow the manufacturer’s instructions to identify affected devices and take appropriate corrective actions.
+
+**Tags**: `field_safety_corrective_action`, `swissmedic`, `automated_external_defibrillator`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250618_06)
 
 ---
 
