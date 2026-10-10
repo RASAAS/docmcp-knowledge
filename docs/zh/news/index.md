@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Medsafe警报：KayserBetten Safe Surround Genie病床手控器更换
+
+**2026-10-09** | New Zealand Medsafe | 安全通报 | !! MEDIUM
+
+Medsafe发布了关于KayserBetten Safe Surround Genie病床手控器更换的安全警报。该警报涉及受影响的Safe Surround Genie病床用户和医疗机构，相关人员应查看Medsafe通知并遵循手控器更换或缓解措施。此为Medsafe针对该设备发布的安全通报。
+
+**标签**: `medsafe`, `medical_device_safety`, `hand_control_replacement`, `kayserbetten`
+
+[查看来源 (Official Source)](https://medsafe.govt.nz/safety/Alerts/Hand-Control-Replacement-KayserBetten-Safe-Surround-Genie-Beds.asp)
+
+---
+
 ### 瑞士Swissmedic发布飞利浦Radiography 7000 M移动式X线/透视设备FSCA（型号712010）
 
 **2026-10-08** | Swissmedic | 安全通报 | !!! HIGH

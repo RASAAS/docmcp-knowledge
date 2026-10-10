@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "newzealand_medsafe_20261010_medsafe_alert_hand_control_replacement_for_kayserbetten_safe",
+      "framework": "newzealand_medsafe",
+      "category": "safety_communication",
+      "title": {
+        "en": "Medsafe Alert: Hand Control Replacement for KayserBetten Safe Surround Genie Bed",
+        "zh": "Medsafe警报：KayserBetten Safe Surround Genie病床手控器更换"
+      },
+      "summary": {
+        "en": "Medsafe has issued a safety alert concerning hand control replacement for the KayserBetten Safe Surround Genie Bed. The alert applies to users and providers of affected Safe Surround Genie beds, who should review the Medsafe notice and follow the recommended hand control replacement or mitigation actions. This is a device-specific safety communication from Medsafe.",
+        "zh": "Medsafe发布了关于KayserBetten Safe Surround Genie病床手控器更换的安全警报。该警报涉及受影响的Safe Surround Genie病床用户和医疗机构，相关人员应查看Medsafe通知并遵循手控器更换或缓解措施。此为Medsafe针对该设备发布的安全通报。"
+      },
+      "source_url": "https://medsafe.govt.nz/safety/Alerts/Hand-Control-Replacement-KayserBetten-Safe-Surround-Genie-Beds.asp",
+      "source_name": "Official Source",
+      "published_date": "2026-10-09",
+      "detected_date": "2026-10-10T22:07:01Z",
+      "importance": "medium",
+      "tags": [
+        "medsafe",
+        "medical_device_safety",
+        "hand_control_replacement",
+        "kayserbetten"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "newzealand_medsafe_20260703_alert_product_alert_of_dexcom_us_g7_sensors_lots_1725204004",
       "framework": "newzealand_medsafe",
       "category": "safety_communication",
@@ -43,5 +69,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-07-03T14:00:16Z"
+  "last_updated": "2026-10-10T22:07:01Z"
 }
