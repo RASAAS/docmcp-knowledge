@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### CDRH发布2026年9月23日生物相容性与化学表征测试提取专题会议材料
+
+**2026-10-13** | FDA | cdrh_news | !! MEDIUM
+
+CDRH已发布关于生物相容性与化学表征测试（重点为提取）的市政厅会议材料。会议定于2026年9月23日举行，适用于依据ISO 10993开展生物学评价的医疗器械制造商和检测实验室。相关方应提前审阅材料并参与会议，以澄清提取条件、分析方法及监管要求。
+
+**标签**: `biocompatibility`, `chemical_characterization`, `extractions`, `town_hall`, `iso_10993`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026)
+
+---
+
+### Medline Basic/Medlite家用护理床及配件I级召回（MDR1070）
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP 正在召回 Medline Basic 家用护理床、Medlite 家用护理床及配件，原因为手控器或相关线束可能过热，导致冒烟、火花、熔化或灼伤，存在火灾危险。本次召回编号为 Z-3228-2026（MDR1070），涉及总量 771,127 件。受影响用户和机构应立即停止使用相关床及配件，隔离产品，并联系 Medline 进行更换或整改。
+
+**标签**: `class_i_recall`, `medical_device`, `fire_hazard`, `homecare_beds`, `medline`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3228-2026)
+
+---
+
+### FDA I级召回Z-3227-2026：Medline家用病床手控器存火灾风险
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP正在召回Medline Basic Homecare Beds和Medlite Homecare Beds及相关配件，原因是手控器或其连接线可能过热，导致冒烟、火花、熔化和灼伤。FDA已将此次召回列为I级召回（最严重级别），涉及总量771,127件。医疗机构、经销商和用户应识别受影响病床，停止使用相关手控器，并联系Medline获取纠正或更换。
+
+**标签**: `class_i_recall`, `medical_device`, `fire_hazard`, `homecare_beds`, `medline`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3227-2026)
+
+---
+
+### Draeger召回VentStar Resus Neo新生儿一次性呼吸管路(MP00310)因软管开裂风险
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Draeger公司已对1,063,643个VentStar Resus Neo新生儿一次性呼吸管路（部件号MP00310）发起I级召回（Z-3252-2026）。召回原因是管路软管可能存在裂缝，导致漏气或软管脱落。医疗机构应立即停止使用受影响产品，隔离库存，并联系Draeger获取退货或更换指引。
+
+**标签**: `class_i_recall`, `neonatal_respiratory`, `draeger_ventstar`, `disposable_circuits`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3252-2026)
+
+---
+
 ### BD与CareFusion 303召回BD Alaris输液泵输液套件
 
 **2026-10-06** | FDA | cdrh_news | !!! HIGH
@@ -78,6 +126,18 @@ FDA已将Boston Scientific的Imager II血管造影导管召回列为I级，召�
 
 ---
 
+### CooperSurgical INCA婴儿经鼻CPAP完整套件I级召回：连接松动风险
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA发布CooperSurgical公司INCA婴儿鼻导管组件/婴儿经鼻CPAP完整套件（Stay-Flex管路）的I级召回（召回号Z-3139-2026）。召回原因是柔性管路与鼻导管之间在组装或使用中可能连接松动，导致CPAP压力丧失并可能降低治疗效果。此次召回涉及2,643盒（13,215个）。医疗机构应识别和隔离受影响产品，并按CooperSurgical的召回通知处理。
+
+**标签**: `class_i_recall`, `neonatal_cpap`, `coopersurgical`, `medical_device_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3139-2026)
+
+---
+
 ### Boston Scientific召回Imager II血管造影导管
 
 **2026-09-29** | FDA | cdrh_news | !!! HIGH
@@ -111,6 +171,18 @@ FDA 发布召回通知，称 Abiomed 正在移除用于 Impella 心脏泵的自�
 **标签**: `heart_pump_controller`, `recall`, `abiomed_impella`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers)
+
+---
+
+### 召回Z-0147-2027：INTEGRATED MEDCRAFT FORWARD枪伤急救包(AFT-GSW)无菌垫问题
+
+**2026-09-25** | FDA | 安全通报 | !!! HIGH
+
+FDA发布Z-0147-2027召回，涉及INTEGRATED MEDCRAFT LLC的FORWARD枪伤急救包（型号AFT-GSW），属于SafeGuard Medical套装器械的子召回。内部检测发现无菌垫可能随时间降解，非织造垫残留物可能留在伤口内，带来感染或异物风险。医疗机构应识别并隔离受影响产品，按召回通知退换或处置。
+
+**标签**: `device_recall`, `sterile_pad_degradation`, `wound_care_kit`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222960)
 
 ---
 
@@ -327,6 +399,18 @@ FDA已发布Nova Biomedical Corporation的StatStrip血糖医院用检测仪系�
 **标签**: `class_i_recall`, `glucose_test_system`, `patient_identification`, `software_issue`
 
 [查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3129-2026)
+
+---
+
+### Steris HexaVue Focus集成系统召回：打印图像患者信息不匹配
+
+**2026-09-23** | FDA | 安全通报 | !!! HIGH
+
+FDA发布Steris公司HexaVue Focus集成系统召回Z-0118-2027，原因是软件问题可能导致手动打印图像上的患者信息意外不匹配。这可能造成记录不一致或临床图像与患者关联错误。相关医疗机构应遵循召回通知并联系Steris进行纠正。
+
+**标签**: `device_recall`, `software_issue`, `patient_safety`, `medical_imaging`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222741)
 
 ---
 

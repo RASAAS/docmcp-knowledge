@@ -1,7 +1,114 @@
 {
   "framework": "fda",
-  "last_updated": "2026-10-06T22:57:45Z",
+  "last_updated": "2026-10-13T01:03:49Z",
   "items": [
+    {
+      "id": "fda_20261013_cdrh_posts_town_hall_materials_for_biocompatibility_chemical",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "CDRH Posts Town Hall Materials for Biocompatibility & Chemical Characterization Testing – Extractions (Sept 23, 2026)",
+        "zh": "CDRH发布2026年9月23日生物相容性与化学表征测试提取专题会议材料"
+      },
+      "summary": {
+        "en": "CDRH has posted meeting materials for a town hall focused on biocompatibility and chemical characterization testing, with emphasis on extractions. The event is scheduled for September 23, 2026, and is relevant to medical device manufacturers and testing laboratories performing ISO 10993-based biological evaluations. Affected parties should review the materials and participate to clarify extraction conditions, analytical methods, and regulatory expectations.",
+        "zh": "CDRH已发布关于生物相容性与化学表征测试（重点为提取）的市政厅会议材料。会议定于2026年9月23日举行，适用于依据ISO 10993开展生物学评价的医疗器械制造商和检测实验室。相关方应提前审阅材料并参与会议，以澄清提取条件、分析方法及监管要求。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026",
+      "source_name": "FDA",
+      "published_date": "2026-10-13",
+      "detected_date": "2026-10-13T01:03:49Z",
+      "importance": "medium",
+      "tags": [
+        "biocompatibility",
+        "chemical_characterization",
+        "extractions",
+        "town_hall",
+        "iso_10993"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261013_class_i_recall_medline_basic_homecare_beds_and_medlite_homec",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Medline Basic Homecare Beds and Medlite Homecare Beds and Accessories (MDR1070)",
+        "zh": "Medline Basic/Medlite家用护理床及配件I级召回（MDR1070）"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is conducting a Class I recall of Medline Basic Homecare Beds and Medlite Homecare Beds and Accessories due to a potential fire hazard: the hand control pendant or associated wiring may overheat, causing smoking, sparking, melting, or burns. The recall is identified as Z-3228-2026 (MDR1070) and includes 771,127 total units. Affected users and facilities should immediately stop using the recalled beds and accessories, quarantine them, and contact Medline for replacement or correction.",
+        "zh": "Medline Industries, LP 正在召回 Medline Basic 家用护理床、Medlite 家用护理床及配件，原因为手控器或相关线束可能过热，导致冒烟、火花、熔化或灼伤，存在火灾危险。本次召回编号为 Z-3228-2026（MDR1070），涉及总量 771,127 件。受影响用户和机构应立即停止使用相关床及配件，隔离产品，并联系 Medline 进行更换或整改。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3228-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-07",
+      "detected_date": "2026-10-13T01:02:37Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medical_device",
+        "fire_hazard",
+        "homecare_beds",
+        "medline"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261013_class_i_recall_z_3227_2026_medline_basic_homecare_medlite_be",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-3227-2026: Medline Basic Homecare/Medlite Beds Hand Pendant Fire Hazard",
+        "zh": "FDA I级召回Z-3227-2026：Medline家用病床手控器存火灾风险"
+      },
+      "summary": {
+        "en": "Medline Industries, LP is recalling Medline Basic Homecare Beds and Medlite Homecare Beds and accessories because the hand control pendant or associated wiring may overheat, potentially causing smoking, sparking, melting, or burns. FDA has classified this as a Class I recall, the most serious type, with 771,127 total units affected. Healthcare facilities, distributors, and users should identify affected beds, remove the hand pendants from service, and contact Medline for correction or replacement.",
+        "zh": "Medline Industries, LP正在召回Medline Basic Homecare Beds和Medlite Homecare Beds及相关配件，原因是手控器或其连接线可能过热，导致冒烟、火花、熔化和灼伤。FDA已将此次召回列为I级召回（最严重级别），涉及总量771,127件。医疗机构、经销商和用户应识别受影响病床，停止使用相关手控器，并联系Medline获取纠正或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3227-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-07",
+      "detected_date": "2026-10-13T01:02:54Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "medical_device",
+        "fire_hazard",
+        "homecare_beds",
+        "medline"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261013_draeger_recalls_ventstar_resus_neo_neonatal_disposable_circu",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Draeger Recalls VentStar Resus Neo Neonatal Disposable Circuits (MP00310) Due to Hose Crack Risk",
+        "zh": "Draeger召回VentStar Resus Neo新生儿一次性呼吸管路(MP00310)因软管开裂风险"
+      },
+      "summary": {
+        "en": "Draeger, Inc. has initiated a Class I recall (Z-3252-2026) for 1,063,643 units of VentStar Resus Neo neonatal disposable circuits, Part Number MP00310. The recall is due to potential cracks in the hose that may cause leakage or the hose to become disconnected during neonatal resuscitation. Healthcare facilities should immediately stop use of affected units, quarantine inventory, and contact Draeger for return or replacement instructions.",
+        "zh": "Draeger公司已对1,063,643个VentStar Resus Neo新生儿一次性呼吸管路（部件号MP00310）发起I级召回（Z-3252-2026）。召回原因是管路软管可能存在裂缝，导致漏气或软管脱落。医疗机构应立即停止使用受影响产品，隔离库存，并联系Draeger获取退货或更换指引。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3252-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-07",
+      "detected_date": "2026-10-13T01:03:05Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "neonatal_respiratory",
+        "draeger_ventstar",
+        "disposable_circuits"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261006_bd_and_carefusion_303_recall_bd_alaris_pump_infusion_sets",
       "framework": "fda",
@@ -162,6 +269,32 @@
       "status": "published"
     },
     {
+      "id": "fda_20261013_class_i_recall_coopersurgical_inca_infant_nasal_cpap_complet",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: CooperSurgical INCA Infant Nasal CPAP Complete Set with Stay-Flex Tubing",
+        "zh": "CooperSurgical INCA婴儿经鼻CPAP完整套件I级召回：连接松动风险"
+      },
+      "summary": {
+        "en": "FDA posted a Class I recall (Z-3139-2026) for CooperSurgical Inc.'s INCA Infant Nasal Cannulae Assembly / Infant Nasal CPAP Complete Set with Stay-Flex tubing. A loose connection between the flexible tubing and nasal cannula may occur during assembly or use, leading to loss of CPAP pressure and potentially reduced therapy effectiveness. The recall covers 2,643 boxes (13,215 units). Healthcare providers should identify and quarantine affected products and follow CooperSurgical's recall instructions.",
+        "zh": "FDA发布CooperSurgical公司INCA婴儿鼻导管组件/婴儿经鼻CPAP完整套件（Stay-Flex管路）的I级召回（召回号Z-3139-2026）。召回原因是柔性管路与鼻导管之间在组装或使用中可能连接松动，导致CPAP压力丧失并可能降低治疗效果。此次召回涉及2,643盒（13,215个）。医疗机构应识别和隔离受影响产品，并按CooperSurgical的召回通知处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3139-2026",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-30",
+      "detected_date": "2026-10-13T01:03:34Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "neonatal_cpap",
+        "coopersurgical",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "fda_20260929_boston_scientific_recalls_imager_ii_angiographic_catheters",
       "framework": "fda",
       "category": "cdrh_news",
@@ -235,6 +368,31 @@
         "heart_pump_controller",
         "recall",
         "abiomed_impella"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261013_recall_z_0147_2027_integrated_medcraft_forward_gunshot_wound",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall Z-0147-2027: INTEGRATED MEDCRAFT FORWARD Gunshot Wound Kit (AFT-GSW) Sterile Pad Issue",
+        "zh": "召回Z-0147-2027：INTEGRATED MEDCRAFT FORWARD枪伤急救包(AFT-GSW)无菌垫问题"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0147-2027 for INTEGRATED MEDCRAFT LLC's FORWARD Gunshot Wound Kit, model AFT-GSW, as a subrecall of a SafeGuard Medical kitted device. Internal testing identified that the sterile pad may degrade over time, potentially leaving nonwoven pad remnants in wounds and posing infection or foreign body risks. Healthcare providers should locate affected kits, quarantine them, and follow recall return or disposal instructions.",
+        "zh": "FDA发布Z-0147-2027召回，涉及INTEGRATED MEDCRAFT LLC的FORWARD枪伤急救包（型号AFT-GSW），属于SafeGuard Medical套装器械的子召回。内部检测发现无菌垫可能随时间降解，非织造垫残留物可能留在伤口内，带来感染或异物风险。医疗机构应识别并隔离受影响产品，按召回通知退换或处置。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222960",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-25",
+      "detected_date": "2026-10-13T01:02:16Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "sterile_pad_degradation",
+        "wound_care_kit"
       ],
       "related_docs": [],
       "status": "published"
@@ -703,6 +861,32 @@
         "glucose_test_system",
         "patient_identification",
         "software_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261013_steris_hexavue_focus_integration_system_recall_patient_info",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Steris HexaVue Focus Integration System Recall: Patient Info Mismatch on Printed Images",
+        "zh": "Steris HexaVue Focus集成系统召回：打印图像患者信息不匹配"
+      },
+      "summary": {
+        "en": "FDA has posted recall Z-0118-2027 for the Steris Corporation HexaVue Focus Integration System due to a software issue that may cause unintended mismatch of patient information on manually printed images. This could create documentation discrepancies or incorrect association of clinical images with patients. Affected facilities should follow recall instructions and contact Steris for correction.",
+        "zh": "FDA发布Steris公司HexaVue Focus集成系统召回Z-0118-2027，原因是软件问题可能导致手动打印图像上的患者信息意外不匹配。这可能造成记录不一致或临床图像与患者关联错误。相关医疗机构应遵循召回通知并联系Steris进行纠正。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222741",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-23",
+      "detected_date": "2026-10-13T01:02:23Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "software_issue",
+        "patient_safety",
+        "medical_imaging"
       ],
       "related_docs": [],
       "status": "published"

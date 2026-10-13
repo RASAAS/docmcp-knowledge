@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### CDRH Posts Town Hall Materials for Biocompatibility & Chemical Characterization Testing – Extractions (Sept 23, 2026)
+
+**2026-10-13** | FDA | cdrh_news | !! MEDIUM
+
+CDRH has posted meeting materials for a town hall focused on biocompatibility and chemical characterization testing, with emphasis on extractions. The event is scheduled for September 23, 2026, and is relevant to medical device manufacturers and testing laboratories performing ISO 10993-based biological evaluations. Affected parties should review the materials and participate to clarify extraction conditions, analytical methods, and regulatory expectations.
+
+**Tags**: `biocompatibility`, `chemical_characterization`, `extractions`, `town_hall`, `iso_10993`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-chemical-characterization-testing-extractions-09232026)
+
+---
+
 ### Medsafe Alert: Hand Control Replacement for KayserBetten Safe Surround Genie Bed
 
 **2026-10-09** | New Zealand Medsafe | Safety Communication | !! MEDIUM
@@ -27,6 +39,42 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips
 **Tags**: `fsca`, `swissmedic`, `radiography`, `field_safety_corrective_action`, `philips`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_004)
+
+---
+
+### Class I Recall: Medline Basic Homecare Beds and Medlite Homecare Beds and Accessories (MDR1070)
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is conducting a Class I recall of Medline Basic Homecare Beds and Medlite Homecare Beds and Accessories due to a potential fire hazard: the hand control pendant or associated wiring may overheat, causing smoking, sparking, melting, or burns. The recall is identified as Z-3228-2026 (MDR1070) and includes 771,127 total units. Affected users and facilities should immediately stop using the recalled beds and accessories, quarantine them, and contact Medline for replacement or correction.
+
+**Tags**: `class_i_recall`, `medical_device`, `fire_hazard`, `homecare_beds`, `medline`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3228-2026)
+
+---
+
+### Class I Recall Z-3227-2026: Medline Basic Homecare/Medlite Beds Hand Pendant Fire Hazard
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Medline Industries, LP is recalling Medline Basic Homecare Beds and Medlite Homecare Beds and accessories because the hand control pendant or associated wiring may overheat, potentially causing smoking, sparking, melting, or burns. FDA has classified this as a Class I recall, the most serious type, with 771,127 total units affected. Healthcare facilities, distributors, and users should identify affected beds, remove the hand pendants from service, and contact Medline for correction or replacement.
+
+**Tags**: `class_i_recall`, `medical_device`, `fire_hazard`, `homecare_beds`, `medline`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3227-2026)
+
+---
+
+### Draeger Recalls VentStar Resus Neo Neonatal Disposable Circuits (MP00310) Due to Hose Crack Risk
+
+**2026-10-07** | FDA | recall_class1 | !!! HIGH
+
+Draeger, Inc. has initiated a Class I recall (Z-3252-2026) for 1,063,643 units of VentStar Resus Neo neonatal disposable circuits, Part Number MP00310. The recall is due to potential cracks in the hose that may cause leakage or the hose to become disconnected during neonatal resuscitation. Healthcare facilities should immediately stop use of affected units, quarantine inventory, and contact Draeger for return or replacement instructions.
+
+**Tags**: `class_i_recall`, `neonatal_respiratory`, `draeger_ventstar`, `disposable_circuits`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3252-2026)
 
 ---
 
@@ -244,6 +292,18 @@ FDA classified Boston Scientific's recall of Imager II Angiographic Catheters as
 
 ---
 
+### Class I Recall: CooperSurgical INCA Infant Nasal CPAP Complete Set with Stay-Flex Tubing
+
+**2026-09-30** | FDA | recall_class1 | !!! HIGH
+
+FDA posted a Class I recall (Z-3139-2026) for CooperSurgical Inc.'s INCA Infant Nasal Cannulae Assembly / Infant Nasal CPAP Complete Set with Stay-Flex tubing. A loose connection between the flexible tubing and nasal cannula may occur during assembly or use, leading to loss of CPAP pressure and potentially reduced therapy effectiveness. The recall covers 2,643 boxes (13,215 units). Healthcare providers should identify and quarantine affected products and follow CooperSurgical's recall instructions.
+
+**Tags**: `class_i_recall`, `neonatal_cpap`, `coopersurgical`, `medical_device_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3139-2026)
+
+---
+
 ### PMDA Class II Recall: Philips Japan Mobile C-Arm Fluoroscopy Systems BV Endura, Vectra, Zenition
 
 **2026-09-30** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -431,6 +491,18 @@ PMDA has posted a Class II recall (No. 2-12975) for Ethilon (polyamide suture) m
 **Tags**: `pmda`, `class_ii_recall`, `suture`, `polyamide`, `johnson_and_johnson`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12975)
+
+---
+
+### Recall Z-0147-2027: INTEGRATED MEDCRAFT FORWARD Gunshot Wound Kit (AFT-GSW) Sterile Pad Issue
+
+**2026-09-25** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0147-2027 for INTEGRATED MEDCRAFT LLC's FORWARD Gunshot Wound Kit, model AFT-GSW, as a subrecall of a SafeGuard Medical kitted device. Internal testing identified that the sterile pad may degrade over time, potentially leaving nonwoven pad remnants in wounds and posing infection or foreign body risks. Healthcare providers should locate affected kits, quarantine them, and follow recall return or disposal instructions.
+
+**Tags**: `device_recall`, `sterile_pad_degradation`, `wound_care_kit`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222960)
 
 ---
 
@@ -779,6 +851,18 @@ FDA posted Class I recall Z-3129-2026 for Nova Biomedical Corporation’s StatSt
 **Tags**: `class_i_recall`, `glucose_test_system`, `patient_identification`, `software_issue`
 
 [View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-3129-2026)
+
+---
+
+### Steris HexaVue Focus Integration System Recall: Patient Info Mismatch on Printed Images
+
+**2026-09-23** | FDA | Safety Communication | !!! HIGH
+
+FDA has posted recall Z-0118-2027 for the Steris Corporation HexaVue Focus Integration System due to a software issue that may cause unintended mismatch of patient information on manually printed images. This could create documentation discrepancies or incorrect association of clinical images with patients. Affected facilities should follow recall instructions and contact Steris for correction.
+
+**Tags**: `device_recall`, `software_issue`, `patient_safety`, `medical_imaging`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222741)
 
 ---
 
