@@ -18,6 +18,30 @@ CDRH已发布关于生物相容性与化学表征测试（重点为提取）的�
 
 ---
 
+### Medline召回含BD ChloraPrep涂药器的便利包
+
+**2026-10-13** | FDA | cdrh_news | !!! HIGH
+
+Medline正在移除含有BD ChloraPrep涂药器的便利包，这些涂药器因可能真菌污染已被BD召回。医疗机构和分销商应识别并隔离相关批次的受影响产品，并按Medline要求退货。此行动旨在防止受污染皮肤消毒涂药器可能带来的感染风险。
+
+**标签**: `recall`, `convenience_kits`, `chloraprep_applicator`, `contamination`, `medline`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall)
+
+---
+
+### FDA发布生物相容性与毒理学风险评估市政厅会议演示、幻灯片及记录
+
+**2026-10-13** | FDA | cdrh_news | !! MEDIUM
+
+FDA已发布2026年10月7日生物相容性与毒理学风险评估市政厅会议的演示文稿、幻灯片和文字记录。相关材料适用于参与临床前生物相容性评价的医疗器械制造商和法规事务人员。建议相关方查阅这些资料，以了解CDRH当前对生物相容性和毒理学风险评估的思路及文件要求。
+
+**标签**: `biocompatibility`, `toxicological_risk_assessment`, `town_hall`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-toxicological-risk-assessment-10072026)
+
+---
+
 ### Medline Basic/Medlite家用护理床及配件I级召回（MDR1070）
 
 **2026-10-07** | FDA | recall_class1 | !!! HIGH

@@ -18,6 +18,30 @@ CDRH has posted meeting materials for a town hall focused on biocompatibility an
 
 ---
 
+### Medline Recalls Convenience Kits Containing Recalled BD ChloraPrep Applicators
+
+**2026-10-13** | FDA | cdrh_news | !!! HIGH
+
+Medline is removing convenience kits that contain BD ChloraPrep applicators affected by an earlier BD recall due to possible fungal contamination. Healthcare facilities and distributors should identify and quarantine affected kits from specific lots and follow Medline's return instructions. This action aims to prevent potential infection risks from contaminated skin preparation applicators.
+
+**Tags**: `recall`, `convenience_kits`, `chloraprep_applicator`, `contamination`, `medline`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall)
+
+---
+
+### FDA Adds Presentation, Slides, and Transcript to Biocompatibility and Toxicological Risk Assessment Town Hall (Oct 7, 2026)
+
+**2026-10-13** | FDA | cdrh_news | !! MEDIUM
+
+FDA has posted the presentation, slides, and transcript from the October 7, 2026 Town Hall on Biocompatibility and Toxicological Risk Assessment. The materials are relevant to medical device manufacturers and regulatory affairs professionals involved in preclinical biocompatibility evaluation. Stakeholders should review these resources to understand CDRH’s current thinking and documentation expectations for biocompatibility and toxicological risk assessments.
+
+**Tags**: `biocompatibility`, `toxicological_risk_assessment`, `town_hall`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-and-toxicological-risk-assessment-10072026)
+
+---
+
 ### Medsafe Alert: Hand Control Replacement for KayserBetten Safe Surround Genie Bed
 
 **2026-10-09** | New Zealand Medsafe | Safety Communication | !! MEDIUM
