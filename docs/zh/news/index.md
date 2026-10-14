@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 日本PMDA对HOYA株式会社HOYA One Luminous日抛彩色隐形眼镜实施II类召回
+
+**2026-10-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布II类召回（编号2-12991），涉及HOYA株式会社生产的“HOYA One Luminous”日抛型视力矫正彩色隐形眼镜。现有警报摘要未详述引发召回的具体安全缺陷，但II类召回表示中等风险。相关监管事务人员和医疗机构应关注PMDA通知，识别受影响产品，并按照HOYA的召回要求停用、退回或隔离相关器械。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `contact_lens`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12991)
+
+---
+
+### 日本PMDA II类召回：ICU Medical Japan CADD麻醉输液套件（药物盒100/250mL）
+
+**2026-10-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布第2-12989号召回通知，涉及ICU Medical Japan株式会社生产的CADD麻醉输液套件（药物盒100mL/250mL），召回等级为II类，属中等风险。相关医疗机构应核对产品批次，隔离受影响产品，并按制造商指示进行更换或处理。具体缺陷或风险请参阅PMDA官方通知。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `anesthesia_infusion_set`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12989)
+
+---
+
+### PMDA II级召回：ICU Medical Japan CADD泵输液套件（延长管）（编号2-12988）
+
+**2026-10-14** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布ICU Medical Japan株式会社的CADD泵用输液套件（延长管）/输液泵用输液套件的II级召回（编号2-12988）。该医疗器械召回为中等风险，可能导致暂时性或可逆的健康损害，或严重危害概率较低。医疗机构和使用者应查阅PMDA官方召回通知及厂家指示，隔离受影响批次并执行退回或纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `infusion_set`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12988)
+
+---
+
 ### CDRH发布2026年9月23日生物相容性与化学表征测试提取专题会议材料
 
 **2026-10-13** | FDA | cdrh_news | !! MEDIUM
@@ -42,6 +78,30 @@ FDA已发布2026年10月7日生物相容性与毒理学风险评估市政厅会�
 
 ---
 
+### 日本PMDA II类召回：NuVasive VuePoint II OCT脊柱内固定系统（召回编号2-12987）
+
+**2026-10-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布NuVasive Japan Inc.的VuePoint II OCT脊柱内固定系统II类（中等风险）召回（编号2-12987）。该召回因PMDA通告中所述的器械安全/质量问题而启动，相关医疗机构应查阅通告了解具体原因和受影响批次。应采取的行动包括识别和隔离受影响产品、联系NuVasive Japan进行退货或纠正，并遵循制造商的召回指示。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `spinal_fixation_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12987)
+
+---
+
+### 日本PMDA II类召回#2-12986：西门子AI-Rad Companion CT工作站程序
+
+**2026-10-13** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布编号为2-12986的II类召回，涉及西门子医疗株式会社生产的AI-Rad Companion CT（通用影像诊断工作站程序）。此次召回与软件相关的安全性问题有关，风险等级为中等。使用该软件的医疗机构应查看PMDA官方召回通知，并遵循西门子医疗的纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `medical_device_software`, `diagnostic_imaging`, `siemens_healthineers`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12986)
+
+---
+
 ### Medsafe警报：KayserBetten Safe Surround Genie病床手控器更换
 
 **2026-10-09** | New Zealand Medsafe | 安全通报 | !! MEDIUM
@@ -51,6 +111,18 @@ Medsafe发布了关于KayserBetten Safe Surround Genie病床手控器更换的�
 **标签**: `medsafe`, `medical_device_safety`, `hand_control_replacement`, `kayserbetten`
 
 [查看来源 (Official Source)](https://medsafe.govt.nz/safety/Alerts/Hand-Control-Replacement-KayserBetten-Safe-Surround-Genie-Beds.asp)
+
+---
+
+### 日本PMDA II级召回：Gunze Medical Ultra Curet超声手术器械（召回号2-12982）
+
+**2026-10-08** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对グンゼメディカル株式会社（Gunze Medical）生产的超音波手术器Ultra Curet的II级召回（召回号2-12982）。该召回为中等风险（Class II）医疗器械召回。当前摘要未详述具体安全原因，相关医疗机构应通过PMDA官方通知确认受影响批次，并按制造商指示采取隔离、退回或维修等措施。
+
+**标签**: `pmda_recall`, `class_ii`, `ultrasonic_surgical_device`, `gunze_medical`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12982)
 
 ---
 

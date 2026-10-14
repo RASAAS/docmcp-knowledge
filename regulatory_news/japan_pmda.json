@@ -1,7 +1,161 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-10-07T23:28:28Z",
+  "last_updated": "2026-10-14T22:06:32Z",
   "items": [
+    {
+      "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_of_hoya_one_luminous_single_use_c",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall of HOYA One Luminous Single-Use Colored Contact Lenses",
+        "zh": "日本PMDA对HOYA株式会社HOYA One Luminous日抛彩色隐形眼镜实施II类召回"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12991) for HOYA One Luminous, a single-use vision-correcting colored contact lens manufactured by HOYA Corporation. The specific safety issue prompting the recall is not detailed in the available alert excerpt, but the Class II designation indicates a moderate risk. Regulatory affairs and healthcare professionals should monitor the PMDA notice, identify affected product, and follow HOYA's recall instructions to stop use and return or quarantine affected devices.",
+        "zh": "日本PMDA已发布II类召回（编号2-12991），涉及HOYA株式会社生产的“HOYA One Luminous”日抛型视力矫正彩色隐形眼镜。现有警报摘要未详述引发召回的具体安全缺陷，但II类召回表示中等风险。相关监管事务人员和医疗机构应关注PMDA通知，识别受影响产品，并按照HOYA的召回要求停用、退回或隔离相关器械。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12991",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-14T22:05:21Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "contact_lens"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_icu_medical_japan_cadd_anesthesia",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: ICU Medical Japan CADD Anesthesia Infusion Set (Medication Cassette 100mL/250mL)",
+        "zh": "日本PMDA II类召回：ICU Medical Japan CADD麻醉输液套件（药物盒100/250mL）"
+      },
+      "summary": {
+        "en": "Japan’s PMDA has posted Recall No. 2-12989, a Class II device recall for the CADD Anesthesia Infusion Set (Medication Cassette 100mL/250mL) manufactured by ICU Medical Japan K.K. Class II indicates a moderate-risk situation. Affected healthcare facilities should verify whether their inventory matches the recall notice, quarantine affected lots, and follow manufacturer instructions for replacement or correction. The specific defect or hazard should be reviewed in the official PMDA notice.",
+        "zh": "日本PMDA发布第2-12989号召回通知，涉及ICU Medical Japan株式会社生产的CADD麻醉输液套件（药物盒100mL/250mL），召回等级为II类，属中等风险。相关医疗机构应核对产品批次，隔离受影响产品，并按制造商指示进行更换或处理。具体缺陷或风险请参阅PMDA官方通知。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12989",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-14T22:05:35Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "anesthesia_infusion_set",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261014_pmda_class_ii_recall_icu_medical_japan_cadd_pump_infusion_se",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: ICU Medical Japan CADD Pump Infusion Set (Extension Set) (Recall No. 2-12988)",
+        "zh": "PMDA II级召回：ICU Medical Japan CADD泵输液套件（延长管）（编号2-12988）"
+      },
+      "summary": {
+        "en": "The Japan PMDA has published a Class II recall (No. 2-12988) for the CADD Pump Infusion Set (Extension Set), listed as an infusion pump infusion set, marketed by ICU Medical Japan K.K. This device recall indicates a moderate risk where the product may cause temporary or medically reversible health problems, or the probability of serious harm is low. Healthcare facilities and users should consult the official PMDA recall notice and ICU Medical Japan instructions, quarantine affected lots, and follow return or corrective actions.",
+        "zh": "日本PMDA已发布ICU Medical Japan株式会社的CADD泵用输液套件（延长管）/输液泵用输液套件的II级召回（编号2-12988）。该医疗器械召回为中等风险，可能导致暂时性或可逆的健康损害，或严重危害概率较低。医疗机构和使用者应查阅PMDA官方召回通知及厂家指示，隔离受影响批次并执行退回或纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12988",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-14T22:05:46Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "infusion_set"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_nuvasive_japan_vuepoint_ii_oct_sp",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: NuVasive Japan VuePoint II OCT Spinal Fixation System (Recall No. 2-12987)",
+        "zh": "日本PMDA II类召回：NuVasive VuePoint II OCT脊柱内固定系统（召回编号2-12987）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II (moderate risk) recall for the VuePoint II OCT Fixation System, a spinal internal fixation device marketed by NuVasive Japan Inc. This recall, No. 2-12987, is due to a device safety/quality issue described in the PMDA notice; affected healthcare facilities should review the notice for the specific reason and affected lots. Required actions include identifying and quarantining affected units, contacting NuVasive Japan for return or correction, and following the manufacturer's recall instructions.",
+        "zh": "日本PMDA已发布NuVasive Japan Inc.的VuePoint II OCT脊柱内固定系统II类（中等风险）召回（编号2-12987）。该召回因PMDA通告中所述的器械安全/质量问题而启动，相关医疗机构应查阅通告了解具体原因和受影响批次。应采取的行动包括识别和隔离受影响产品、联系NuVasive Japan进行退货或纠正，并遵循制造商的召回指示。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12987",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-13",
+      "detected_date": "2026-10-14T22:06:01Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "spinal_fixation_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_2_12986_siemens_ai_rad_companion",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall #2-12986: Siemens AI-Rad Companion CT Workstation Program",
+        "zh": "日本PMDA II类召回#2-12986：西门子AI-Rad Companion CT工作站程序"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued Class II recall No. 2-12986 for AI-Rad Companion CT, a general-purpose diagnostic imaging workstation program from Siemens Healthcare K.K. The recall concerns a software-related safety issue and is classified as moderate risk. Healthcare facilities using this software should review the official PMDA recall notice and follow Siemens Healthcare's corrective actions.",
+        "zh": "日本PMDA已发布编号为2-12986的II类召回，涉及西门子医疗株式会社生产的AI-Rad Companion CT（通用影像诊断工作站程序）。此次召回与软件相关的安全性问题有关，风险等级为中等。使用该软件的医疗机构应查看PMDA官方召回通知，并遵循西门子医疗的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12986",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-13",
+      "detected_date": "2026-10-14T22:06:19Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "medical_device_software",
+        "diagnostic_imaging",
+        "siemens_healthineers"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_gunze_medical_ultra_curet_ultraso",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: Gunze Medical Ultra Curet Ultrasonic Surgical Device (Recall No. 2-12982)",
+        "zh": "日本PMDA II级召回：Gunze Medical Ultra Curet超声手术器械（召回号2-12982）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-12982) for the Ultra Curet ultrasonic surgical device manufactured by Gunze Medical Co., Ltd. Class II indicates a moderate-risk field action for medical devices. The specific safety issue is not detailed in the current extract, so affected users should confirm the reason and affected lots via the official PMDA notice and follow the manufacturer's instructions for quarantine, return, or repair.",
+        "zh": "日本PMDA发布了对グンゼメディカル株式会社（Gunze Medical）生产的超音波手术器Ultra Curet的II级召回（召回号2-12982）。该召回为中等风险（Class II）医疗器械召回。当前摘要未详述具体安全原因，相关医疗机构应通过PMDA官方通知确认受影响批次，并按制造商指示采取隔离、退回或维修等措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12982",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-08",
+      "detected_date": "2026-10-14T22:06:32Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "ultrasonic_surgical_device",
+        "gunze_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20261007_pmda_class_ii_recall_no_2_12980_nikkiso_tr_2020_blood_purifi",
       "framework": "japan_pmda",
