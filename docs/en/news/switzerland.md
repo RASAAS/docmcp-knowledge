@@ -36,6 +36,114 @@ title: Regulatory News
 
 ## Latest Updates
 
+### Swissmedic FSCA: Liko AB Likorall Overhead Lift Assistive Remote Control Safety Notice
+
+**2026-10-16** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic field safety corrective action (FSCA) concerns the Likorall Overhead Lift manufactured by Liko AB, specifically its assistive remote control. The public summary does not specify the exact safety reason; affected models and lots are indicated as 'see FSN.' Users should review the full field safety notice and follow Liko AB's recommended actions, which may include inspection or replacement of the affected remote control.
+
+**Tags**: `swissmedic`, `fsca`, `medical_device`, `patient_lift`, `assistive_remote_control`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261008_003)
+
+---
+
+### Swissmedic FSCA: Philips Lumify Diagnostic Ultrasound System (Philips Ultrasound LLC)
+
+**2026-10-15** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Lumify Diagnostic Ultrasound System, manufactured by Philips Ultrasound LLC. The notice identifies the device as a general-purpose ultrasound imaging system; however, the specific reason for the corrective action and affected model/lot details are not specified in the available FSCA description. Users and regulatory affairs professionals should consult the full Swissmedic FSCA entry and manufacturer communications for recommended actions and affected units.
+
+**Tags**: `swissmedic`, `field_safety_corrective_action`, `ultrasound_system`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_028)
+
+---
+
+### Swissmedic FSCA: Medtronic Abre Venous Self-expanding Stent System, All Models
+
+**2026-10-15** | Swissmedic | Safety Communication | !!! HIGH
+
+This Swissmedic field safety corrective action (FSCA) concerns the Medtronic Abre Venous Self-expanding Stent System, a non-stainless steel peripheral vascular bare metal stent. The notice applies to all models. Specific reasons and recommended actions are not detailed in the available summary; affected users should consult the official Swissmedic FSCA and Medtronic communications for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `vascular_stent`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261014_032)
+
+---
+
+### Swissmedic FSCA for corpuls3 Defibrillation/Monitoring System—New Field Safety Notice (Models 04100, 04100.2, 04101)
+
+**2026-10-14** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the corpuls3 physiologic-monitoring defibrillation system manufactured by GS Elektromedizinische Geräte G. Stemple GmbH / Corpuls. The FSCA is linked to issuance of a new Field Safety Notice (FSN) and affects models 04100, 04100.2, and 04101. Users should review the new FSN and implement the manufacturer’s recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `defibrillator`, `field_safety_notice`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261009_025)
+
+---
+
+### Swissmedic FSCA: Löwenstein LUISA LM150TD Ventilator – Additional Languages Added
+
+**2026-10-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic published a Field Safety Corrective Action for the LUISA portable electric ventilator, model LM150TD, manufactured by Löwenstein Medical Technology GmbH + Co. KG. The action was issued because additional languages have been added to the device documentation/labeling. Users should review the updated language versions and ensure the affected documentation is available with the device. This is a product documentation correction rather than a hardware recall.
+
+**Tags**: `swissmedic`, `fsca`, `ventilator`, `labeling`, `lm150td`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261007_001)
+
+---
+
+### Swissmedic FSCA: Philips Azurion Stationary Angiographic X-Ray System
+
+**2026-10-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Philips Medical Systems Nederland B.V. Azurion stationary angiographic X-ray system. The corrective action addresses a safety issue described in the manufacturer's Field Safety Notice (FSN); affected model and lot details are specified in the FSN. Users should review the FSN and follow Philips' recommended actions, including any required inspection, modification, or use restrictions.
+
+**Tags**: `swissmedic`, `fsca`, `philips`, `angiographic_xray_system`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261007_032)
+
+---
+
+### MEONA - Mesalvo Freiburg GmbH: Swissmedic FSCA for Release V Medical Device Software
+
+**2026-10-14** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for MEONA, a medical device software from Mesalvo Freiburg GmbH, affecting Release V. The available notice does not specify the reason for the corrective action. Users of MEONA Release V should consult the official Swissmedic FSCA and contact Mesalvo Freiburg GmbH for recommended actions.
+
+**Tags**: `swissmedic_fsca`, `medical_device_software`, `mesalvo_freiburg`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261013_013)
+
+---
+
+### Swissmedic FSCA: Orthoscan Versa Mini C-arm X-ray System (Ziehm-Orthoscan) Model 1000-0020
+
+**2026-10-13** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a field safety corrective action (FSCA) for the Orthoscan Versa Mini C-arm X-ray System, model 1000-0020, manufactured by Ziehm-Orthoscan, Inc. The notice concerns mobile radioscopic units, though the specific reason for the action is not detailed in the available information. Healthcare facilities using this device should verify their inventory for the affected model and follow the manufacturer's instructions or contact Ziehm-Orthoscan for corrective measures.
+
+**Tags**: `fsca`, `swissmedic`, `c_arm_x_ray`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261013_001)
+
+---
+
+### Swissmedic FSCA: BATEC MOBILITY Batec Handbikes (Electric 2, Rapid 2, Scrambler 2)
+
+**2026-10-13** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for BATEC MOBILITY Batec handbikes, involving electric-motor-driven wheelchair propulsion systems, models Electric 2, Rapid 2, and Scrambler 2. The FSCA references the manufacturer's Field Safety Notice (FNS) for the specific safety issue and corrective actions. Owners, users, and distributors of affected Batec handbikes should consult the linked Swissmedic FSCA and the manufacturer's FNS, and follow the recommended risk-mitigation and correction steps.
+
+**Tags**: `swissmedic`, `fsca`, `wheelchair_propulsion`, `batec_mobility`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261006_026)
+
+---
+
 ### Swissmedic FSCA: Philips Radiography 7000 M Mobile Radiographic/Fluoroscopic Unit (Model 712010)
 
 **2026-10-08** | Swissmedic | Safety Communication | !!! HIGH
@@ -2655,6 +2763,102 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the Newport
 **Tags**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed Paradigm Insulin Pump Models MMT-554/715/722/754 – Updated Information
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Medtronic (Schweiz) AG's MiniMed Paradigm ambulatory insulin infusion pump, covering models MMT-554, MMT-715, MMT-722, and MMT-754. The notice provides updated information for this electronic, software-dosing device with a scalar algorithm. Users and healthcare professionals should review the latest Swissmedic/Medtronic communication and follow the manufacturer's corrective action instructions for affected pumps.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA Update: Medtronic MiniMed Paradigm Veo Insulin Pump (MMT-554/715/722/754)
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Medtronic (Schweiz) AG's MiniMed Paradigm Veo ambulatory insulin infusion pump. The notice provides updated information related to the device's electronic software-dosing binary algorithm, affecting models MMT-554, MMT-715, MMT-722, and MMT-754. Healthcare professionals and users of these pumps should review the updated Swissmedic FSCA and follow Medtronic's instructions for any required corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### MiniMed 780G Insulin Pump – Updated Swissmedic FSCA for Medtronic (Schweiz) AG
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published an updated Field Safety Corrective Action (FSCA) for the Medtronic MiniMed 780G insulin pump, an electronic ambulatory insulin infusion pump with software-dosing scalar algorithm. The affected models are MMT-1885, MMT-1886, MMT-1895, and MMT-1896. This item is classified as updated information rather than a new recall. Healthcare professionals and users should review the latest Swissmedic FSCA notice and follow any instructions provided by Medtronic (Schweiz) AG.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 740G Insulin Pump Updated Information (Models MMT-1811/1812/1861/1862)
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action for the Medtronic MiniMed 740G ambulatory insulin infusion pump concerning updated information on the software-dosing binary algorithm. The affected models are MMT-1811, MMT-1812, MMT-1861, and MMT-1862. Users and healthcare professionals should review the updated safety information from Medtronic (Schweiz) AG and follow any recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 640G Insulin Pump Updated Information (MMT-1711/1712/1751/1752)
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Medtronic (Schweiz) AG's MiniMed 640G ambulatory insulin infusion pump, covering models MMT-1711, MMT-1712, MMT-1751 and MMT-1752. The FSCA reason is "Updated information" related to the software-dosing binary algorithm. Users, caregivers and healthcare professionals should review the updated safety information and follow the manufacturer's recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA Update: Medtronic MiniMed 720G Insulin Pump (Models MMT-1809, MMT-1810, MMT-1859, MMT-1860)
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for Medtronic (Schweiz) AG’s MiniMed 720G insulin pump. The notice affects models MMT-1809, MMT-1810, MMT-1859, and MMT-1860, and lists the reason as “Updated information.” Users of these ambulatory insulin infusion pumps should review the Swissmedic FSCA and follow Medtronic’s updated instructions or recommendations.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 770G Insulin Pump – Updated Information for Models MMT-1881/1882/1891/1892
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the Medtronic MiniMed 770G ambulatory insulin infusion pump, covering models MMT-1881, MMT-1882, MMT-1891, and MMT-1892. The FSCA concerns updated information for this electronic software-dosing scalar algorithm device. Healthcare professionals and users should review the manufacturer's updated safety notice and follow Medtronic (Schweiz) AG's instructions for the affected pump models.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA: Medtronic MiniMed 670G Insulin Pump Updated Safety Information (MMT-1761/1762/1781/1782)
+
+**2025-02-10** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Medtronic MiniMed 670G ambulatory insulin infusion pump concerning updated information related to the electronic software-dosing scalar algorithm. The affected models are MMT-1761, MMT-1762, MMT-1781, and MMT-1782, distributed by Medtronic (Schweiz) AG. Healthcare professionals and users should review the updated safety information and follow any instructions provided by Medtronic or Swissmedic to maintain safe use of the device.
+
+**Tags**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
 
 ---
 

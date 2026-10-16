@@ -36,6 +36,114 @@ title: 法规速递
 
 ## 最新动态
 
+### 瑞士Swissmedic FSCA：Liko AB Likorall吊顶移位机辅助遥控器安全通告
+
+**2026-10-16** | Swissmedic | 安全通报 | !! MEDIUM
+
+此瑞士Swissmedic现场安全纠正措施（FSCA）针对Liko AB生产的Likorall吊顶移位机，特别是其辅助遥控器。公开摘要未说明具体安全原因，受影响型号和批次见现场安全通知（FSN）。用户应查阅完整FSN并遵循Liko AB的建议措施，可能包括检查或更换受影响遥控器。
+
+**标签**: `swissmedic`, `fsca`, `medical_device`, `patient_lift`, `assistive_remote_control`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261008_003)
+
+---
+
+### 瑞士药监局FSCA：飞利浦Lumify诊断超声系统
+
+**2026-10-15** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了飞利浦Lumify诊断超声系统的现场安全纠正措施（FSCA），制造商为Philips Ultrasound LLC。该通知将该设备列为通用超声成像系统，但目前可获得的FSCA描述中未说明具体纠正原因及受影响型号/批次。用户和法规事务人员应查阅Swissmedic完整FSCA条目及制造商通知，以确认受影响设备和建议措施。
+
+**标签**: `swissmedic`, `field_safety_corrective_action`, `ultrasound_system`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260924_028)
+
+---
+
+### 瑞士药监局FSCA：Medtronic Abre静脉自膨式支架系统（所有型号）
+
+**2026-10-15** | Swissmedic | 安全通报 | !!! HIGH
+
+本瑞士药监局现场安全纠正措施（FSCA）针对Medtronic Abre静脉自膨式支架系统，一种非不锈钢外周血管裸金属支架。该通知适用于所有型号。现有摘要未详细说明具体原因和建议措施，相关用户应查阅瑞士药监局官方FSCA及Medtronic通知以采取必要行动。
+
+**标签**: `swissmedic`, `fsca`, `vascular_stent`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261014_032)
+
+---
+
+### 瑞士Swissmedic发布corpuls3除颤监护系统FSCA：新现场安全通知（型号04100等）
+
+**2026-10-14** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对GS Elektromedizinische Geräte G. Stemple GmbH / Corpuls生产的corpuls3生理监测除颤系统的现场安全纠正措施（FSCA）。此次FSCA涉及发布新的现场安全通知（FSN），受影响型号为04100、04100.2和04101。用户应查阅新FSN并执行制造商建议的纠正措施。
+
+**标签**: `swissmedic`, `fsca`, `defibrillator`, `field_safety_notice`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261009_025)
+
+---
+
+### 瑞士药监局FSCA：Löwenstein LUISA LM150TD呼吸机新增语言
+
+**2026-10-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局发布一项涉及Löwenstein Medical Technology GmbH + Co. KG生产的LUISA便携式电动呼吸机（型号LM150TD）的现场安全纠正措施。此次纠正原因是设备文件/标签增加了更多语言版本。相关用户应查阅更新后的语言版本，并确保设备随附文件已更新。此次为产品文件纠正，不涉及硬件召回。
+
+**标签**: `swissmedic`, `fsca`, `ventilator`, `labeling`, `lm150td`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261007_001)
+
+---
+
+### 瑞士Swissmedic发布飞利浦Azurion血管造影X射线系统FSCA
+
+**2026-10-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic已发布飞利浦医疗系统荷兰公司Azurion固定式血管造影X射线系统的现场安全纠正措施（FSCA）。该纠正措施涉及制造商现场安全通知（FSN）中描述的安全问题，受影响型号和批次详见FSN。用户应查阅FSN并遵循飞利浦建议的措施，包括任何必要的检查、修改或使用限制。
+
+**标签**: `swissmedic`, `fsca`, `philips`, `angiographic_xray_system`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261007_032)
+
+---
+
+### 瑞士Swissmedic发布Mesalvo Freiburg MEONA软件FSCA（Release V）
+
+**2026-10-14** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士Swissmedic已发布针对Mesalvo Freiburg GmbH的MEONA医疗器械软件的现场安全纠正措施（FSCA），涉及Release V版本。该通知摘要中未说明纠正原因。使用MEONA Release V的用户应查阅Swissmedic官方FSCA并联系Mesalvo Freiburg GmbH获取建议措施。
+
+**标签**: `swissmedic_fsca`, `medical_device_software`, `mesalvo_freiburg`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261013_013)
+
+---
+
+### Swissmedic FSCA：Orthoscan Versa Mini C臂X射线系统（Ziehm-Orthoscan）型号1000-0020
+
+**2026-10-13** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已对Ziehm-Orthoscan公司生产的Orthoscan Versa Mini C型臂X射线系统（型号1000-0020）发布现场安全纠正措施（FSCA）。该通知涉及移动式放射检查设备，但具体原因在现有信息中未详细说明。使用该设备的医疗机构应核查库存中是否包含受影响的型号，并遵循制造商的指示或联系Ziehm-Orthoscan采取纠正措施。
+
+**标签**: `fsca`, `swissmedic`, `c_arm_x_ray`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261013_001)
+
+---
+
+### 瑞士Swissmedic发布BATEC MOBILITY Batec手摇自行车FSCA（含多型号）
+
+**2026-10-13** | Swissmedic | 安全通报 | !!! HIGH
+
+Swissmedic已发布针对BATEC MOBILITY Batec手摇自行车的现场安全纠正措施（FSCA），涉及电动轮椅驱动系统，型号为Electric 2、Rapid 2和Scrambler 2。该FSCA引用制造商的现场安全通告（FNS），说明具体安全问题和纠正措施。受影响设备的用户和经销商应查阅Swissmedic公告及制造商FNS，并执行建议的风险缓解与纠正步骤。
+
+**标签**: `swissmedic`, `fsca`, `wheelchair_propulsion`, `batec_mobility`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261006_026)
+
+---
+
 ### 瑞士Swissmedic发布飞利浦Radiography 7000 M移动式X线/透视设备FSCA（型号712010）
 
 **2026-10-08** | Swissmedic | 安全通报 | !!! HIGH
@@ -2655,6 +2763,102 @@ Zimmer Surgical, Inc. 针对 Zimmer 止血带系统型号 60500010100 和 603200
 **标签**: `swissmedic`, `fsca`, `ventilator`, `field_safety_corrective_action`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250521_26)
+
+---
+
+### 瑞士药监局FSCA：美敦力MiniMed Paradigm胰岛素泵型号MMT-554/715/722/754更新信息
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了一项针对美敦力（瑞士）公司MiniMed Paradigm便携式胰岛素泵的现场安全纠正措施（FSCA），涉及型号MMT-554、MMT-715、MMT-722和MMT-754。该通知提供了关于该电子、软件给药、标量算法设备的更新信息。相关用户和医护人员应查阅最新的瑞士药监局/美敦力通知，并遵循制造商对受影响泵的纠正措施说明。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### 瑞士药监局更新美敦力MiniMed Paradigm Veo胰岛素泵FSCA
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药品监督管理局（Swissmedic）发布了一则关于美敦力（瑞士）公司MiniMed Paradigm Veo便携式胰岛素泵的现场安全纠正措施（FSCA）。该通知为电子软件剂量二进制算法相关问题的更新信息，受影响型号包括MMT-554、MMT-715、MMT-722和MMT-754。相关医疗机构和用户应查阅更新后的Swissmedic FSCA，并遵循美敦力公司的纠正措施说明。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### MiniMed 780G胰岛素泵瑞士药监局FSCA更新信息
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了美敦力MiniMed 780G胰岛素泵的更新版现场安全纠正措施（FSCA）。该产品为电子便携式胰岛素输注泵，带软件给药标量算法，涉及型号为MMT-1885、MMT-1886、MMT-1895、MMT-1896。本次为信息更新，而非新召回。相关医护人员和用户应查阅最新FSCA通知，并按照美敦力（瑞士）有限公司的说明采取相应措施。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### Swissmedic FSCA：Medtronic MiniMed 740G胰岛素泵更新信息
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic发布了一项涉及Medtronic MiniMed 740G便携式胰岛素泵的现场安全纠正措施，针对软件给药二元算法的更新信息。受影响型号为MMT-1811、MMT-1812、MMT-1861和MMT-1862。用户和医疗专业人员应查阅Medtronic（瑞士）公司提供的更新安全信息，并遵循建议措施。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### 瑞士Medtronic MiniMed 640G胰岛素泵FSCA更新信息（型号MMT-1711/1712/1751/1752）
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic已发布针对Medtronic（Schweiz）AG MiniMed 640G动态胰岛素输注泵的现场安全纠正措施（FSCA），涉及型号MMT-1711、MMT-1712、MMT-1751和MMT-1752。该FSCA原因为与软件给药二元算法相关的“更新信息”。用户、照护者和医护人员应查阅更新后的安全信息，并遵循制造商建议的措施。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `software_dosing`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### 瑞士药监局更新：美敦力MiniMed 720G胰岛素泵FSCA（型号MMT-1809等）
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对美敦力（瑞士）公司 MiniMed 720G 胰岛素泵的现场安全纠正措施（FSCA），涉及型号 MMT-1809、MMT-1810、MMT-1859 和 MMT-1860。该通知列明的原因为“信息更新”。使用上述便携式胰岛素输注泵的患者和医务人员应查阅 Swissmedic 通知，并遵循美敦力传达的更新说明或建议。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `medical_device`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### 瑞士medic FSCA：美敦力MiniMed 770G胰岛素泵更新信息（型号MMT-1881等）
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+Swissmedic 已发布美敦力 MiniMed 770G 便携式胰岛素泵的现场安全纠正措施（FSCA），涉及型号 MMT-1881、MMT-1882、MMT-1891、MMT-1892。该措施为该电子软件剂量标量算法器械的更新信息。相关医疗专业人员和用户应查阅制造商的更新安全通知，并遵循 Medtronic（瑞士）公司针对受影响型号的说明。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
+
+---
+
+### 瑞士药监局FSCA：美敦力MiniMed 670G胰岛素泵更新安全信息
+
+**2025-02-10** | Swissmedic | 安全通报 | !! MEDIUM
+
+瑞士药监局（Swissmedic）发布了针对美敦力MiniMed 670G胰岛素泵的现场安全纠正措施（FSCA），涉及该设备电子软件剂量标量算法的更新信息。受影响型号为MMT-1761、MMT-1762、MMT-1781和MMT-1782，由Medtronic（Schweiz）AG销售。相关医护人员和用户应查阅更新后的安全信息，并遵循美敦力或瑞士药监局提供的指导以确保设备安全使用。
+
+**标签**: `swissmedic`, `fsca`, `insulin_pump`, `medtronic`, `field_safety_corrective_action`
+
+[查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20250129_14)
 
 ---
 
