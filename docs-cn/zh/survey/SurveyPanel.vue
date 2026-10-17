@@ -1,5 +1,5 @@
 <script setup>
-import { onMounted, ref } from "vue";
+import { onMounted, onUnmounted, ref } from "vue";
 
 const API = "https://llm.reguverse.com/api/v1/surveys/public/deploy-choice";
 const VOTER_KEY = "rv-survey-deploy-choice";
@@ -58,6 +58,23 @@ const comment = ref("");
 const status = ref("");
 const busy = ref(false);
 const summary = ref(null);
+const zoom = ref(null);
+
+function openZoom(src, alt, event) {
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
+  }
+  zoom.value = { src, alt };
+}
+
+function closeZoom() {
+  zoom.value = null;
+}
+
+function onKey(event) {
+  if (event.key === "Escape") closeZoom();
+}
 
 function voterKey() {
   const saved = localStorage.getItem(VOTER_KEY);
@@ -128,7 +145,11 @@ function percent(count) {
   return `${Math.round((count / total) * 100)}%`;
 }
 
-onMounted(loadSummary);
+onMounted(() => {
+  loadSummary();
+  window.addEventListener("keydown", onKey);
+});
+onUnmounted(() => window.removeEventListener("keydown", onKey));
 </script>
 
 <template>
@@ -153,10 +174,9 @@ onMounted(loadSummary);
 
     <h2>请选择更接近您公司情况的一种</h2>
     <div class="cards">
-      <button
+      <div
         v-for="item in options"
         :key="item.id"
-        type="button"
         class="card"
         :class="{ on: choice === item.id }"
         @click="choice = item.id"
@@ -164,11 +184,14 @@ onMounted(loadSummary);
         <span class="pick">{{ choice === item.id ? "已选择" : "选择这个" }}</span>
         <strong>{{ item.title }}</strong>
         <span class="line">{{ item.line }}</span>
-        <img :src="item.image" :alt="item.title">
+        <button type="button" class="shot" @click="openZoom(item.image, item.title, $event)">
+          <img :src="item.image" :alt="item.title">
+          <span class="zoom-label">点击放大</span>
+        </button>
         <ul>
           <li v-for="point in item.points" :key="point">{{ point }}</li>
         </ul>
-      </button>
+      </div>
     </div>
     <button type="button" class="ghost" :class="{ on: choice === 'undecided' }" @click="choice = 'undecided'">
       {{ choice === "undecided" ? "已选择：还不确定" : "还不确定，先看看" }}
@@ -244,10 +267,17 @@ onMounted(loadSummary);
       <summary>网络连接、架构、拓扑示意图</summary>
       <p class="hint">下面这组图具体说明：数据放在哪、公司网络如何连接、小主机对内和对外的边界。</p>
       <figure v-for="item in diagrams" :key="item[1]">
-        <figcaption>{{ item[0] }}</figcaption>
-        <img :src="item[1]" :alt="item[0]">
+        <figcaption>{{ item[0] }} · 点击放大</figcaption>
+        <button type="button" class="shot" @click="openZoom(item[1], item[0])">
+          <img :src="item[1]" :alt="item[0]">
+        </button>
       </figure>
     </details>
+
+    <div v-if="zoom" class="lightbox" role="dialog" aria-modal="true" :aria-label="zoom.alt" @click="closeZoom">
+      <button type="button" class="close" @click="closeZoom">关闭</button>
+      <img :src="zoom.src" :alt="zoom.alt" @click.stop>
+    </div>
   </div>
 </template>
 
@@ -280,7 +310,61 @@ h2 { font-size: 22px; margin: 28px 0 10px; border: 0; }
   padding: 12px;
 }
 .card.on, .ghost.on, .chip.on { border-color: var(--vp-c-brand-1); background: var(--vp-c-brand-soft); }
-.card img, .more img { width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); }
+.shot {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+}
+.shot img, .more img { width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); }
+.zoom-label {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.72);
+  color: #fff;
+  font-size: 12px;
+}
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px 24px;
+  background: rgba(0, 0, 0, 0.82);
+}
+.lightbox img {
+  max-width: min(1400px, 96vw);
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 8px;
+}
+.close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  border: 0;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  cursor: pointer;
+  background: #fff;
+  color: #111;
+}
 .card strong { display: block; margin: 6px 0 2px; }
 .line, .pick { display: block; color: var(--vp-c-text-2); font-size: 13px; }
 .card ul { margin: 8px 0 0; padding-left: 1.1em; font-size: 14px; }
