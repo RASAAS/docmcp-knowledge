@@ -1,0 +1,4 @@
+.Layout.survey-wide .VPDoc:not(.has-sidebar) .container,
+.Layout.survey-wide .VPDoc:not(.has-sidebar) .content {
+  max-width: 1120px;
+}

@@ -13,6 +13,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: "首页", link: "/zh/" },
+          { text: "开发计划", link: "/zh/survey/" },
           { text: "快速开始", link: "/zh/guide/get-started" },
           { text: "产品与定价", link: "/zh/guide/pricing" },
           { text: "反馈与建议", link: "/zh/feedback" },
