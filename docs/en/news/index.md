@@ -6,6 +6,114 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Field Safety Notices: 5 to 9 October 2026 Weekly List
+
+**2026-10-19** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item is the UK MHRA's weekly publication listing Field Safety Notices (FSNs) issued between 5 and 9 October 2026. It is relevant to healthcare providers, patients, and medical device manufacturers with products distributed in the UK. Regulatory affairs and vigilance teams should review the listed notices to identify affected devices and implement any required field safety corrective actions or recalls.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 12 to 16 October 2026 (9 New Entries)
+
+**2026-10-19** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA update lists field safety notices published between 12 and 16 October 2026, with nine new entries in the feed. Healthcare providers, medical device manufacturers, and distributors should review the listed FSNs to identify affected devices and required actions. Affected users should follow the manufacturer's instructions in each notice and report adverse incidents to MHRA as appropriate.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 12 to 16 October 2026
+
+**2026-10-19** | UK MHRA | Regulation Update | !!! HIGH
+
+This MHRA page lists the Field Safety Notices (FSNs) published between 12 and 16 October 2026, with 5 new notices included. It is relevant to medical device manufacturers, importers, distributors, healthcare providers, and users who may have affected devices. Affected parties should review the listed notices, identify any relevant devices, and implement the field safety actions described by the manufacturer without delay. The notices may include recalls, corrections, or updated instructions for use.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`, `safety_alert`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### Nova Biomedical StatStrip Ketone Test Strips Recall: QC Failures and Supply Interruption (DSI/2026/013)
+
+**2026-10-16** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued a safety alert for specified lots of Nova Biomedical StatStrip ketone test strips due to quality-control failures and a related recall. The issue may cause disruption to blood ketone testing supply. Healthcare providers should quarantine affected lots, review alternative testing arrangements, and follow the manufacturer’s recall instructions.
+
+**Tags**: `mhra_safety_alert`, `recall`, `ketone_test_strips`, `quality_control_failure`, `supply_interruption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013)
+
+---
+
+### MHRA Field Safety Notices: 27–31 January 2025
+
+**2026-10-16** | UK MHRA | Safety Communication | !!! HIGH
+
+This item lists Field Safety Notices (FSNs) published by the UK MHRA between 27 and 31 January 2025. It aggregates safety communications relevant to medical device users, healthcare providers, and manufacturers. Regulatory affairs professionals should review the listed notices to identify affected devices and implement required field safety corrective actions.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025)
+
+---
+
+### MHRA Guidance: Register Medical Devices to Place on the GB and NI Markets
+
+**2026-10-16** | UK MHRA | Regulation Update | !!! HIGH
+
+This MHRA guidance explains how manufacturers, authorised representatives, and other economic operators must register medical devices with the MHRA before placing them on the Great Britain and Northern Ireland markets. It outlines registration requirements, timelines, and the information needed for device and actor registrations. Affected parties should review the guidance and ensure their devices and organisation are correctly registered to maintain compliance.
+
+**Tags**: `mhra`, `medical_device_registration`, `uk_market_access`, `regulatory_guidance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### Health Canada recall alert: NICO Myriad™ 19x21.5 MHP Paediscope device compatibility issue
+
+**2026-10-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the NICO Myriad™ 19x21.5 MHP Paediscope due to a device compatibility concern. Healthcare facilities and professionals using this device are affected. They should review the official recall notice and follow the manufacturer’s or Health Canada’s recommended corrective actions promptly.
+
+**Tags**: `medical_device_recall`, `device_compatibility`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nico-myriadtm-19x215-mhp-paediscope)
+
+---
+
+### Health Canada Recall Alert: ARCHITECT I System i2000SR Processing Module Performance Issue (Class 4)
+
+**2026-10-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada issued a medical device recall alert for Abbott's ARCHITECT "I" System i2000SR Processing Module, a Class 4 device, due to a performance issue. Laboratories and healthcare facilities using this processing module for in vitro diagnostic testing may be affected. Users should review the recall notice, follow the manufacturer's instructions, and perform recommended verification or mitigation actions to ensure reliable results.
+
+**Tags**: `health_canada_recall`, `ivd`, `performance_issue`, `abbott_architect`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/architect-system-i2000sr-processing-module-class-4)
+
+---
+
+### Health Canada Recall: SIGNA™ Architect MRI System Performance Issue
+
+**2026-10-16** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the GE Healthcare SIGNA™ Architect MRI system due to a performance issue. This may affect the system's diagnostic imaging performance, potentially impacting image quality or reliability. Affected healthcare facilities should consult the manufacturer's instructions and contact GE Healthcare for remediation guidance.
+
+**Tags**: `mri_system`, `recall`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signatm-architect-0)
+
+---
+
 ### Swissmedic FSCA: Liko AB Likorall Overhead Lift Assistive Remote Control Safety Notice
 
 **2026-10-16** | Swissmedic | Safety Communication | !! MEDIUM
@@ -15,6 +123,78 @@ This Swissmedic field safety corrective action (FSCA) concerns the Likorall Over
 **Tags**: `swissmedic`, `fsca`, `medical_device`, `patient_lift`, `assistive_remote_control`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261008_003)
+
+---
+
+### Updated UK MHRA List of Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers
+
+**2026-10-15** | UK MHRA | Regulation Update | !! MEDIUM
+
+This specific publication provides the UK MHRA's current public list of companies whose authorisations to manufacture or wholesale medicines or active ingredients have been suspended or revoked. It affects manufacturers, wholesalers, and importers of medicinal products and ingredients in the UK. Regulatory affairs professionals should review the list to confirm the status of their own site and supply chain partners, and take corrective action if an organisation appears.
+
+**Tags**: `mhra`, `enforcement`, `manufacturing_licence`, `wholesale_licence`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### Health Canada Recalls Roche cobas® c 303 Analytical Unit Over Performance Issue
+
+**2026-10-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the Roche Diagnostics cobas® c 303 analytical unit due to a performance issue. Laboratories and healthcare facilities using this analytical unit are affected. Users should review the recall notice, contact Roche Diagnostics for corrective action, and implement any recommended mitigation or verification steps to ensure accurate results.
+
+**Tags**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cobasr-c-303-analytical-unit)
+
+---
+
+### Flintstones Complete Multivitamins and Minerals Recalled from Wholesalers over Distribution Error
+
+**2026-10-15** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a recall alert for Flintstones Complete Multivitamins and Minerals, which is being recalled from wholesalers due to a distribution error. The recall affects wholesale-level distribution in Canada rather than product quality or consumer safety. Regulatory and supply chain personnel should verify inventory, quarantine affected product, and follow Health Canada's recall instructions.
+
+**Tags**: `health_canada`, `wholesale_recall`, `distribution_error`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution)
+
+---
+
+### Canada Recall: HemosIL AcuStar HIT-IgG(PF4-H) Performance Issue Affecting HIT Test Results
+
+**2026-10-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the HemosIL AcuStar HIT-IgG(PF4-H) assay, an in vitro diagnostic test used to detect IgG antibodies to PF4-heparin complex in suspected heparin-induced thrombocytopenia (HIT). The recall is due to performance issues that may lead to unreliable test results. Clinical laboratories and healthcare providers using this assay should immediately review the recall notice, assess impacted lots, and follow manufacturer instructions for mitigation or alternative testing.
+
+**Tags**: `medical_device_recall`, `in_vitro_diagnostics`, `heparin_induced_thrombocytopenia`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hemosil-acustar-hit-iggpf4-h)
+
+---
+
+### Health Canada Alert: EMIT® 2000 Quinidine Assay Recall Due to Performance Issue
+
+**2026-10-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the EMIT® 2000 Quinidine Assay due to a performance issue. This in vitro diagnostic assay is used by clinical laboratories to measure quinidine levels for therapeutic drug monitoring. Healthcare facilities and laboratory professionals should review the recall notice, follow the manufacturer's instructions, and take appropriate action to prevent potential impact on patient results.
+
+**Tags**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`, `therapeutic_drug_monitoring`, `canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/emitr-2000-quinidine-assay)
+
+---
+
+### Health Canada Alert: Cochlear Implant Model CI1012 Performance Recall
+
+**2026-10-15** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Cochlear Implant Model CI1012 due to performance issues. The alert applies to patients implanted with this model and to clinicians responsible for follow-up. Affected parties should monitor device performance, report any changes in hearing function, and contact the manufacturer or Health Canada for further guidance.
+
+**Tags**: `canada`, `medical_device_recall`, `cochlear_implant`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cochlear-implant-model-ci1012)
 
 ---
 
@@ -39,6 +219,42 @@ This Swissmedic field safety corrective action (FSCA) concerns the Medtronic Abr
 **Tags**: `swissmedic`, `fsca`, `vascular_stent`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261014_032)
+
+---
+
+### Health Canada Safety Alert: Philips Allura Xper Systems – Performance Issue
+
+**2026-10-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert concerning Philips Allura Xper interventional X-ray systems due to a performance issue. Healthcare facilities using these systems may be affected and should review the notice, identify impacted units, and follow Philips' recommended corrective actions. This alert is part of recent Canadian medical device safety communications.
+
+**Tags**: `medical_device_recall`, `imaging_system`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-systems-0)
+
+---
+
+### Tracoe Experc Percut Dilation Tracheostomy Set with Trachatraumatic Inserter – Performance Recall (Canada)
+
+**2026-10-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the Tracoe Experc Percut Dilation Tracheostomy Set with Trachatraumatic Inserter due to a performance issue. This affects Canadian healthcare facilities and providers that stock or use this tracheostomy set. Affected users should immediately check inventory, quarantine affected units, and follow the recall instructions from the manufacturer and Health Canada.
+
+**Tags**: `medical_device_recall`, `tracheostomy_set`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/tracoe-experc-percut-dilation-tracheostomy-set-wtrachatraumatic-inserter)
+
+---
+
+### Health Canada Recall Alert: CareLink™ SmartSync™ Device Manager — Performance Issue
+
+**2026-10-14** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the CareLink™ SmartSync™ Device Manager due to a performance issue. This device is used to manage compatible cardiac devices, and healthcare facilities and clinicians using affected units are the primary audience. Affected users should review the official Health Canada notice and follow the recommended mitigation steps, including contacting Medtronic or their local representative. This alert is part of recent Canadian medical device recalls but applies specifically to the SmartSync Device Manager.
+
+**Tags**: `health_canada`, `medical_device_recall`, `cardiac_device_manager`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager-0)
 
 ---
 
@@ -162,6 +378,18 @@ FDA has posted the presentation, slides, and transcript from the October 7, 2026
 
 ---
 
+### CRRT: Delay concurrent echinocandins (e.g. caspofungin) to reduce adsorption onto new PAN filter membranes – DSI/2026/014
+
+**2026-10-13** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has issued a drug-device alert for continuous renal replacement therapy (CRRT) using new polyacrylonitrile (PAN)-based filter membranes. Published evidence shows that caspofungin and other echinocandins can adsorb onto these membranes, potentially reducing antifungal exposure. Healthcare professionals should consider delaying administration of concurrent echinocandins to reduce this adsorption risk. This applies to patients receiving CRRT who require echinocandin therapy.
+
+**Tags**: `crrt`, `drug_device_alert`, `echinocandins`, `pan_membrane`, `adsorption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-)
+
+---
+
 ### Japan PMDA Class II Recall: NuVasive Japan VuePoint II OCT Spinal Fixation System (Recall No. 2-12987)
 
 **2026-10-13** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -210,6 +438,30 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for BATEC MOBIL
 
 ---
 
+### MHRA Field Safety Notices for October 2026 Published with 9 New Entries
+
+**2026-10-09** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has published its Field Safety Notices for October 2026 page, listing nine new field safety notices for medical devices. This monthly compilation alerts healthcare providers, manufacturers, and users to device safety issues requiring attention. Affected parties should review the listed notices and implement any recommended actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 28 September to 2 October 2026
+
+**2026-10-09** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has published the weekly list of Field Safety Notices (FSNs) issued between 28 September and 2 October 2026, containing nine new entries. Healthcare providers, medical device users, and responsible persons should review the notices to identify affected devices and implement the manufacturer's recommended corrective actions. The notices cover device-specific safety issues requiring prompt attention.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026)
+
+---
+
 ### Medsafe Alert: Hand Control Replacement for KayserBetten Safe Surround Genie Bed
 
 **2026-10-09** | New Zealand Medsafe | Safety Communication | !! MEDIUM
@@ -219,6 +471,54 @@ Medsafe has issued a safety alert concerning hand control replacement for the Ka
 **Tags**: `medsafe`, `medical_device_safety`, `hand_control_replacement`, `kayserbetten`
 
 [View Source (Official Source)](https://medsafe.govt.nz/safety/Alerts/Hand-Control-Replacement-KayserBetten-Safe-Surround-Genie-Beds.asp)
+
+---
+
+### Health Canada Recall Alert: Avantage Inserter Handles and Grippers – Performance Issue
+
+**2026-10-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall alert for Avantage Inserter Handles and Grippers due to a performance issue. Healthcare facilities and users with these devices should immediately check affected lots and stop using them. Affected products should be quarantined and the manufacturer or distributor contacted for return, replacement, or correction.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/avantage-inserter-handles-and-grippers)
+
+---
+
+### Cardinal Health PreSource Kits: Recall Alert for Performance Issue
+
+**2026-10-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall alert for Cardinal Health PreSource kits due to a reported performance issue. Affected healthcare facilities and distributors should identify and quarantine impacted lots and follow the manufacturer’s recall instructions. Users should contact Cardinal Health for return or replacement and report any related adverse events.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `procedure_kits`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0)
+
+---
+
+### Canada Recall: TruSystem 7000 and TruSystem 7500 Surgical Tables for Performance Issue
+
+**2026-10-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for the TruSystem 7000 and TruSystem 7500 surgical tables due to a performance issue. Healthcare facilities using these surgical tables are affected. Facilities should identify affected units, follow the manufacturer's recall instructions, and contact the manufacturer or local representative for corrective action.
+
+**Tags**: `medical_device_recall`, `surgical_table`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/trusystem-7000-and-trusystem-7500-surgical-tables)
+
+---
+
+### Health Canada Recall: FreeO2 Automated Oxygen Therapy Device Adult & Pediatric Version HW 2.3 – Performance Issue
+
+**2026-10-08** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for the FreeO2 Automated Oxygen Therapy Device Adult & Pediatric, Version HW 2.3, due to a performance issue. The notice applies to healthcare facilities, clinicians, and patients using this hardware version. Affected users should identify the devices in inventory, follow the manufacturer’s corrective instructions, and report any related incidents to Health Canada or the manufacturer.
+
+**Tags**: `medical_device_recall`, `oxygen_therapy_device`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23)
 
 ---
 
@@ -282,6 +582,18 @@ Draeger, Inc. has initiated a Class I recall (Z-3252-2026) for 1,063,643 units o
 
 ---
 
+### Health Canada Recall: Perma-Sharp Sutures Performance Issue
+
+**2026-10-07** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Perma-Sharp Sutures due to reported performance concerns. Healthcare facilities and practitioners using these sutures may be affected. Affected units should be identified and quarantined, and users should follow the manufacturer's recall instructions and report any issues.
+
+**Tags**: `medical_device_recall`, `sutures`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures)
+
+---
+
 ### Swissmedic FSCA: Stryker Precision Pointer Electromagnetic Tracking System (Model 8000-050-001)
 
 **2026-10-07** | Swissmedic | Safety Communication | !! MEDIUM
@@ -342,6 +654,66 @@ FDA’s Center for Devices and Radiological Health (CDRH) has published its prop
 
 ---
 
+### Health Canada Recall: Medline Bariatric Rollator – Performance Issue
+
+**2026-10-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Medline Bariatric Rollator due to a performance issue. The alert affects Canadian users, caregivers, and healthcare facilities that distribute or use this mobility device. Affected parties should identify relevant units or lots, stop use if instructed, and follow Health Canada and Medline guidance for return, replacement, or other corrective actions.
+
+**Tags**: `health_canada`, `medical_device_recall`, `bariatric_rollator`, `mobility_aid`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-bariatric-rollator)
+
+---
+
+### Health Canada Safety Alert: FreeO2 Automated Oxygen Therapy Device Adult & Pediatric Performance Issue
+
+**2026-10-06** | Health Canada | Safety Communication | !!! HIGH
+
+This Health Canada safety alert addresses a performance issue with the FreeO2 Automated Oxygen Therapy Device for adult and pediatric use. Healthcare providers and users should be aware that the issue may affect oxygen delivery performance. Affected parties should review the alert, identify impacted devices, and follow the recommended corrective actions or contact the manufacturer.
+
+**Tags**: `medical_device_recall`, `oxygen_therapy`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric)
+
+---
+
+### Health Canada Issues Recall Alert for Embletta MPR PG Due to Performance Concerns
+
+**2026-10-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall alert for the Embletta MPR PG medical device due to performance concerns. The device is used in sleep diagnostics and monitoring, and the issue may affect the reliability of its recordings. Healthcare facilities and users should identify affected units, follow the manufacturer’s instructions, and contact the manufacturer or local representative for corrective action.
+
+**Tags**: `medical_device_recall`, `sleep_diagnostics`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embletta-mpr-pg)
+
+---
+
+### Cardinal Health General Procedure Tray Recall: Performance Issue Alert
+
+**2026-10-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Cardinal Health General Procedure Tray due to a performance issue. Healthcare facilities that stock or use these trays should immediately identify affected lots, quarantine the product, and follow the manufacturer's or Health Canada's instructions. This notice is part of a series of Canadian medical device safety updates.
+
+**Tags**: `medical_device_recall`, `cardinal_health`, `procedure_tray`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-general-procedure-tray)
+
+---
+
+### Health Canada Recall: Fluoroplastic Vent Tube – Sterility Issue
+
+**2026-10-06** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for the Fluoroplastic Vent Tube due to a sterility issue. This device is typically used in ear ventilation procedures, and inadequate sterility may pose an infection risk. Healthcare facilities should identify and quarantine affected product, discontinue use, and follow the manufacturer’s recall instructions. Patients who have received the tube may require follow-up based on clinical assessment.
+
+**Tags**: `medical_device_recall`, `sterility`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fluoroplastic-vent-tube)
+
+---
+
 ### Swissmedic FSCA: RayStation Radiotherapy Software v4.7-v2026 by RaySearch
 
 **2026-10-06** | Swissmedic | Safety Communication | !! MEDIUM
@@ -378,6 +750,30 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the Syriflo
 
 ---
 
+### Health Canada Alert: hCG One Step Pregnancy Tests Recalled Over Performance Concerns
+
+**2026-10-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for hCG One Step Pregnancy Tests due to performance issues that may affect test accuracy. The notice applies to affected lots distributed in Canada and is relevant to importers, distributors, healthcare providers, and consumers using these devices. Users should immediately discontinue use, quarantine affected products, and follow the recall instructions provided by Health Canada and the manufacturer.
+
+**Tags**: `medical_device_recall`, `ivd`, `pregnancy_test`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hcg-one-step-pregnancy-tests)
+
+---
+
+### Health Canada Recall Alert: Lumify Ultrasound System Performance Issue
+
+**2026-10-05** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the Lumify Ultrasound System, citing a performance issue. This alert affects healthcare facilities and practitioners using the affected Lumify ultrasound devices in Canada. Users should review the Health Canada notice, identify affected units, and follow the manufacturer's recommended corrective actions and reporting requirements.
+
+**Tags**: `medical_device_recall`, `ultrasound_system`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lumify-ultrasound-system)
+
+---
+
 ### HeartSine samaritanÂ® PAD devices - HeartSine Technologies, LTD
 
 **2026-10-05** | Swissmedic | Safety Communication | !! MEDIUM
@@ -385,6 +781,222 @@ Swissmedic has published a Field Safety Corrective Action (FSCA) for the Syriflo
 FSCA: MD: Non-rechargeable semi-automatic external defibrillator. Reason: . Model: SAM 350P, 360P, 450P, 500P, HDF3500; .
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260903_002)
+
+---
+
+### Health Canada issues performance recall/alert for Arjo Carevo Shower Trolley
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device alert/recall for the Arjo Carevo Shower Trolley due to a performance issue. The performance concern may compromise safe operation, potentially affecting patient and caregiver safety during showering or transfer. Healthcare facilities using these trolleys should review the recall notice, identify affected units, and follow the manufacturer's instructions for inspection, repair, or removal from service.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`, `patient_safety`, `shower_trolley`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carevo-shower-trolley)
+
+---
+
+### Health Canada Recall Alert: Hexavue Focus Integrated System Performance Issue
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the Hexavue Focus Integrated System due to a performance issue. The alert affects healthcare facilities and users of this device in Canada. Affected parties should review the recall notice, identify affected units, and follow the manufacturer’s or Health Canada’s recommended corrective actions, which may include inspection, repair, or discontinuation of use.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hexavue-focus-integrated-system)
+
+---
+
+### PENTAX Medical Ultrasound Endoscopes and Water Bottle Assembly Recalled in Canada Over Labelling and Packaging
+
+**2026-10-02** | Health Canada | Safety Communication | !! MEDIUM
+
+Health Canada has issued a medical device recall/alert for PENTAX Medical ultrasound endoscopes and water bottle assembly due to labelling and packaging issues. Healthcare facilities and users of these devices should review the recall notice, check affected lots, and follow the manufacturer’s corrective actions, including contacting PENTAX Medical.
+
+**Tags**: `medical_device_recall`, `labelling_packaging`, `endoscope`, `pentax_medical`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/pentax-medical-ultrasound-endoscopes-and-water-bottle-assembly)
+
+---
+
+### Health Canada Recall/Alert: Rotor Assy – Device Compatibility Issue
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for the Rotor Assy due to a device compatibility issue. Affected healthcare facilities and users should review the notice and verify that the rotor assembly is compatible with their existing systems. If an incompatibility is identified, stop using the device and contact the manufacturer or Health Canada for further guidance.
+
+**Tags**: `medical_device_recall`, `health_canada`, `device_compatibility`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rotor-assy)
+
+---
+
+### Health Canada Medical Device Recall Alert: EMAG® Instrument Performance Issue
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the EMAG® Instrument due to a performance issue. The alert affects Canadian healthcare facilities and users of this device. Affected devices may not perform as intended, potentially impacting clinical procedures. Users should identify and quarantine affected units and follow the manufacturer's recall instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/emagr-instrument)
+
+---
+
+### Health Canada Recall Alert: Adaptor 3602, Connector for Hilger Neurostim Dual (Performance Issue)
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall alert for the Adaptor 3602, a connector used with the Hilger Neurostim Dual, due to performance issues. Healthcare facilities and practitioners using this adaptor with the neurostimulator may be affected. Users should identify and quarantine affected units, verify inventory, and follow the manufacturer’s recall instructions for return or replacement.
+
+**Tags**: `health_canada_recall`, `neurostimulator`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adaptor-3602-connector-hilger-neurostim-dual)
+
+---
+
+### Health Canada Alert: Precision Pointer Electromagnetic (EM) Recall for Performance Issue
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Precision Pointer Electromagnetic (EM) system due to a performance issue. Healthcare facilities and users of this device should immediately review the recall notice and follow the manufacturer's instructions. Affected units may require quarantine, return, or corrective action to prevent potential clinical impact.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/precision-pointer-electromagnetic-em)
+
+---
+
+### Health Canada Recall: Medline Single Sterile C-Section Drapes W/Incise (Performance)
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for Medline Single Sterile C-Section Drapes with Incise due to a performance issue. These are single-use sterile drapes used during cesarean section procedures. Healthcare facilities should identify and quarantine affected products and follow Medline's recall instructions and Health Canada recommendations.
+
+**Tags**: `medical_device_recall`, `surgical_drapes`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-single-sterile-c-section-drapes-wincise)
+
+---
+
+### hCG Cassettes Recalled in Canada Due to Performance Issues
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall/alert for hCG cassettes due to performance concerns. The affected products may not provide accurate results, potentially impacting diagnosis or monitoring. Healthcare providers and users should discontinue use of affected lots and follow Health Canada's guidance for reporting and replacement.
+
+**Tags**: `medical_device_recall`, `hcg_cassettes`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hcg-cassettes)
+
+---
+
+### Health Canada Safety Alert: Automated Impella® Controllers (AIC) – Performance Issue
+
+**2026-10-02** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert/recall for the Automated Impella® Controllers (AIC) due to performance-related issues. This affects healthcare facilities and professionals using these controllers in Impella cardiac support systems. Affected users should review the Health Canada notice and follow the manufacturer’s recommended corrective actions immediately.
+
+**Tags**: `medical_device_recall`, `cardiac_support`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/automated-impellar-controllers-aic)
+
+---
+
+### Health Canada Recall: XCEL™ Bladeless Trocar Performance Issue
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the XCEL™ Bladeless Trocar due to a performance issue. The affected device may not function as intended during laparoscopic procedures, potentially causing procedural complications. Healthcare facilities should identify affected lots, quarantine the devices, and follow the manufacturer’s recall instructions.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `laparoscopic_trocar`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/xceltm-bladeless-trocar)
+
+---
+
+### Health Canada Safety Alert: Boston Scientific Direxion and Direxion HI-FLO Microcatheters Performance Recall
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Boston Scientific Direxion and Direxion HI-FLO Microcatheters due to performance issues. Healthcare facilities and interventional clinical teams using these microcatheters should identify affected lots, stop use, and quarantine the devices. Users should follow Boston Scientific's recall instructions for return or replacement and report any related adverse events.
+
+**Tags**: `medical_device_recall`, `microcatheter`, `safety_alert`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/direxion-and-direxion-hi-flo-microcatheters)
+
+---
+
+### Health Canada Issues Performance Alert/Recall for CareIntellect Perinatal Medical Device
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for CareIntellect Perinatal due to a performance issue. The notice affects Canadian healthcare facilities using this perinatal software/device. Users should review the Health Canada alert and follow the manufacturer’s containment, mitigation, or correction instructions. Regulatory affairs and clinical teams should verify affected versions and document the recall.
+
+**Tags**: `medical_device_recall`, `perinatal_software`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/careintellect-perinatal)
+
+---
+
+### Medline Convenience Kits with Cannula Components and Female Luer Lock Connectors Recalled in Canada
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+This Health Canada recall/alert concerns Medline convenience kits that include cannula components with female Luer lock connectors, identified due to a performance issue. Healthcare facilities and distributors in Canada that received affected kits should immediately identify and quarantine the products. Users should follow Medline’s recall instructions, verify lot numbers against the Health Canada alert, and report any adverse events or quality problems to Medline and Health Canada.
+
+**Tags**: `health_canada`, `medical_device_recall`, `luer_lock_connectors`, `cannula_components`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-convenience-kits-containing-cannula-components-female-luer-lock-connectors)
+
+---
+
+### Health Canada Safety Alert: Ethicon Nylon Suture Recall Due to Performance Issue
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a medical device recall/alert for Ethicon Nylon Suture due to a performance issue. The alert affects Canadian healthcare facilities and providers using this suture product. Affected users should identify and quarantine relevant inventory, review recall communications, and follow the manufacturer's or Health Canada's recommended actions.
+
+**Tags**: `medical_device_recall`, `suture`, `performance_issue`, `health_canada`, `ethicon`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ethicon-nylon-suture)
+
+---
+
+### Health Canada Safety Alert: Radiography 7000 M Performance Issue
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a safety alert regarding the Radiography 7000 M medical device due to a performance issue. Healthcare facilities and operators using this radiography system should immediately review the alert, check their device status, and follow the manufacturer's recommended actions. This alert is part of Canada's medical device recall notifications to ensure patient safety and regulatory compliance.
+
+**Tags**: `health_canada`, `radiography`, `performance_issue`, `medical_device_recall`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/radiography-7000-m)
+
+---
+
+### Health Canada Recall/Alert: Medtronic CareLink™ SmartSync™ Device Manager Performance Issue
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for the Medtronic CareLink™ SmartSync™ Device Manager due to performance issues. This device manager is used to program and interrogate compatible implantable cardiac devices; the performance problem may affect device programming or data retrieval. Healthcare facilities and professionals should identify affected units, follow Medtronic's correction instructions, and ensure alternative programming options are available where needed.
+
+**Tags**: `medical_device_recall`, `cardiac_device`, `performance_issue`, `health_canada`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager)
+
+---
+
+### Canada Recalls Medline Sterile Surgical Kits with C-Section Drape w/Incise over Performance Issue
+
+**2026-10-01** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a recall alert for Medline Sterile Surgical Kits containing the Medline C-Section Drape w/Incise due to a performance issue. Healthcare facilities using these kits for Caesarean-section procedures are affected and should identify and quarantine affected lots. Users should follow the manufacturer's recall instructions and contact Medline for return or replacement.
+
+**Tags**: `medical_device_recall`, `sterile_surgical_kit`, `surgical_drape`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-sterile-surgical-kits-containing-medline-c-section-drape-wincise)
 
 ---
 
@@ -604,6 +1216,30 @@ FDA has posted a recall notice stating Abiomed is removing Automated Impella Con
 
 ---
 
+### Field Safety Notices: 21 to 25 September 2026
+
+**2026-09-29** | UK MHRA | Safety Communication | !!! HIGH
+
+This UK MHRA page lists Field Safety Notices (FSNs) issued between 21 and 25 September 2026. It is relevant to healthcare providers and users of medical devices named in the notices. Regulatory affairs professionals should review the full list, identify affected devices in their inventory, and implement the manufacturer’s recommended field safety actions or recalls.
+
+**Tags**: `field_safety_notice`, `uk_mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026)
+
+---
+
+### MHRA Safety Roundup September 2026: 9 New Safety Advice Entries for Medicines and Devices
+
+**2026-09-29** | UK MHRA | Safety Communication | !! MEDIUM
+
+The MHRA Safety Roundup for September 2026 consolidates the latest safety advice for users of medicines and medical devices, with nine new entries detected in the Atom feed. It is relevant to healthcare professionals, patients, and manufacturers responsible for pharmacovigilance and device post-market surveillance. Readers should review the listed safety updates, identify any products in their portfolio or clinical use, and implement recommended risk mitigation or reporting actions as appropriate.
+
+**Tags**: `mhra`, `safety_roundup`, `medical_devices`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-september-2026)
+
+---
+
 ### CareLink SmartSync Micra AV2/VR2 Application - Medtronic, Inc.
 
 **2026-09-29** | Swissmedic | Safety Communication | !! MEDIUM
@@ -683,6 +1319,18 @@ The MHRA has published an updated list of manufacturers and medical devices that
 **Tags**: `mhra`, `medical_devices`, `exceptional_use_authorisation`
 
 [View Source (MHRA (UK))](https://www.gov.uk/government/publications/medical-devices-given-exceptional-use-authorisations)
+
+---
+
+### Canada Recall Alert: BD Alaris Pump Module and Subset of Compatible Pump Infusion Sets Due to Performance Issue
+
+**2026-09-28** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has published a recall/alert for the BD Alaris™ Pump Module and a subset of compatible pump infusion sets due to a performance issue. Healthcare facilities in Canada using these pump modules and infusion sets are affected. Users should review the recall notice, identify affected products, and follow BD’s instructions for quarantine, return, or corrective action.
+
+**Tags**: `recall`, `infusion_pump`, `health_canada`, `performance`, `bd_alaris`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bd-alaristm-pump-module-and-subset-compatible-pump-infusion-sets)
 
 ---
 

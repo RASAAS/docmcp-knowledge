@@ -6,6 +6,150 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MHRA 2026年10月5日至9日现场安全通告汇总
+
+**2026-10-19** | UK MHRA | 安全通报 | !! MEDIUM
+
+该条目为英国MHRA发布的2026年10月5日至9日现场安全通告（FSN）周汇总。相关方包括在英国有产品流通的医疗机构、患者及医疗器械制造商。法规事务和警戒团队应查阅所列通告，识别受影响器械，并落实所需的现场安全纠正措施或召回。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026)
+
+---
+
+### MHRA 2026年10月12日至16日现场安全通告（含9项新条目）
+
+**2026-10-19** | UK MHRA | 安全通报 | !!! HIGH
+
+本次MHRA更新汇总了2026年10月12日至16日发布的现场安全通告，含9项新条目。医疗机构、医疗器械制造商和经销商应查阅相关通告，识别受影响器械并采取相应措施。受影响用户应遵循各通告中的制造商指示，并视情况向MHRA报告不良事件。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### MHRA现场安全通知：2026年10月12日至16日
+
+**2026-10-19** | UK MHRA | 法规更新 | !!! HIGH
+
+英国药品和医疗产品监管署（MHRA）此页面汇总了2026年10月12日至16日发布的现场安全通知（FSN），本周新增5项通知。该信息涉及可能持有受影响设备的医疗器械制造商、进口商、经销商、医疗机构和使用者。相关方应查阅清单中的通知，识别受影响设备，并立即执行制造商说明的现场安全措施。通知可能涉及召回、纠正或使用说明更新。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`, `safety_alert`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### Nova Biomedical StatStrip血酮试纸因质控失败及供应中断召回
+
+**2026-10-16** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布安全警报，涉及Nova Biomedical StatStrip血酮试纸的特定批次，原因是质控失败并已启动召回。该问题可能导致血酮检测供应中断。医疗机构应隔离受影响批次、评估替代检测方案并遵循制造商的召回指示。
+
+**标签**: `mhra_safety_alert`, `recall`, `ketone_test_strips`, `quality_control_failure`, `supply_interruption`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013)
+
+---
+
+### MHRA现场安全通告：2025年1月27日至31日
+
+**2026-10-16** | UK MHRA | 安全通报 | !!! HIGH
+
+本条目列出了英国MHRA于2025年1月27日至31日发布的现场安全通告（FSN）。这些通告汇总了与医疗器械用户、医疗机构和制造商相关的安全通信。法规事务人员应查阅所列通告，识别受影响设备并执行必要的现场安全纠正措施。
+
+**标签**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025)
+
+---
+
+### MHRA指南：医疗器械投放GB和NI市场需注册
+
+**2026-10-16** | UK MHRA | 法规更新 | !!! HIGH
+
+该MHRA指南说明了制造商、授权代表及其他经济运营商在将医疗器械投放英国大不列颠和北爱尔兰市场前，必须向MHRA注册的要求。指南涵盖注册要求、时间节点以及器械和运营商注册所需信息。相关方应审查指南并确保器械和组织完成正确注册以保持合规。
+
+**标签**: `mhra`, `medical_device_registration`, `uk_market_access`, `regulatory_guidance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### 英国MHRA更新药品生产商与批发商许可证吊销/暂停名单
+
+**2026-10-15** | UK MHRA | 法规更新 | !! MEDIUM
+
+该条目为英国MHRA发布的最新公开名单，列出药品或活性成分生产、批发许可/注册被暂停或吊销的公司。受影响的包括英国药品及原料药生产商、批发商和进口商。法规事务人员应核查本企业及供应链合作伙伴是否在名单中，并采取相应纠正措施。
+
+**标签**: `mhra`, `enforcement`, `manufacturing_licence`, `wholesale_licence`, `compliance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### CRRT：延迟合用棘白菌素（如卡泊芬净）以减少新型PAN滤膜吸附风险 DSI/2026/014
+
+**2026-10-13** | UK MHRA | 安全通报 | !!! HIGH
+
+MHRA发布了一项关于使用新型聚丙烯腈（PAN）基滤膜进行连续性肾脏替代治疗（CRRT）的药物器械警戒。已发表证据表明，卡泊芬净等棘白菌素类药物可吸附到此类滤膜上，可能降低抗真菌药物暴露量。医护人员应考虑延迟给予合并使用的棘白菌素类药物，以降低吸附风险。该建议适用于接受CRRT且需要棘白菌素治疗的患者。
+
+**标签**: `crrt`, `drug_device_alert`, `echinocandins`, `pan_membrane`, `adsorption`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-)
+
+---
+
+### MHRA发布2026年10月现场安全通告（9项新增）
+
+**2026-10-09** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA发布了2026年10月现场安全通告汇总，包含9项新的医疗器械现场安全通告。该月度汇总提醒医疗机构、制造商和使用者关注需要采取措施的器械安全问题。相关方应及时查看所列通告并执行建议措施。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026)
+
+---
+
+### MHRA 2026年9月28日至10月2日现场安全通告
+
+**2026-10-09** | UK MHRA | 安全通报 | !!! HIGH
+
+MHRA 发布了2026年9月28日至10月2日期间的现场安全通告（FSN）列表，包含9条新条目。相关医疗机构、医疗器械使用者和负责人应查看通告，识别受影响设备并执行制造商建议的纠正措施。这些通告涉及需及时关注的器械特定安全问题。
+
+**标签**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026)
+
+---
+
+### 2026年9月21日至25日现场安全通告
+
+**2026-09-29** | UK MHRA | 安全通报 | !!! HIGH
+
+英国MHRA本页面汇总了2026年9月21日至25日发布的现场安全通告（FSN）。相关信息适用于通告中所列医疗器械的医疗机构和使用者。法规事务人员应查阅完整清单，识别库存中受影响设备，并执行制造商建议的现场安全措施或召回要求。
+
+**标签**: `field_safety_notice`, `uk_mhra`, `medical_device_safety`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026)
+
+---
+
+### 英国MHRA 2026年9月安全综述：9条最新药物与器械安全建议
+
+**2026-09-29** | UK MHRA | 安全通报 | !! MEDIUM
+
+MHRA 2026年9月安全综述汇总了针对药品和医疗器械用户的最新安全建议，本期新增9条条目。内容面向医疗专业人员、患者以及负责药物警戒和器械上市后监督的制造商。相关方应查阅所列安全更新，识别涉及自身产品组合或临床使用的项目，并酌情实施风险缓解或报告措施。
+
+**标签**: `mhra`, `safety_roundup`, `medical_devices`, `post_market_surveillance`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-september-2026)
+
+---
+
 ### MHRA更新医疗器械特殊使用授权清单
 
 **2026-09-28** | UK MHRA | 法规更新 | !! MEDIUM

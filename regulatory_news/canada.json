@@ -1,7 +1,1084 @@
 {
   "framework": "canada",
-  "last_updated": "2026-09-28T23:48:33Z",
+  "last_updated": "2026-10-19T23:02:45Z",
   "items": [
+    {
+      "id": "canada_20261019_health_canada_recall_alert_nico_myriad_19x21_5_mhp_paediscop",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada recall alert: NICO Myriad™ 19x21.5 MHP Paediscope device compatibility issue",
+        "zh": "加拿大卫生部召回警报：NICO Myriad™ 19x21.5 MHP Paediscope兼容性问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the NICO Myriad™ 19x21.5 MHP Paediscope due to a device compatibility concern. Healthcare facilities and professionals using this device are affected. They should review the official recall notice and follow the manufacturer’s or Health Canada’s recommended corrective actions promptly.",
+        "zh": "加拿大卫生部因设备兼容性问题对NICO Myriad™ 19x21.5 MHP Paediscope发布召回/警报。使用该设备的医疗机构和专业人员受到影响，应尽快查阅官方召回通知，并遵循制造商或加拿大卫生部建议的纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/nico-myriadtm-19x215-mhp-paediscope",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:54:18Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "device_compatibility",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_architect_i_system_i2000sr_proces",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: ARCHITECT I System i2000SR Processing Module Performance Issue (Class 4)",
+        "zh": "加拿大卫生部警示：ARCHITECT I系统i2000SR处理模块性能召回（4类）"
+      },
+      "summary": {
+        "en": "Health Canada issued a medical device recall alert for Abbott's ARCHITECT \"I\" System i2000SR Processing Module, a Class 4 device, due to a performance issue. Laboratories and healthcare facilities using this processing module for in vitro diagnostic testing may be affected. Users should review the recall notice, follow the manufacturer's instructions, and perform recommended verification or mitigation actions to ensure reliable results.",
+        "zh": "加拿大卫生部发布了一项针对雅培 ARCHITECT \"I\" 系统 i2000SR 处理模块的医疗器械召回警示，该设备为4类器械，涉及性能问题。使用该处理模块进行体外诊断检测的实验室和医疗机构可能受到影响。用户应查看召回通知，遵循制造商指示，并采取建议的验证或缓解措施，以确保检测结果可靠。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/architect-system-i2000sr-processing-module-class-4",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:54:37Z",
+      "importance": "high",
+      "tags": [
+        "health_canada_recall",
+        "ivd",
+        "performance_issue",
+        "abbott_architect"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_signa_architect_mri_system_performance",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: SIGNA™ Architect MRI System Performance Issue",
+        "zh": "加拿大卫生部召回SIGNA™ Architect MRI系统（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the GE Healthcare SIGNA™ Architect MRI system due to a performance issue. This may affect the system's diagnostic imaging performance, potentially impacting image quality or reliability. Affected healthcare facilities should consult the manufacturer's instructions and contact GE Healthcare for remediation guidance.",
+        "zh": "加拿大卫生部针对GE Healthcare的SIGNA™ Architect MRI系统发布召回/警示，原因是性能问题。该问题可能影响系统的诊断成像性能，进而可能影响图像质量或可靠性。受影响的医疗机构应遵循制造商的指导，并联系GE Healthcare获取修复建议。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/signatm-architect-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:54:49Z",
+      "importance": "high",
+      "tags": [
+        "mri_system",
+        "recall",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recalls_roche_cobas_c_303_analytical_unit_over",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recalls Roche cobas® c 303 Analytical Unit Over Performance Issue",
+        "zh": "加拿大卫生部召回罗氏cobas c 303分析单元（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the Roche Diagnostics cobas® c 303 analytical unit due to a performance issue. Laboratories and healthcare facilities using this analytical unit are affected. Users should review the recall notice, contact Roche Diagnostics for corrective action, and implement any recommended mitigation or verification steps to ensure accurate results.",
+        "zh": "加拿大卫生部已针对罗氏诊断cobas® c 303分析单元发布召回/警报，原因是性能问题。使用该分析单元的实验室和医疗机构受到影响。用户应查看召回通知，联系罗氏诊断采取纠正措施，并实施建议的缓解或验证步骤，以确保检测结果准确。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cobasr-c-303-analytical-unit",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:54:58Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "in_vitro_diagnostics",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_flintstones_complete_multivitamins_and_minerals_recalled_fro",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Flintstones Complete Multivitamins and Minerals Recalled from Wholesalers over Distribution Error",
+        "zh": "Flintstones Complete多种维生素矿物质因分销错误被从批发商召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for Flintstones Complete Multivitamins and Minerals, which is being recalled from wholesalers due to a distribution error. The recall affects wholesale-level distribution in Canada rather than product quality or consumer safety. Regulatory and supply chain personnel should verify inventory, quarantine affected product, and follow Health Canada's recall instructions.",
+        "zh": "加拿大卫生部发布召回警报，Flintstones Complete多种维生素矿物质因分销错误从批发商层面召回。该召回主要影响加拿大批发/分销环节，而非产品质量问题。相关监管和供应链人员应核对库存、隔离受影响产品，并遵循加拿大卫生部的召回指示。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:55:13Z",
+      "importance": "medium",
+      "tags": [
+        "health_canada",
+        "wholesale_recall",
+        "distribution_error"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_canada_recall_hemosil_acustar_hit_igg_pf4_h_performance_issu",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canada Recall: HemosIL AcuStar HIT-IgG(PF4-H) Performance Issue Affecting HIT Test Results",
+        "zh": "加拿大召回HemosIL AcuStar HIT-IgG(PF4-H)：性能问题影响HIT检测结果"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the HemosIL AcuStar HIT-IgG(PF4-H) assay, an in vitro diagnostic test used to detect IgG antibodies to PF4-heparin complex in suspected heparin-induced thrombocytopenia (HIT). The recall is due to performance issues that may lead to unreliable test results. Clinical laboratories and healthcare providers using this assay should immediately review the recall notice, assess impacted lots, and follow manufacturer instructions for mitigation or alternative testing.",
+        "zh": "加拿大卫生部已对HemosIL AcuStar HIT-IgG(PF4-H)检测试剂发出医疗器械召回/警示，该产品用于检测疑似肝素诱导的血小板减少症（HIT）患者的PF4-肝素复合物IgG抗体。召回原因是性能问题可能导致检测结果不可靠。使用该试剂的临床实验室和医护人员应立即查看召回通知，评估受影响批次，并遵循制造商指示采取替代检测或纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hemosil-acustar-hit-iggpf4-h",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:55:32Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "in_vitro_diagnostics",
+        "heparin_induced_thrombocytopenia",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_alert_emit_2000_quinidine_assay_recall_due_to",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: EMIT® 2000 Quinidine Assay Recall Due to Performance Issue",
+        "zh": "加拿大卫生部警示：EMIT® 2000 奎尼丁测定试剂因性能问题召回"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the EMIT® 2000 Quinidine Assay due to a performance issue. This in vitro diagnostic assay is used by clinical laboratories to measure quinidine levels for therapeutic drug monitoring. Healthcare facilities and laboratory professionals should review the recall notice, follow the manufacturer's instructions, and take appropriate action to prevent potential impact on patient results.",
+        "zh": "加拿大卫生部因性能问题对 EMIT® 2000 奎尼丁测定试剂发出召回/警示。该体外诊断试剂用于临床实验室检测奎尼丁血药浓度，以进行治疗药物监测。相关医疗机构和实验室人员应查看召回通知，遵循制造商指示，采取适当措施避免影响患者检测结果。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/emitr-2000-quinidine-assay",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:55:39Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "in_vitro_diagnostics",
+        "performance_issue",
+        "therapeutic_drug_monitoring",
+        "canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_alert_cochlear_implant_model_ci1012_performanc",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Cochlear Implant Model CI1012 Performance Recall",
+        "zh": "加拿大卫生部警示：Cochlear 人工耳蜗 CI1012 型号性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for the Cochlear Implant Model CI1012 due to performance issues. The alert applies to patients implanted with this model and to clinicians responsible for follow-up. Affected parties should monitor device performance, report any changes in hearing function, and contact the manufacturer or Health Canada for further guidance.",
+        "zh": "加拿大卫生部发布了针对 Cochlear 人工耳蜗 CI1012 型号的医疗器械召回/警示，原因是性能问题。该警示适用于已植入该型号的患者及负责随访的临床医生。相关方应监测设备性能，报告听力功能变化，并联系制造商或加拿大卫生部获取进一步指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cochlear-implant-model-ci1012",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:55:59Z",
+      "importance": "high",
+      "tags": [
+        "canada",
+        "medical_device_recall",
+        "cochlear_implant",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_philips_allura_xper_systems_perfo",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Philips Allura Xper Systems – Performance Issue",
+        "zh": "加拿大卫生部警示：飞利浦Allura Xper系统性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert concerning Philips Allura Xper interventional X-ray systems due to a performance issue. Healthcare facilities using these systems may be affected and should review the notice, identify impacted units, and follow Philips' recommended corrective actions. This alert is part of recent Canadian medical device safety communications.",
+        "zh": "加拿大卫生部发布了一则关于飞利浦Allura Xper介入X射线系统的医疗器械召回/警示，涉及性能问题。使用该系统的医疗机构可能受到影响，应查看相关通知、识别受影响设备并遵循飞利浦建议的纠正措施。该警示是近期加拿大医疗器械安全通报之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-systems-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-19T22:56:07Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "imaging_system",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_tracoe_experc_percut_dilation_tracheostomy_set_with_trachatr",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Tracoe Experc Percut Dilation Tracheostomy Set with Trachatraumatic Inserter – Performance Recall (Canada)",
+        "zh": "Tracoe Experc 经皮扩张气管切开套件（含Trachatraumatic置入器）性能召回"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for the Tracoe Experc Percut Dilation Tracheostomy Set with Trachatraumatic Inserter due to a performance issue. This affects Canadian healthcare facilities and providers that stock or use this tracheostomy set. Affected users should immediately check inventory, quarantine affected units, and follow the recall instructions from the manufacturer and Health Canada.",
+        "zh": "加拿大卫生部发布了一则关于Tracoe Experc经皮扩张气管切开套件（含Trachatraumatic置入器）的医疗器械召回/警示，原因是性能问题。受影响的是加拿大持有或使用该气管切开套件的医疗机构和医务人员。相关用户应立即核查库存、隔离受影响产品，并遵循制造商和加拿大卫生部的召回指示。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/tracoe-experc-percut-dilation-tracheostomy-set-wtrachatraumatic-inserter",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-19T22:56:16Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "tracheostomy_set",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_carelink_smartsync_device_manager",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: CareLink™ SmartSync™ Device Manager — Performance Issue",
+        "zh": "加拿大卫生部召回警示：CareLink™ SmartSync™设备管理器性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the CareLink™ SmartSync™ Device Manager due to a performance issue. This device is used to manage compatible cardiac devices, and healthcare facilities and clinicians using affected units are the primary audience. Affected users should review the official Health Canada notice and follow the recommended mitigation steps, including contacting Medtronic or their local representative. This alert is part of recent Canadian medical device recalls but applies specifically to the SmartSync Device Manager.",
+        "zh": "加拿大卫生部已就CareLink™ SmartSync™ Device Manager的性能问题发布召回/警示。该设备用于管理兼容的心脏设备，主要影响使用相关产品的医疗机构和临床人员。受影响用户应查阅加拿大卫生部官方通知，遵循建议的缓解措施，并联系Medtronic或其当地代表。此警示包含在近期加拿大医疗器械召回中，但专门针对SmartSync Device Manager。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-14",
+      "detected_date": "2026-10-19T22:56:28Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "cardiac_device_manager"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_avantage_inserter_handles_and_gri",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: Avantage Inserter Handles and Grippers – Performance Issue",
+        "zh": "加拿大卫生部召回Avantage插入器手柄与夹持器：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall alert for Avantage Inserter Handles and Grippers due to a performance issue. Healthcare facilities and users with these devices should immediately check affected lots and stop using them. Affected products should be quarantined and the manufacturer or distributor contacted for return, replacement, or correction.",
+        "zh": "加拿大卫生部发布了一项关于Avantage插入器手柄和夹持器的医疗器械召回警告，原因是存在性能问题。使用这些产品的医疗机构和用户应立即核对受影响批次并停止使用。请隔离受影响产品，并联系制造商或经销商进行退回、更换或纠正处理。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/avantage-inserter-handles-and-grippers",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-08",
+      "detected_date": "2026-10-19T22:56:36Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_cardinal_health_presource_kits_recall_alert_for_performance",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Cardinal Health PreSource Kits: Recall Alert for Performance Issue",
+        "zh": "加拿大卫生部召回Cardinal Health PreSource套件（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall alert for Cardinal Health PreSource kits due to a reported performance issue. Affected healthcare facilities and distributors should identify and quarantine impacted lots and follow the manufacturer’s recall instructions. Users should contact Cardinal Health for return or replacement and report any related adverse events.",
+        "zh": "加拿大卫生部发布了Cardinal Health PreSource手术/操作套件的医疗器械召回警报，原因是存在性能问题。受影响的医疗机构和分销商应识别并隔离相关批次，遵循制造商的召回指示。用户应联系Cardinal Health进行退货或更换，并上报相关不良事件。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-08",
+      "detected_date": "2026-10-19T22:56:47Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "procedure_kits",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_canada_recall_trusystem_7000_and_trusystem_7500_surgical_tab",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canada Recall: TruSystem 7000 and TruSystem 7500 Surgical Tables for Performance Issue",
+        "zh": "加拿大召回TruSystem 7000/7500手术台：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for the TruSystem 7000 and TruSystem 7500 surgical tables due to a performance issue. Healthcare facilities using these surgical tables are affected. Facilities should identify affected units, follow the manufacturer's recall instructions, and contact the manufacturer or local representative for corrective action.",
+        "zh": "加拿大卫生部发布了一项涉及TruSystem 7000和TruSystem 7500手术台的医疗器械召回/警报，原因为性能问题。受影响的是使用这些手术台的医疗机构。相关机构应识别受影响设备，遵循制造商的召回指示，并联系制造商或当地代表采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/trusystem-7000-and-trusystem-7500-surgical-tables",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-08",
+      "detected_date": "2026-10-19T22:56:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "surgical_table",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_freeo2_automated_oxygen_therapy_device",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: FreeO2 Automated Oxygen Therapy Device Adult & Pediatric Version HW 2.3 – Performance Issue",
+        "zh": "加拿大卫生部召回FreeO2自动氧疗设备成人/儿童版HW 2.3（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert for the FreeO2 Automated Oxygen Therapy Device Adult & Pediatric, Version HW 2.3, due to a performance issue. The notice applies to healthcare facilities, clinicians, and patients using this hardware version. Affected users should identify the devices in inventory, follow the manufacturer’s corrective instructions, and report any related incidents to Health Canada or the manufacturer.",
+        "zh": "加拿大卫生部已就FreeO2自动氧疗设备成人及儿童版HW 2.3发布召回/警报，原因为性能问题。该通知适用于使用此硬件版本的医疗机构、临床人员和患者。受影响用户应识别库存中的设备，遵循制造商的纠正措施，并向加拿大卫生部或制造商报告相关不良事件。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-08",
+      "detected_date": "2026-10-19T22:57:07Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "oxygen_therapy_device",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_perma_sharp_sutures_performance_issue",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Perma-Sharp Sutures Performance Issue",
+        "zh": "加拿大卫生部召回Perma-Sharp缝合线：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Perma-Sharp Sutures due to reported performance concerns. Healthcare facilities and practitioners using these sutures may be affected. Affected units should be identified and quarantined, and users should follow the manufacturer's recall instructions and report any issues.",
+        "zh": "加拿大卫生部已针对Perma-Sharp缝合线发布医疗器械召回/警示，原因是性能问题。使用该缝合线的医疗机构和医护人员可能受到影响。应识别并隔离受影响产品，遵循制造商召回说明并报告相关问题。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-07",
+      "detected_date": "2026-10-19T22:57:16Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sutures",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_medline_bariatric_rollator_performance",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Medline Bariatric Rollator – Performance Issue",
+        "zh": "加拿大卫生部召回Medline肥胖患者滚轮助行器（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Medline Bariatric Rollator due to a performance issue. The alert affects Canadian users, caregivers, and healthcare facilities that distribute or use this mobility device. Affected parties should identify relevant units or lots, stop use if instructed, and follow Health Canada and Medline guidance for return, replacement, or other corrective actions.",
+        "zh": "加拿大卫生部已针对Medline肥胖患者滚轮助行器发布医疗器械召回/警示，原因为性能问题。该警示涉及加拿大境内使用或分销此移动辅助设备的用户、护理人员及医疗机构。相关方应确认受影响产品批次，按指示停用，并遵循加拿大卫生部及Medline的指引进行退回、更换或其他纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/medline-bariatric-rollator",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-19T22:57:26Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "bariatric_rollator",
+        "mobility_aid",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_freeo2_automated_oxygen_therapy_d",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: FreeO2 Automated Oxygen Therapy Device Adult & Pediatric Performance Issue",
+        "zh": "加拿大卫生部警示：FreeO2自动氧疗设备（成人及儿童）性能问题"
+      },
+      "summary": {
+        "en": "This Health Canada safety alert addresses a performance issue with the FreeO2 Automated Oxygen Therapy Device for adult and pediatric use. Healthcare providers and users should be aware that the issue may affect oxygen delivery performance. Affected parties should review the alert, identify impacted devices, and follow the recommended corrective actions or contact the manufacturer.",
+        "zh": "加拿大卫生部发布关于 FreeO2 自动氧疗设备（成人及儿童）的安全警示，涉及产品性能问题。该问题可能影响氧疗输送性能及患者安全。相关医疗机构和用户应核对受影响设备，遵循警示中的建议措施，并联系制造商获取进一步指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-19T22:57:33Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "oxygen_therapy",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_issues_recall_alert_for_embletta_mpr_pg_due_to",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Recall Alert for Embletta MPR PG Due to Performance Concerns",
+        "zh": "加拿大卫生部就Embletta MPR PG性能问题发布召回警示"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall alert for the Embletta MPR PG medical device due to performance concerns. The device is used in sleep diagnostics and monitoring, and the issue may affect the reliability of its recordings. Healthcare facilities and users should identify affected units, follow the manufacturer’s instructions, and contact the manufacturer or local representative for corrective action.",
+        "zh": "加拿大卫生部已就Embletta MPR PG医疗器械的性能问题发布召回警示。该设备用于睡眠诊断和监测，相关问题可能影响记录结果的可靠性。医疗机构和用户应识别受影响设备，遵循制造商指示，并联系制造商或当地代表采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/embletta-mpr-pg",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-19T22:57:44Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sleep_diagnostics",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_cardinal_health_general_procedure_tray_recall_performance_is",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Cardinal Health General Procedure Tray Recall: Performance Issue Alert",
+        "zh": "Cardinal Health 通用手术托盘性能问题召回警示"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Cardinal Health General Procedure Tray due to a performance issue. Healthcare facilities that stock or use these trays should immediately identify affected lots, quarantine the product, and follow the manufacturer's or Health Canada's instructions. This notice is part of a series of Canadian medical device safety updates.",
+        "zh": "加拿大卫生部已针对 Cardinal Health 通用手术托盘发布医疗器械召回/警示，原因是存在性能问题。相关医疗机构应立即识别受影响批次、隔离该产品，并遵循制造商或加拿大卫生部的指示处理。此通知属于加拿大医疗器械安全更新系列之一。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-general-procedure-tray",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-19T22:57:53Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "cardinal_health",
+        "procedure_tray",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_fluoroplastic_vent_tube_sterility_issue",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Fluoroplastic Vent Tube – Sterility Issue",
+        "zh": "加拿大卫生部召回：氟塑料鼓膜通气管无菌问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for the Fluoroplastic Vent Tube due to a sterility issue. This device is typically used in ear ventilation procedures, and inadequate sterility may pose an infection risk. Healthcare facilities should identify and quarantine affected product, discontinue use, and follow the manufacturer’s recall instructions. Patients who have received the tube may require follow-up based on clinical assessment.",
+        "zh": "加拿大卫生部发布了一项关于氟塑料鼓膜通气管的召回警报，原因是无菌性问题。该器械通常用于耳部通气或鼓膜置管，若无菌性无法保证，可能导致感染风险。医疗机构和临床人员应停止使用受影响产品，隔离库存，并按制造商指示进行处置。已置入该管的患者应根据临床评估决定是否需要随访。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/fluoroplastic-vent-tube",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-10-19T22:58:05Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterility",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_alert_hcg_one_step_pregnancy_tests_recalled_ov",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: hCG One Step Pregnancy Tests Recalled Over Performance Concerns",
+        "zh": "加拿大卫生部因性能问题召回hCG一步式妊娠检测试剂"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for hCG One Step Pregnancy Tests due to performance issues that may affect test accuracy. The notice applies to affected lots distributed in Canada and is relevant to importers, distributors, healthcare providers, and consumers using these devices. Users should immediately discontinue use, quarantine affected products, and follow the recall instructions provided by Health Canada and the manufacturer.",
+        "zh": "加拿大卫生部已因性能问题对hCG一步式妊娠检测试剂发出召回/警报，相关问题可能影响检测准确性。该通知适用于在加拿大分销的受影响批次，涉及进口商、经销商、医疗机构和使用者。使用者应立即停止使用、隔离受影响产品，并遵循加拿大卫生部和制造商提供的召回说明。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hcg-one-step-pregnancy-tests",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-05",
+      "detected_date": "2026-10-19T22:58:13Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "ivd",
+        "pregnancy_test"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_lumify_ultrasound_system_performa",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: Lumify Ultrasound System Performance Issue",
+        "zh": "加拿大卫生部发布Lumify超声系统性能召回警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the Lumify Ultrasound System, citing a performance issue. This alert affects healthcare facilities and practitioners using the affected Lumify ultrasound devices in Canada. Users should review the Health Canada notice, identify affected units, and follow the manufacturer's recommended corrective actions and reporting requirements.",
+        "zh": "加拿大卫生部已就Lumify超声系统发布召回/警报，指出存在性能问题。该警报适用于加拿大境内使用受影响Lumify超声设备的医疗机构和医务人员。使用者应查阅加拿大卫生部通知，确认受影响设备，并遵循制造商的纠正措施和报告要求。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/lumify-ultrasound-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-05",
+      "detected_date": "2026-10-19T22:58:22Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "ultrasound_system",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_issues_performance_recall_alert_for_arjo_carev",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada issues performance recall/alert for Arjo Carevo Shower Trolley",
+        "zh": "加拿大卫生部发布 Arjo Carevo 淋浴推车性能召回警报"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device alert/recall for the Arjo Carevo Shower Trolley due to a performance issue. The performance concern may compromise safe operation, potentially affecting patient and caregiver safety during showering or transfer. Healthcare facilities using these trolleys should review the recall notice, identify affected units, and follow the manufacturer's instructions for inspection, repair, or removal from service.",
+        "zh": "加拿大卫生部已针对 Arjo Carevo 淋浴推车发布医疗器械警报/召回，原因是存在性能问题。该性能问题可能影响安全操作，并可能在淋浴或转移过程中对患者和护理人员造成安全风险。使用该推车的医疗机构应查阅召回通知，识别受影响设备，并按照制造商指引进行检查、维修或停用。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/carevo-shower-trolley",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:58:36Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "performance_issue",
+        "patient_safety",
+        "shower_trolley"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_hexavue_focus_integrated_system_p",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: Hexavue Focus Integrated System Performance Issue",
+        "zh": "加拿大卫生部召回Hexavue Focus集成系统（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the Hexavue Focus Integrated System due to a performance issue. The alert affects healthcare facilities and users of this device in Canada. Affected parties should review the recall notice, identify affected units, and follow the manufacturer’s or Health Canada’s recommended corrective actions, which may include inspection, repair, or discontinuation of use.",
+        "zh": "加拿大卫生部已就Hexavue Focus集成系统发布召回/警示，原因是存在性能问题。该警示影响加拿大境内使用该设备的医疗机构和用户。相关方应查阅召回通知，确认受影响设备，并遵循制造商或加拿大卫生部建议的纠正措施，包括检查、维修或停用。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hexavue-focus-integrated-system",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:58:46Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_pentax_medical_ultrasound_endoscopes_and_water_bottle_assemb",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "PENTAX Medical Ultrasound Endoscopes and Water Bottle Assembly Recalled in Canada Over Labelling and Packaging",
+        "zh": "加拿大召回PENTAX Medical超声内镜及水瓶组件：标签与包装问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for PENTAX Medical ultrasound endoscopes and water bottle assembly due to labelling and packaging issues. Healthcare facilities and users of these devices should review the recall notice, check affected lots, and follow the manufacturer’s corrective actions, including contacting PENTAX Medical.",
+        "zh": "加拿大卫生部发布了一则关于PENTAX Medical超声内镜及水瓶组件的医疗器械召回/警报，涉及标签和包装问题。相关医疗机构和使用者应查看召回通知，核对受影响批次，并遵循制造商指示联系PENTAX Medical采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/pentax-medical-ultrasound-endoscopes-and-water-bottle-assembly",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:59:01Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_recall",
+        "labelling_packaging",
+        "endoscope",
+        "pentax_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_rotor_assy_device_compatibility_i",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Rotor Assy – Device Compatibility Issue",
+        "zh": "加拿大卫生部召回/警报：Rotor Assy 设备兼容性问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for the Rotor Assy due to a device compatibility issue. Affected healthcare facilities and users should review the notice and verify that the rotor assembly is compatible with their existing systems. If an incompatibility is identified, stop using the device and contact the manufacturer or Health Canada for further guidance.",
+        "zh": "加拿大卫生部已就Rotor Assy发布召回/警报，原因是设备兼容性问题。受影响的医疗机构和用户应查阅通知，核实该转子组件与现有系统的兼容性。如发现不兼容，应停止使用该设备，并联系制造商或加拿大卫生部获取进一步指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/rotor-assy",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:59:17Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "device_compatibility"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_medical_device_recall_alert_emag_instrument_pe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Medical Device Recall Alert: EMAG® Instrument Performance Issue",
+        "zh": "加拿大卫生部发布EMAG®器械性能问题召回警示"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the EMAG® Instrument due to a performance issue. The alert affects Canadian healthcare facilities and users of this device. Affected devices may not perform as intended, potentially impacting clinical procedures. Users should identify and quarantine affected units and follow the manufacturer's recall instructions.",
+        "zh": "加拿大卫生部因性能问题对EMAG®器械发布医疗器械召回/警示。该问题影响加拿大使用该器械的医疗机构和用户，设备可能无法按预期运行。用户应立即识别并隔离受影响器械，并遵循制造商的召回通知。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/emagr-instrument",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:59:28Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_adaptor_3602_connector_for_hilger",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall Alert: Adaptor 3602, Connector for Hilger Neurostim Dual (Performance Issue)",
+        "zh": "加拿大卫生部召回警报：Hilger Neurostim Dual连接器Adaptor 3602（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall alert for the Adaptor 3602, a connector used with the Hilger Neurostim Dual, due to performance issues. Healthcare facilities and practitioners using this adaptor with the neurostimulator may be affected. Users should identify and quarantine affected units, verify inventory, and follow the manufacturer’s recall instructions for return or replacement.",
+        "zh": "加拿大卫生部发布了Adaptor 3602连接器（用于Hilger Neurostim Dual）的召回警报，原因是性能问题。使用该适配器的医疗机构和从业人员可能受到影响。相关用户应识别和隔离受影响产品，核对库存，并按照制造商召回说明进行退货或更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/adaptor-3602-connector-hilger-neurostim-dual",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:59:46Z",
+      "importance": "high",
+      "tags": [
+        "health_canada_recall",
+        "neurostimulator",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_alert_precision_pointer_electromagnetic_em_rec",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Alert: Precision Pointer Electromagnetic (EM) Recall for Performance Issue",
+        "zh": "加拿大卫生部发布Precision Pointer电磁（EM）设备性能问题召回警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Precision Pointer Electromagnetic (EM) system due to a performance issue. Healthcare facilities and users of this device should immediately review the recall notice and follow the manufacturer's instructions. Affected units may require quarantine, return, or corrective action to prevent potential clinical impact.",
+        "zh": "加拿大卫生部已就Precision Pointer Electromagnetic（EM）系统发布医疗器械召回/警报，原因是存在性能问题。使用该设备的医疗机构和用户应立即查阅召回通知并遵循制造商的指示。受影响设备可能需要进行隔离、退回或纠正措施，以防止潜在的临床影响。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/precision-pointer-electromagnetic-em",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T22:59:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_medline_single_sterile_c_section_drapes",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: Medline Single Sterile C-Section Drapes W/Incise (Performance)",
+        "zh": "Medline 单次无菌剖宫产手术巾（含切口膜）性能召回警示"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for Medline Single Sterile C-Section Drapes with Incise due to a performance issue. These are single-use sterile drapes used during cesarean section procedures. Healthcare facilities should identify and quarantine affected products and follow Medline's recall instructions and Health Canada recommendations.",
+        "zh": "加拿大卫生部已发布关于Medline单次无菌剖宫产手术巾（含切口膜）的召回/警示，原因涉及性能问题。受影响产品为剖宫产手术中使用的一次性无菌手术巾。医疗机构应识别并隔离受影响产品，并遵循Medline的召回指示和加拿大卫生部的建议。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/medline-single-sterile-c-section-drapes-wincise",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T23:00:13Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "surgical_drapes",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_hcg_cassettes_recalled_in_canada_due_to_performance_issues",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "hCG Cassettes Recalled in Canada Due to Performance Issues",
+        "zh": "加拿大召回hCG检测盒因性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall/alert for hCG cassettes due to performance concerns. The affected products may not provide accurate results, potentially impacting diagnosis or monitoring. Healthcare providers and users should discontinue use of affected lots and follow Health Canada's guidance for reporting and replacement.",
+        "zh": "加拿大卫生部针对hCG检测盒发布了因性能问题的召回/警示。受影响产品可能无法提供准确结果，可能影响诊断或监测。医疗机构和用户应停止使用受影响批次，并遵循加拿大卫生部的报告和更换指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hcg-cassettes",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T23:00:26Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "hcg_cassettes",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_automated_impella_controllers_aic",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Automated Impella® Controllers (AIC) – Performance Issue",
+        "zh": "加拿大卫生部警示：Automated Impella®控制器（AIC）性能安全问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert/recall for the Automated Impella® Controllers (AIC) due to performance-related issues. This affects healthcare facilities and professionals using these controllers in Impella cardiac support systems. Affected users should review the Health Canada notice and follow the manufacturer’s recommended corrective actions immediately.",
+        "zh": "加拿大卫生部已就Automated Impella®控制器（AIC）的性能相关问题发布安全警示/召回。此问题影响使用Impella心脏支持系统的医疗机构和专业人员。受影响用户应立即查阅加拿大卫生部通知，并遵循制造商建议的纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/automated-impellar-controllers-aic",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-02",
+      "detected_date": "2026-10-19T23:00:44Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "cardiac_support",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_xcel_bladeless_trocar_performance_issue",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: XCEL™ Bladeless Trocar Performance Issue",
+        "zh": "加拿大卫生部召回XCEL™无刀片穿刺器性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the XCEL™ Bladeless Trocar due to a performance issue. The affected device may not function as intended during laparoscopic procedures, potentially causing procedural complications. Healthcare facilities should identify affected lots, quarantine the devices, and follow the manufacturer’s recall instructions.",
+        "zh": "加拿大卫生部已针对XCEL™无刀片穿刺器发布医疗器械召回/警示，原因是存在性能问题。受影响产品可能在腹腔镜手术中无法按预期工作，可能导致手术并发症。医疗机构应识别受影响批次，隔离相关器械，并遵循制造商的召回指示。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/xceltm-bladeless-trocar",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:00:56Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "laparoscopic_trocar"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_boston_scientific_direxion_and_di",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Boston Scientific Direxion and Direxion HI-FLO Microcatheters Performance Recall",
+        "zh": "加拿大卫生部召回波士顿科学Direxion及Direxion HI-FLO微导管（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Boston Scientific Direxion and Direxion HI-FLO Microcatheters due to performance issues. Healthcare facilities and interventional clinical teams using these microcatheters should identify affected lots, stop use, and quarantine the devices. Users should follow Boston Scientific's recall instructions for return or replacement and report any related adverse events.",
+        "zh": "加拿大卫生部已针对波士顿科学Direxion和Direxion HI-FLO微导管发布医疗器械召回/警示，原因是存在性能问题。使用这些微导管的医疗机构和介入团队应识别受影响批次、停止使用并隔离相关产品。用户应遵循波士顿科学的召回指示进行退货或更换，并报告相关不良事件。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/direxion-and-direxion-hi-flo-microcatheters",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:01:19Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "microcatheter",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_issues_performance_alert_recall_for_careintell",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Issues Performance Alert/Recall for CareIntellect Perinatal Medical Device",
+        "zh": "加拿大卫生部发布CareIntellect Perinatal性能警报/召回"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert for CareIntellect Perinatal due to a performance issue. The notice affects Canadian healthcare facilities using this perinatal software/device. Users should review the Health Canada alert and follow the manufacturer’s containment, mitigation, or correction instructions. Regulatory affairs and clinical teams should verify affected versions and document the recall.",
+        "zh": "加拿大卫生部已就CareIntellect Perinatal的性能问题发布召回/警报。该通知影响使用此围产期软件/设备的加拿大医疗机构。用户应查看加拿大卫生部警报，并遵循制造商的任何控制、缓解或纠正措施。法规事务和临床团队应核实受影响版本并记录此次召回。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/careintellect-perinatal",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:01:34Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "perinatal_software",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_medline_convenience_kits_with_cannula_components_and_female",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Medline Convenience Kits with Cannula Components and Female Luer Lock Connectors Recalled in Canada",
+        "zh": "Medline 含母鲁尔锁定接头插管组件的便利套装召回"
+      },
+      "summary": {
+        "en": "This Health Canada recall/alert concerns Medline convenience kits that include cannula components with female Luer lock connectors, identified due to a performance issue. Healthcare facilities and distributors in Canada that received affected kits should immediately identify and quarantine the products. Users should follow Medline’s recall instructions, verify lot numbers against the Health Canada alert, and report any adverse events or quality problems to Medline and Health Canada.",
+        "zh": "加拿大卫生部发布召回/警报，涉及 Medline 便利套装，其中包含带母鲁尔锁定接头的插管组件，原因为性能问题。受影响的加拿大医疗机构和经销商应立即识别并隔离相关产品。使用者应遵循 Medline 的召回指示，核对批号，并向 Medline 和加拿大卫生部报告不良事件或质量问题。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/medline-convenience-kits-containing-cannula-components-female-luer-lock-connectors",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:01:50Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "luer_lock_connectors",
+        "cannula_components",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_ethicon_nylon_suture_recall_due_t",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Ethicon Nylon Suture Recall Due to Performance Issue",
+        "zh": "加拿大卫生部警示：Ethicon尼龙缝合线因性能问题召回"
+      },
+      "summary": {
+        "en": "Health Canada has published a medical device recall/alert for Ethicon Nylon Suture due to a performance issue. The alert affects Canadian healthcare facilities and providers using this suture product. Affected users should identify and quarantine relevant inventory, review recall communications, and follow the manufacturer's or Health Canada's recommended actions.",
+        "zh": "加拿大卫生部发布了一则关于Ethicon尼龙缝合线性能问题的医疗器械召回/警示。该警示涉及加拿大使用该缝合线产品的医疗机构和医护人员。相关用户应识别并隔离受影响库存，查阅召回通知，并遵循制造商或加拿大卫生部的建议措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/ethicon-nylon-suture",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:01:59Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "suture",
+        "performance_issue",
+        "health_canada",
+        "ethicon"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_safety_alert_radiography_7000_m_performance_is",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Safety Alert: Radiography 7000 M Performance Issue",
+        "zh": "加拿大卫生部就放射摄影设备7000 M性能问题发布安全警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a safety alert regarding the Radiography 7000 M medical device due to a performance issue. Healthcare facilities and operators using this radiography system should immediately review the alert, check their device status, and follow the manufacturer's recommended actions. This alert is part of Canada's medical device recall notifications to ensure patient safety and regulatory compliance.",
+        "zh": "加拿大卫生部针对放射摄影设备7000 M的性能问题发布了安全警报。使用该设备的医疗机构和操作人员应立即查看警报，检查设备状态，并遵循制造商建议的措施。该警报属于加拿大医疗器械召回通知的一部分，以确保患者安全和合规。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/radiography-7000-m",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:02:10Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "radiography",
+        "performance_issue",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_health_canada_recall_alert_medtronic_carelink_smartsync_devi",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Medtronic CareLink™ SmartSync™ Device Manager Performance Issue",
+        "zh": "美敦力 CareLink™ SmartSync™ 设备管理器性能问题召回/警示"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert for the Medtronic CareLink™ SmartSync™ Device Manager due to performance issues. This device manager is used to program and interrogate compatible implantable cardiac devices; the performance problem may affect device programming or data retrieval. Healthcare facilities and professionals should identify affected units, follow Medtronic's correction instructions, and ensure alternative programming options are available where needed.",
+        "zh": "加拿大卫生部发布了一则关于美敦力 CareLink™ SmartSync™ 设备管理器的召回/警示，原因是性能问题。该设备管理器用于对兼容的植入式心脏设备进行程控和查询，性能问题可能影响设备程控或数据读取。相关医疗机构和专业人员应识别受影响设备，遵循美敦力的纠正措施，并在必要时准备替代程控方案。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:02:22Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "cardiac_device",
+        "performance_issue",
+        "health_canada"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_canada_recalls_medline_sterile_surgical_kits_with_c_section",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canada Recalls Medline Sterile Surgical Kits with C-Section Drape w/Incise over Performance Issue",
+        "zh": "加拿大召回含Medline剖宫产手术巾（带切口膜）的无菌手术包"
+      },
+      "summary": {
+        "en": "Health Canada has issued a recall alert for Medline Sterile Surgical Kits containing the Medline C-Section Drape w/Incise due to a performance issue. Healthcare facilities using these kits for Caesarean-section procedures are affected and should identify and quarantine affected lots. Users should follow the manufacturer's recall instructions and contact Medline for return or replacement.",
+        "zh": "加拿大卫生部发布了一则关于Medline无菌手术包的召回警报，该手术包含有Medline剖宫产手术巾（带切口膜），原因是存在性能问题。使用这些手术包进行剖宫产手术的医疗机构受到影响，应识别并隔离相关批次。用户应遵循制造商的召回指示，并联系Medline进行退货或更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/medline-sterile-surgical-kits-containing-medline-c-section-drape-wincise",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-01",
+      "detected_date": "2026-10-19T23:02:31Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "sterile_surgical_kit",
+        "surgical_drape"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261019_canada_recall_alert_bd_alaris_pump_module_and_subset_of_comp",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canada Recall Alert: BD Alaris Pump Module and Subset of Compatible Pump Infusion Sets Due to Performance Issue",
+        "zh": "加拿大召回BD Alaris泵模块及部分兼容输注管路：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has published a recall/alert for the BD Alaris™ Pump Module and a subset of compatible pump infusion sets due to a performance issue. Healthcare facilities in Canada using these pump modules and infusion sets are affected. Users should review the recall notice, identify affected products, and follow BD’s instructions for quarantine, return, or corrective action.",
+        "zh": "加拿大卫生部发布了BD Alaris™泵模块及部分兼容输注管路的召回/警报，原因是性能问题。使用这些泵模块和输注管路的加拿大医疗机构受到影响。用户应查阅召回通知，识别受影响产品，并按照BD的指示进行隔离、退回或采取纠正措施。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/bd-alaristm-pump-module-and-subset-compatible-pump-infusion-sets",
+      "source_name": "Health Canada",
+      "published_date": "2026-09-28",
+      "detected_date": "2026-10-19T23:02:45Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "infusion_pump",
+        "health_canada",
+        "performance",
+        "bd_alaris"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20260928_health_canada_alert_perma_hand_silk_suture_recall_due_to_per",
       "framework": "canada",

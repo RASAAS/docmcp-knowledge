@@ -6,6 +6,150 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### MHRA Field Safety Notices: 5 to 9 October 2026 Weekly List
+
+**2026-10-19** | UK MHRA | Safety Communication | !! MEDIUM
+
+This item is the UK MHRA's weekly publication listing Field Safety Notices (FSNs) issued between 5 and 9 October 2026. It is relevant to healthcare providers, patients, and medical device manufacturers with products distributed in the UK. Regulatory affairs and vigilance teams should review the listed notices to identify affected devices and implement any required field safety corrective actions or recalls.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 12 to 16 October 2026 (9 New Entries)
+
+**2026-10-19** | UK MHRA | Safety Communication | !!! HIGH
+
+This MHRA update lists field safety notices published between 12 and 16 October 2026, with nine new entries in the feed. Healthcare providers, medical device manufacturers, and distributors should review the listed FSNs to identify affected devices and required actions. Affected users should follow the manufacturer's instructions in each notice and report adverse incidents to MHRA as appropriate.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 12 to 16 October 2026
+
+**2026-10-19** | UK MHRA | Regulation Update | !!! HIGH
+
+This MHRA page lists the Field Safety Notices (FSNs) published between 12 and 16 October 2026, with 5 new notices included. It is relevant to medical device manufacturers, importers, distributors, healthcare providers, and users who may have affected devices. Affected parties should review the listed notices, identify any relevant devices, and implement the field safety actions described by the manufacturer without delay. The notices may include recalls, corrections, or updated instructions for use.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`, `safety_alert`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026)
+
+---
+
+### Nova Biomedical StatStrip Ketone Test Strips Recall: QC Failures and Supply Interruption (DSI/2026/013)
+
+**2026-10-16** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has issued a safety alert for specified lots of Nova Biomedical StatStrip ketone test strips due to quality-control failures and a related recall. The issue may cause disruption to blood ketone testing supply. Healthcare providers should quarantine affected lots, review alternative testing arrangements, and follow the manufacturer’s recall instructions.
+
+**Tags**: `mhra_safety_alert`, `recall`, `ketone_test_strips`, `quality_control_failure`, `supply_interruption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013)
+
+---
+
+### MHRA Field Safety Notices: 27–31 January 2025
+
+**2026-10-16** | UK MHRA | Safety Communication | !!! HIGH
+
+This item lists Field Safety Notices (FSNs) published by the UK MHRA between 27 and 31 January 2025. It aggregates safety communications relevant to medical device users, healthcare providers, and manufacturers. Regulatory affairs professionals should review the listed notices to identify affected devices and implement required field safety corrective actions.
+
+**Tags**: `field_safety_notices`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025)
+
+---
+
+### MHRA Guidance: Register Medical Devices to Place on the GB and NI Markets
+
+**2026-10-16** | UK MHRA | Regulation Update | !!! HIGH
+
+This MHRA guidance explains how manufacturers, authorised representatives, and other economic operators must register medical devices with the MHRA before placing them on the Great Britain and Northern Ireland markets. It outlines registration requirements, timelines, and the information needed for device and actor registrations. Affected parties should review the guidance and ensure their devices and organisation are correctly registered to maintain compliance.
+
+**Tags**: `mhra`, `medical_device_registration`, `uk_market_access`, `regulatory_guidance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market)
+
+---
+
+### Updated UK MHRA List of Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers
+
+**2026-10-15** | UK MHRA | Regulation Update | !! MEDIUM
+
+This specific publication provides the UK MHRA's current public list of companies whose authorisations to manufacture or wholesale medicines or active ingredients have been suspended or revoked. It affects manufacturers, wholesalers, and importers of medicinal products and ingredients in the UK. Regulatory affairs professionals should review the list to confirm the status of their own site and supply chain partners, and take corrective action if an organisation appears.
+
+**Tags**: `mhra`, `enforcement`, `manufacturing_licence`, `wholesale_licence`, `compliance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines)
+
+---
+
+### CRRT: Delay concurrent echinocandins (e.g. caspofungin) to reduce adsorption onto new PAN filter membranes – DSI/2026/014
+
+**2026-10-13** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has issued a drug-device alert for continuous renal replacement therapy (CRRT) using new polyacrylonitrile (PAN)-based filter membranes. Published evidence shows that caspofungin and other echinocandins can adsorb onto these membranes, potentially reducing antifungal exposure. Healthcare professionals should consider delaying administration of concurrent echinocandins to reduce this adsorption risk. This applies to patients receiving CRRT who require echinocandin therapy.
+
+**Tags**: `crrt`, `drug_device_alert`, `echinocandins`, `pan_membrane`, `adsorption`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-)
+
+---
+
+### MHRA Field Safety Notices for October 2026 Published with 9 New Entries
+
+**2026-10-09** | UK MHRA | Safety Communication | !!! HIGH
+
+The UK MHRA has published its Field Safety Notices for October 2026 page, listing nine new field safety notices for medical devices. This monthly compilation alerts healthcare providers, manufacturers, and users to device safety issues requiring attention. Affected parties should review the listed notices and implement any recommended actions promptly.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026)
+
+---
+
+### MHRA Field Safety Notices: 28 September to 2 October 2026
+
+**2026-10-09** | UK MHRA | Safety Communication | !!! HIGH
+
+The MHRA has published the weekly list of Field Safety Notices (FSNs) issued between 28 September and 2 October 2026, containing nine new entries. Healthcare providers, medical device users, and responsible persons should review the notices to identify affected devices and implement the manufacturer's recommended corrective actions. The notices cover device-specific safety issues requiring prompt attention.
+
+**Tags**: `field_safety_notice`, `mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026)
+
+---
+
+### Field Safety Notices: 21 to 25 September 2026
+
+**2026-09-29** | UK MHRA | Safety Communication | !!! HIGH
+
+This UK MHRA page lists Field Safety Notices (FSNs) issued between 21 and 25 September 2026. It is relevant to healthcare providers and users of medical devices named in the notices. Regulatory affairs professionals should review the full list, identify affected devices in their inventory, and implement the manufacturer’s recommended field safety actions or recalls.
+
+**Tags**: `field_safety_notice`, `uk_mhra`, `medical_device_safety`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026)
+
+---
+
+### MHRA Safety Roundup September 2026: 9 New Safety Advice Entries for Medicines and Devices
+
+**2026-09-29** | UK MHRA | Safety Communication | !! MEDIUM
+
+The MHRA Safety Roundup for September 2026 consolidates the latest safety advice for users of medicines and medical devices, with nine new entries detected in the Atom feed. It is relevant to healthcare professionals, patients, and manufacturers responsible for pharmacovigilance and device post-market surveillance. Readers should review the listed safety updates, identify any products in their portfolio or clinical use, and implement recommended risk mitigation or reporting actions as appropriate.
+
+**Tags**: `mhra`, `safety_roundup`, `medical_devices`, `post_market_surveillance`
+
+[View Source (MHRA (UK))](https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-september-2026)
+
+---
+
 ### MHRA Updates Exceptional Use Authorisations List for Medical Devices
 
 **2026-09-28** | UK MHRA | Regulation Update | !! MEDIUM

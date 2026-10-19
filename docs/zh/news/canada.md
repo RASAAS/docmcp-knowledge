@@ -6,6 +6,510 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部召回警报：NICO Myriad™ 19x21.5 MHP Paediscope兼容性问题
+
+**2026-10-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因设备兼容性问题对NICO Myriad™ 19x21.5 MHP Paediscope发布召回/警报。使用该设备的医疗机构和专业人员受到影响，应尽快查阅官方召回通知，并遵循制造商或加拿大卫生部建议的纠正措施。
+
+**标签**: `medical_device_recall`, `device_compatibility`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/nico-myriadtm-19x215-mhp-paediscope)
+
+---
+
+### 加拿大卫生部警示：ARCHITECT I系统i2000SR处理模块性能召回（4类）
+
+**2026-10-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项针对雅培 ARCHITECT "I" 系统 i2000SR 处理模块的医疗器械召回警示，该设备为4类器械，涉及性能问题。使用该处理模块进行体外诊断检测的实验室和医疗机构可能受到影响。用户应查看召回通知，遵循制造商指示，并采取建议的验证或缓解措施，以确保检测结果可靠。
+
+**标签**: `health_canada_recall`, `ivd`, `performance_issue`, `abbott_architect`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/architect-system-i2000sr-processing-module-class-4)
+
+---
+
+### 加拿大卫生部召回SIGNA™ Architect MRI系统（性能问题）
+
+**2026-10-16** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对GE Healthcare的SIGNA™ Architect MRI系统发布召回/警示，原因是性能问题。该问题可能影响系统的诊断成像性能，进而可能影响图像质量或可靠性。受影响的医疗机构应遵循制造商的指导，并联系GE Healthcare获取修复建议。
+
+**标签**: `mri_system`, `recall`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/signatm-architect-0)
+
+---
+
+### 加拿大卫生部召回罗氏cobas c 303分析单元（性能问题）
+
+**2026-10-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对罗氏诊断cobas® c 303分析单元发布召回/警报，原因是性能问题。使用该分析单元的实验室和医疗机构受到影响。用户应查看召回通知，联系罗氏诊断采取纠正措施，并实施建议的缓解或验证步骤，以确保检测结果准确。
+
+**标签**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cobasr-c-303-analytical-unit)
+
+---
+
+### Flintstones Complete多种维生素矿物质因分销错误被从批发商召回
+
+**2026-10-15** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部发布召回警报，Flintstones Complete多种维生素矿物质因分销错误从批发商层面召回。该召回主要影响加拿大批发/分销环节，而非产品质量问题。相关监管和供应链人员应核对库存、隔离受影响产品，并遵循加拿大卫生部的召回指示。
+
+**标签**: `health_canada`, `wholesale_recall`, `distribution_error`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution)
+
+---
+
+### 加拿大召回HemosIL AcuStar HIT-IgG(PF4-H)：性能问题影响HIT检测结果
+
+**2026-10-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已对HemosIL AcuStar HIT-IgG(PF4-H)检测试剂发出医疗器械召回/警示，该产品用于检测疑似肝素诱导的血小板减少症（HIT）患者的PF4-肝素复合物IgG抗体。召回原因是性能问题可能导致检测结果不可靠。使用该试剂的临床实验室和医护人员应立即查看召回通知，评估受影响批次，并遵循制造商指示采取替代检测或纠正措施。
+
+**标签**: `medical_device_recall`, `in_vitro_diagnostics`, `heparin_induced_thrombocytopenia`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hemosil-acustar-hit-iggpf4-h)
+
+---
+
+### 加拿大卫生部警示：EMIT® 2000 奎尼丁测定试剂因性能问题召回
+
+**2026-10-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对 EMIT® 2000 奎尼丁测定试剂发出召回/警示。该体外诊断试剂用于临床实验室检测奎尼丁血药浓度，以进行治疗药物监测。相关医疗机构和实验室人员应查看召回通知，遵循制造商指示，采取适当措施避免影响患者检测结果。
+
+**标签**: `medical_device_recall`, `in_vitro_diagnostics`, `performance_issue`, `therapeutic_drug_monitoring`, `canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/emitr-2000-quinidine-assay)
+
+---
+
+### 加拿大卫生部警示：Cochlear 人工耳蜗 CI1012 型号性能问题
+
+**2026-10-15** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了针对 Cochlear 人工耳蜗 CI1012 型号的医疗器械召回/警示，原因是性能问题。该警示适用于已植入该型号的患者及负责随访的临床医生。相关方应监测设备性能，报告听力功能变化，并联系制造商或加拿大卫生部获取进一步指导。
+
+**标签**: `canada`, `medical_device_recall`, `cochlear_implant`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cochlear-implant-model-ci1012)
+
+---
+
+### 加拿大卫生部警示：飞利浦Allura Xper系统性能问题
+
+**2026-10-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于飞利浦Allura Xper介入X射线系统的医疗器械召回/警示，涉及性能问题。使用该系统的医疗机构可能受到影响，应查看相关通知、识别受影响设备并遵循飞利浦建议的纠正措施。该警示是近期加拿大医疗器械安全通报之一。
+
+**标签**: `medical_device_recall`, `imaging_system`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/philips-allura-xper-systems-0)
+
+---
+
+### Tracoe Experc 经皮扩张气管切开套件（含Trachatraumatic置入器）性能召回
+
+**2026-10-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于Tracoe Experc经皮扩张气管切开套件（含Trachatraumatic置入器）的医疗器械召回/警示，原因是性能问题。受影响的是加拿大持有或使用该气管切开套件的医疗机构和医务人员。相关用户应立即核查库存、隔离受影响产品，并遵循制造商和加拿大卫生部的召回指示。
+
+**标签**: `medical_device_recall`, `tracheostomy_set`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/tracoe-experc-percut-dilation-tracheostomy-set-wtrachatraumatic-inserter)
+
+---
+
+### 加拿大卫生部召回警示：CareLink™ SmartSync™设备管理器性能问题
+
+**2026-10-14** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就CareLink™ SmartSync™ Device Manager的性能问题发布召回/警示。该设备用于管理兼容的心脏设备，主要影响使用相关产品的医疗机构和临床人员。受影响用户应查阅加拿大卫生部官方通知，遵循建议的缓解措施，并联系Medtronic或其当地代表。此警示包含在近期加拿大医疗器械召回中，但专门针对SmartSync Device Manager。
+
+**标签**: `health_canada`, `medical_device_recall`, `cardiac_device_manager`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager-0)
+
+---
+
+### 加拿大卫生部召回Avantage插入器手柄与夹持器：性能问题
+
+**2026-10-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于Avantage插入器手柄和夹持器的医疗器械召回警告，原因是存在性能问题。使用这些产品的医疗机构和用户应立即核对受影响批次并停止使用。请隔离受影响产品，并联系制造商或经销商进行退回、更换或纠正处理。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/avantage-inserter-handles-and-grippers)
+
+---
+
+### 加拿大卫生部召回Cardinal Health PreSource套件（性能问题）
+
+**2026-10-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了Cardinal Health PreSource手术/操作套件的医疗器械召回警报，原因是存在性能问题。受影响的医疗机构和分销商应识别并隔离相关批次，遵循制造商的召回指示。用户应联系Cardinal Health进行退货或更换，并上报相关不良事件。
+
+**标签**: `medical_device_recall`, `performance_issue`, `procedure_kits`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0)
+
+---
+
+### 加拿大召回TruSystem 7000/7500手术台：性能问题
+
+**2026-10-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项涉及TruSystem 7000和TruSystem 7500手术台的医疗器械召回/警报，原因为性能问题。受影响的是使用这些手术台的医疗机构。相关机构应识别受影响设备，遵循制造商的召回指示，并联系制造商或当地代表采取纠正措施。
+
+**标签**: `medical_device_recall`, `surgical_table`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/trusystem-7000-and-trusystem-7500-surgical-tables)
+
+---
+
+### 加拿大卫生部召回FreeO2自动氧疗设备成人/儿童版HW 2.3（性能问题）
+
+**2026-10-08** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就FreeO2自动氧疗设备成人及儿童版HW 2.3发布召回/警报，原因为性能问题。该通知适用于使用此硬件版本的医疗机构、临床人员和患者。受影响用户应识别库存中的设备，遵循制造商的纠正措施，并向加拿大卫生部或制造商报告相关不良事件。
+
+**标签**: `medical_device_recall`, `oxygen_therapy_device`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23)
+
+---
+
+### 加拿大卫生部召回Perma-Sharp缝合线：性能问题
+
+**2026-10-07** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Perma-Sharp缝合线发布医疗器械召回/警示，原因是性能问题。使用该缝合线的医疗机构和医护人员可能受到影响。应识别并隔离受影响产品，遵循制造商召回说明并报告相关问题。
+
+**标签**: `medical_device_recall`, `sutures`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures)
+
+---
+
+### 加拿大卫生部召回Medline肥胖患者滚轮助行器（性能问题）
+
+**2026-10-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对Medline肥胖患者滚轮助行器发布医疗器械召回/警示，原因为性能问题。该警示涉及加拿大境内使用或分销此移动辅助设备的用户、护理人员及医疗机构。相关方应确认受影响产品批次，按指示停用，并遵循加拿大卫生部及Medline的指引进行退回、更换或其他纠正措施。
+
+**标签**: `health_canada`, `medical_device_recall`, `bariatric_rollator`, `mobility_aid`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-bariatric-rollator)
+
+---
+
+### 加拿大卫生部警示：FreeO2自动氧疗设备（成人及儿童）性能问题
+
+**2026-10-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布关于 FreeO2 自动氧疗设备（成人及儿童）的安全警示，涉及产品性能问题。该问题可能影响氧疗输送性能及患者安全。相关医疗机构和用户应核对受影响设备，遵循警示中的建议措施，并联系制造商获取进一步指导。
+
+**标签**: `medical_device_recall`, `oxygen_therapy`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric)
+
+---
+
+### 加拿大卫生部就Embletta MPR PG性能问题发布召回警示
+
+**2026-10-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Embletta MPR PG医疗器械的性能问题发布召回警示。该设备用于睡眠诊断和监测，相关问题可能影响记录结果的可靠性。医疗机构和用户应识别受影响设备，遵循制造商指示，并联系制造商或当地代表采取纠正措施。
+
+**标签**: `medical_device_recall`, `sleep_diagnostics`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/embletta-mpr-pg)
+
+---
+
+### Cardinal Health 通用手术托盘性能问题召回警示
+
+**2026-10-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Cardinal Health 通用手术托盘发布医疗器械召回/警示，原因是存在性能问题。相关医疗机构应立即识别受影响批次、隔离该产品，并遵循制造商或加拿大卫生部的指示处理。此通知属于加拿大医疗器械安全更新系列之一。
+
+**标签**: `medical_device_recall`, `cardinal_health`, `procedure_tray`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-general-procedure-tray)
+
+---
+
+### 加拿大卫生部召回：氟塑料鼓膜通气管无菌问题
+
+**2026-10-06** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一项关于氟塑料鼓膜通气管的召回警报，原因是无菌性问题。该器械通常用于耳部通气或鼓膜置管，若无菌性无法保证，可能导致感染风险。医疗机构和临床人员应停止使用受影响产品，隔离库存，并按制造商指示进行处置。已置入该管的患者应根据临床评估决定是否需要随访。
+
+**标签**: `medical_device_recall`, `sterility`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fluoroplastic-vent-tube)
+
+---
+
+### 加拿大卫生部因性能问题召回hCG一步式妊娠检测试剂
+
+**2026-10-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已因性能问题对hCG一步式妊娠检测试剂发出召回/警报，相关问题可能影响检测准确性。该通知适用于在加拿大分销的受影响批次，涉及进口商、经销商、医疗机构和使用者。使用者应立即停止使用、隔离受影响产品，并遵循加拿大卫生部和制造商提供的召回说明。
+
+**标签**: `medical_device_recall`, `ivd`, `pregnancy_test`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hcg-one-step-pregnancy-tests)
+
+---
+
+### 加拿大卫生部发布Lumify超声系统性能召回警报
+
+**2026-10-05** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Lumify超声系统发布召回/警报，指出存在性能问题。该警报适用于加拿大境内使用受影响Lumify超声设备的医疗机构和医务人员。使用者应查阅加拿大卫生部通知，确认受影响设备，并遵循制造商的纠正措施和报告要求。
+
+**标签**: `medical_device_recall`, `ultrasound_system`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/lumify-ultrasound-system)
+
+---
+
+### 加拿大卫生部发布 Arjo Carevo 淋浴推车性能召回警报
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对 Arjo Carevo 淋浴推车发布医疗器械警报/召回，原因是存在性能问题。该性能问题可能影响安全操作，并可能在淋浴或转移过程中对患者和护理人员造成安全风险。使用该推车的医疗机构应查阅召回通知，识别受影响设备，并按照制造商指引进行检查、维修或停用。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`, `patient_safety`, `shower_trolley`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carevo-shower-trolley)
+
+---
+
+### 加拿大卫生部召回Hexavue Focus集成系统（性能问题）
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Hexavue Focus集成系统发布召回/警示，原因是存在性能问题。该警示影响加拿大境内使用该设备的医疗机构和用户。相关方应查阅召回通知，确认受影响设备，并遵循制造商或加拿大卫生部建议的纠正措施，包括检查、维修或停用。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hexavue-focus-integrated-system)
+
+---
+
+### 加拿大召回PENTAX Medical超声内镜及水瓶组件：标签与包装问题
+
+**2026-10-02** | Health Canada | 安全通报 | !! MEDIUM
+
+加拿大卫生部发布了一则关于PENTAX Medical超声内镜及水瓶组件的医疗器械召回/警报，涉及标签和包装问题。相关医疗机构和使用者应查看召回通知，核对受影响批次，并遵循制造商指示联系PENTAX Medical采取纠正措施。
+
+**标签**: `medical_device_recall`, `labelling_packaging`, `endoscope`, `pentax_medical`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/pentax-medical-ultrasound-endoscopes-and-water-bottle-assembly)
+
+---
+
+### 加拿大卫生部召回/警报：Rotor Assy 设备兼容性问题
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Rotor Assy发布召回/警报，原因是设备兼容性问题。受影响的医疗机构和用户应查阅通知，核实该转子组件与现有系统的兼容性。如发现不兼容，应停止使用该设备，并联系制造商或加拿大卫生部获取进一步指导。
+
+**标签**: `medical_device_recall`, `health_canada`, `device_compatibility`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/rotor-assy)
+
+---
+
+### 加拿大卫生部发布EMAG®器械性能问题召回警示
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对EMAG®器械发布医疗器械召回/警示。该问题影响加拿大使用该器械的医疗机构和用户，设备可能无法按预期运行。用户应立即识别并隔离受影响器械，并遵循制造商的召回通知。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/emagr-instrument)
+
+---
+
+### 加拿大卫生部召回警报：Hilger Neurostim Dual连接器Adaptor 3602（性能问题）
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了Adaptor 3602连接器（用于Hilger Neurostim Dual）的召回警报，原因是性能问题。使用该适配器的医疗机构和从业人员可能受到影响。相关用户应识别和隔离受影响产品，核对库存，并按照制造商召回说明进行退货或更换。
+
+**标签**: `health_canada_recall`, `neurostimulator`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/adaptor-3602-connector-hilger-neurostim-dual)
+
+---
+
+### 加拿大卫生部发布Precision Pointer电磁（EM）设备性能问题召回警报
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Precision Pointer Electromagnetic（EM）系统发布医疗器械召回/警报，原因是存在性能问题。使用该设备的医疗机构和用户应立即查阅召回通知并遵循制造商的指示。受影响设备可能需要进行隔离、退回或纠正措施，以防止潜在的临床影响。
+
+**标签**: `medical_device_recall`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/precision-pointer-electromagnetic-em)
+
+---
+
+### Medline 单次无菌剖宫产手术巾（含切口膜）性能召回警示
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已发布关于Medline单次无菌剖宫产手术巾（含切口膜）的召回/警示，原因涉及性能问题。受影响产品为剖宫产手术中使用的一次性无菌手术巾。医疗机构应识别并隔离受影响产品，并遵循Medline的召回指示和加拿大卫生部的建议。
+
+**标签**: `medical_device_recall`, `surgical_drapes`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-single-sterile-c-section-drapes-wincise)
+
+---
+
+### 加拿大召回hCG检测盒因性能问题
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对hCG检测盒发布了因性能问题的召回/警示。受影响产品可能无法提供准确结果，可能影响诊断或监测。医疗机构和用户应停止使用受影响批次，并遵循加拿大卫生部的报告和更换指导。
+
+**标签**: `medical_device_recall`, `hcg_cassettes`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/hcg-cassettes)
+
+---
+
+### 加拿大卫生部警示：Automated Impella®控制器（AIC）性能安全问题
+
+**2026-10-02** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就Automated Impella®控制器（AIC）的性能相关问题发布安全警示/召回。此问题影响使用Impella心脏支持系统的医疗机构和专业人员。受影响用户应立即查阅加拿大卫生部通知，并遵循制造商建议的纠正措施。
+
+**标签**: `medical_device_recall`, `cardiac_support`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/automated-impellar-controllers-aic)
+
+---
+
+### 加拿大卫生部召回XCEL™无刀片穿刺器性能问题
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对XCEL™无刀片穿刺器发布医疗器械召回/警示，原因是存在性能问题。受影响产品可能在腹腔镜手术中无法按预期工作，可能导致手术并发症。医疗机构应识别受影响批次，隔离相关器械，并遵循制造商的召回指示。
+
+**标签**: `medical_device_recall`, `performance_issue`, `laparoscopic_trocar`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/xceltm-bladeless-trocar)
+
+---
+
+### 加拿大卫生部召回波士顿科学Direxion及Direxion HI-FLO微导管（性能问题）
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对波士顿科学Direxion和Direxion HI-FLO微导管发布医疗器械召回/警示，原因是存在性能问题。使用这些微导管的医疗机构和介入团队应识别受影响批次、停止使用并隔离相关产品。用户应遵循波士顿科学的召回指示进行退货或更换，并报告相关不良事件。
+
+**标签**: `medical_device_recall`, `microcatheter`, `safety_alert`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/direxion-and-direxion-hi-flo-microcatheters)
+
+---
+
+### 加拿大卫生部发布CareIntellect Perinatal性能警报/召回
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已就CareIntellect Perinatal的性能问题发布召回/警报。该通知影响使用此围产期软件/设备的加拿大医疗机构。用户应查看加拿大卫生部警报，并遵循制造商的任何控制、缓解或纠正措施。法规事务和临床团队应核实受影响版本并记录此次召回。
+
+**标签**: `medical_device_recall`, `perinatal_software`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/careintellect-perinatal)
+
+---
+
+### Medline 含母鲁尔锁定接头插管组件的便利套装召回
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布召回/警报，涉及 Medline 便利套装，其中包含带母鲁尔锁定接头的插管组件，原因为性能问题。受影响的加拿大医疗机构和经销商应立即识别并隔离相关产品。使用者应遵循 Medline 的召回指示，核对批号，并向 Medline 和加拿大卫生部报告不良事件或质量问题。
+
+**标签**: `health_canada`, `medical_device_recall`, `luer_lock_connectors`, `cannula_components`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-convenience-kits-containing-cannula-components-female-luer-lock-connectors)
+
+---
+
+### 加拿大卫生部警示：Ethicon尼龙缝合线因性能问题召回
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于Ethicon尼龙缝合线性能问题的医疗器械召回/警示。该警示涉及加拿大使用该缝合线产品的医疗机构和医护人员。相关用户应识别并隔离受影响库存，查阅召回通知，并遵循制造商或加拿大卫生部的建议措施。
+
+**标签**: `medical_device_recall`, `suture`, `performance_issue`, `health_canada`, `ethicon`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/ethicon-nylon-suture)
+
+---
+
+### 加拿大卫生部就放射摄影设备7000 M性能问题发布安全警报
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部针对放射摄影设备7000 M的性能问题发布了安全警报。使用该设备的医疗机构和操作人员应立即查看警报，检查设备状态，并遵循制造商建议的措施。该警报属于加拿大医疗器械召回通知的一部分，以确保患者安全和合规。
+
+**标签**: `health_canada`, `radiography`, `performance_issue`, `medical_device_recall`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/radiography-7000-m)
+
+---
+
+### 美敦力 CareLink™ SmartSync™ 设备管理器性能问题召回/警示
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于美敦力 CareLink™ SmartSync™ 设备管理器的召回/警示，原因是性能问题。该设备管理器用于对兼容的植入式心脏设备进行程控和查询，性能问题可能影响设备程控或数据读取。相关医疗机构和专业人员应识别受影响设备，遵循美敦力的纠正措施，并在必要时准备替代程控方案。
+
+**标签**: `medical_device_recall`, `cardiac_device`, `performance_issue`, `health_canada`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/carelinktm-smartsynctm-device-manager)
+
+---
+
+### 加拿大召回含Medline剖宫产手术巾（带切口膜）的无菌手术包
+
+**2026-10-01** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了一则关于Medline无菌手术包的召回警报，该手术包含有Medline剖宫产手术巾（带切口膜），原因是存在性能问题。使用这些手术包进行剖宫产手术的医疗机构受到影响，应识别并隔离相关批次。用户应遵循制造商的召回指示，并联系Medline进行退货或更换。
+
+**标签**: `medical_device_recall`, `sterile_surgical_kit`, `surgical_drape`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/medline-sterile-surgical-kits-containing-medline-c-section-drape-wincise)
+
+---
+
+### 加拿大召回BD Alaris泵模块及部分兼容输注管路：性能问题
+
+**2026-09-28** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部发布了BD Alaris™泵模块及部分兼容输注管路的召回/警报，原因是性能问题。使用这些泵模块和输注管路的加拿大医疗机构受到影响。用户应查阅召回通知，识别受影响产品，并按照BD的指示进行隔离、退回或采取纠正措施。
+
+**标签**: `recall`, `infusion_pump`, `health_canada`, `performance`, `bd_alaris`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/bd-alaristm-pump-module-and-subset-compatible-pump-infusion-sets)
+
+---
+
 ### 加拿大卫生部发布PERMA-HAND™丝线缝合线性能召回警报
 
 **2026-09-25** | Health Canada | 安全通报 | !!! HIGH

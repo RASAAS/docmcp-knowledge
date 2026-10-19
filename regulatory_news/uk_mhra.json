@@ -1,7 +1,316 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-09-28T23:48:33Z",
+  "last_updated": "2026-10-19T23:02:45Z",
   "items": [
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_5_to_9_october_2026_weekly_list",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 5 to 9 October 2026 Weekly List",
+        "zh": "MHRA 2026年10月5日至9日现场安全通告汇总"
+      },
+      "summary": {
+        "en": "This item is the UK MHRA's weekly publication listing Field Safety Notices (FSNs) issued between 5 and 9 October 2026. It is relevant to healthcare providers, patients, and medical device manufacturers with products distributed in the UK. Regulatory affairs and vigilance teams should review the listed notices to identify affected devices and implement any required field safety corrective actions or recalls.",
+        "zh": "该条目为英国MHRA发布的2026年10月5日至9日现场安全通告（FSN）周汇总。相关方包括在英国有产品流通的医疗机构、患者及医疗器械制造商。法规事务和警戒团队应查阅所列通告，识别受影响器械，并落实所需的现场安全纠正措施或召回。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-19",
+      "detected_date": "2026-10-19T22:51:53Z",
+      "importance": "medium",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_12_to_16_october_2026_9_new_entrie",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 12 to 16 October 2026 (9 New Entries)",
+        "zh": "MHRA 2026年10月12日至16日现场安全通告（含9项新条目）"
+      },
+      "summary": {
+        "en": "This MHRA update lists field safety notices published between 12 and 16 October 2026, with nine new entries in the feed. Healthcare providers, medical device manufacturers, and distributors should review the listed FSNs to identify affected devices and required actions. Affected users should follow the manufacturer's instructions in each notice and report adverse incidents to MHRA as appropriate.",
+        "zh": "本次MHRA更新汇总了2026年10月12日至16日发布的现场安全通告，含9项新条目。医疗机构、医疗器械制造商和经销商应查阅相关通告，识别受影响器械并采取相应措施。受影响用户应遵循各通告中的制造商指示，并视情况向MHRA报告不良事件。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-19",
+      "detected_date": "2026-10-19T22:52:06Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_12_to_16_october_2026",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Field Safety Notices: 12 to 16 October 2026",
+        "zh": "MHRA现场安全通知：2026年10月12日至16日"
+      },
+      "summary": {
+        "en": "This MHRA page lists the Field Safety Notices (FSNs) published between 12 and 16 October 2026, with 5 new notices included. It is relevant to medical device manufacturers, importers, distributors, healthcare providers, and users who may have affected devices. Affected parties should review the listed notices, identify any relevant devices, and implement the field safety actions described by the manufacturer without delay. The notices may include recalls, corrections, or updated instructions for use.",
+        "zh": "英国药品和医疗产品监管署（MHRA）此页面汇总了2026年10月12日至16日发布的现场安全通知（FSN），本周新增5项通知。该信息涉及可能持有受影响设备的医疗器械制造商、进口商、经销商、医疗机构和使用者。相关方应查阅清单中的通知，识别受影响设备，并立即执行制造商说明的现场安全措施。通知可能涉及召回、纠正或使用说明更新。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-19",
+      "detected_date": "2026-10-19T22:53:41Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety",
+        "safety_alert"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_nova_biomedical_statstrip_ketone_test_strips_recall_qc_failu",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "Nova Biomedical StatStrip Ketone Test Strips Recall: QC Failures and Supply Interruption (DSI/2026/013)",
+        "zh": "Nova Biomedical StatStrip血酮试纸因质控失败及供应中断召回"
+      },
+      "summary": {
+        "en": "The UK MHRA has issued a safety alert for specified lots of Nova Biomedical StatStrip ketone test strips due to quality-control failures and a related recall. The issue may cause disruption to blood ketone testing supply. Healthcare providers should quarantine affected lots, review alternative testing arrangements, and follow the manufacturer’s recall instructions.",
+        "zh": "英国MHRA发布安全警报，涉及Nova Biomedical StatStrip血酮试纸的特定批次，原因是质控失败并已启动召回。该问题可能导致血酮检测供应中断。医疗机构应隔离受影响批次、评估替代检测方案并遵循制造商的召回指示。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:52:13Z",
+      "importance": "high",
+      "tags": [
+        "mhra_safety_alert",
+        "recall",
+        "ketone_test_strips",
+        "quality_control_failure",
+        "supply_interruption"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_27_31_january_2025",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 27–31 January 2025",
+        "zh": "MHRA现场安全通告：2025年1月27日至31日"
+      },
+      "summary": {
+        "en": "This item lists Field Safety Notices (FSNs) published by the UK MHRA between 27 and 31 January 2025. It aggregates safety communications relevant to medical device users, healthcare providers, and manufacturers. Regulatory affairs professionals should review the listed notices to identify affected devices and implement required field safety corrective actions.",
+        "zh": "本条目列出了英国MHRA于2025年1月27日至31日发布的现场安全通告（FSN）。这些通告汇总了与医疗器械用户、医疗机构和制造商相关的安全通信。法规事务人员应查阅所列通告，识别受影响设备并执行必要的现场安全纠正措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:52:27Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notices",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_guidance_register_medical_devices_to_place_on_the_gb_an",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "MHRA Guidance: Register Medical Devices to Place on the GB and NI Markets",
+        "zh": "MHRA指南：医疗器械投放GB和NI市场需注册"
+      },
+      "summary": {
+        "en": "This MHRA guidance explains how manufacturers, authorised representatives, and other economic operators must register medical devices with the MHRA before placing them on the Great Britain and Northern Ireland markets. It outlines registration requirements, timelines, and the information needed for device and actor registrations. Affected parties should review the guidance and ensure their devices and organisation are correctly registered to maintain compliance.",
+        "zh": "该MHRA指南说明了制造商、授权代表及其他经济运营商在将医疗器械投放英国大不列颠和北爱尔兰市场前，必须向MHRA注册的要求。指南涵盖注册要求、时间节点以及器械和运营商注册所需信息。相关方应审查指南并确保器械和组织完成正确注册以保持合规。"
+      },
+      "source_url": "https://www.gov.uk/guidance/register-medical-devices-to-place-on-the-market",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-19T22:54:00Z",
+      "importance": "high",
+      "tags": [
+        "mhra",
+        "medical_device_registration",
+        "uk_market_access",
+        "regulatory_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_updated_uk_mhra_list_of_suspended_and_revoked_licences_for_m",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "Updated UK MHRA List of Suspended and Revoked Licences for Medicines Manufacturers and Wholesalers",
+        "zh": "英国MHRA更新药品生产商与批发商许可证吊销/暂停名单"
+      },
+      "summary": {
+        "en": "This specific publication provides the UK MHRA's current public list of companies whose authorisations to manufacture or wholesale medicines or active ingredients have been suspended or revoked. It affects manufacturers, wholesalers, and importers of medicinal products and ingredients in the UK. Regulatory affairs professionals should review the list to confirm the status of their own site and supply chain partners, and take corrective action if an organisation appears.",
+        "zh": "该条目为英国MHRA发布的最新公开名单，列出药品或活性成分生产、批发许可/注册被暂停或吊销的公司。受影响的包括英国药品及原料药生产商、批发商和进口商。法规事务人员应核查本企业及供应链合作伙伴是否在名单中，并采取相应纠正措施。"
+      },
+      "source_url": "https://www.gov.uk/government/publications/suspended-licences-for-manufacturers-and-wholesalers-of-medicines",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-19T22:54:09Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "enforcement",
+        "manufacturing_licence",
+        "wholesale_licence",
+        "compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_crrt_delay_concurrent_echinocandins_e_g_caspofungin_to_reduc",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "CRRT: Delay concurrent echinocandins (e.g. caspofungin) to reduce adsorption onto new PAN filter membranes – DSI/2026/014",
+        "zh": "CRRT：延迟合用棘白菌素（如卡泊芬净）以减少新型PAN滤膜吸附风险 DSI/2026/014"
+      },
+      "summary": {
+        "en": "The MHRA has issued a drug-device alert for continuous renal replacement therapy (CRRT) using new polyacrylonitrile (PAN)-based filter membranes. Published evidence shows that caspofungin and other echinocandins can adsorb onto these membranes, potentially reducing antifungal exposure. Healthcare professionals should consider delaying administration of concurrent echinocandins to reduce this adsorption risk. This applies to patients receiving CRRT who require echinocandin therapy.",
+        "zh": "MHRA发布了一项关于使用新型聚丙烯腈（PAN）基滤膜进行连续性肾脏替代治疗（CRRT）的药物器械警戒。已发表证据表明，卡泊芬净等棘白菌素类药物可吸附到此类滤膜上，可能降低抗真菌药物暴露量。医护人员应考虑延迟给予合并使用的棘白菌素类药物，以降低吸附风险。该建议适用于接受CRRT且需要棘白菌素治疗的患者。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-13",
+      "detected_date": "2026-10-19T22:52:35Z",
+      "importance": "high",
+      "tags": [
+        "crrt",
+        "drug_device_alert",
+        "echinocandins",
+        "pan_membrane",
+        "adsorption"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_for_october_2026_published_with_9",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices for October 2026 Published with 9 New Entries",
+        "zh": "MHRA发布2026年10月现场安全通告（9项新增）"
+      },
+      "summary": {
+        "en": "The UK MHRA has published its Field Safety Notices for October 2026 page, listing nine new field safety notices for medical devices. This monthly compilation alerts healthcare providers, manufacturers, and users to device safety issues requiring attention. Affected parties should review the listed notices and implement any recommended actions promptly.",
+        "zh": "英国MHRA发布了2026年10月现场安全通告汇总，包含9项新的医疗器械现场安全通告。该月度汇总提醒医疗机构、制造商和使用者关注需要采取措施的器械安全问题。相关方应及时查看所列通告并执行建议措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-09",
+      "detected_date": "2026-10-19T22:52:45Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_field_safety_notices_28_september_to_2_october_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Field Safety Notices: 28 September to 2 October 2026",
+        "zh": "MHRA 2026年9月28日至10月2日现场安全通告"
+      },
+      "summary": {
+        "en": "The MHRA has published the weekly list of Field Safety Notices (FSNs) issued between 28 September and 2 October 2026, containing nine new entries. Healthcare providers, medical device users, and responsible persons should review the notices to identify affected devices and implement the manufacturer's recommended corrective actions. The notices cover device-specific safety issues requiring prompt attention.",
+        "zh": "MHRA 发布了2026年9月28日至10月2日期间的现场安全通告（FSN）列表，包含9条新条目。相关医疗机构、医疗器械使用者和负责人应查看通告，识别受影响设备并执行制造商建议的纠正措施。这些通告涉及需及时关注的器械特定安全问题。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-09",
+      "detected_date": "2026-10-19T22:52:54Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_field_safety_notices_21_to_25_september_2026",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "Field Safety Notices: 21 to 25 September 2026",
+        "zh": "2026年9月21日至25日现场安全通告"
+      },
+      "summary": {
+        "en": "This UK MHRA page lists Field Safety Notices (FSNs) issued between 21 and 25 September 2026. It is relevant to healthcare providers and users of medical devices named in the notices. Regulatory affairs professionals should review the full list, identify affected devices in their inventory, and implement the manufacturer’s recommended field safety actions or recalls.",
+        "zh": "英国MHRA本页面汇总了2026年9月21日至25日发布的现场安全通告（FSN）。相关信息适用于通告中所列医疗器械的医疗机构和使用者。法规事务人员应查阅完整清单，识别库存中受影响设备，并执行制造商建议的现场安全措施或召回要求。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-29",
+      "detected_date": "2026-10-19T22:53:11Z",
+      "importance": "high",
+      "tags": [
+        "field_safety_notice",
+        "uk_mhra",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261019_mhra_safety_roundup_september_2026_9_new_safety_advice_entri",
+      "framework": "uk_mhra",
+      "category": "safety_communication",
+      "title": {
+        "en": "MHRA Safety Roundup September 2026: 9 New Safety Advice Entries for Medicines and Devices",
+        "zh": "英国MHRA 2026年9月安全综述：9条最新药物与器械安全建议"
+      },
+      "summary": {
+        "en": "The MHRA Safety Roundup for September 2026 consolidates the latest safety advice for users of medicines and medical devices, with nine new entries detected in the Atom feed. It is relevant to healthcare professionals, patients, and manufacturers responsible for pharmacovigilance and device post-market surveillance. Readers should review the listed safety updates, identify any products in their portfolio or clinical use, and implement recommended risk mitigation or reporting actions as appropriate.",
+        "zh": "MHRA 2026年9月安全综述汇总了针对药品和医疗器械用户的最新安全建议，本期新增9条条目。内容面向医疗专业人员、患者以及负责药物警戒和器械上市后监督的制造商。相关方应查阅所列安全更新，识别涉及自身产品组合或临床使用的项目，并酌情实施风险缓解或报告措施。"
+      },
+      "source_url": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-september-2026",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-09-29",
+      "detected_date": "2026-10-19T22:53:23Z",
+      "importance": "medium",
+      "tags": [
+        "mhra",
+        "safety_roundup",
+        "medical_devices",
+        "post_market_surveillance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20260928_mhra_updates_exceptional_use_authorisations_list_for_medical",
       "framework": "uk_mhra",
