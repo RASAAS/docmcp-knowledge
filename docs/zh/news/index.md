@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### FDA早期警报：Cardinal Health纠正含BD Alaris泵输液器的Presource套装
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA发布早期警报，涉及Cardinal Health对部分含BD Alaris泵输液器的Presource手术/操作套装发起的现场纠正。已收到相关套装的医疗机构和分销商应立即识别、隔离并停止使用这些产品，并按Cardinal Health的纠正通知进行退货或更换。该措施旨在降低所配输液器产品质量问题带来的患者安全风险。
+
+**标签**: `fda`, `infusion_sets`, `field_correction`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion)
+
+---
+
+### 早期警报：Cardinal Health更新含BD Alaris泵输液套件的Presource包使用说明
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA发布早期警报，Cardinal Health正在更新含有BD Alaris泵输液套件的Presource组合包使用说明。使用这些组合包的医疗机构应查看修订后的说明，确保正确安装和使用，因为相关变更可能影响输液泵兼容性。受影响用户应遵循Cardinal Health的通知和更新后的使用说明。
+
+**标签**: `early_alert`, `infusion_pump`, `instructions_for_use`, `cardinal_health`, `bd_alaris`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump)
+
+---
+
+### FDA对日本产部分奥林巴斯医疗器械发布进口警示
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA发布致医疗服务提供者的信，宣布对日本生产的某些奥林巴斯医疗器械实施进口警示。该行动影响相关奥林巴斯设备进入美国，并可能造成医疗机构供应中断。医疗机构应评估库存并准备替代方案；奥林巴斯需解决FDA发现的制造质量问题后，相关产品方可进口。
+
+**标签**: `import_alert`, `olympus`, `manufacturing_quality`, `fda_letter`, `supply_chain`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers)
+
+---
+
+### AVID Medical召回受BD ChloraPrep涂药器召回影响的便利套装
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA/CDRH发布通知，AVID Medical正在移除含有受BD ChloraPrep涂药器召回影响的便利套装。相关医疗机构应识别并隔离受影响套装，按照AVID Medical的召回指示进行处理，不得将受影响涂药器用于患者术前准备。
+
+**标签**: `convenience_kit_recall`, `chloraprep_applicator`, `avid_medical`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0)
+
+---
+
 ### MHRA 2026年10月5日至9日现场安全通告汇总
 
 **2026-10-19** | UK MHRA | 安全通报 | !! MEDIUM
@@ -1895,6 +1943,30 @@ Swissmedic已发布Inspire Medical Systems Inc. Inspire植入式脉冲发生器�
 **标签**: `swissmedic`, `fsca`, `orthopedic_instruments`, `field_safety_corrective_action`, `biomet_uk`
 
 [查看来源 (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260918_002)
+
+---
+
+### Steris RAPICIDE PA Part A 召回：通气盖堵塞可致瓶体膨胀及化学释放
+
+**2026-09-21** | FDA | 安全通报 | !!! HIGH
+
+FDA 已发布 Steris Corporation 的 RAPICIDE PA Part A 高水平消毒剂（目录号 ML020115）召回 Z-0154-2027。通气盖堵塞可能导致气体积聚、瓶体膨胀，旋开瓶盖时可能释放过量蒸气或液体化学品。相关用户应核查库存，遵循 Steris 召回指示，避免打开膨胀或损坏的瓶子以防化学品接触。
+
+**标签**: `fda_recall`, `high_level_disinfectant`, `steris`, `chemical_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222510)
+
+---
+
+### Steris RAPICIDE PA Part A 召回：通气盖堵塞可致气体积聚及化学品逸出
+
+**2026-09-21** | FDA | 安全通报 | !!! HIGH
+
+FDA发布STERIS RAPICIDE PA Part A高水平消毒剂（目录号ML020116）召回Z-0155-2027。若通气盖堵塞，气体可能积聚并导致瓶体膨胀，打开时可能释放过量蒸气或液体，存在化学暴露风险。医疗机构应隔离受影响产品，并按STERIS召回指引处理。
+
+**标签**: `fda_recall`, `high_level_disinfectant`, `chemical_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222511)
 
 ---
 

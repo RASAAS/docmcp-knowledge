@@ -1,7 +1,111 @@
 {
   "framework": "fda",
-  "last_updated": "2026-10-13T23:14:20Z",
+  "last_updated": "2026-10-20T22:12:47Z",
   "items": [
+    {
+      "id": "fda_20261020_early_alert_cardinal_health_issues_correction_for_presource",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+        "zh": "FDA早期警报：Cardinal Health纠正含BD Alaris泵输液器的Presource套装"
+      },
+      "summary": {
+        "en": "FDA issued an early alert regarding a field correction by Cardinal Health for selected Presource convenience packs containing BD Alaris pump infusion sets. Healthcare providers and distributors that received affected packs should immediately identify and segregate the products, discontinue use, and follow Cardinal Health’s correction notice for return or replacement. The action addresses a product-quality concern with the included infusion sets and aims to reduce patient safety risk.",
+        "zh": "FDA发布早期警报，涉及Cardinal Health对部分含BD Alaris泵输液器的Presource手术/操作套装发起的现场纠正。已收到相关套装的医疗机构和分销商应立即识别、隔离并停止使用这些产品，并按Cardinal Health的纠正通知进行退货或更换。该措施旨在降低所配输液器产品质量问题带来的患者安全风险。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "source_name": "FDA",
+      "published_date": "2026-10-20",
+      "detected_date": "2026-10-20T22:12:07Z",
+      "importance": "high",
+      "tags": [
+        "fda",
+        "infusion_sets",
+        "field_correction"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261020_early_alert_cardinal_health_updates_use_instructions_for_pre",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+        "zh": "早期警报：Cardinal Health更新含BD Alaris泵输液套件的Presource包使用说明"
+      },
+      "summary": {
+        "en": "FDA issued an early alert that Cardinal Health is updating use instructions for Presource packs containing BD Alaris pump infusion sets. Healthcare providers using these packs should review the revised instructions to ensure correct setup and use, as the change may affect infusion pump compatibility. Affected users should follow Cardinal Health's communication and the updated instructions.",
+        "zh": "FDA发布早期警报，Cardinal Health正在更新含有BD Alaris泵输液套件的Presource组合包使用说明。使用这些组合包的医疗机构应查看修订后的说明，确保正确安装和使用，因为相关变更可能影响输液泵兼容性。受影响用户应遵循Cardinal Health的通知和更新后的使用说明。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "source_name": "FDA",
+      "published_date": "2026-10-20",
+      "detected_date": "2026-10-20T22:12:17Z",
+      "importance": "high",
+      "tags": [
+        "early_alert",
+        "infusion_pump",
+        "instructions_for_use",
+        "cardinal_health",
+        "bd_alaris"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261020_fda_issues_import_alert_for_certain_olympus_devices_made_in",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Issues Import Alert for Certain Olympus Devices Made in Japan",
+        "zh": "FDA对日本产部分奥林巴斯医疗器械发布进口警示"
+      },
+      "summary": {
+        "en": "The FDA issued an import alert for certain Olympus medical devices manufactured in Japan, announced in a Letter to Health Care Providers. The action affects U.S. importation of covered Olympus devices and may disrupt supply for health care facilities using them. Providers should review inventory and plan alternatives; Olympus must address the manufacturing quality issues identified by FDA before affected devices can be imported.",
+        "zh": "FDA发布致医疗服务提供者的信，宣布对日本生产的某些奥林巴斯医疗器械实施进口警示。该行动影响相关奥林巴斯设备进入美国，并可能造成医疗机构供应中断。医疗机构应评估库存并准备替代方案；奥林巴斯需解决FDA发现的制造质量问题后，相关产品方可进口。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "source_name": "FDA",
+      "published_date": "2026-10-20",
+      "detected_date": "2026-10-20T22:12:35Z",
+      "importance": "high",
+      "tags": [
+        "import_alert",
+        "olympus",
+        "manufacturing_quality",
+        "fda_letter",
+        "supply_chain"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261020_convenience_kit_recall_avid_medical_removes_convenience_kits",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+        "zh": "AVID Medical召回受BD ChloraPrep涂药器召回影响的便利套装"
+      },
+      "summary": {
+        "en": "FDA/CDRH issued a notice that AVID Medical is removing convenience kits containing BD ChloraPrep applicators affected by a separate BD recall. Healthcare providers and facilities should identify and quarantine affected kits and follow AVID Medical's recall instructions. The affected applicators should not be used in patient preparation.",
+        "zh": "FDA/CDRH发布通知，AVID Medical正在移除含有受BD ChloraPrep涂药器召回影响的便利套装。相关医疗机构应识别并隔离受影响套装，按照AVID Medical的召回指示进行处理，不得将受影响涂药器用于患者术前准备。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
+      "source_name": "FDA",
+      "published_date": "2026-10-20",
+      "detected_date": "2026-10-20T22:12:47Z",
+      "importance": "high",
+      "tags": [
+        "convenience_kit_recall",
+        "chloraprep_applicator",
+        "avid_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261013_cdrh_posts_town_hall_materials_for_biocompatibility_chemical",
       "framework": "fda",
@@ -1041,6 +1145,57 @@
         "cdrh",
         "town_hall",
         "medical_devices"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261020_steris_rapicide_pa_part_a_recall_blocked_vented_cap_may_caus",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Steris RAPICIDE PA Part A Recall: Blocked Vented Cap May Cause Bottle Swelling and Chemical Release",
+        "zh": "Steris RAPICIDE PA Part A 召回：通气盖堵塞可致瓶体膨胀及化学释放"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0154-2027 for Steris Corporation RAPICIDE PA Part A High-Level Disinfectant, catalog number ML020115. A blocked vented cap may cause gas accumulation and bottle swelling, and excess vapor or liquid chemistry may escape when the cap is twisted during opening. Users should check inventory, follow Steris recall instructions, and avoid opening swollen or damaged bottles to prevent chemical exposure.",
+        "zh": "FDA 已发布 Steris Corporation 的 RAPICIDE PA Part A 高水平消毒剂（目录号 ML020115）召回 Z-0154-2027。通气盖堵塞可能导致气体积聚、瓶体膨胀，旋开瓶盖时可能释放过量蒸气或液体化学品。相关用户应核查库存，遵循 Steris 召回指示，避免打开膨胀或损坏的瓶子以防化学品接触。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222510",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-21",
+      "detected_date": "2026-10-20T22:11:28Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "high_level_disinfectant",
+        "steris",
+        "chemical_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261020_steris_rapicide_pa_part_a_recall_vented_cap_blockage_may_cau",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Steris RAPICIDE PA Part A Recall: Vented Cap Blockage May Cause Gas Buildup and Chemical Escape",
+        "zh": "Steris RAPICIDE PA Part A 召回：通气盖堵塞可致气体积聚及化学品逸出"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0155-2027 for Steris RAPICIDE PA Part A High-Level Disinfectant, catalog ML020116. If the vented cap becomes blocked, gas may accumulate, causing the bottle to swell and potentially release vapor or liquid when opened. This poses a chemical exposure risk to healthcare personnel. Users should quarantine affected product and follow Steris recall instructions.",
+        "zh": "FDA发布STERIS RAPICIDE PA Part A高水平消毒剂（目录号ML020116）召回Z-0155-2027。若通气盖堵塞，气体可能积聚并导致瓶体膨胀，打开时可能释放过量蒸气或液体，存在化学暴露风险。医疗机构应隔离受影响产品，并按STERIS召回指引处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222511",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-09-21",
+      "detected_date": "2026-10-20T22:11:37Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "high_level_disinfectant",
+        "chemical_safety"
       ],
       "related_docs": [],
       "status": "published"

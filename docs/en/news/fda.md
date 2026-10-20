@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA issued an early alert regarding a field correction by Cardinal Health for selected Presource convenience packs containing BD Alaris pump infusion sets. Healthcare providers and distributors that received affected packs should immediately identify and segregate the products, discontinue use, and follow Cardinal Health’s correction notice for return or replacement. The action addresses a product-quality concern with the included infusion sets and aims to reduce patient safety risk.
+
+**Tags**: `fda`, `infusion_sets`, `field_correction`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion)
+
+---
+
+### Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA issued an early alert that Cardinal Health is updating use instructions for Presource packs containing BD Alaris pump infusion sets. Healthcare providers using these packs should review the revised instructions to ensure correct setup and use, as the change may affect infusion pump compatibility. Affected users should follow Cardinal Health's communication and the updated instructions.
+
+**Tags**: `early_alert`, `infusion_pump`, `instructions_for_use`, `cardinal_health`, `bd_alaris`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump)
+
+---
+
+### FDA Issues Import Alert for Certain Olympus Devices Made in Japan
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+The FDA issued an import alert for certain Olympus medical devices manufactured in Japan, announced in a Letter to Health Care Providers. The action affects U.S. importation of covered Olympus devices and may disrupt supply for health care facilities using them. Providers should review inventory and plan alternatives; Olympus must address the manufacturing quality issues identified by FDA before affected devices can be imported.
+
+**Tags**: `import_alert`, `olympus`, `manufacturing_quality`, `fda_letter`, `supply_chain`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/letters-health-care-providers/import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers)
+
+---
+
+### Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall
+
+**2026-10-20** | FDA | cdrh_news | !!! HIGH
+
+FDA/CDRH issued a notice that AVID Medical is removing convenience kits containing BD ChloraPrep applicators affected by a separate BD recall. Healthcare providers and facilities should identify and quarantine affected kits and follow AVID Medical's recall instructions. The affected applicators should not be used in patient preparation.
+
+**Tags**: `convenience_kit_recall`, `chloraprep_applicator`, `avid_medical`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0)
+
+---
+
 ### CDRH Posts Town Hall Materials for Biocompatibility & Chemical Characterization Testing – Extractions (Sept 23, 2026)
 
 **2026-10-13** | FDA | cdrh_news | !! MEDIUM
@@ -483,6 +531,30 @@ FDA’s Center for Devices and Radiological Health (CDRH) announced a town hall 
 **Tags**: `biocompatibility`, `risk_assessment`, `cdrh`, `town_hall`, `medical_devices`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-biocompatibility-risk-assessment-09092026)
+
+---
+
+### Steris RAPICIDE PA Part A Recall: Blocked Vented Cap May Cause Bottle Swelling and Chemical Release
+
+**2026-09-21** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0154-2027 for Steris Corporation RAPICIDE PA Part A High-Level Disinfectant, catalog number ML020115. A blocked vented cap may cause gas accumulation and bottle swelling, and excess vapor or liquid chemistry may escape when the cap is twisted during opening. Users should check inventory, follow Steris recall instructions, and avoid opening swollen or damaged bottles to prevent chemical exposure.
+
+**Tags**: `fda_recall`, `high_level_disinfectant`, `steris`, `chemical_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222510)
+
+---
+
+### Steris RAPICIDE PA Part A Recall: Vented Cap Blockage May Cause Gas Buildup and Chemical Escape
+
+**2026-09-21** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0155-2027 for Steris RAPICIDE PA Part A High-Level Disinfectant, catalog ML020116. If the vented cap becomes blocked, gas may accumulate, causing the bottle to swell and potentially release vapor or liquid when opened. This poses a chemical exposure risk to healthcare personnel. Users should quarantine affected product and follow Steris recall instructions.
+
+**Tags**: `fda_recall`, `high_level_disinfectant`, `chemical_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222511)
 
 ---
 
