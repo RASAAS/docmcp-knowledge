@@ -31,7 +31,7 @@ The account page displays:
 
 ### Two-Factor Authentication
 
-- **Enable 2FA**: Scan QR code with authenticator app
+- **Enable 2FA**: Follow [Enable two-factor authentication](./enable-2fa) to install Microsoft Authenticator and scan the QR code
 - **Recovery Codes**: Save during setup for account recovery
 - **Trusted Devices**: 7-day 2FA bypass per device
 

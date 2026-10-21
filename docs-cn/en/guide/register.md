@@ -51,10 +51,10 @@ CN enterprise users require company verification and contract signing before acc
 
 ### Two-Factor Authentication (2FA)
 
-All paid plan users must enable TOTP 2FA:
+All paid plan users must enable TOTP 2FA. For the full install, scan, and confirm steps, see [Enable two-factor authentication](./enable-2fa).
 
-1. After upgrading to a paid plan, you'll be prompted to set up 2FA
-2. Scan the QR code with an authenticator app (recommended: Microsoft Authenticator)
+1. After upgrading to a paid plan, or after joining a team, you'll be prompted to set up 2FA
+2. Install Microsoft Authenticator on your phone and scan the QR code on your computer screen
 3. Enter the 6-digit code to confirm
 4. **Save your recovery codes** (used if authenticator is lost)
 

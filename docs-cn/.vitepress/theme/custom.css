@@ -2,3 +2,12 @@
 .Layout.survey-wide .VPDoc:not(.has-sidebar) .content {
   max-width: 1120px;
 }
+
+.phone-shot {
+  display: block;
+  width: min(280px, 100%);
+  height: auto;
+  margin: 12px 0 20px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+}
