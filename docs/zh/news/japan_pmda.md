@@ -6,6 +6,90 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 日本PMDA二级召回#2-13004：Getinge HCU40人工心肺用冷温水槽
+
+**2026-10-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布Getinge Group Japan HCU40冷温水槽（人工心肺用温度控制单元）的二级召回（编号2-13004）。该二级召回为中等风险级别，涉及相关安全或性能问题的处理。相关医疗机构应查阅PMDA官方召回通知，并按照制造商指示进行核查、纠正或退回。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `cardiopulmonary_bypass`, `heater_cooler_unit`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13004)
+
+---
+
+### 日本PMDA II类召回：Menicon 1DAY Premio日抛彩色视力矫正隐形眼镜（召回号2-13003）
+
+**2026-10-21** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对株式会社Menicon生产的“1DAY Menicon Premio”日抛型视力矫正彩色隐形眼镜的II类召回（召回号2-13003）。该召回表明产品存在中等风险的安全问题。相关医疗机构、经销商和患者应停止使用受影响批次，并遵循制造商的召回指示。
+
+**标签**: `japan_pmda`, `recall`, `class_ii`, `contact_lens`, `medical_device`, `menicon`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13003)
+
+---
+
+### 日本PMDA II类召回：Micren Healthcare EIT系统Enlight 2100电阻抗扫描仪
+
+**2026-10-20** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布对Micren Healthcare株式会社生产的EIT系统Enlight 2100（电阻抗扫描仪）的II类召回（召回编号：2-13001）。II类召回表示存在中等程度的安全或性能问题，需要采取纠正措施。使用该设备的医疗机构应立即核查库存，遵循制造商召回指示，并联系Micren Healthcare或其分销商进行退货或整改。具体技术缺陷在现有信息中未详述，请查阅PMDA官方召回通知。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `electrical_impedance_scanner`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13001)
+
+---
+
+### 日本PMDA发布Corpuls CPR电动心肺复苏器II类召回（Cosmic M.E.）
+
+**2026-10-19** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布Corpuls CPR电动心肺复苏器的II类召回（召回编号：2-12998），该产品由Cosmic M.E.公司销售。此次召回涉及该设备的中度风险安全/性能问题，影响日本境内使用该产品的医疗机构。相关用户应识别受影响设备，遵循制造商的现场安全纠正措施，并按指示联系Cosmic M.E.进行退货、维修或更换。
+
+**标签**: `pmda_recall`, `class_ii`, `cardiopulmonary_resuscitator`, `japan`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12998)
+
+---
+
+### PMDA II类召回：佳能Aquilion CT扫描仪TSX-308A/307A/307B/306A
+
+**2026-10-16** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布佳能公司全身用X射线CT诊断设备的II类召回（编号2-12997），涉及Aquilion ONE TSX-308A、Aquilion Serve TSX-307A、Aquilion Serve SP TSX-307B及Aquilion ONE TSX-306A。此次召回为中等风险等级，需采取纠正措施。医疗机构应核查受影响型号/序列号，并按照佳能或PMDA通知要求进行处置。
+
+**标签**: `pmda`, `class_ii_recall`, `ct_scanner`, `canon_inc`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12997)
+
+---
+
+### PMDA II类召回编号2-12995：雅培ARCHITECT i2000SR免疫发光分析仪
+
+**2026-10-16** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA对雅培日本（アボットジャパン合同会社）销售的ARCHITECT Analyzer i2000SR免疫发光分析仪发布了II类召回（编号2-12995）。II类召回属于中等风险，提示该设备可能存在安全或性能问题并需要采取纠正措施，但本次信息未给出具体风险细节。相关医疗机构应确认在用设备是否受影响，查阅PMDA官方通知和雅培日本的现场行动说明，并落实所需纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `immunoassay_analyzer`, `abbott`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12995)
+
+---
+
+### PMDA II类召回：罗氏cobas pure分立式临床化学自动分析装置
+
+**2026-10-15** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布第2-12994号II类召回，涉及罗氏诊断株式会社制造的cobas pure分立式临床化学自动分析装置。II类召回表示中等风险。使用该设备的临床实验室应遵循PMDA通知及罗氏的现场安全纠正措施。所提供元数据中未详述具体安全原因。
+
+**标签**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12994)
+
+---
+
 ### 日本PMDA对HOYA株式会社HOYA One Luminous日抛彩色隐形眼镜实施II类召回
 
 **2026-10-14** | Japan PMDA | 安全通报 | !! MEDIUM

@@ -6,6 +6,90 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Japan PMDA Class II Recall #2-13004: Getinge HCU40 Heater-Cooler Unit for Heart-Lung Machines
+
+**2026-10-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-13004) for the Getinge Group Japan HCU40 cold/warm water tank, a temperature control unit used with artificial heart-lung machines. The Class II rating indicates moderate safety risk. Healthcare facilities using this device should review the official PMDA recall notice and follow the manufacturer's instructions for inspection, correction, or return.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `cardiopulmonary_bypass`, `heater_cooler_unit`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13004)
+
+---
+
+### PMDA Class II Recall #2-13003: Menicon 1DAY Premio Daily Colored Vision Correction Contact Lens
+
+**2026-10-21** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has issued a Class II recall (No. 2-13003) for Menicon Co., Ltd.'s "1DAY Menicon Premio," a single-use vision-correcting colored contact lens. This recall indicates a moderate-risk safety issue associated with the product. Healthcare providers, distributors, and patients should stop using affected lots and follow the manufacturer's recall instructions.
+
+**Tags**: `japan_pmda`, `recall`, `class_ii`, `contact_lens`, `medical_device`, `menicon`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13003)
+
+---
+
+### PMDA Class II Recall: EIT System Enlight 2100 (Electrical Impedance Scanner) by Micren Healthcare
+
+**2026-10-20** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-13001) for the EIT System Enlight 2100, an electrical impedance scanner manufactured by Micren Healthcare Co., Ltd. Class II indicates a moderate safety or performance concern requiring corrective action. Healthcare facilities with this device should immediately check their inventory, follow the manufacturer's recall instructions, and contact Micren Healthcare or the distributor for return or remediation. The specific technical defect is not detailed in the available item description; consult the official PMDA recall notice for further details.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `electrical_impedance_scanner`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13001)
+
+---
+
+### PMDA Class II Recall: Corpuls CPR Electric Cardiopulmonary Resuscitator (Cosmic M.E.)
+
+**2026-10-19** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (Recall No. 2-12998) for the Corpuls CPR, an electric cardiopulmonary resuscitator marketed by Cosmic M.E. Inc. The recall indicates a moderate-risk safety/performance issue affecting healthcare facilities using this device in Japan. Affected users should identify relevant units, follow the manufacturer's field safety corrective action, and contact Cosmic M.E. for return, repair, or replacement as instructed.
+
+**Tags**: `pmda_recall`, `class_ii`, `cardiopulmonary_resuscitator`, `japan`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12998)
+
+---
+
+### PMDA Class II Recall: Canon Aquilion CT Scanners TSX-308A/307A/307B/306A
+
+**2026-10-16** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-12997) for Canon Inc. whole-body X-ray CT diagnostic devices, covering Aquilion ONE TSX-308A, Aquilion Serve TSX-307A, Aquilion Serve SP TSX-307B, and Aquilion ONE TSX-306A. The recall indicates a moderate-risk safety issue requiring corrective action. Healthcare facilities should check affected model/serial numbers and follow Canon or PMDA recall instructions.
+
+**Tags**: `pmda`, `class_ii_recall`, `ct_scanner`, `canon_inc`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12997)
+
+---
+
+### PMDA Class II Recall #2-12995: Abbott ARCHITECT Analyzer i2000SR Immunoassay System
+
+**2026-10-16** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA issued a Class II recall (No. 2-12995) for the Abbott ARCHITECT Analyzer i2000SR, an immunoassay analyzer marketed by Abbott Japan LLC. Class II indicates moderate risk; the notice covers possible safety/performance issues requiring corrective action, though the specific hazard is not stated in this feed. Healthcare facilities with the affected analyzer should confirm whether their units are impacted, review the official PMDA/field action notice, and follow Abbott Japan's required corrective actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `immunoassay_analyzer`, `abbott`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12995)
+
+---
+
+### PMDA Class II Recall: cobas pure Discrete Clinical Chemistry Analyzer (Roche Diagnostics K.K.)
+
+**2026-10-15** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued Class II recall No. 2-12994 for the cobas pure discrete-method clinical chemistry analyzer manufactured by Roche Diagnostics K.K. Class II indicates a moderate-risk device issue. Clinical laboratories using this analyzer should consult the PMDA notice and Roche's field safety instructions for required corrective actions. The provided metadata does not specify the underlying safety issue.
+
+**Tags**: `pmda_recall`, `class_ii`, `clinical_chemistry_analyzer`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12994)
+
+---
+
 ### Japan PMDA Class II Recall of HOYA One Luminous Single-Use Colored Contact Lenses
 
 **2026-10-14** | Japan PMDA | Safety Communication | !! MEDIUM

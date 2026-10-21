@@ -1,7 +1,191 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-10-14T22:06:32Z",
+  "last_updated": "2026-10-21T22:06:49Z",
   "items": [
+    {
+      "id": "japan_pmda_20261021_japan_pmda_class_ii_recall_2_13004_getinge_hcu40_heater_cool",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall #2-13004: Getinge HCU40 Heater-Cooler Unit for Heart-Lung Machines",
+        "zh": "日本PMDA二级召回#2-13004：Getinge HCU40人工心肺用冷温水槽"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II recall (No. 2-13004) for the Getinge Group Japan HCU40 cold/warm water tank, a temperature control unit used with artificial heart-lung machines. The Class II rating indicates moderate safety risk. Healthcare facilities using this device should review the official PMDA recall notice and follow the manufacturer's instructions for inspection, correction, or return.",
+        "zh": "日本PMDA已发布Getinge Group Japan HCU40冷温水槽（人工心肺用温度控制单元）的二级召回（编号2-13004）。该二级召回为中等风险级别，涉及相关安全或性能问题的处理。相关医疗机构应查阅PMDA官方召回通知，并按照制造商指示进行核查、纠正或退回。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13004",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-21T22:05:28Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "cardiopulmonary_bypass",
+        "heater_cooler_unit",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_2_13003_menicon_1day_premio_daily_color",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall #2-13003: Menicon 1DAY Premio Daily Colored Vision Correction Contact Lens",
+        "zh": "日本PMDA II类召回：Menicon 1DAY Premio日抛彩色视力矫正隐形眼镜（召回号2-13003）"
+      },
+      "summary": {
+        "en": "The PMDA has issued a Class II recall (No. 2-13003) for Menicon Co., Ltd.'s \"1DAY Menicon Premio,\" a single-use vision-correcting colored contact lens. This recall indicates a moderate-risk safety issue associated with the product. Healthcare providers, distributors, and patients should stop using affected lots and follow the manufacturer's recall instructions.",
+        "zh": "日本PMDA发布了对株式会社Menicon生产的“1DAY Menicon Premio”日抛型视力矫正彩色隐形眼镜的II类召回（召回号2-13003）。该召回表明产品存在中等风险的安全问题。相关医疗机构、经销商和患者应停止使用受影响批次，并遵循制造商的召回指示。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13003",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-21T22:05:38Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "recall",
+        "class_ii",
+        "contact_lens",
+        "medical_device",
+        "menicon"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_eit_system_enlight_2100_electrical_impe",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: EIT System Enlight 2100 (Electrical Impedance Scanner) by Micren Healthcare",
+        "zh": "日本PMDA II类召回：Micren Healthcare EIT系统Enlight 2100电阻抗扫描仪"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II recall (No. 2-13001) for the EIT System Enlight 2100, an electrical impedance scanner manufactured by Micren Healthcare Co., Ltd. Class II indicates a moderate safety or performance concern requiring corrective action. Healthcare facilities with this device should immediately check their inventory, follow the manufacturer's recall instructions, and contact Micren Healthcare or the distributor for return or remediation. The specific technical defect is not detailed in the available item description; consult the official PMDA recall notice for further details.",
+        "zh": "日本PMDA已发布对Micren Healthcare株式会社生产的EIT系统Enlight 2100（电阻抗扫描仪）的II类召回（召回编号：2-13001）。II类召回表示存在中等程度的安全或性能问题，需要采取纠正措施。使用该设备的医疗机构应立即核查库存，遵循制造商召回指示，并联系Micren Healthcare或其分销商进行退货或整改。具体技术缺陷在现有信息中未详述，请查阅PMDA官方召回通知。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13001",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-20",
+      "detected_date": "2026-10-21T22:05:52Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "electrical_impedance_scanner"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_corpuls_cpr_electric_cardiopulmonary_re",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Corpuls CPR Electric Cardiopulmonary Resuscitator (Cosmic M.E.)",
+        "zh": "日本PMDA发布Corpuls CPR电动心肺复苏器II类召回（Cosmic M.E.）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (Recall No. 2-12998) for the Corpuls CPR, an electric cardiopulmonary resuscitator marketed by Cosmic M.E. Inc. The recall indicates a moderate-risk safety/performance issue affecting healthcare facilities using this device in Japan. Affected users should identify relevant units, follow the manufacturer's field safety corrective action, and contact Cosmic M.E. for return, repair, or replacement as instructed.",
+        "zh": "日本PMDA已发布Corpuls CPR电动心肺复苏器的II类召回（召回编号：2-12998），该产品由Cosmic M.E.公司销售。此次召回涉及该设备的中度风险安全/性能问题，影响日本境内使用该产品的医疗机构。相关用户应识别受影响设备，遵循制造商的现场安全纠正措施，并按指示联系Cosmic M.E.进行退货、维修或更换。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12998",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-19",
+      "detected_date": "2026-10-21T22:06:08Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "cardiopulmonary_resuscitator",
+        "japan"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_canon_aquilion_ct_scanners_tsx_308a_307",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Canon Aquilion CT Scanners TSX-308A/307A/307B/306A",
+        "zh": "PMDA II类召回：佳能Aquilion CT扫描仪TSX-308A/307A/307B/306A"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II recall (No. 2-12997) for Canon Inc. whole-body X-ray CT diagnostic devices, covering Aquilion ONE TSX-308A, Aquilion Serve TSX-307A, Aquilion Serve SP TSX-307B, and Aquilion ONE TSX-306A. The recall indicates a moderate-risk safety issue requiring corrective action. Healthcare facilities should check affected model/serial numbers and follow Canon or PMDA recall instructions.",
+        "zh": "日本PMDA已发布佳能公司全身用X射线CT诊断设备的II类召回（编号2-12997），涉及Aquilion ONE TSX-308A、Aquilion Serve TSX-307A、Aquilion Serve SP TSX-307B及Aquilion ONE TSX-306A。此次召回为中等风险等级，需采取纠正措施。医疗机构应核查受影响型号/序列号，并按照佳能或PMDA通知要求进行处置。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12997",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-21T22:06:20Z",
+      "importance": "medium",
+      "tags": [
+        "pmda",
+        "class_ii_recall",
+        "ct_scanner",
+        "canon_inc",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_2_12995_abbott_architect_analyzer_i2000",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall #2-12995: Abbott ARCHITECT Analyzer i2000SR Immunoassay System",
+        "zh": "PMDA II类召回编号2-12995：雅培ARCHITECT i2000SR免疫发光分析仪"
+      },
+      "summary": {
+        "en": "Japan's PMDA issued a Class II recall (No. 2-12995) for the Abbott ARCHITECT Analyzer i2000SR, an immunoassay analyzer marketed by Abbott Japan LLC. Class II indicates moderate risk; the notice covers possible safety/performance issues requiring corrective action, though the specific hazard is not stated in this feed. Healthcare facilities with the affected analyzer should confirm whether their units are impacted, review the official PMDA/field action notice, and follow Abbott Japan's required corrective actions.",
+        "zh": "日本PMDA对雅培日本（アボットジャパン合同会社）销售的ARCHITECT Analyzer i2000SR免疫发光分析仪发布了II类召回（编号2-12995）。II类召回属于中等风险，提示该设备可能存在安全或性能问题并需要采取纠正措施，但本次信息未给出具体风险细节。相关医疗机构应确认在用设备是否受影响，查阅PMDA官方通知和雅培日本的现场行动说明，并落实所需纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12995",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-16",
+      "detected_date": "2026-10-21T22:06:40Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "immunoassay_analyzer",
+        "abbott"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261021_pmda_class_ii_recall_cobas_pure_discrete_clinical_chemistry",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: cobas pure Discrete Clinical Chemistry Analyzer (Roche Diagnostics K.K.)",
+        "zh": "PMDA II类召回：罗氏cobas pure分立式临床化学自动分析装置"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued Class II recall No. 2-12994 for the cobas pure discrete-method clinical chemistry analyzer manufactured by Roche Diagnostics K.K. Class II indicates a moderate-risk device issue. Clinical laboratories using this analyzer should consult the PMDA notice and Roche's field safety instructions for required corrective actions. The provided metadata does not specify the underlying safety issue.",
+        "zh": "日本PMDA已发布第2-12994号II类召回，涉及罗氏诊断株式会社制造的cobas pure分立式临床化学自动分析装置。II类召回表示中等风险。使用该设备的临床实验室应遵循PMDA通知及罗氏的现场安全纠正措施。所提供元数据中未详述具体安全原因。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12994",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-10-15",
+      "detected_date": "2026-10-21T22:06:49Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "clinical_chemistry_analyzer"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20261014_japan_pmda_class_ii_recall_of_hoya_one_luminous_single_use_c",
       "framework": "japan_pmda",
