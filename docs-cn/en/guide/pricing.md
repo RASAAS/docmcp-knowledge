@@ -115,6 +115,7 @@ Small packs (20 Credits) still use the per-plan rates above. Bulk packs use a **
 | Pack | USD | Approx. CNY | Unit rate |
 |------|----:|------------:|----------:|
 | **500 Credits** | $93 | ¥651 | ¥1.30 / Credit |
+| **1,000 Credits** | $186 | ¥1,302 | ¥1.30 / Credit |
 | **2,000 Credits** | $372 | ¥2,604 | ¥1.30 / Credit |
 
 ### Translation Credits
