@@ -127,7 +127,19 @@ Translation tool uses a **separate billing** system, independent from monthly AI
 
 Translation usage is not deducted from monthly Credits. Separate translation credits must be purchased.
 
+## One trial only, and enterprise payment comes after the contract
+
+Each email and phone number has one 30-day free trial (150 Credits). After the account is deleted, a new trial cannot be registered. Choosing Enterprise and still selecting Free Trial also shows that the free trial has already been used.
+
+While the trial account still exists, payment appears on the Account page only after enterprise verification and the contract are complete. Payment is not available while verification shows Under review. Users who have already used the trial and have not deleted the account can join with a Pro, Max, or CRO team invitation link. If the account has been deleted, open a new account with a contracted paid invitation code. These paths do not issue another personal trial allowance.
+
+See [Trial and enterprise signup](./trial-enterprise) for the full steps.
+
 ## FAQ
+
+### I deleted a trial account, or I cannot find payment after enterprise verification was approved. What should I do?
+
+See [Trial and enterprise signup](./trial-enterprise).
 
 ### What happens when Credits run out?
 
