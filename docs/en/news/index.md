@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Swissmedic FSCA: Philips Azurion Stationary Angiographic X-ray System
+
+**2026-10-23** | Swissmedic | Safety Communication | !! MEDIUM
+
+This Swissmedic FSCA concerns the Philips Azurion stationary angiographic X-ray system (digital) manufactured by Philips Medical Systems Nederland B.V. The published entry indicates affected models as 'See FSN' and does not provide the specific reason in the short description; users should refer to the manufacturer's Field Safety Notice for the detailed risk and corrective actions. Affected facilities should check their system models against the FSN and follow Philips' recommended measures.
+
+**Tags**: `swissmedic`, `fsca`, `philips_azurion`, `angiography`, `field_safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261016_030)
+
+---
+
+### Swissmedic FSCA: MDE Kft. Cardiologic ECG Device Model CAR-03-IA
+
+**2026-10-23** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action for the Cardiologic cardiac recording / ECG measurement device manufactured by MDE Kft., affecting model CAR-03-IA used in clinical settings. The available notice description does not specify the detailed safety reason or corrective action. Healthcare facilities and users should review the official Swissmedic FSCA and the manufacturer’s field safety notice for required actions.
+
+**Tags**: `swissmedic`, `fsca`, `ecg`, `cardiac_monitoring`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261014_014)
+
+---
+
+### Swissmedic FSCA: Li-Ion Rechargeable Battery 28.8V 84.9W by GS Elektromedizinische / Corpuls (Model 09120.1)
+
+**2026-10-22** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the Li-Ion Rechargeable Battery 28.8V 84.9W, manufactured by GS Elektromedizinische Geräte G. Stemple GmbH / Corpuls. The affected model is 09120.1, listed as a secondary battery for medical devices. The supplied notice does not specify the detailed reason or recommended actions; users should consult the official Swissmedic FSCA (Vk_20260930_001) and follow manufacturer instructions. Regulatory affairs professionals should verify affected inventory and monitor updates.
+
+**Tags**: `swissmedic`, `fsca`, `lithium_ion_battery`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20260930_001)
+
+---
+
+### Medartis AG 1.2/1.5 TriLock Scaphoid Plate 3x2H Large t0.8 FSCA (Model A-4350.81)
+
+**2026-10-22** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for Medartis AG's 1.2/1.5 TriLock Scaphoid Plate 3x2H Large, thickness 0.8 mm, model A-4350.81, a bone fixation plate. The specific reason for the corrective action is not detailed in the provided FSCA listing. Healthcare facilities should review the official Swissmedic notice and manufacturer's field safety notice, identify and quarantine affected units, and contact Medartis AG for further instructions.
+
+**Tags**: `swissmedic`, `fsca`, `bone_fixation_plate`, `medartis`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261020_006)
+
+---
+
 ### Japan PMDA Class II Recall #2-13004: Getinge HCU40 Heater-Cooler Unit for Heart-Lung Machines
 
 **2026-10-21** | Japan PMDA | Safety Communication | !! MEDIUM
@@ -27,6 +75,114 @@ The PMDA has issued a Class II recall (No. 2-13003) for Menicon Co., Ltd.'s "1DA
 **Tags**: `japan_pmda`, `recall`, `class_ii`, `contact_lens`, `medical_device`, `menicon`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13003)
+
+---
+
+### Swissmedic FSCA: Abbott FreeStyle Libre 3 App – Correct Software Version Required
+
+**2026-10-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the FreeStyle Libre 3 App from Abbott Diabetes Care Ltd, a percutaneous interstitial fluid glucose monitoring system. The listed reason is to add the correct software version. The notice does not specify affected model numbers or lots. Users and healthcare professionals should verify they are using the correct app software version and follow Abbott's and Swissmedic's instructions.
+
+**Tags**: `swissmedic`, `fsca`, `freestyle_libre`, `software_version`, `glucose_monitoring`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261015_015)
+
+---
+
+### Swissmedic FSCA: Steriflush NaCl 0.9% Prefilled Syringes by Sterisets Manufacturing S.A.
+
+**2026-10-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for Steriflush syringes NaCl 0.9%, prefilled syringes with sterile physiological solution manufactured by Sterisets Manufacturing S.A. The FSCA summary does not specify the detailed reason for the corrective action or affected model/lot numbers; these are indicated in the associated Field Safety Notice (FSN). Regulatory affairs professionals and users should review the FSN, identify affected lots, and follow the manufacturer's recommended actions such as quarantine, return, or disposal.
+
+**Tags**: `swissmedic`, `fsca`, `prefilled_syringes`, `medical_device`, `safety_corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261019_001)
+
+---
+
+### Swissmedic FSCA: Steriflush Syringes with Water 10% Glycerine by Sterisets Manufacturing S.A.
+
+**2026-10-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Steriflush prefilled syringes containing water with 10% glycerine, manufactured by Sterisets Manufacturing S.A. Affected models are 14318S, 14318BS, 14318BSNS, 3040008, 3040010, and 3040016. The published summary does not specify the reason or detailed recommended actions; users and distributors should consult the official Swissmedic notice and follow the manufacturer's instructions.
+
+**Tags**: `swissmedic`, `fsca`, `prefilled_syringes`, `sterisets`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261019_001)
+
+---
+
+### Swissmedic FSCA: Steriflush Prefilled Syringes with Sterile Water – Sterisets Manufacturing S.A.
+
+**2026-10-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a field safety corrective action (FSCA) for Steriflush prefilled syringes with sterile water manufactured by Sterisets Manufacturing S.A. The listed models are 14313BS, 14313BSNS, 14314BSNS, 3040002, 3040006, and 3040012; specific lots should be checked in the official FSCA. The short description does not specify the corrective action reason, so users should review the full Swissmedic notice and manufacturer guidance, identify and quarantine affected devices, and follow any required actions.
+
+**Tags**: `swissmedic`, `fsca`, `prefilled_syringes`, `sterile_water`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261019_001)
+
+---
+
+### Swissmedic FSCA: ConvaTec ESENTA Stomahesive Paste, Models 183910 and 1739999
+
+**2026-10-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for the ConvaTec ESENTA Stomahesive Paste, a peristomal/peri-wound dressing. The affected models are 183910 and 1739999. The available notice does not detail the specific reason for the action; users should consult the official Swissmedic FSCA entry and any ConvaTec field safety notice for recommended actions.
+
+**Tags**: `swissmedic`, `fsca`, `convatec`, `stoma_care`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261015_021)
+
+---
+
+### Swissmedic FSCA for Siemens Healthcare GmbH ARTIS icono/pheno Angiographic X-Ray System
+
+**2026-10-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Siemens Healthcare GmbH ARTIS icono/pheno stationary angiographic X-ray system. The specific reason and affected models/serial numbers are detailed in the manufacturer’s Field Safety Notice (FSN) referenced by Swissmedic. Affected users should review the FSN and follow Siemens Healthineers recommendations, including any required inspection, maintenance, or configuration changes.
+
+**Tags**: `swissmedic`, `fsca`, `siemens_healthineers`, `angiographic_x_ray`, `field_safety_notice`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261016_026)
+
+---
+
+### Swissmedic FSCA: Merit Medical Surfacer Inside-Out Access Catheter System (Model 600200/C)
+
+**2026-10-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a field safety corrective action (FSCA) for the Merit Medical Systems Inc. Surfacer® Inside-Out® Access Catheter System, a central venous catheter inside-out introduction set. The affected model is 600200/C. The Swissmedic entry does not state the specific reason, so users should consult Merit Medical’s FSCA notice for the hazard and required actions; facilities should identify and quarantine affected devices according to the manufacturer’s instructions.
+
+**Tags**: `swissmedic`, `fsca`, `central_venous_catheter`, `medical_device_safety`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261013_031)
+
+---
+
+### Swissmedic FSCA: American Orthodontics Corporation Orthodontic Metal Devices
+
+**2026-10-21** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Orthodontic Metal Devices manufactured by American Orthodontics Corporation. The Swissmedic entry indicates that details on the reason and affected model/lot are provided in the Field Safety Notice (FSN). Healthcare professionals and users should consult the FSN and follow the manufacturer's instructions for the affected devices.
+
+**Tags**: `swissmedic`, `fsca`, `orthodontic_devices`, `american_orthodontics`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261019_043)
+
+---
+
+### Swissmedic FSCA: Olympus Winter & Ibe Electrosurgical HF-Cables and Connector Cables
+
+**2026-10-21** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for Olympus Winter & Ibe GmbH HF-cables, cables, and connector cables used with electrosurgical units. The notice affects multiple models, including A00010A, A00011A, A00012A, A0335.1, A0355, A0357, A0358, A0391, A0392, A0393, A60000C, A60001C, A60002C, A60003C, 00120.1, WA00013A, WA99510A, WA47784A, and WA47785A. Healthcare facilities should identify affected devices, follow the manufacturer's field safety notice, and contact Olympus for corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `electrosurgical_cables`, `olympus_winter_ibe`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261016_016)
 
 ---
 
@@ -87,6 +243,18 @@ Japan's PMDA has published a Class II recall (No. 2-13001) for the EIT System En
 **Tags**: `japan_pmda`, `class_ii_recall`, `electrical_impedance_scanner`
 
 [View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13001)
+
+---
+
+### Swissmedic FSCA: Medtrum Technologies Glucose Sensor Model MD3658
+
+**2026-10-20** | Swissmedic | Safety Communication | !!! HIGH
+
+Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Medtrum Technologies Inc. Glucose Sensor, model MD3658, used in general medicine diagnosis and monitoring. The specific reason for the corrective action is not detailed in the provided notification. Affected users and healthcare facilities should consult the official Swissmedic FSCA and follow Medtrum Technologies' instructions to ensure patient safety and regulatory compliance.
+
+**Tags**: `swissmedic`, `fsca`, `glucose_sensor`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261002_012)
 
 ---
 
@@ -9779,6 +9947,42 @@ Swissmedic has published a Field Safety Corrective Action for the Da Vinci X / X
 FSCA: MD: Robot-assisted endoscopic surgery systems. Reason: New Field Safety Notice, Extension on affected devices. Model: See FSN; See FSN.
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241223_26)
+
+---
+
+### Swissmedic FSCA: KayserBett OLAF 98 & 135 Electrical Assistive Beds – Additional Corrective Action
+
+**2024-11-05** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a Field Safety Corrective Action (FSCA) for KayserBett OLAF 98 and OLAF 135 electrical assistive beds manufactured by KayserBetten GmbH & Co. KG. The action is issued for an additional corrective measure related to the devices. Healthcare facilities and users with affected models should review the Swissmedic notice and follow the manufacturer’s recommended corrective actions.
+
+**Tags**: `swissmedic`, `fsca`, `electrical_assistive_bed`, `medical_device_correction`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241024_39)
+
+---
+
+### Swissmedic FSCA: KayserBett IDA Electric Assistive Bed – Additional Corrective Action
+
+**2024-11-05** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has published a field safety corrective action (FSCA) for the KayserBett IDA electrical assistive bed, manufactured by KayserBetten GmbH & Co. KG. The notice concerns additional corrective action for model IDA. Healthcare facilities, distributors, and users should review the manufacturer’s FSCA and implement any required actions.
+
+**Tags**: `swissmedic`, `fsca`, `electrical_assistive_bed`, `corrective_action`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241029_24)
+
+---
+
+### Swissmedic FSCA: KayserBett EMMA1/EMMA2 Electrical Assistive Beds – Additional Corrective Action
+
+**2024-11-05** | Swissmedic | Safety Communication | !! MEDIUM
+
+Swissmedic has issued a Field Safety Corrective Action for the KayserBett EMMA electrical assistive bed, covering models EMMA1 and EMMA2, manufactured by KayserBetten GmbH & Co. KG. The notice concerns an additional corrective action for these devices. Users and healthcare facilities should review the Swissmedic notice and follow the manufacturer's instructions for affected beds.
+
+**Tags**: `swissmedic`, `fsca`, `electrical_assistive_bed`, `corrective_action`, `medical_device`
+
+[View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20241029_24)
 
 ---
 
