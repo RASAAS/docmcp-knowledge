@@ -133,17 +133,25 @@ SOURCES = {
         },
     },
     "nmpa": {
-        "nmpa_announcements": {
-            "name": "NMPA Medical Device Announcements (RSS)",
-            "url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/",
-            "check_type": "generic_page",
+        # The NMPA and CMDE sites answer datacenter HTTP with a Ruishu challenge.
+        # gov.cn mirrors 公告/通知/指导原则 as JSON. Pages that are only on
+        # nmpa.gov.cn or cmde.org.cn are read by Reguverse Desktop and can be
+        # dropped in scripts/.browser_inbox/notices.json.
+        "nmpa_gov_policy": {
+            "name": "NMPA notices mirrored on gov.cn",
+            "url": "https://sousuo.www.gov.cn/search-gov/data",
+            "check_type": "gov_policy",
             "category": "nmpa/regulations",
-            "title_filter": r"(医疗器械|体外诊断).{0,20}(公告|通告|通知|决定)",
-            "note": "NMPA medical device announcements page (generic_page parser). Replaces deprecated google_search.",
+            "queries": ["医疗器械", "指导原则"],
+            "note": "Policy-library JSON. Does not open the Ruishu page.",
         },
-        # cmde_guidance: removed (was google_search, CMDE requires JS rendering)
-        # nmpa_regulations: removed (was google_search, SAMR requires JS rendering)
-        # nmpa_standards: removed (was google_search, std.samr.gov.cn requires JS rendering)
+        "nmpa_browser_inbox": {
+            "name": "NMPA and CMDE notices from Reguverse Desktop",
+            "url": "https://www.nmpa.gov.cn/ylqx/ylqxggtg/index.html",
+            "check_type": "browser_inbox",
+            "category": "nmpa/regulations",
+            "note": "Reads scripts/.browser_inbox/notices.json when the desktop browser has collected it.",
+        },
     },
     # ----- Tier 1: Core international markets -----
     "uk_mhra": {
@@ -2781,6 +2789,9 @@ class UpdateChecker:
         self.pmda_recalls = PMDARecallsChecker(session, self.state, seed_mode)
         self.mfds = MFDSChecker(session, self.state, seed_mode)
         self.generic_page = GenericPageChecker(session, self.state)
+        from official_notices import BrowserInboxChecker, GovPolicyChecker
+        self.gov_policy = GovPolicyChecker(session, self.state)
+        self.browser_inbox = BrowserInboxChecker(self.state)
         # Tier 2 checkers (Phase 3b)
         from tier2_checkers import (TGARSSChecker, SwissmedicChecker, SFDAChecker,
                                     ANVISAChecker, MedsafeChecker,
@@ -2887,6 +2898,10 @@ class UpdateChecker:
             return self.tfda.check(source_id, source)
         elif check_type == "generic_page":
             return self.generic_page.check(source_id, source)
+        elif check_type == "gov_policy":
+            return self.gov_policy.check(source_id, source)
+        elif check_type == "browser_inbox":
+            return self.browser_inbox.check(source_id, source)
         elif check_type == "eurlex_amendment":
             return self.eurlex.check(source_id, source)
         else:

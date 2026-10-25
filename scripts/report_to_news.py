@@ -19,6 +19,7 @@ Environment:
 """
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -30,6 +31,8 @@ from typing import Optional
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "regulatory_news"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from official_notices import cap_batch  # noqa: E402
 
 LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.deepseek.com/v1")
@@ -49,6 +52,7 @@ CATEGORY_MAP = {
     "nmpa/regulations": ("nmpa", "regulation_update"),
     "nmpa/guidance": ("nmpa", "guidance_new"),
     "nmpa/standards": ("nmpa", "standard_revision"),
+    "nmpa/notice": ("nmpa", "notice"),
     "_shared/standards": ("_shared", "standard_revision"),
     # Tier 1 international markets
     "uk_mhra/safety": ("uk_mhra", "safety_communication"),
@@ -97,6 +101,8 @@ CATEGORY_MAP = {
 def generate_item_id(framework: str, title: str, date: str) -> str:
     """Generate a stable item ID from framework + title keywords."""
     slug = re.sub(r"[^a-z0-9]+", "_", title.lower())[:60].strip("_")
+    if len(slug) < 12:
+        slug = hashlib.sha256(title.encode("utf-8")).hexdigest()[:16]
     return f"{framework}_{date.replace('-','')[:8]}_{slug}"
 
 
@@ -275,7 +281,10 @@ def _resolve_source_name(url: str) -> str:
         ("fda.gov", "FDA"),
         ("ecfr.gov", "eCFR"),
         ("govinfo.gov", "Federal Register"),
+        ("cmde.org.cn", "CMDE"),
+        ("nifdc.org.cn", "NIFDC"),
         ("nmpa.gov.cn", "NMPA"),
+        ("www.gov.cn", "中国政府网"),
         ("iso.org", "ISO"),
         ("iec.ch", "IEC"),
         ("gov.uk", "MHRA (UK)"),
@@ -325,7 +334,7 @@ def build_news_item_from_single(
         desc = item.get("description", "") or item.get("snippet", "")
         summary_en = desc[:500] if desc else title_en
         summary_zh = summary_en
-        importance = "medium"
+        importance = item.get("importance") or "medium"
         tags = []
 
     pub_date = item.get("pub_date", "") or datetime.now().strftime("%Y-%m-%d")
@@ -339,7 +348,7 @@ def build_news_item_from_single(
         "title": {"en": title_en, "zh": title_zh},
         "summary": {"en": summary_en, "zh": summary_zh},
         "source_url": source_url,
-        "source_name": _resolve_source_name(source_url),
+        "source_name": item.get("source_name") or _resolve_source_name(source_url),
         "published_date": pub_date if len(pub_date) == 10 else today,
         "detected_date": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "importance": importance,
@@ -361,13 +370,20 @@ def merge_into_framework(framework: str, new_items: list, dry_run: bool = False)
     else:
         data = {"framework": framework, "last_updated": "", "items": []}
 
+    def _url_key(url: str) -> str:
+        return (url or "").split("#")[0].rstrip("/")
+
     existing_ids = {item["id"] for item in data["items"]}
+    existing_urls = {_url_key(item.get("source_url", "")) for item in data["items"]}
     added = 0
     for item in new_items:
-        if item["id"] not in existing_ids:
+        url_key = _url_key(item.get("source_url", ""))
+        if item["id"] not in existing_ids and (not url_key or url_key not in existing_urls):
             det = item.pop("_detection", None)
             data["items"].append(item)
             existing_ids.add(item["id"])
+            if url_key:
+                existing_urls.add(url_key)
             added += 1
             print(f"  + Added: {item['id']}")
         else:
@@ -423,27 +439,33 @@ def main():
             continue
 
         print(f"Processing: [{category_key}] {len(items)} item(s) -- {note[:60]}")
+        items = cap_batch(items, news_category)
+        if len(items) < len(update.get("new_items", update.get("db_confirmed_items", []))):
+            print(f"  Capped to {len(items)} so safety alerts do not crowd out notices")
 
         for idx, item in enumerate(items):
+            item_key = item.get("category_key") or category_key
+            item_mapping = CATEGORY_MAP.get(item_key, mapping)
+            item_framework, item_news_category = item_mapping
             item_title = item.get("title", "")[:60]
             print(f"  Item {idx + 1}/{len(items)}: {item_title}...")
 
             llm_result = None
             if args.use_llm and LLM_API_KEY:
                 llm_result = call_llm_summary_single(
-                    item, category_key, context_note=note,
+                    item, item_key, context_note=note,
                 )
                 if llm_result:
                     print(f"    LLM: {llm_result.get('title_en', '')[:60]}")
                 time.sleep(1)
 
             news_item = build_news_item_from_single(
-                item, framework, news_category,
+                item, item_framework, item_news_category,
                 check_type, source_id,
                 llm_result=llm_result,
                 fallback_url=fallback_url,
             )
-            new_by_framework.setdefault(framework, []).append(news_item)
+            new_by_framework.setdefault(item_framework, []).append(news_item)
 
     print(f"\n{'='*50}")
     total_added = 0

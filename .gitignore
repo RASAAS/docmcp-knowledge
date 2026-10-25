@@ -3,6 +3,7 @@ node_modules/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
 scripts/.cache/
+scripts/.browser_inbox/
 *.pyc
 nmpa/guidance/_unmatched/
 
