@@ -6,9 +6,9 @@ title:
 regulation: nmpa
 category: nmpa/regulations
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/qms-gmp/nmpa-notice-2022-50/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
+source_url: https://www.gov.cn/zhengce/zhengceku/2022-10/10/content_5717090.htm
+source_url_verified: '2022-10-10'
+source_url_status: official
 source_format: html
 translation: original
 last_verified: '2026-02-23'

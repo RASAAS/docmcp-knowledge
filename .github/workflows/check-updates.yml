@@ -5,7 +5,7 @@ name: Weekly Regulatory Update Check
 #   Tue 03:00 CST (Mon 19:00 UTC) -> Tier 1: UK MHRA + Canada + Australia TGA
 #   Wed 03:00 CST (Tue 19:00 UTC) -> FDA (RSS + eCFR API + OpenFDA API)
 #   Thu 03:00 CST (Wed 19:00 UTC) -> Tier 1: Japan PMDA + Korea MFDS
-#   Fri 03:00 CST (Thu 19:00 UTC) -> NMPA/CMDE (Vertex AI Search primary)
+#   Fri 03:00 CST (Thu 19:00 UTC) -> NMPA (gov.cn policy library + full text)
 #   Sat 03:00 CST (Fri 19:00 UTC) -> Tier 2: CH/BR/SA/SG/IN
 #   Sun 03:00 CST (Sat 19:00 UTC) -> Tier 3: MX/AR/TW/NZ/ID/MY/TH/IL/HK
 #   1st of month 03:00 CST (prev 19:00 UTC) -> ISO/IEC shared standards
@@ -278,6 +278,17 @@ jobs:
           git add docs/en/eu_mdr/ docs/zh/eu_mdr/ eu_mdr/standards/_index.json eu_mdr/other_standards/_index.json || true
           git diff --staged --quiet || git commit -m "chore: regenerate standards display pages [skip ci]"
           git push || true
+
+      - name: Sync gov.cn full text into the NMPA catalog
+        if: always() && (steps.group.outputs.group == 'nmpa' || steps.group.outputs.group == 'all')
+        run: |
+          python scripts/sync_gov_documents.py --limit 8 --pages 3
+          git add nmpa/guidance nmpa/regulations docs/zh/nmpa scripts/.official_fulltext_state.json || true
+          git diff --staged --quiet || {
+            git commit -m "chore: update NMPA catalog and full text from gov.cn"
+            git push
+          }
+        continue-on-error: true
 
       - name: Notify VPS backend to refresh knowledge index
         if: steps.report.outputs.db_confirmed != '0' || steps.report.outputs.confirmed != '0'

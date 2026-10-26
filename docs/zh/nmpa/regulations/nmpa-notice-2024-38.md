@@ -6,9 +6,9 @@ title:
 regulation: nmpa
 category: nmpa/regulations
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/qms-gmp/mah/nmpa-notice-2024-38/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
+source_url: https://www.gov.cn/zhengce/zhengceku/202404/content_6943385.htm
+source_url_verified: '2024-04-03'
+source_url_status: official
 source_format: html
 translation: original
 last_verified: '2026-02-23'

@@ -6,9 +6,9 @@ title:
 regulation: nmpa
 category: nmpa/regulations
 status: active
-source_url: https://reguverse.com/documentation/nmpa-regulations-index/pre-market-submission/notice/fsc/
-source_url_verified: '2026-02-23'
-source_url_status: migrated
+source_url: https://www.gov.cn/zhengce/zhengceku/202512/content_7052743.htm
+source_url_verified: '2025-12-25'
+source_url_status: official
 source_format: html
 translation: original
 last_verified: '2026-02-23'

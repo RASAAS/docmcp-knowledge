@@ -6,9 +6,9 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
-source_url: "https://reguverse.com/documentation/nmpa-regulations-index/gsp/nmpa-notice-2023-153/"
-source_url_verified: '2026-02-23'
-source_url_status: migrated
+source_url: https://www.gov.cn/zhengce/zhengceku/202312/content_6919110.htm
+source_url_verified: '2023-12-08'
+source_url_status: official
 source_format: html
 translation: original
 last_verified: '2026-02-23'

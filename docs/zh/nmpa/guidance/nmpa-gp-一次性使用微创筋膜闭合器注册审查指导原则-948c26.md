@@ -6,6 +6,8 @@ title:
 regulation: nmpa
 category: nmpa/guidance
 status: active
+source_url: https://www.gov.cn/zhengce/zhengceku/2021-12/17/content_5661507.htm
+source_url_verified: '2021-12-17'
 document_number: 国家药品监督管理局2021年第102号通告
 source_format: markdown
 translation: original
