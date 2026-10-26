@@ -20,6 +20,8 @@ effective_date: '2022-01-01'
 
 # 国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告
 
+本页是该通告的全文。《医疗器械临床试验质量管理规范》的站内全文见 [医疗器械临床试验质量管理规范](/zh/nmpa/regulations/nmpa-notice-2022-28)。
+
 《医疗器械临床试验质量管理规范》（2022年第28号）（以下简称《规范》）已经发布，自2022年5月1日起施行。为做好《规范》实施工作，现将有关事项通告如下：  
 **一、做好新旧制度文件衔接工作**  
 自2022年5月1日起，尚未通过伦理审查的医疗器械临床试验项目，应当按照《规范》进行调整后开展临床试验；对于已经通过首次伦理审查的项目，可以按照原相关文件要求开展工作。  
@@ -31,9 +33,9 @@ effective_date: '2022-01-01'
 
 附件  
   
-[1.医疗器械临床试验方案范本](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444800058874.docx>)  
-[2.医疗器械临床试验报告范本](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444854080090.doc>)  
-[3.体外诊断试剂临床试验方案范本](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444888029362.doc>)  
-[4.体外诊断试剂临床试验报告范本](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444906080320.doc>)  
-[5.医疗器械/体外诊断试剂临床试验严重不良事件报告表范本](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444957071978.doc>)  
-[6.医疗器械/体外诊断试剂临床试验基本文件目录](<https://www.nmpa.gov.cn/directory/web/nmpa/images/1648714444972034581.doc>)
+[1.医疗器械临床试验方案范本](/zh/nmpa/guidance/nmpa-2022-88b759dc0f)  
+[2.医疗器械临床试验报告范本](/zh/nmpa/guidance/nmpa-2022-99ed4da6d4)  
+[3.体外诊断试剂临床试验方案范本](/zh/nmpa/guidance/nmpa-2022-15b5bcb6e7)  
+[4.体外诊断试剂临床试验报告范本](/zh/nmpa/guidance/nmpa-2022-0cb0946e94)  
+[5.医疗器械/体外诊断试剂临床试验严重不良事件报告表范本](/zh/nmpa/guidance/nmpa-2022-cdd2156936)  
+[6.医疗器械/体外诊断试剂临床试验基本文件目录](/zh/nmpa/guidance/nmpa-2022-49ecaf2067)

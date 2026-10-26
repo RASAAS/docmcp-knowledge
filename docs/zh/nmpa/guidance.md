@@ -1,14 +1,14 @@
 ---
 title: NMPA 注册审查指导原则
 generated: '2026-10-26'
-doc_count: 910
+doc_count: 900
 ---
 
 # NMPA 注册审查指导原则
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **910** 篇文档，最后更新：2026-10-26
+> 共 **900** 篇文档，最后更新：2026-10-26
 
 ## 临床评价
 
@@ -48,13 +48,18 @@ doc_count: 910
 | [血液透析浓缩物临床评价注册审查指导原则](/zh/nmpa/guidance/nmpa-gp-血液透析浓缩物临床评价注册审查指导原则-12b73e) | `国家药品监督管理局医疗器械技术审评中心2023年第29号通告` | 2023 |
 | [软性接触镜临床评价注册审查指导原则](/zh/nmpa/guidance/nmpa-gp-软性接触镜临床评价注册审查指导原则-43ae59) | `国家药品监督管理局医疗器械技术审评中心2023年第33号通告` | 2023 |
 | [髋关节假体同品种临床评价注册审查指导原则](/zh/nmpa/guidance/nmpa-gp-髋关节假体同品种临床评价注册审查指导原则-0c00f4) | `国家药品监督管理局医疗器械技术审评中心2023年第27号通告` | 2023 |
+| [体外诊断试剂临床试验报告范本](/zh/nmpa/guidance/nmpa-2022-0cb0946e94) | `2022年第21号` | 2022 |
+| [体外诊断试剂临床试验方案范本](/zh/nmpa/guidance/nmpa-2022-15b5bcb6e7) | `2022年第21号` | 2022 |
+| [医疗器械/体外诊断试剂临床试验基本文件目录](/zh/nmpa/guidance/nmpa-2022-49ecaf2067) | `2022年第21号` | 2022 |
+| [医疗器械临床试验方案范本](/zh/nmpa/guidance/nmpa-2022-88b759dc0f) | `2022年第21号` | 2022 |
+| [医疗器械临床试验报告范本](/zh/nmpa/guidance/nmpa-2022-99ed4da6d4) | `2022年第21号` | 2022 |
+| [医疗器械/体外诊断试剂临床试验严重不良事件报告表范本](/zh/nmpa/guidance/nmpa-2022-cdd2156936) | `2022年第21号` | 2022 |
 | [PD-L1检测试剂临床试验—结果重现性研究注册审查指导原则](/zh/nmpa/guidance/cmde-2022-27) | `国家药品监督管理局医疗器械技术审评中心2022年第27号通告` | 2022 |
 | [与抗肿瘤药物同步研发的原研伴随诊断试剂临床试验注册审查指导原则](/zh/nmpa/guidance/cmde-2022-28) | `国家药品监督管理局医疗器械技术审评中心2022年第28号通告` | 2022 |
 | [基因测序仪临床评价注册审查指导原则](/zh/nmpa/guidance/cmde-2022-40-12ed) | `国家药品监督管理局医疗器械技术审评中心2022年第40号通告` | 2022 |
 | [微卫星不稳定性（MSI）检测试剂临床试验注册审查指导原则](/zh/nmpa/guidance/cmde-2022-40-2343) | `国家药品监督管理局医疗器械技术审评中心2022年第40号通告` | 2022 |
 | [来源于人的生物样本库样本用于体外诊断试剂临床试验的指导原则](/zh/nmpa/guidance/cmde-2022-40) | `国家药品监督管理局医疗器械技术审评中心2022年第40号通告` | 2022 |
 | [国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告](/zh/nmpa/guidance/nmpa-notice-2022-21) |  | 2022 |
-| [医疗器械临床试验质量管理规范](/zh/nmpa/guidance/nmpa-notice-2022-28) |  | 2022 |
 | [医用磁共振成像系统同品种临床评价技术审查指导原则（2020年修订版）](/zh/nmpa/guidance/cmde-2021-12) | `国家药品监督管理局2021年第12号通告` | 2021 |
 | [X射线计算机体层摄影设备同品种临床评价技术审查指导原则](/zh/nmpa/guidance/cmde-2021-2-a88b) | `国家药品监督管理局2021年第2号通告` | 2021 |
 | [影像型超声诊断设备同品种临床评价技术审查指导原则](/zh/nmpa/guidance/cmde-2021-2) | `国家药品监督管理局2021年第2号通告` | 2021 |
@@ -76,7 +81,6 @@ doc_count: 910
 | [植入式骶神经刺激系统动物实验及临床评价注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-7ce9e33d12e9) |  | 2020 |
 | [微卫星不稳定性（MSI）检测试剂临床评价注册审查指导原则](/zh/nmpa/guidance/nmpa-guidance-a9068e70e299) |  | 2020 |
 | [抗菌药物临床试验技术指导原则](/zh/nmpa/guidance/nmpa-guidance-ffdba106f8ca) |  | 2020 |
-| [医疗器械拓展性临床试验管理规定（试行）](/zh/nmpa/guidance/nmpa-notice-2020-41) |  | 2020 |
 | [口腔颌面锥形束计算机体层摄影设备临床评价指导原则](/zh/nmpa/guidance/cmde-2019-10) | `国家药品监督管理局2019年第10号通告` | 2019 |
 | [用于角膜制瓣的眼科飞秒激光治疗机临床试验指导原则](/zh/nmpa/guidance/cmde-2019-13-1938) | `国家药品监督管理局2019年第13号通告` | 2019 |
 | [透明质酸钠类面部注射填充材料临床试验指导原则](/zh/nmpa/guidance/cmde-2019-13-de97) | `国家药品监督管理局2019年第13号通告` | 2019 |
@@ -230,15 +234,7 @@ doc_count: 910
 | [记忆合金肋骨板注册审查指导原则](/zh/nmpa/guidance/memory-alloy-rib-plate-2025) | `国家药品监督管理局医疗器械技术审评中心2025年第6号通告` | 2025 |
 | [金属骨针注册审查指导原则](/zh/nmpa/guidance/metal-bone-needle-2025) | `国家药品监督管理局医疗器械技术审评中心2025年第6号通告` | 2025 |
 | [医疗器械分类规则](/zh/nmpa/guidance/nmpa-order-15) |  | 2025 |
-| [医疗器械使用质量监督管理办法](/zh/nmpa/guidance/nmpa-order-18) |  | 2025 |
 | [医疗器械通用名称命名规则](/zh/nmpa/guidance/nmpa-order-19) |  | 2025 |
-| [医疗器械召回管理办法](/zh/nmpa/guidance/nmpa-order-29) |  | 2025 |
-| [医疗器械说明书和标签管理规定](/zh/nmpa/guidance/nmpa-order-6) |  | 2025 |
-| [医疗器械监督管理条例](/zh/nmpa/guidance/prc-state-council-order-739) |  | 2025 |
-| [医疗器械不良事件监测和再评价管理办法](/zh/nmpa/guidance/samr-order-1) |  | 2025 |
-| [药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法](/zh/nmpa/guidance/samr-order-21) |  | 2025 |
-| [医疗器械注册与备案管理办法](/zh/nmpa/guidance/samr-order-47) |  | 2025 |
-| [医疗器械经营监督管理办法](/zh/nmpa/guidance/samr-order-54) |  | 2025 |
 | [胸骨捆扎固定系统注册审查指导原则](/zh/nmpa/guidance/sternum-strapping-system-2025) | `国家药品监督管理局医疗器械技术审评中心2025年第6号通告` | 2025 |
 | [全自动化学发光免疫分析仪注册审查指导原则（2025年修订版）](/zh/nmpa/guidance/clia-2025) | `国家药品监督管理局医疗器械技术审评中心2025年第4号通告` | 2025 |
 | [人类嗜T淋巴细胞病毒抗体检测试剂注册审查指导原则](/zh/nmpa/guidance/cmde-2025-16-d4bc) | `国家药品监督管理局医疗器械技术审评中心2025年第16号通告` | 2025 |
@@ -570,17 +566,14 @@ doc_count: 910
 | [电动洗胃机产品注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-9a0de93395e2) |  | 2020 |
 | [化学发光免疫分析仪（第二类）产品注册技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-a62612690953) |  | 2020 |
 | [丙型肝炎病毒核糖核酸测定试剂技术审查指导原则](/zh/nmpa/guidance/nmpa-guidance-ad79cc9fbab1) |  | 2020 |
-| [国家食品药品监督管理总局继续有效医疗器械规范性文件目录](/zh/nmpa/guidance/nmpa-guidance-b92e785e0799) |  | 2020 |
 | [抗菌药物说明书撰写技术指导原则](/zh/nmpa/guidance/nmpa-guidance-ba4c7a2ace14) |  | 2020 |
 | [基孔肯雅病毒核酸检测试剂技术审评要点（试行）](/zh/nmpa/guidance/nmpa-guidance-bf095b5feb1e) |  | 2020 |
 | [医用诊察和监护器械通用名称命名指导原则](/zh/nmpa/guidance/nmpa-guidance-c62672380cc7) |  | 2020 |
 | [应用纳米材料的医疗器械安全性和有效性评价指导原则第四部分：新兴技术方法](/zh/nmpa/guidance/nmpa-guidance-c7be8b68b808) |  | 2020 |
-| [国家药品监督管理局继续有效的医疗器械规范性文件目录](/zh/nmpa/guidance/nmpa-guidance-d031fc87172e) |  | 2020 |
 | [有源手术器械通用名称命名指导原则](/zh/nmpa/guidance/nmpa-guidance-dacff5137bc6) |  | 2020 |
 | [登革病毒NS1抗原检测试剂注册审查指导原则](/zh/nmpa/guidance/nmpa-guidance-e145aa777ac4) |  | 2020 |
 | [中药新药临床研究一般原则](/zh/nmpa/guidance/nmpa-guidance-f1671350f5e6) |  | 2020 |
 | [医疗器械注册人开展不良事件监测工作指南](/zh/nmpa/guidance/nmpa-notice-2020-25) |  | 2020 |
-| [医疗器械定期风险评价报告撰写规范](/zh/nmpa/guidance/nmpa-notice-2020-46) |  | 2020 |
 | [冲击波治疗仪注册技术审查指导原则](/zh/nmpa/guidance/shock-wave-therapy-device-2020) | `国家药品监督管理局2020年第39号通告` | 2020 |
 | [医疗器械检验检测机构能力建设指导原则](/zh/nmpa/guidance/gov-2019-f3cd6921e0) |  | 2019 |
 | [脑利钠肽/氨基末端脑利钠肽前体检测试剂注册技术审查指导原则](/zh/nmpa/guidance/cmde-2019-11-1243) | `国家药品监督管理局2019年第11号通告` | 2019 |
@@ -854,7 +847,6 @@ doc_count: 910
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
-| [医疗器械注册自检管理规定](/zh/nmpa/guidance/nmpa-notice-2021-126) |  | 2025 |
 | [医疗器械注册自检核查指南](/zh/nmpa/guidance/self-testing-audit-guideline) |  | 2025 |
 | [医疗器械产品注册收费标准及注册收费实施细则](/zh/nmpa/guidance/registration-fees) |  | 2025 |
 | [医疗器械变更备案资料要求及说明](/zh/nmpa/guidance/change-filing-submission-documentation-requirements) |  | 2025 |
@@ -918,10 +910,8 @@ doc_count: 910
 |----------|------|----------|
 | [医疗器械生产质量管理规范检查指导原则](/zh/nmpa/guidance/gmp-inspection-2026) |  | 2026 |
 | [医疗器械网络销售质量管理规范现场检查指导原则](/zh/nmpa/guidance/online-sales-gsp-inspection) |  | 2025 |
-| [医疗器械网络销售质量管理规范](/zh/nmpa/guidance/online-sales) |  | 2025 |
 | [医疗器械经营质量管理规范现场检查指导原则](/zh/nmpa/guidance/nmpa-2024-20) |  | 2024 |
 | [医疗器械可用性工程注册审查指导原则（2024年第13号）](/zh/nmpa/guidance/usability) | `国家药品监督管理局医疗器械技术审评中心2024年第13号通告` | 2024 |
-| [医疗器械经营质量管理规范](/zh/nmpa/guidance/nmpa-notice-2023-153) |  | 2023 |
 | [医疗器械安全和性能基本原则符合性技术指南](/zh/nmpa/guidance/cmde-2022-29) | `国家药品监督管理局医疗器械技术审评中心2022年第29号通告` | 2022 |
 | [医疗器械安全和性能基本原则](/zh/nmpa/guidance/cmde-2020-18) | `国家药品监督管理局2020年第18号通告` | 2020 |
 | [医疗器械生产质量管理规范定制式义齿现场检查指导原则](/zh/nmpa/guidance/nmpa-guidance-f294446a05a6) |  | 2020 |

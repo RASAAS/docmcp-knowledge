@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -219,10 +220,18 @@ def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry
                 continue
             text = ""
             if needs_file:
+                media_dir = None
                 try:
                     got = session.get(item["url"], timeout=60, headers={"User-Agent": "Mozilla/5.0", "Referer": link})
                     got.raise_for_status()
-                    text = fulltext.bytes_to_text(got.content) if fulltext.looks_like_file(got.content) else ""
+                    if fulltext.looks_like_file(got.content):
+                        slug = existing["slug"] if existing else fulltext.slug_for(title, published, "cmde")
+                        media_dir, media_prefix = fulltext.media_location(repo, "nmpa/guidance", slug)
+                        text = fulltext.bytes_to_text(
+                            got.content, media_dir=media_dir, media_prefix=media_prefix,
+                        )
+                    else:
+                        text = ""
                 except Exception as exc:
                     print(f"  FAIL {title[:40]} {exc}")
                     summary["failed"] += 1
@@ -230,6 +239,8 @@ def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry
                     continue
                 downloaded += 1
                 action = fulltext.plan_document(existing, text)
+                if action == "no_fulltext" and media_dir is not None:
+                    shutil.rmtree(media_dir, ignore_errors=True)
             else:
                 action = "present"
             outcomes.append(action)

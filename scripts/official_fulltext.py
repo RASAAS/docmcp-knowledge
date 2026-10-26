@@ -72,10 +72,24 @@ def document_titles(notice_title: str) -> list[str]:
     return [text] if text else []
 
 
+def is_guidance_title(title: str) -> bool:
+    return bool(re.search(r"指导原则|指南|审评要点|技术审查", title or ""))
+
+
+def is_statute_title(title: str) -> bool:
+    """A regulation or norm. A notice that only cites one stays a notice."""
+    if is_guidance_title(title):
+        return False
+    core = strip_issue_number(title or "").strip()
+    if re.search(r"(通告|公告|通知|决定)$", core):
+        return False
+    return bool(re.search(r"办法|规定|条例|规章|规范", core))
+
+
 def target_section(title: str, category_key: str = "") -> str:
-    if re.search(r"指导原则|指南", title):
+    if is_guidance_title(title):
         return "nmpa/guidance"
-    if re.search(r"办法|规定|条例|规章", title):
+    if re.search(r"办法|规定|条例|规章", title or "") or is_statute_title(title):
         return "nmpa/regulations"
     if category_key == "nmpa/guidance":
         return "nmpa/guidance"
@@ -118,6 +132,111 @@ def clean_word_text(text: str) -> str:
     cleaned = re.sub(r"[ \t]+\n", "\n", cleaned)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     return cleaned.strip()
+
+
+def _is_separator_row(line: str) -> bool:
+    cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+    return bool(cells) and all(re.fullmatch(r":?-{3,}:?", cell) for cell in cells)
+
+
+def _is_table_row(line: str) -> bool:
+    if not line or line.startswith("#"):
+        return False
+    if line.startswith("|"):
+        return True
+    return line.count("|") >= 2
+
+
+def rows_to_table(rows: list[str]) -> str:
+    parsed = []
+    for row in rows:
+        if _is_separator_row(row):
+            continue
+        raw = row.strip()
+        if raw.startswith("|"):
+            raw = raw.strip("|")
+        cells = [cell.strip() for cell in raw.split("|")]
+        parsed.append(cells)
+    if not parsed:
+        return ""
+    width = max(len(row) for row in parsed)
+
+    def fmt(cells: list[str]) -> str:
+        padded = (cells + [""] * width)[:width]
+        return "| " + " | ".join(padded) + " |"
+
+    lines = [fmt(parsed[0]), "| " + " | ".join(["---"] * width) + " |"]
+    lines.extend(fmt(row) for row in parsed[1:])
+    return "\n".join(lines)
+
+
+def reflow_markdown(text: str) -> str:
+    """Turn single newlines into paragraphs and pipe rows into Markdown tables.
+
+    VitePress joins a single newline into the same paragraph, and a pipe row
+    without a separator line is shown as plain text.
+    """
+    lines = (text or "").replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    blocks = []
+    index = 0
+    while index < len(lines):
+        line = lines[index].strip()
+        if not line:
+            index += 1
+            continue
+        if _is_table_row(line):
+            rows = []
+            while index < len(lines):
+                current = lines[index].strip()
+                if not current:
+                    nxt = index + 1
+                    while nxt < len(lines) and not lines[nxt].strip():
+                        nxt += 1
+                    if nxt < len(lines) and _is_table_row(lines[nxt].strip()):
+                        index = nxt
+                        continue
+                    break
+                if not _is_table_row(current):
+                    break
+                rows.append(current)
+                index += 1
+            table = rows_to_table(rows)
+            if table:
+                blocks.append(table)
+            continue
+        blocks.append(line)
+        index += 1
+    return "\n\n".join(blocks)
+
+
+def media_location(repo: Path, section: str, slug: str) -> tuple[Path, str]:
+    return repo / "docs" / "zh" / section / "media" / slug, f"./media/{slug}"
+
+
+def replace_body(page_text: str, body: str) -> str:
+    """Keep front matter and the title heading, replace the rest."""
+    end = page_text.find("\n---", 3)
+    if not page_text.startswith("---") or end < 0:
+        return page_text
+    front = page_text[: end + 4]
+    rest = page_text[end + 4 :].lstrip("\n")
+    heading = ""
+    for line in rest.splitlines():
+        if line.startswith("# "):
+            heading = line
+            break
+    cleaned = clean_word_text(body)
+    if heading and (cleaned == heading or cleaned.startswith(heading + "\n")):
+        cleaned = cleaned[len(heading) :].lstrip("\n")
+    title = heading[2:].strip() if heading.startswith("# ") else ""
+    if title and (cleaned == title or cleaned.startswith(title + "\n")):
+        cleaned = cleaned[len(title) :].lstrip("\n")
+    parts = [front, ""]
+    if heading:
+        parts.extend([heading, ""])
+    if cleaned:
+        parts.append(cleaned)
+    return "\n".join(parts).rstrip() + "\n"
 
 
 def needs_official_source(url: str) -> bool:
@@ -411,17 +530,37 @@ def looks_like_file(data: bytes) -> bool:
     return False
 
 
-def bytes_to_text(data: bytes) -> str:
+def bytes_to_text(data: bytes, media_dir: Path | None = None, media_prefix: str = "") -> str:
     if not looks_like_file(data):
         return ""
     if data.startswith(b"%PDF"):
-        return clean_word_text(_pdf_text(data))
-    candidates = []
+        return clean_word_text(reflow_markdown(_pdf_text(data)))
     docx = data if data.startswith(b"PK") else _libreoffice_docx(data)
+    structured = ""
+    images: list[str] = []
     if docx.startswith(b"PK"):
-        candidates.append(_docx_text(docx))
-    candidates.append(_plain_text_convert(data))
-    return clean_word_text(max(candidates, key=len)) if candidates else ""
+        structured, images = _docx_markdown(docx, media_dir, media_prefix)
+    plain = reflow_markdown(_plain_text_convert(data))
+    chosen = _choose_layout(structured, plain)
+    missing = [link for link in images if link not in chosen]
+    if missing:
+        chosen = (chosen + "\n\n" + "\n\n".join(missing)).strip()
+    return clean_word_text(chosen)
+
+
+def _choose_layout(structured: str, plain: str) -> str:
+    """Keep the Word structure when it still contains the document text.
+
+    The plain-text converter is often longer because it uses single newlines,
+    but those newlines are not paragraphs and its tables are not Markdown.
+    """
+    if not structured:
+        return plain
+    if not plain or len(structured) >= int(0.7 * len(plain)):
+        return structured
+    if "| --- |" in structured and len(structured) >= int(0.45 * len(plain)):
+        return structured
+    return plain
 
 
 def _pdf_text(data: bytes) -> str:
@@ -436,29 +575,105 @@ def _pdf_text(data: bytes) -> str:
         doc.close()
 
 
-def _docx_text(data: bytes) -> str:
+_IMAGE_EXT = {
+    "image/png": "png",
+    "image/jpeg": "jpg",
+    "image/jpg": "jpg",
+    "image/gif": "gif",
+    "image/bmp": "bmp",
+    "image/tiff": "tif",
+    "image/webp": "webp",
+}
+
+
+def _docx_markdown(data: bytes, media_dir: Path | None, media_prefix: str) -> tuple[str, list[str]]:
     try:
         from docx import Document
+        from docx.oxml.ns import qn
+        from docx.table import Table
+        from docx.text.paragraph import Paragraph
     except ImportError:
-        return ""
+        return "", []
     from io import BytesIO
     try:
         doc = Document(BytesIO(data))
     except Exception:
-        return ""
-    parts = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
-    for table in doc.tables:
+        return "", []
+    saved: dict[str, str] = {}
+    images: list[str] = []
+    count = 0
+
+    def image_links(element) -> list[str]:
+        nonlocal count
+        found = []
+        for node in element.iter():
+            rid = ""
+            if node.tag.endswith("}blip"):
+                rid = node.get(qn("r:embed")) or ""
+            elif node.tag.endswith("}imagedata"):
+                rid = node.get(qn("r:id")) or ""
+            if not rid or rid not in doc.part.related_parts:
+                continue
+            if rid not in saved:
+                part = doc.part.related_parts[rid]
+                ext = _IMAGE_EXT.get(getattr(part, "content_type", "") or "", "")
+                blob = getattr(part, "blob", b"") or b""
+                if not ext or not blob or media_dir is None or not media_prefix:
+                    saved[rid] = ""
+                else:
+                    count += 1
+                    name = f"fig-{count}.{ext}"
+                    media_dir.mkdir(parents=True, exist_ok=True)
+                    (media_dir / name).write_bytes(blob)
+                    saved[rid] = f"![]({media_prefix}/{name})"
+                    images.append(saved[rid])
+            if saved[rid] and saved[rid] not in found:
+                found.append(saved[rid])
+        return found
+
+    def paragraph_md(paragraph: Paragraph) -> str:
+        text = paragraph.text.replace("\x0b", "\n").replace("\x0c", "\n")
+        chunks = [line.strip() for line in text.split("\n") if line.strip()]
+        chunks.extend(image_links(paragraph._element))
+        return "\n\n".join(chunks)
+
+    def table_md(table: Table) -> str:
+        rows = []
         for row in table.rows:
             cells = []
-            seen = set()
             for cell in row.cells:
-                value = cell.text.strip()
-                if value and value not in seen:
-                    seen.add(value)
-                    cells.append(value)
-            if cells:
-                parts.append(" | ".join(cells))
-    return "\n\n".join(parts)
+                bits = []
+                for paragraph in cell.paragraphs:
+                    value = paragraph.text.replace("\x0b", " ").replace("\n", " ").strip()
+                    if value:
+                        bits.append(value)
+                    bits.extend(image_links(paragraph._element))
+                cells.append(" ".join(bits).replace("|", "\\|"))
+            if any(cell.strip() for cell in cells):
+                rows.append(cells)
+        if not rows:
+            return ""
+        width = max(len(row) for row in rows)
+
+        def fmt(cells: list[str]) -> str:
+            padded = (cells + [""] * width)[:width]
+            return "| " + " | ".join(padded) + " |"
+
+        lines = [fmt(rows[0]), "| " + " | ".join(["---"] * width) + " |"]
+        lines.extend(fmt(row) for row in rows[1:])
+        return "\n".join(lines)
+
+    parts = []
+    for child in doc.element.body.iterchildren():
+        if child.tag.endswith("}p"):
+            piece = paragraph_md(Paragraph(child, doc))
+        elif child.tag.endswith("}tbl"):
+            piece = table_md(Table(child, doc))
+        else:
+            piece = ""
+        if piece:
+            parts.append(piece)
+    return "\n\n".join(parts), images
 
 
 def _libreoffice_docx(data: bytes) -> bytes:

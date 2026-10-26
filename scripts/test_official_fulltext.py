@@ -147,3 +147,52 @@ def test_render_page_has_catalog_fields():
     assert data["category"] == "nmpa/guidance"
     assert data["document_number"] == "2021年第102号"
     assert "第一条" in body
+
+
+def test_statute_is_not_filed_as_guidance():
+    assert fulltext.target_section("医疗器械临床试验质量管理规范") == "nmpa/regulations"
+    assert fulltext.target_section("医疗器械监督管理条例") == "nmpa/regulations"
+    assert fulltext.target_section("脉搏血氧仪注册审查指导原则（2026年修订版）") == "nmpa/guidance"
+    notice = "国家药监局关于实施《医疗器械临床试验质量管理规范》有关事项的通告"
+    assert fulltext.is_statute_title(notice) is False
+    assert fulltext.target_section(notice, "nmpa/guidance") == "nmpa/guidance"
+
+
+def test_reflow_splits_paragraphs_and_builds_tables():
+    prose = "第一条 适用范围。\n第二条 应当符合。\n"
+    assert fulltext.reflow_markdown(prose) == "第一条 适用范围。\n\n第二条 应当符合。"
+    loose = "危险分类 | 危险 | 伤害\n\n能量危险 | 电磁能 | 电击\n"
+    table = fulltext.reflow_markdown(loose)
+    assert table.startswith("| 危险分类 | 危险 | 伤害 |")
+    assert "| --- | --- | --- |" in table
+    assert "能量危险" in table
+
+
+def test_docx_keeps_paragraphs_tables_and_images(tmp_path):
+    from io import BytesIO
+    from docx import Document
+    png = bytes.fromhex(
+        "89504e470d0a1a0a0000000d4948445200000001000000010802000000907753de"
+        "0000000c4944415408d763f8cfff000005fe02fe021c1a6a0000000049454e44ae426082"
+    )
+    image = tmp_path / "dot.png"
+    image.write_bytes(png)
+    doc = Document()
+    doc.add_paragraph("第一条 适用范围。")
+    doc.add_paragraph("第二条 应当符合。")
+    doc.add_picture(str(image))
+    table = doc.add_table(rows=2, cols=2)
+    table.rows[0].cells[0].text = "项目"
+    table.rows[0].cells[1].text = "要求"
+    table.rows[1].cells[0].text = "外观"
+    table.rows[1].cells[1].text = "完整"
+    buf = BytesIO()
+    doc.save(buf)
+    media = tmp_path / "media"
+    text = fulltext.bytes_to_text(buf.getvalue(), media_dir=media, media_prefix="./media/sample")
+    assert "第一条 适用范围。\n\n第二条 应当符合。" in text
+    assert "| 项目 | 要求 |" in text
+    assert "| --- | --- |" in text
+    assert "| 外观 | 完整 |" in text
+    assert "![](./media/sample/fig-1.png)" in text
+    assert (media / "fig-1.png").is_file()
