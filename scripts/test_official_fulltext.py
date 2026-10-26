@@ -101,6 +101,30 @@ def test_word_field_and_match():
     assert fulltext.find_page(
         notice, "关于进一步加强医疗器械注册人委托生产监督管理", "", "2024-04-11"
     )["body_len"] == 3000
+    older = [{"title": "中心静脉导管注册审查指导原则", "body_len": 4000}]
+    revised = "中心静脉导管注册审查指导原则（2026年修订版）"
+    assert fulltext.find_page(older, revised, "", "2026-07-15") is None
+
+
+def test_cmde_release_parser_skips_drafts():
+    html = """
+    <a href="/article/988">国家药监局器审中心关于发布有源植入式医疗器械电池注册审查指导原则的通告（2026年第27号）</a>
+    <a href="/article/983">关于公开征求《植入式神经刺激器注册审查指导原则（征求意见稿）》意见的通知</a>
+    <div><p>附件：有源植入式医疗器械电池注册审查指导原则（<a href="https://www.cmde.org.cn/directory/web/cmde/images/1.docx">下载</a>）</p>
+    <p>发布时间: 2026-10-08</p></div>
+    """
+    listed = fulltext.parse_cmde_release_list(html)
+    assert [item["link"] for item in listed] == ["https://www.ydcmdei.org.cn/article/988"]
+    published, downloads = fulltext.parse_cmde_article(html, "https://www.ydcmdei.org.cn/article/987")
+    assert published == "2026-10-08"
+    assert downloads[0]["title"] == "有源植入式医疗器械电池注册审查指导原则"
+    assert downloads[0]["url"].endswith("1.docx")
+    revised = """
+    <p>附件：人表皮生长因子受体2基因扩增检测试剂（荧光原位杂交法）注册审查指导原则（2026年修订版）（<a href="https://www.cmde.org.cn/directory/web/cmde/images/2.docx">下载</a>）</p>
+    <p>发布时间: 2026-10-13</p>
+    """
+    _, revised_downloads = fulltext.parse_cmde_article(revised, "https://www.ydcmdei.org.cn/article/988")
+    assert revised_downloads[0]["title"].endswith("（2026年修订版）")
 
 
 def test_render_page_has_catalog_fields():

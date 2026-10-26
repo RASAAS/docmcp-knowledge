@@ -195,10 +195,70 @@ def split_bodies(text: str, titles: list[str]) -> dict[str, str]:
     return chunks
 
 
-def slug_for(title: str, published: str) -> str:
+def slug_for(title: str, published: str, prefix: str = "gov") -> str:
     year = (published or "")[:4] or "na"
     digest = hashlib.sha256(normalize_key(title).encode("utf-8")).hexdigest()[:10]
-    return f"gov-{year}-{digest}"
+    return f"{prefix}-{year}-{digest}"
+
+
+CMDE_RELEASE_URL = "https://www.ydcmdei.org.cn/article/category/release"
+
+
+def clean_cmde_file_title(text: str) -> str:
+    title = re.sub(r"\s+", "", text or "")
+    title = re.sub(r"^附件[:：]?", "", title)
+    title = re.sub(r"^[0-9]+[.、．]", "", title)
+    title = re.sub(r"[（(]\s*下载\s*[）)]", "", title)
+    return title.strip("：: ")
+
+
+def parse_cmde_release_list(html_text: str) -> list[dict]:
+    """Published guidance notices from the Yangtze CMDE mirror.
+
+    The CMDE listing page itself returns an anti-bot challenge. This mirror
+    lists the same 发布稿 and links each download to cmde.org.cn.
+    """
+    try:
+        from bs4 import BeautifulSoup
+    except ImportError:
+        return []
+    soup = BeautifulSoup(html_text or "", "html.parser")
+    items = []
+    seen = set()
+    for anchor in soup.select("a"):
+        href = anchor.get("href") or ""
+        if not re.fullmatch(r"/article/\d+", href):
+            continue
+        title = re.sub(r"\s+", " ", anchor.get_text(" ", strip=True))
+        if "征求" in title or ("通告" not in title and "指导原则" not in title):
+            continue
+        link = "https://www.ydcmdei.org.cn" + href
+        if link in seen:
+            continue
+        seen.add(link)
+        items.append({"title": title, "link": link})
+    return items
+
+
+def parse_cmde_article(html_text: str, page_url: str) -> tuple[str, list[dict]]:
+    try:
+        from bs4 import BeautifulSoup
+    except ImportError:
+        return "", []
+    soup = BeautifulSoup(html_text or "", "html.parser")
+    match = re.search(r"发布时间[:：]\s*(20\d{2}-\d{2}-\d{2})", soup.get_text(" ", strip=True))
+    published = match.group(1) if match else ""
+    downloads = []
+    for anchor in soup.select("a"):
+        href = anchor.get("href") or ""
+        if "cmde.org.cn" not in href or not re.search(r"\.(?:doc|docx|pdf)(?:$|\?)", href, re.I):
+            continue
+        parent = anchor.parent.get_text(" ", strip=True) if anchor.parent else ""
+        title = clean_cmde_file_title(parent)
+        if len(title) < 6:
+            continue
+        downloads.append({"title": title, "url": urljoin(page_url, href)})
+    return published, downloads
 
 
 def render_page(
@@ -312,6 +372,8 @@ def find_page(pages: list[dict], title: str, body: str = "", published: str = ""
         if page_core != wanted:
             continue
         page_years = _years(page.get("title") or "")
+        if _years(title) and not page_years:
+            continue
         if page_years and incoming_years and page_years.isdisjoint(incoming_years):
             continue
         if page_years and not incoming_years:

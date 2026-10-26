@@ -279,7 +279,7 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: regenerate standards display pages [skip ci]"
           git push || true
 
-      - name: Sync gov.cn full text into the NMPA catalog
+      - name: Sync gov.cn and CMDE full text into the NMPA catalog
         if: always() && (steps.group.outputs.group == 'nmpa' || steps.group.outputs.group == 'all')
         run: |
           python scripts/sync_gov_documents.py --limit 8 --pages 3

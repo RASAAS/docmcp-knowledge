@@ -100,8 +100,9 @@ def fetch_article(session: requests.Session, url: str) -> tuple[str, str]:
 
 
 def publish_new(repo: Path, pages: list[dict], title: str, section: str, body: str,
-                source_url: str, attachment: str, published: str, doc_number: str) -> dict:
-    slug = fulltext.slug_for(title, published)
+                source_url: str, attachment: str, published: str, doc_number: str,
+                prefix: str = "gov") -> dict:
+    slug = fulltext.slug_for(title, published, prefix)
     taken = {page["slug"] for page in pages}
     if slug in taken:
         slug = slug + "-2"
@@ -136,6 +137,114 @@ def retarget(page: dict, source_url: str, published: str) -> None:
     text = page["path"].read_text(encoding="utf-8")
     page["path"].write_text(fulltext.set_official_source(text, source_url, published), encoding="utf-8")
     page["source_url"] = source_url
+
+
+def fetch_cmde_notices(session: requests.Session, pages: int) -> list[dict]:
+    notices_found = []
+    seen = set()
+    for index in range(pages):
+        url = fulltext.CMDE_RELEASE_URL if index == 0 else f"{fulltext.CMDE_RELEASE_URL}-{index + 1}"
+        try:
+            resp = session.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+        except Exception as exc:
+            print(f"  FAIL cmde list {url} {exc}")
+            break
+        resp.encoding = resp.apparent_encoding or "utf-8"
+        for item in fulltext.parse_cmde_release_list(resp.text):
+            if item["link"] in seen:
+                continue
+            seen.add(item["link"])
+            notices_found.append(item)
+    return notices_found
+
+
+def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry_run, today) -> None:
+    """Read published CMDE guidance from the Yangtze mirror and download the files."""
+    try:
+        notices_found = fetch_cmde_notices(session, pages=2)
+    except Exception as exc:
+        print(f"  FAIL cmde list {exc}")
+        summary["failed"] += 1
+        return
+    checked = 0
+    for notice in notices_found:
+        if checked >= limit:
+            break
+        link = notice["link"]
+        if link in state["done"] and not dry_run:
+            continue
+        checked += 1
+        summary["checked"] += 1
+        try:
+            resp = session.get(link, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+            resp.encoding = resp.apparent_encoding or "utf-8"
+            published, downloads = fulltext.parse_cmde_article(resp.text, link)
+        except Exception as exc:
+            print(f"  FAIL {link} {exc}")
+            summary["failed"] += 1
+            continue
+        published = published or today
+        number = fulltext.document_number(notice["title"])
+        outcomes = []
+        incomplete = False
+        downloaded = 0
+        for item in downloads:
+            title = item["title"]
+            existing = fulltext.find_page(catalog, title, "", published)
+            needs_file = existing is None or existing.get("body_len", 0) < fulltext.MIN_KEEP
+            if needs_file and downloaded >= 15:
+                incomplete = True
+                continue
+            text = ""
+            if needs_file:
+                try:
+                    got = session.get(item["url"], timeout=60, headers={"User-Agent": "Mozilla/5.0", "Referer": link})
+                    got.raise_for_status()
+                    text = fulltext.bytes_to_text(got.content) if fulltext.looks_like_file(got.content) else ""
+                except Exception as exc:
+                    print(f"  FAIL {title[:40]} {exc}")
+                    summary["failed"] += 1
+                    incomplete = True
+                    continue
+                downloaded += 1
+                action = fulltext.plan_document(existing, text)
+            else:
+                action = "retarget" if fulltext.needs_official_source(existing.get("source_url", "")) else "present"
+            outcomes.append(action)
+            section = existing["section"] if existing else "nmpa/guidance"
+            print(f"  {action}: {title[:48]} ({len(text) or existing.get('body_len', 0)} chars)")
+            summary[COUNT_KEY[action]] += 1
+            if dry_run or action in ("present", "no_fulltext"):
+                continue
+            if action == "create":
+                record = publish_new(
+                    repo, catalog, title, section, text, link, item["url"], published, number, prefix="cmde",
+                )
+                changed[section].add(record["slug"])
+                regen.add(section)
+            elif action == "replace":
+                page = fulltext.render_page(
+                    doc_id=existing["doc_id"] or f"nmpa-{existing['slug']}",
+                    title=existing["title"],
+                    section=existing["section"],
+                    doc_number=number or existing.get("doc_number", ""),
+                    source_url=link,
+                    attachment=item["url"],
+                    published=published,
+                    body=text,
+                )
+                existing["path"].write_text(page, encoding="utf-8")
+                existing["body_len"] = len(text)
+                existing["source_url"] = link
+                changed[existing["section"]].add(existing["slug"])
+                regen.add(existing["section"])
+            elif action == "retarget":
+                retarget(existing, link, published)
+                changed[existing["section"]].add(existing["slug"])
+        if not dry_run and not incomplete and downloads:
+            state["done"][link] = {"at": today, "outcomes": outcomes}
 
 
 def refresh_catalog(repo: Path, changed: dict[str, set[str]], regen: set[str]) -> None:
@@ -182,7 +291,7 @@ def sync(repo: Path, limit: int, pages: int, dry_run: bool) -> dict:
             pieces = fulltext.split_attachments(next(iter(chunks.values())))
             if len(pieces) >= 2:
                 chunks = {title: text for title, text in pieces}
-        number = fulltext.document_number(item["title"] + body[:800])
+        number = fulltext.document_number(item["title"])
         published = item.get("pub_date") or today
         outcomes = []
         for title, text in chunks.items():
@@ -219,6 +328,7 @@ def sync(repo: Path, limit: int, pages: int, dry_run: bool) -> dict:
                 changed[existing["section"]].add(existing["slug"])
         if not dry_run:
             state["done"][link] = {"at": today, "outcomes": outcomes}
+    sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry_run, today)
     if not dry_run:
         refresh_catalog(repo, changed, regen)
         save_state(state_path, state)
@@ -235,7 +345,7 @@ def main() -> None:
     repo = Path(args.repo).resolve()
     summary = sync(repo, args.limit, args.pages, args.dry_run)
     print(
-        "gov.cn full text: checked {checked}, created {created}, replaced {replaced}, "
+        "official full text: checked {checked}, created {created}, replaced {replaced}, "
         "retargeted {retargeted}, already present {present}, no full text {no_fulltext}, failed {failed}".format(**summary)
     )
 
