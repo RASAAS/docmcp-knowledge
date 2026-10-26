@@ -6,6 +6,42 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 加拿大卫生部召回FP3D™树脂：性能问题
+
+**2026-10-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对FP3D™树脂发出医疗器械召回/警报。受影响的是加拿大境内使用该树脂的用户，可能包括牙科实验室和临床机构。相关用户应立即停止使用、隔离库存，并联系制造商或经销商进行退货或更换。
+
+**标签**: `medical_device_recall`, `performance_issue`, `dental_resin`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fp3dtm-resins)
+
+---
+
+### 加拿大卫生部召回雅培i-STAT hs-TnI检测卡（性能问题）
+
+**2026-10-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部已针对雅培i-STAT hs-TnI检测卡发布医疗器械召回/警示，原因是可能影响结果可靠性的性能问题。该产品为高敏心肌肌钙蛋白I即时检测，用于疑似心肌梗死的辅助诊断。相关医疗机构和操作人员应识别受影响批次，按要求停用/隔离，并遵循雅培召回通知和加拿大卫生部的指导。
+
+**标签**: `health_canada`, `medical_device_recall`, `ivd`, `troponin`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/stat-hs-tni-cartridge)
+
+---
+
+### 加拿大卫生部发布Azurion 7系统性能问题召回警报
+
+**2026-10-21** | Health Canada | 安全通报 | !!! HIGH
+
+加拿大卫生部因性能问题对Azurion 7系统发布医疗器械召回/警报。受影响方为加拿大使用该系统的医疗机构和用户。相关机构应查阅警报并遵循制造商或加拿大卫生部建议的纠正措施，以降低潜在风险。
+
+**标签**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[查看来源 (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-7-systems-0)
+
+---
+
 ### 加拿大卫生部召回警报：NICO Myriad™ 19x21.5 MHP Paediscope兼容性问题
 
 **2026-10-16** | Health Canada | 安全通报 | !!! HIGH

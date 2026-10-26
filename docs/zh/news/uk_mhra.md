@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 英国政府确认无限期认可CE标志医疗器械
+
+**2026-10-21** | UK MHRA | 法规更新 | !!! HIGH
+
+英国政府已确认，无限期认可已获欧盟市场批准的CE标志医疗器械和体外诊断器械，取消了此前设定的CE标志接受期限。该决定影响向大不列颠市场供应产品的制造商、进口商和分销商，并确保患者继续获得相关产品。相关企业应关注MHRA最新指南，继续满足适用的欧盟法规要求，并履行英国注册和上市后义务。
+
+**标签**: `uk_mhra`, `ce_marking`, `medical_devices`, `ivd`, `great_britain`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices)
+
+---
+
+### MHRA就无限期承认CE标志医疗器械展开定向咨询
+
+**2026-10-21** | UK MHRA | 法规更新 | !!! HIGH
+
+英国MHRA发布了一项定向咨询，就无限期承认CE标志医疗器械在大不列颠市场的提案征求意见。该咨询涉及在现行过渡安排结束后将CE标志器械投放GB市场的制造商、进口商和分销商。利益相关方应审阅提案并提交反馈，以影响未来医疗器械法规。
+
+**标签**: `uk_mhra`, `ce_marking`, `medical_device_consultation`
+
+[查看来源 (MHRA (UK))](https://www.gov.uk/government/consultations/medical-devices-regulations-targeted-consultation-on-the-indefinite-recognition-of-ce-marked-devices)
+
+---
+
 ### MHRA 2026年10月5日至9日现场安全通告汇总
 
 **2026-10-19** | UK MHRA | 安全通报 | !! MEDIUM

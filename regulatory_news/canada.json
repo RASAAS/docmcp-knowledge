@@ -1,7 +1,84 @@
 {
   "framework": "canada",
-  "last_updated": "2026-10-19T23:02:45Z",
+  "last_updated": "2026-10-26T23:06:37Z",
   "items": [
+    {
+      "id": "canada_20261026_health_canada_recall_fp3d_resins_due_to_performance_issue",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall: FP3D™ Resins Due to Performance Issue",
+        "zh": "加拿大卫生部召回FP3D™树脂：性能问题"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for FP3D™ Resins due to a performance issue. This affects users of the affected resin lots in Canada, including dental laboratories and clinical facilities. Affected users should immediately stop using the product, quarantine inventory, and contact the manufacturer or distributor for return or replacement.",
+        "zh": "加拿大卫生部因性能问题对FP3D™树脂发出医疗器械召回/警报。受影响的是加拿大境内使用该树脂的用户，可能包括牙科实验室和临床机构。相关用户应立即停止使用、隔离库存，并联系制造商或经销商进行退货或更换。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/fp3dtm-resins",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-26T23:06:17Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "performance_issue",
+        "dental_resin"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261026_health_canada_recalls_abbott_i_stat_hs_tni_cartridge_over_pe",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada recalls Abbott i-STAT hs-TnI Cartridge over performance issue",
+        "zh": "加拿大卫生部召回雅培i-STAT hs-TnI检测卡（性能问题）"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for the Abbott i-STAT hs-TnI Cartridge due to a performance issue that may affect result reliability. The device is a high-sensitivity cardiac troponin I test used at point of care for suspected myocardial infarction. Healthcare facilities and operators should identify affected cartridges/lots, discontinue use where indicated, and follow Abbott's recall instructions and Health Canada guidance.",
+        "zh": "加拿大卫生部已针对雅培i-STAT hs-TnI检测卡发布医疗器械召回/警示，原因是可能影响结果可靠性的性能问题。该产品为高敏心肌肌钙蛋白I即时检测，用于疑似心肌梗死的辅助诊断。相关医疗机构和操作人员应识别受影响批次，按要求停用/隔离，并遵循雅培召回通知和加拿大卫生部的指导。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/stat-hs-tni-cartridge",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-26T23:06:27Z",
+      "importance": "high",
+      "tags": [
+        "health_canada",
+        "medical_device_recall",
+        "ivd",
+        "troponin",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "canada_20261026_health_canada_recall_alert_azurion_7_systems_performance_iss",
+      "framework": "canada",
+      "category": "safety_communication",
+      "title": {
+        "en": "Health Canada Recall/Alert: Azurion 7 Systems – Performance Issue",
+        "zh": "加拿大卫生部发布Azurion 7系统性能问题召回警报"
+      },
+      "summary": {
+        "en": "Health Canada has issued a medical device recall/alert for Azurion 7 Systems due to a performance issue. The notice affects healthcare facilities and users of these systems in Canada. Affected parties should review the alert and follow the manufacturer’s or Health Canada’s recommended corrective actions to mitigate potential risks.",
+        "zh": "加拿大卫生部因性能问题对Azurion 7系统发布医疗器械召回/警报。受影响方为加拿大使用该系统的医疗机构和用户。相关机构应查阅警报并遵循制造商或加拿大卫生部建议的纠正措施，以降低潜在风险。"
+      },
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/azurion-7-systems-0",
+      "source_name": "Health Canada",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-26T23:06:37Z",
+      "importance": "high",
+      "tags": [
+        "medical_device_recall",
+        "health_canada",
+        "performance_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "canada_20261019_health_canada_recall_alert_nico_myriad_19x21_5_mhp_paediscop",
       "framework": "canada",

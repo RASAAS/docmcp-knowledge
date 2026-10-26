@@ -6,6 +6,42 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Health Canada Recall: FP3D™ Resins Due to Performance Issue
+
+**2026-10-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for FP3D™ Resins due to a performance issue. This affects users of the affected resin lots in Canada, including dental laboratories and clinical facilities. Affected users should immediately stop using the product, quarantine inventory, and contact the manufacturer or distributor for return or replacement.
+
+**Tags**: `medical_device_recall`, `performance_issue`, `dental_resin`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/fp3dtm-resins)
+
+---
+
+### Health Canada recalls Abbott i-STAT hs-TnI Cartridge over performance issue
+
+**2026-10-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for the Abbott i-STAT hs-TnI Cartridge due to a performance issue that may affect result reliability. The device is a high-sensitivity cardiac troponin I test used at point of care for suspected myocardial infarction. Healthcare facilities and operators should identify affected cartridges/lots, discontinue use where indicated, and follow Abbott's recall instructions and Health Canada guidance.
+
+**Tags**: `health_canada`, `medical_device_recall`, `ivd`, `troponin`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/stat-hs-tni-cartridge)
+
+---
+
+### Health Canada Recall/Alert: Azurion 7 Systems – Performance Issue
+
+**2026-10-21** | Health Canada | Safety Communication | !!! HIGH
+
+Health Canada has issued a medical device recall/alert for Azurion 7 Systems due to a performance issue. The notice affects healthcare facilities and users of these systems in Canada. Affected parties should review the alert and follow the manufacturer’s or Health Canada’s recommended corrective actions to mitigate potential risks.
+
+**Tags**: `medical_device_recall`, `health_canada`, `performance_issue`
+
+[View Source (Health Canada)](https://recalls-rappels.canada.ca/en/alert-recall/azurion-7-systems-0)
+
+---
+
 ### Health Canada recall alert: NICO Myriad™ 19x21.5 MHP Paediscope device compatibility issue
 
 **2026-10-16** | Health Canada | Safety Communication | !!! HIGH

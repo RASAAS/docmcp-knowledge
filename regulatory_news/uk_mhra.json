@@ -1,7 +1,59 @@
 {
   "framework": "uk_mhra",
-  "last_updated": "2026-10-19T23:02:45Z",
+  "last_updated": "2026-10-26T23:06:37Z",
   "items": [
+    {
+      "id": "uk_mhra_20261026_uk_government_confirms_indefinite_recognition_of_ce_marked_m",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "UK Government Confirms Indefinite Recognition of CE Marked Medical Devices",
+        "zh": "英国政府确认无限期认可CE标志医疗器械"
+      },
+      "summary": {
+        "en": "The UK government has confirmed that CE marked medical devices and in vitro diagnostic devices already approved for the EU market will continue to be accepted in Great Britain indefinitely, removing the previous regulatory deadline. This decision affects manufacturers, importers, and distributors supplying the Great Britain market, as well as patients relying on continued product availability. Stakeholders should review MHRA guidance to maintain compliance with applicable EU requirements and UK registration and post-market obligations.",
+        "zh": "英国政府已确认，无限期认可已获欧盟市场批准的CE标志医疗器械和体外诊断器械，取消了此前设定的CE标志接受期限。该决定影响向大不列颠市场供应产品的制造商、进口商和分销商，并确保患者继续获得相关产品。相关企业应关注MHRA最新指南，继续满足适用的欧盟法规要求，并履行英国注册和上市后义务。"
+      },
+      "source_url": "https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-26T23:05:57Z",
+      "importance": "high",
+      "tags": [
+        "uk_mhra",
+        "ce_marking",
+        "medical_devices",
+        "ivd",
+        "great_britain"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "uk_mhra_20261026_uk_mhra_launches_targeted_consultation_on_indefinite_ce_mark",
+      "framework": "uk_mhra",
+      "category": "regulation_update",
+      "title": {
+        "en": "UK MHRA Launches Targeted Consultation on Indefinite CE Mark Recognition for Medical Devices",
+        "zh": "MHRA就无限期承认CE标志医疗器械展开定向咨询"
+      },
+      "summary": {
+        "en": "The UK MHRA has published a targeted consultation on proposals to indefinitely recognise CE marked medical devices in Great Britain. It is relevant to manufacturers, importers, and distributors placing CE marked devices on the GB market after current transitional arrangements. Stakeholders should review the proposals and submit responses to inform future medical device regulations.",
+        "zh": "英国MHRA发布了一项定向咨询，就无限期承认CE标志医疗器械在大不列颠市场的提案征求意见。该咨询涉及在现行过渡安排结束后将CE标志器械投放GB市场的制造商、进口商和分销商。利益相关方应审阅提案并提交反馈，以影响未来医疗器械法规。"
+      },
+      "source_url": "https://www.gov.uk/government/consultations/medical-devices-regulations-targeted-consultation-on-the-indefinite-recognition-of-ce-marked-devices",
+      "source_name": "MHRA (UK)",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-26T23:06:09Z",
+      "importance": "high",
+      "tags": [
+        "uk_mhra",
+        "ce_marking",
+        "medical_device_consultation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "uk_mhra_20261019_mhra_field_safety_notices_5_to_9_october_2026_weekly_list",
       "framework": "uk_mhra",

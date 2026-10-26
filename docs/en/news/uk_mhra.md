@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### UK Government Confirms Indefinite Recognition of CE Marked Medical Devices
+
+**2026-10-21** | UK MHRA | Regulation Update | !!! HIGH
+
+The UK government has confirmed that CE marked medical devices and in vitro diagnostic devices already approved for the EU market will continue to be accepted in Great Britain indefinitely, removing the previous regulatory deadline. This decision affects manufacturers, importers, and distributors supplying the Great Britain market, as well as patients relying on continued product availability. Stakeholders should review MHRA guidance to maintain compliance with applicable EU requirements and UK registration and post-market obligations.
+
+**Tags**: `uk_mhra`, `ce_marking`, `medical_devices`, `ivd`, `great_britain`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices)
+
+---
+
+### UK MHRA Launches Targeted Consultation on Indefinite CE Mark Recognition for Medical Devices
+
+**2026-10-21** | UK MHRA | Regulation Update | !!! HIGH
+
+The UK MHRA has published a targeted consultation on proposals to indefinitely recognise CE marked medical devices in Great Britain. It is relevant to manufacturers, importers, and distributors placing CE marked devices on the GB market after current transitional arrangements. Stakeholders should review the proposals and submit responses to inform future medical device regulations.
+
+**Tags**: `uk_mhra`, `ce_marking`, `medical_device_consultation`
+
+[View Source (MHRA (UK))](https://www.gov.uk/government/consultations/medical-devices-regulations-targeted-consultation-on-the-indefinite-recognition-of-ce-marked-devices)
+
+---
+
 ### MHRA Field Safety Notices: 5 to 9 October 2026 Weekly List
 
 **2026-10-19** | UK MHRA | Safety Communication | !! MEDIUM
