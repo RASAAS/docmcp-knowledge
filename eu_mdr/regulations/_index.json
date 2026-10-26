@@ -8,7 +8,7 @@
     "zh": "欧盟医疗器械法规（EU MDR 2017/745）和体外诊断医疗器械法规（EU IVDR 2017/746）的结构化数据，包含关键条款、附录摘要和修正案。以及与医疗器械相关的其他欧盟法规。",
     "en": "Structured data for EU Medical Device Regulation (EU MDR 2017/745) and In Vitro Diagnostic Medical Devices Regulation (EU IVDR 2017/746), including key articles, annex summaries and amendments. Also includes other EU regulations relevant to medical devices."
   },
-  "last_updated": "2026-05-03",
+  "last_updated": "2026-10-26",
   "documents": [
     {
       "id": "eu-mdr-2017-745",
@@ -291,6 +291,17 @@
       "status": "active",
       "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2557",
       "standard_type": "eu_regulation"
+    },
+    {
+      "id": "eu-act-32026r0977",
+      "slug": "eu-act-32026r0977",
+      "celex": "32026R0977",
+      "title": {
+        "zh": "COMMISSION IMPLEMENTING REGULATION (EU) 2026/977 laying down certain uniform quality management and procedural requirements for the conformity assessment activities carried out by a notified body designated under Regulations (EU) 2017/745 and (EU) 2017/746 of the European Parliament and of the Council",
+        "en": "COMMISSION IMPLEMENTING REGULATION (EU) 2026/977 laying down certain uniform quality management and procedural requirements for the conformity assessment activities carried out by a notified body designated under Regulations (EU) 2017/745 and (EU) 2017/746 of the European Parliament and of the Council"
+      },
+      "status": "active",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0977"
     }
   ],
   "official_sources": [

@@ -10,6 +10,7 @@ Harmonised standards under EU MDR 2017/745 are published by the European Commiss
 Data sourced from official EUR-Lex publications. Total: **65** harmonised standards across **10** categories.
 - **Base Decision**: [CID (EU) 2021/1182](https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj)
 - **Latest Amendment**: [CID (EU) 2026/1231](https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj)
+- **List note**: [CID (EU) 2026/1231 explanation](./standards/oj-notes)
 - **EC Summary Page**: [health.ec.europa.eu](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en)
 :::
 

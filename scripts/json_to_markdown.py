@@ -52,19 +52,20 @@ STANDARDS_GSPR_MAP = {
 # Editorial notes that cannot be derived from JSON — keyed by category slug
 STANDARDS_EDITORIAL_ZH = {
     "biocompatibility": (
-        '\n> **重要说明**：以下常用标准**目前不在**协调标准列表中，使用时不产生合规推定效力，'
-        '但仍是行业公认的评价方法：EN ISO 10993-1（评价框架）、EN ISO 10993-3（遗传毒性）、'
-        'EN ISO 10993-5（细胞毒性）、EN ISO 10993-6（植入）、EN ISO 10993-7（EO残留物）、'
+        '\n> **重要说明**：EN ISO 10993-1 与 EN ISO 10993-5 已列入协调标准清单。'
+        '以下常用标准**目前不在**清单中，使用时不产生合规推定效力，'
+        '但仍是行业公认的评价方法：EN ISO 10993-3（遗传毒性）、'
+        'EN ISO 10993-6（植入）、EN ISO 10993-7（EO残留物）、'
         'EN ISO 10993-11（全身毒性）、EN ISO 10993-13（聚合物）。'
         '\n\n## 生物相容性评价框架（基于 ISO 10993-1:2018）\n\n'
         '材料表征 → 危害识别 → 暴露评估 → 毒理学风险评估 → 生物相容性结论\n\n'
         'EU MDR 下，**化学表征优先**：先进行毒理学风险评估（TRA），仅在TRA不足以得出结论时才进行动物试验。'
     ),
     "biocompatibility_en": (
-        '\n> **Important**: The following widely-used standards are **not** on the EU MDR harmonised '
-        'standards list and do not create a presumption of conformity: EN ISO 10993-1 (evaluation '
-        'framework), EN ISO 10993-3 (genotoxicity), EN ISO 10993-5 (cytotoxicity), EN ISO 10993-6 '
-        '(implantation), EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), '
+        '\n> **Important**: EN ISO 10993-1 and EN ISO 10993-5 are on the harmonised list. '
+        'The following widely-used standards are **not** and do not create a presumption of '
+        'conformity: EN ISO 10993-3 (genotoxicity), EN ISO 10993-6 (implantation), '
+        'EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), '
         'EN ISO 10993-13 (polymers). They remain industry-accepted evaluation methods but must be '
         'justified separately in the technical file.'
         '\n\n## Biocompatibility Evaluation Framework\n\n'

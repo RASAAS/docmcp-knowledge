@@ -43,3 +43,9 @@ The following EU legislation intersects with MDR compliance requirements:
 ::: info Fulltext Availability
 Where available, regulation full texts are extracted from EUR-Lex and can be viewed directly. Click the "Full Text" link to access the complete regulatory text.
 :::
+
+## Newly published acts
+
+| CELEX | Title | Text |
+|------|------|------|
+| 32026R0977 | COMMISSION IMPLEMENTING REGULATION (EU) 2026/977 laying down certain uniform quality management and procedural requirements for the conformity assessment activities carried out by a notified body designated under Regulations (EU) 2017/745 and (EU) 2017/746 of the European Parliament and of the Council | [全文](./regulations/eu-act-32026r0977) |

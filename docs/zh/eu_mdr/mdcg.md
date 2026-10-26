@@ -115,10 +115,10 @@ title: MDCG 指南文件
 | [MDCG 2024-4 Appendix](https://health.ec.europa.eu/document/download/54cbbfd4-5808-4560-93ef-017f2a3b0f41_en?filename=mdcg_2024-4_appendix_en.xlsm) | Safety reporting in performance studies of in vitro diagnostic medical devices under Regulation (EU) 2017/746 Appendix – Performance Study Summary Safety Reporting Form | 2024 |
 | [MDCG 2022-9 rev.1](https://health.ec.europa.eu/document/download/b7cf356f-733f-4dce-9800-0933ff73622a_en?filename=mdcg_2022-9_en.pdf) | Summary of safety and performance template | 2024 |
 | [MDCG 2020-16 rev.4](https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf) | Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746 | 2025 |
-| [MDCG 2022-20](https://health.ec.europa.eu/document/download/6a354f46-8308-4d60-a36d-2ef1ba56e41a_en?filename=mdcg_2022-20_en.pdf) | Substantial modification of performance study under Regulation (EU) 2017/746 | 2022 |
-| [MDCG 2022-19](https://health.ec.europa.eu/document/download/4e1f946d-a71a-42c7-bd98-0e9977752669_en?filename=mdcg_2022-19_en.pdf) | Performance study application/notification documents under Regulation (EU) 2017/746 | 2022 |
-| [MDCG 2022-15](https://health.ec.europa.eu/document/download/9518a759-24ce-4e15-83a5-e7b383911000_en?filename=mdcg_2022-15_en.pdf) | Guidance on appropriate surveillance regarding the transitional provisions under Article 110 of the IVDR with regard to devices covered by certificates according to the IVDD | 2022 |
-| [MDCG 2021-22 rev.1](https://health.ec.europa.eu/document/download/98db0ec5-306f-4a0d-8bc9-5724f5d48942_en?filename=mdcg_2021-22_en.pdf) | Clarification on “first certification for that type of device” and corresponding procedures to be followed by notified bodies, in context of the consultation of the expert panel referred to in Article 48(6) of Regulation (EU) 2017/746 | 2022 |
+| [MDCG 2022-20](./mdcg/mdcg-2022-20) | Substantial modification of performance study under Regulation (EU) 2017/746 | 2022 |
+| [MDCG 2022-19](./mdcg/mdcg-2022-19) | Performance study application/notification documents under Regulation (EU) 2017/746 | 2022 |
+| [MDCG 2022-15](./mdcg/mdcg-2022-15) | Guidance on appropriate surveillance regarding the transitional provisions under Article 110 of the IVDR with regard to devices covered by certificates according to the IVDD | 2022 |
+| [MDCG 2021-22 rev.1](./mdcg/mdcg-2021-22) | Clarification on “first certification for that type of device” and corresponding procedures to be followed by notified bodies, in context of the consultation of the expert panel referred to in Article 48(6) of Regulation (EU) 2017/746 | 2022 |
 | [MDCG 2022-10](https://health.ec.europa.eu/document/download/59abcc81-fd32-4546-a340-24c8fad4e2ac_en?filename=mdcg_2022-10_en.pdf) | Q&A on the interface between Regulation (EU) 536/2014 on clinical trials for medicinal products for human use (CTR) and Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR) | 2022 |
 | [MDCG 2022-8](https://health.ec.europa.eu/document/download/76f9983e-164c-45f1-b2b9-c9e5050cefe9_en?filename=mdcg_2022-8_en.pdf) | Regulation (EU) 2017/746 - application of IVDR requirements to ‘legacy devices’ and to devices placed on the market prior to 26 May 2022 in accordance with Directive 98/79/EC | 2022 |
 | [MDCG 2022-6](https://health.ec.europa.eu/document/download/14c2d8dd-8489-4db5-b035-1c174f17fb54_en?filename=mdcg_2022-6.pdf) | Guidance on significant changes regarding the transitional provision under Article 110(3) of the IVDR | 2022 |
@@ -178,7 +178,7 @@ title: MDCG 指南文件
 ## 上市后监督与警戒（PMSV）
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2025–10](https://health.ec.europa.eu/document/download/a9ad86b7-1b8e-4bae-beb4-48b2b3ed2f05_en?filename=mdcg_2025-10_en.pdf) | Guidance on post-market surveillance of medical devices and in vitro diagnostic medical devices | 2025 |
+| [MDCG 2025–10](./mdcg/mdcg-2025-10) | Guidance on post-market surveillance of medical devices and in vitro diagnostic medical devices | 2025 |
 | [MDCG 2024-1](https://health.ec.europa.eu/document/download/dbd0d748-d646-4274-afaa-399952809389_en?filename=mdcg_2024-1_en.pdf) | Device Specific Vigilance Guidance (DSVG) Template | 2024 |
 | [MDCG 2024-1-1](https://health.ec.europa.eu/document/download/e170bdf5-1684-4e24-bfbc-ec34b1ea1b4f_en?filename=mdcg_2024-1-1_en.pdf) | DSVG 01 on Cardiac ablation | 2024 |
 | [MDCG 2024-1-2](https://health.ec.europa.eu/document/download/6bfe418c-b72e-4e8a-b7e3-7aa1d0060da8_en?filename=mdcg_2024-1-2_en.pdf) | DSVG 02 on Coronary stents | 2024 |
@@ -196,8 +196,8 @@ title: MDCG 指南文件
 ## 唯一器械标识（UDI）
 | 文件 | 标题 | 年份 |
 |------|------|------|
-| [MDCG 2025-8](https://health.ec.europa.eu/document/download/f026ed58-060d-49b1-b660-914838670a20_en?filename=mdcg_2025-8_en.pdf) | Guidance on the implementation of the Master UDI-DI solution for spectacle frames, spectacle lenses and ready-to-wear reading spectacles | 2025 |
-| [MDCG 2025-7](https://health.ec.europa.eu/document/download/ad6ae143-baa2-451a-8c5e-0c5d22983e88_en?filename=mdcg_2025-7_en.pdf) | MDCG Position Paper: Timelines of the implementation of ‘Master UDI-DI’ to contact lenses and spectacle frames, spectacle lenses and ready-to-wear reading spectacles | 2025 |
+| [MDCG 2025-8](./mdcg/mdcg-2025-8) | Guidance on the implementation of the Master UDI-DI solution for spectacle frames, spectacle lenses and ready-to-wear reading spectacles | 2025 |
+| [MDCG 2025-7](./mdcg/mdcg-2025-7) | MDCG Position Paper: Timelines of the implementation of ‘Master UDI-DI’ to contact lenses and spectacle frames, spectacle lenses and ready-to-wear reading spectacles | 2025 |
 | [MDCG 2024-14 - rev.1](https://health.ec.europa.eu/document/download/c8c6cca5-460e-410e-a325-be08bfc7dea6_en?filename=mdcg_2024-14_en.pdf) | Guidance on the implementation of the Master UDI-DI solution for contact lenses | 2025 |
 | [MDCG 2022-7](https://health.ec.europa.eu/document/download/b5429d14-25a9-4cfc-b059-355388f03e05_en?filename=mdcg_2022-7_en.pdf) | Q&A on the Unique Device Identification system under Regulation (EU) 2017/745 and Regulation (EU) | 2022 |
 | [MDCG 2021-19](https://health.ec.europa.eu/document/download/64443e95-e1be-4ffd-80f7-9c6a1b0b99b6_en?filename=md_2021-19_en.pdf) | Guidance note integration of the UDI within an organisation’s quality management system | 2021 |
@@ -220,3 +220,10 @@ title: MDCG 指南文件
 | [MDCG 2022-14](https://health.ec.europa.eu/document/download/2db053bc-283c-4d2e-93f4-c3e8032e66da_en?filename=mdcg_2022-14_en.pdf) | Transition to the MDR and IVDR - Notified body capacity and availability of medical devices and IVDs | 2022 |
 | [MDCG 2021-25 rev.1](./mdcg/mdcg-2021-25) | Application of MDR requirements to " legacy devices " and to devices placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC | 2024 |
 | [MDCG 2019-3 rev.1](https://health.ec.europa.eu/document/download/c66ca211-7390-4d60-90fc-0fc30652f3db_en?filename=md_mdcg_2019_3_rev1_cecp_en.pdf) | Clinical evaluation consultation procedure exemptions Interpretation of article 54(2)b | 2020 |
+
+## 新收录全文
+
+| 文件 | 标题 | 年份 |
+|------|------|------|
+| [MDCG 2026-1](./mdcg/mdcg-2026-1) | MDCG 2026-1: Summary of EMDN 2025 Submissions and outcome of annual revision | 2026 |
+| [MDCG 2021-12](./mdcg/mdcg-2021-12) | MDCG 2021-12 rev.2: FAQ on the European Medical Device Nomenclature (EMDN) | 2026 |

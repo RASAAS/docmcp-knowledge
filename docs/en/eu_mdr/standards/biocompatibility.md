@@ -24,7 +24,7 @@ category: Biocompatibility
 | **EN ISO 10993-1:2025** | Part 1: Requirements and general principles for the evaluation of biological safety within a risk management process (ISO 10993-1:2025) | GSPR 10.4 (Biocompatibility) | Current |
 | **EN ISO 10993-5:2009 + 2025** | Part 5: Tests for in vitro cytotoxicity (ISO 10993-5:2009) | GSPR 10.4 (Biocompatibility) | Current |
 
-> **Important**: The following widely-used standards are **not** on the EU MDR harmonised standards list and do not create a presumption of conformity: EN ISO 10993-1 (evaluation framework), EN ISO 10993-3 (genotoxicity), EN ISO 10993-5 (cytotoxicity), EN ISO 10993-6 (implantation), EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), EN ISO 10993-13 (polymers). They remain industry-accepted evaluation methods but must be justified separately in the technical file.
+> **Important**: EN ISO 10993-1 and EN ISO 10993-5 are on the harmonised list. The following widely-used standards are **not** and do not create a presumption of conformity: EN ISO 10993-3 (genotoxicity), EN ISO 10993-6 (implantation), EN ISO 10993-7 (EO residuals), EN ISO 10993-11 (systemic toxicity), EN ISO 10993-13 (polymers). They remain industry-accepted evaluation methods but must be justified separately in the technical file.
 
 ## Biocompatibility Evaluation Framework
 

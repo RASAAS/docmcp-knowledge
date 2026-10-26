@@ -43,3 +43,9 @@ title: EU 法规与指令
 ::: info 全文可用性
 部分法规全文已从 EUR-Lex 提取，可直接在线阅读。点击"全文"链接查看完整法规文本。
 :::
+
+## 新发布法规
+
+| CELEX | 标题 | 全文 |
+|------|------|------|
+| 32026R0977 | COMMISSION IMPLEMENTING REGULATION (EU) 2026/977 laying down certain uniform quality management and procedural requirements for the conformity assessment activities carried out by a notified body designated under Regulations (EU) 2017/745 and (EU) 2017/746 of the European Parliament and of the Council | [全文](./regulations/eu-act-32026r0977) |

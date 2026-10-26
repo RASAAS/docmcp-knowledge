@@ -279,6 +279,17 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: regenerate standards display pages [skip ci]"
           git push || true
 
+      - name: Sync EU full text and the harmonised standards list
+        if: always() && (steps.group.outputs.group == 'eu_mdr' || steps.group.outputs.group == 'all')
+        run: |
+          python scripts/sync_eu_documents.py --mdcg-limit 8 --reg-limit 4
+          git add eu_mdr/mdcg eu_mdr/regulations eu_mdr/standards docs/zh/eu_mdr docs/en/eu_mdr scripts/.eu_fulltext_state.json || true
+          git diff --staged --quiet || {
+            git commit -m "chore: update EU catalog full text and harmonised standards list"
+            git push
+          }
+        continue-on-error: true
+
       - name: Sync gov.cn and CMDE full text into the NMPA catalog
         if: always() && (steps.group.outputs.group == 'nmpa' || steps.group.outputs.group == 'all')
         run: |

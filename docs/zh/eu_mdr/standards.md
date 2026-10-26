@@ -10,6 +10,7 @@ EU MDR 2017/745 下的协调标准由欧盟委员会在**欧盟官方公报 (OJ)
 数据来源于 EUR-Lex 官方出版物。共计: **65** 项协调标准，覆盖 **10** 个类别。
 - **基础决定**: [CID (EU) 2021/1182](https://eur-lex.europa.eu/eli/dec_impl/2021/1182/oj)
 - **最新修正**: [CID (EU) 2026/1231](https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj)
+- **公报说明**：[CID (EU) 2026/1231 说明](./standards/oj-notes)
 - **欧委会汇总页**: [health.ec.europa.eu](https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en)
 :::
 
