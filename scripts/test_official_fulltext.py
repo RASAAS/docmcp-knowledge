@@ -104,6 +104,11 @@ def test_word_field_and_match():
     older = [{"title": "中心静脉导管注册审查指导原则", "body_len": 4000}]
     revised = "中心静脉导管注册审查指导原则（2026年修订版）"
     assert fulltext.find_page(older, revised, "", "2026-07-15") is None
+    numbered = "心磁信号采集设备注册审查指导原则（2026年第24号）"
+    assert fulltext.find_page(
+        [{"title": "心磁信号采集设备注册审查指导原则", "body_len": 8000}],
+        numbered, "", "2026-07-21",
+    )["body_len"] == 8000
 
 
 def test_cmde_release_parser_skips_drafts():

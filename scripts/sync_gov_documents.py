@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -140,29 +141,37 @@ def retarget(page: dict, source_url: str, published: str) -> None:
 
 
 def fetch_cmde_notices(session: requests.Session, pages: int) -> list[dict]:
+    """Guidance text library first, then published-notice pages for bundled attachments."""
     notices_found = []
     seen = set()
-    for index in range(pages):
-        url = fulltext.CMDE_RELEASE_URL if index == 0 else f"{fulltext.CMDE_RELEASE_URL}-{index + 1}"
-        try:
-            resp = session.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
-            resp.raise_for_status()
-        except Exception as exc:
-            print(f"  FAIL cmde list {url} {exc}")
-            break
-        resp.encoding = resp.apparent_encoding or "utf-8"
-        for item in fulltext.parse_cmde_release_list(resp.text):
-            if item["link"] in seen:
-                continue
-            seen.add(item["link"])
-            notices_found.append(item)
+    for base in (fulltext.CMDE_PRINCIPLE_URL, fulltext.CMDE_RELEASE_URL):
+        for index in range(pages):
+            url = base if index == 0 else f"{base}-{index + 1}"
+            try:
+                resp = session.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+                resp.raise_for_status()
+            except Exception as exc:
+                print(f"  FAIL cmde list {url} {exc}")
+                break
+            resp.encoding = resp.apparent_encoding or "utf-8"
+            article_links = {
+                href for href in re.findall(r'href="(/article/\d+)"', resp.text)
+                if href != "/article/805"
+            }
+            if not article_links:
+                break
+            for item in fulltext.parse_cmde_release_list(resp.text):
+                if item["link"] in seen:
+                    continue
+                seen.add(item["link"])
+                notices_found.append(item)
     return notices_found
 
 
 def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry_run, today) -> None:
     """Read published CMDE guidance from the Yangtze mirror and download the files."""
     try:
-        notices_found = fetch_cmde_notices(session, pages=2)
+        notices_found = fetch_cmde_notices(session, pages=70)
     except Exception as exc:
         print(f"  FAIL cmde list {exc}")
         summary["failed"] += 1
@@ -176,6 +185,16 @@ def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry
             continue
         checked += 1
         summary["checked"] += 1
+        listing_title = fulltext.strip_issue_number(re.sub(r"\s+", "", notice["title"]))
+        listing_title = listing_title.replace("《", "").replace("》", "")
+        if "关于发布" not in listing_title and "关于印发" not in listing_title:
+            listed = fulltext.find_page(catalog, listing_title, "", "")
+            if listed and listed.get("body_len", 0) >= fulltext.MIN_KEEP:
+                print(f"  present: {listing_title[:48]} ({listed['body_len']} chars)")
+                summary["present"] += 1
+                if not dry_run:
+                    state["done"][link] = {"at": today, "outcomes": ["present"]}
+                continue
         try:
             resp = session.get(link, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
             resp.raise_for_status()
@@ -186,15 +205,16 @@ def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry
             summary["failed"] += 1
             continue
         published = published or today
-        number = fulltext.document_number(notice["title"])
+        notice_number = fulltext.issue_number(notice["title"]) or fulltext.document_number(notice["title"])
         outcomes = []
         incomplete = False
         downloaded = 0
         for item in downloads:
-            title = item["title"]
+            title = fulltext.strip_issue_number(item["title"])
+            number = fulltext.issue_number(item["title"]) or notice_number
             existing = fulltext.find_page(catalog, title, "", published)
             needs_file = existing is None or existing.get("body_len", 0) < fulltext.MIN_KEEP
-            if needs_file and downloaded >= 15:
+            if needs_file and downloaded >= 80:
                 incomplete = True
                 continue
             text = ""
@@ -211,7 +231,7 @@ def sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry
                 downloaded += 1
                 action = fulltext.plan_document(existing, text)
             else:
-                action = "retarget" if fulltext.needs_official_source(existing.get("source_url", "")) else "present"
+                action = "present"
             outcomes.append(action)
             section = existing["section"] if existing else "nmpa/guidance"
             print(f"  {action}: {title[:48]} ({len(text) or existing.get('body_len', 0)} chars)")
@@ -259,7 +279,7 @@ def refresh_catalog(repo: Path, changed: dict[str, set[str]], regen: set[str]) -
             docs_index.generate_section_page(section, meta[0], meta[1], entries, repo)
 
 
-def sync(repo: Path, limit: int, pages: int, dry_run: bool) -> dict:
+def sync(repo: Path, limit: int, pages: int, dry_run: bool, cmde_limit: int | None = None) -> dict:
     session = requests.Session()
     state_path = repo / "scripts" / ".official_fulltext_state.json"
     state = load_state(state_path)
@@ -328,7 +348,10 @@ def sync(repo: Path, limit: int, pages: int, dry_run: bool) -> dict:
                 changed[existing["section"]].add(existing["slug"])
         if not dry_run:
             state["done"][link] = {"at": today, "outcomes": outcomes}
-    sync_cmde(session, repo, catalog, state, changed, regen, summary, limit, dry_run, today)
+    sync_cmde(
+        session, repo, catalog, state, changed, regen, summary,
+        cmde_limit if cmde_limit is not None else limit, dry_run, today,
+    )
     if not dry_run:
         refresh_catalog(repo, changed, regen)
         save_state(state_path, state)
@@ -339,11 +362,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Sync gov.cn full text into the NMPA catalog")
     parser.add_argument("--repo", default=".")
     parser.add_argument("--limit", type=int, default=8)
+    parser.add_argument("--cmde-limit", type=int, default=40)
     parser.add_argument("--pages", type=int, default=3)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
     repo = Path(args.repo).resolve()
-    summary = sync(repo, args.limit, args.pages, args.dry_run)
+    summary = sync(repo, args.limit, args.pages, args.dry_run, args.cmde_limit)
     print(
         "official full text: checked {checked}, created {created}, replaced {replaced}, "
         "retargeted {retargeted}, already present {present}, no full text {no_fulltext}, failed {failed}".format(**summary)

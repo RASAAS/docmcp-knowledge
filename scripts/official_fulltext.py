@@ -202,6 +202,25 @@ def slug_for(title: str, published: str, prefix: str = "gov") -> str:
 
 
 CMDE_RELEASE_URL = "https://www.ydcmdei.org.cn/article/category/release"
+CMDE_PRINCIPLE_URL = "https://www.ydcmdei.org.cn/article/category/principle"
+_GUIDANCE_WORDS = ("指导原则", "指南", "审评要点", "技术审查")
+_SKIP_WORDS = ("征求", "征集", "解读", "培训", "招聘", "公示", "面试")
+
+
+def strip_issue_number(title: str) -> str:
+    """Drop a trailing notice number so it is not treated as a document edition."""
+    return re.sub(r"[（(]20\d{2}年第\d+号[）)]", "", title or "").strip()
+
+
+def issue_number(title: str) -> str:
+    match = re.search(r"[（(](20\d{2}年第\d+号)[）)]", title or "")
+    return match.group(1) if match else ""
+
+
+def is_cmde_guidance_title(title: str) -> bool:
+    if any(word in (title or "") for word in _SKIP_WORDS):
+        return False
+    return any(word in (title or "") for word in _GUIDANCE_WORDS)
 
 
 def clean_cmde_file_title(text: str) -> str:
@@ -230,7 +249,7 @@ def parse_cmde_release_list(html_text: str) -> list[dict]:
         if not re.fullmatch(r"/article/\d+", href):
             continue
         title = re.sub(r"\s+", " ", anchor.get_text(" ", strip=True))
-        if "征求" in title or ("通告" not in title and "指导原则" not in title):
+        if not is_cmde_guidance_title(title):
             continue
         link = "https://www.ydcmdei.org.cn" + href
         if link in seen:
@@ -371,8 +390,8 @@ def find_page(pages: list[dict], title: str, body: str = "", published: str = ""
         page_core = title_core(clean_notice_title(page.get("title") or ""))
         if page_core != wanted:
             continue
-        page_years = _years(page.get("title") or "")
-        if _years(title) and not page_years:
+        page_years = _years(strip_issue_number(page.get("title") or ""))
+        if _years(strip_issue_number(title)) and not page_years:
             continue
         if page_years and incoming_years and page_years.isdisjoint(incoming_years):
             continue
