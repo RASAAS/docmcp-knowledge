@@ -1,7 +1,32 @@
 {
   "framework": "fda",
-  "last_updated": "2026-10-20T22:12:47Z",
+  "last_updated": "2026-10-27T22:55:01Z",
   "items": [
+    {
+      "id": "fda_20261027_class_i_recall_instrumentation_laboratory_hemosil_acustar_hi",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Instrumentation Laboratory HemosIL AcuStar HIT-IgG(PF-4), Part 0009802028 (Recall #Z-0002-2027)",
+        "zh": "仪器实验室 HemosIL AcuStar HIT-IgG(PF-4)（部件号0009802028）I级召回"
+      },
+      "summary": {
+        "en": "FDA classified this as a Class I recall of Instrumentation Laboratory's HemosIL AcuStar HIT-IgG(PF-4) (part 0009802028), an in vitro diagnostic. The reason is potential invalid calibration curve or negative mean bias up to 47% with patient samples, which may lead to incorrect results and serious health consequences. The recall covers 1,414 units distributed outside the U.S. Users should immediately discontinue use, quarantine affected devices, and contact Instrumentation Laboratory.",
+        "zh": "FDA将Instrumentation Laboratory的HemosIL AcuStar HIT-IgG(PF-4)（部件号0009802028）体外诊断试剂列为一类召回，召回编号Z-0002-2027。原因为校准曲线可能无效或患者样本出现高达47%的负平均偏倚，可能导致错误结果并引发严重健康风险。此次召回涉及美国境外销售的1,414单位。建议用户立即停止使用、隔离受影响产品并联系制造商。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0002-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-21",
+      "detected_date": "2026-10-27T22:54:39Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "in_vitro_diagnostic",
+        "hemosil_acustar_hit_igg"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261020_early_alert_cardinal_health_issues_correction_for_presource",
       "framework": "fda",

@@ -54,6 +54,18 @@ Swissmedic has published a field safety corrective action (FSCA) for Medartis AG
 
 ---
 
+### Class I Recall: Instrumentation Laboratory HemosIL AcuStar HIT-IgG(PF-4), Part 0009802028 (Recall #Z-0002-2027)
+
+**2026-10-21** | FDA | recall_class1 | !!! HIGH
+
+FDA classified this as a Class I recall of Instrumentation Laboratory's HemosIL AcuStar HIT-IgG(PF-4) (part 0009802028), an in vitro diagnostic. The reason is potential invalid calibration curve or negative mean bias up to 47% with patient samples, which may lead to incorrect results and serious health consequences. The recall covers 1,414 units distributed outside the U.S. Users should immediately discontinue use, quarantine affected devices, and contact Instrumentation Laboratory.
+
+**Tags**: `class_i_recall`, `in_vitro_diagnostic`, `hemosil_acustar_hit_igg`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0002-2027)
+
+---
+
 ### UK Government Confirms Indefinite Recognition of CE Marked Medical Devices
 
 **2026-10-21** | UK MHRA | Regulation Update | !!! HIGH

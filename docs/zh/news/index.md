@@ -54,6 +54,18 @@ title: 法规速递
 
 ---
 
+### 仪器实验室 HemosIL AcuStar HIT-IgG(PF-4)（部件号0009802028）I级召回
+
+**2026-10-21** | FDA | recall_class1 | !!! HIGH
+
+FDA将Instrumentation Laboratory的HemosIL AcuStar HIT-IgG(PF-4)（部件号0009802028）体外诊断试剂列为一类召回，召回编号Z-0002-2027。原因为校准曲线可能无效或患者样本出现高达47%的负平均偏倚，可能导致错误结果并引发严重健康风险。此次召回涉及美国境外销售的1,414单位。建议用户立即停止使用、隔离受影响产品并联系制造商。
+
+**标签**: `class_i_recall`, `in_vitro_diagnostic`, `hemosil_acustar_hit_igg`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0002-2027)
+
+---
+
 ### 英国政府确认无限期认可CE标志医疗器械
 
 **2026-10-21** | UK MHRA | 法规更新 | !!! HIGH
