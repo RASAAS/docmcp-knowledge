@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 日本PMDA二级召回：飞利浦Spectral CT 7500全身X线CT诊断装置
+
+**2026-10-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布飞利浦日本公司Spectral CT 7500全身X线CT诊断装置的二级召回，属于中等风险。该召回涉及设备安全或性能问题，需采取纠正措施，具体故障细节以PMDA官方通知为准。相关医疗机构应核对受影响产品序列号，并按飞利浦日本的召回通知及PMDA要求执行。
+
+**标签**: `pmda`, `class_ii_recall`, `philips`, `ct_system`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13018)
+
+---
+
+### PMDA II类召回：飞利浦日本EPIQ/Affiniti超声诊断设备（召回编号2-13017）
+
+**2026-10-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项II类召回（编号2-13017），涉及飞利浦日本生产的EPIQ/Affiniti通用超声图像诊断设备。该召回属于中等风险等级（II类），影响日本境内相关设备用户。相关医疗机构应查阅PMDA通知，遵循飞利浦日本的召回说明，并落实所需的纠正措施或检查。
+
+**标签**: `pmda_recall`, `ultrasound`, `class_ii`, `philips`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13017)
+
+---
+
+### 日本PMDA二类召回：Takara Medical DR-2000通用电动手术台（召回号2-13016）
+
+**2026-10-28** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了针对Takara Medical（タカラメディカル）DR-2000通用电动手术台（外科用手術台 DR-2000）的二类召回（召回号2-13016）。该召回为中等级别医疗器械召回，涉及该产品的安全/性能问题并需采取纠正措施。相关医疗机构应查阅PMDA召回通知，确认受影响设备，并按照制造商的指示执行整改。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `surgical_table`, `takara_medical`, `medical_device`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13016)
+
+---
+
+### PMDA II级召回#2-13015 RayStation放射治疗计划软件（RaySearch Japan）
+
+**2026-10-27** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布由RaySearch Japan K.K.生产的RayStation放射治疗计划软件的II级召回（编号2-13015）。该召回涉及放射治疗计划程序/软件，具体安全问题和受影响版本以PMDA及制造商通知为准。使用RayStation的机构应尽快查阅通知并按照制造商纠正措施执行。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `radiation_therapy_software`, `raystation`, `medical_device_safety`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13015)
+
+---
+
 ### 日本PMDA二级召回#2-13004：Getinge HCU40人工心肺用冷温水槽
 
 **2026-10-21** | Japan PMDA | 安全通报 | !! MEDIUM

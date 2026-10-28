@@ -6,6 +6,54 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Japan PMDA Class II Recall: Philips Spectral CT 7500 Whole-Body X-ray CT System
+
+**2026-10-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan’s PMDA has published a Class II recall for the Philips Spectral CT 7500, a whole-body X-ray CT diagnostic device from Philips Japan. The recall indicates a moderate-risk device safety/performance issue requiring corrective action; the specific failure detail is not included in the provided notice excerpt. Affected facilities should verify unit status and follow Philips Japan’s recall instructions and PMDA guidance.
+
+**Tags**: `pmda`, `class_ii_recall`, `philips`, `ct_system`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13018)
+
+---
+
+### PMDA Class II Recall: Philips Japan EPIQ/Affiniti Ultrasound Systems (Recall No. 2-13017)
+
+**2026-10-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has posted a Class II recall (No. 2-13017) for the EPIQ/Affiniti general-purpose ultrasound diagnostic imaging devices manufactured by Philips Japan. This recall is classified as moderate risk and affects users of these ultrasound systems in Japan. Affected facilities should review the PMDA notice, follow Philips Japan's recall instructions, and implement any required corrective actions or inspections.
+
+**Tags**: `pmda_recall`, `ultrasound`, `class_ii`, `philips`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13017)
+
+---
+
+### PMDA Class II Recall: Takara Medical DR-2000 General-Purpose Electric Surgical Table (Recall No. 2-13016)
+
+**2026-10-28** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japan PMDA has issued a Class II recall (Recall No. 2-13016) for the Takara Medical DR-2000 general-purpose electric surgical table. This is a moderate-risk medical device recall involving a safety/performance issue that requires corrective action. Healthcare facilities with this device should review the PMDA notice, confirm affected units, and follow Takara Medical's instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `surgical_table`, `takara_medical`, `medical_device`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13016)
+
+---
+
+### PMDA Class II Recall #2-13015: RayStation Radiation Therapy Planning Software (RaySearch Japan)
+
+**2026-10-27** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The PMDA has published a Class II recall (No. 2-13015) for the RayStation radiation therapy planning software from RaySearch Japan K.K. This recall concerns the radiation therapy planning program/software; official PMDA and manufacturer notices should be checked for the specific safety issue and affected versions. Facilities using RayStation should promptly review the notice and follow the manufacturer’s corrective action instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `radiation_therapy_software`, `raystation`, `medical_device_safety`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13015)
+
+---
+
 ### Swissmedic FSCA: Philips Azurion Stationary Angiographic X-ray System
 
 **2026-10-23** | Swissmedic | Safety Communication | !! MEDIUM
