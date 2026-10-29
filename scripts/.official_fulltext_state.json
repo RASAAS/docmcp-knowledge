@@ -2995,6 +2995,90 @@
       "outcomes": [
         "present"
       ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-05/15/content_5511910.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-03/27/content_5496234.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-03/25/content_5495451.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-03/25/content_5495447.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "present"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-03/25/content_5495285.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "no_fulltext"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-03/02/content_5485632.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "no_fulltext"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-02/08/content_5476048.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.gov.cn/zhengce/zhengceku/2020-02/05/content_5474727.htm": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/997": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/996": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/995": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "present"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/994": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "create"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/438": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "present"
+      ]
+    },
+    "https://www.ydcmdei.org.cn/article/419": {
+      "at": "2026-10-29",
+      "outcomes": [
+        "present"
+      ]
     }
   }
 }

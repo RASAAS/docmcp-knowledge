@@ -1,14 +1,14 @@
 ---
 title: NMPA 法规规章
-generated: '2026-10-26'
-doc_count: 54
+generated: '2026-10-29'
+doc_count: 59
 ---
 
 # NMPA 法规规章
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **54** 篇文档，最后更新：2026-10-26
+> 共 **59** 篇文档，最后更新：2026-10-29
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|
@@ -62,6 +62,11 @@ doc_count: 54
 | [关于2020年医疗器械临床试验监督抽查中真实性问题](/zh/nmpa/regulations/gov-2021-c7f9500136) | `2021年第11号` | 2021 |
 | [综合司关于进一步加强医疗器械强制性行业标准管理有关事项](/zh/nmpa/regulations/gov-2020-d8ff14c2b5) | `〔2020〕72号` | 2020 |
 | [综合司关于印发2020年医疗器械行业标准制修订计划项目](/zh/nmpa/regulations/gov-2020-53ca8c14d5) |  | 2020 |
+| [综合司关于印发2020年国家医疗器械抽检产品检验方案](/zh/nmpa/regulations/gov-2020-85ba2d06c5) |  | 2020 |
+| [药品、医疗器械、保健食品、特殊医学用途配方食品广告审查文书格式范本](/zh/nmpa/regulations/gov-2020-7bebfc06f3) |  | 2020 |
+| [医疗器械质量抽查检验管理办法](/zh/nmpa/regulations/gov-2020-e6c2dcc0cc) |  | 2020 |
+| [国家医疗器械监督抽检结果（第1号）](/zh/nmpa/regulations/gov-2020-842bb662fc) |  | 2020 |
+| [关于严厉打击制售假劣药品医疗器械违法行为切实保障新型冠状病毒感染肺炎疫情防控药品医疗器械安全](/zh/nmpa/regulations/gov-2020-6d2d826e55) |  | 2020 |
 | [国家食品药品监督管理总局继续有效医疗器械规范性文件目录](/zh/nmpa/regulations/nmpa-guidance-b92e785e0799) |  | 2020 |
 | [国家药品监督管理局继续有效的医疗器械规范性文件目录](/zh/nmpa/regulations/nmpa-guidance-d031fc87172e) |  | 2020 |
 | [医疗器械拓展性临床试验管理规定（试行）](/zh/nmpa/regulations/nmpa-notice-2020-41) |  | 2020 |
