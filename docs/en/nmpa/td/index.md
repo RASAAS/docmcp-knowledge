@@ -1,128 +1,36 @@
-# NMPA Technical Documentation
+# NMPA registration dossiers
 
-Medical device registration technical documentation requirements under NMPA are defined by **Order No. 47 (2021)** and **Notice 2021-121**.
+The content requirements for medical device registration dossiers are in the Announcement on Registration Dossier Requirements and Approval Document Formats (NMPA Announcement No. 121 of 2021). The electronic folders are in the corresponding RPS directories. On each page, headings are the directory folder names and the text is the announcement wording. Where a directory states the same point differently, both wordings are given.
 
-## Choose the dossier path by scenario
+The pages below cover the medical device directories. In vitro diagnostic reagents, clinical trial approval for high-risk devices, and instructions-for-use change notification each have their own electronic directories and are not restated here.
 
-| Scenario | Applies to | Basis | Page |
-|----------|------------|-------|------|
-| **Initial registration (II/III)** | New Class II/III | Notice 2021-121 Att.5 (6 chapters) | Sections below |
-| **Change registration** | Substantive certificate changes | Att.7 | [Change registration](/en/nmpa/td/change-registration) |
-| **Change filing** | Administrative changes | Att.7 (filing) | [Change filing](/en/nmpa/td/change-filing) |
-| **Renewal** | Certificate renewal, no listed changes | Att.6 | [Renewal](/en/nmpa/td/renewal) |
-| **Class I filing** | Class I products | Notice 2022-62 | [Class I filing](/en/nmpa/td/class-i-filing) |
-| **Innovation special review** | Innovation pathway qualification | 2018-127 guide | [Innovation special review](/en/nmpa/td/innovation-special-review) |
+## By registration path
 
-> CRM / AI checklist generation must pick the correct scenario — do **not** apply the full initial 6-chapter list to change, renewal, or Class I filing.
+| Path | Basis | Electronic directory | Page |
+|------|-------|----------------------|------|
+| Initial registration | Announcement No. 121, Annex 5 | Domestic Class III; imported Class II and III | Chapters below |
+| [Change registration](/en/nmpa/td/change-registration) | Annex 7 | Domestic change registration; imported change registration | Organised by the change |
+| [Change filing](/en/nmpa/td/change-filing) | Annex 7 | Domestic change filing; imported change filing | Chapters 3 to 6 are not applicable as whole chapters |
+| [Renewal](/en/nmpa/td/renewal) | Annex 6 | Domestic renewal; imported renewal | Chapters 2, 5 and 6 are not applicable as whole chapters |
+| [Class I filing](/en/nmpa/td/class-i-filing) | Announcement No. 62 of 2022 | No matching Class I directory in the national RPS set | Wording of that announcement |
+| [Innovation special review](/en/nmpa/td/innovation-special-review) | Annex to Announcement No. 127 of 2018 | Innovation special review electronic directory | A review application, not a registration approval |
 
-## Initial registration structure (6 chapters, Notice 2021-121 Att.5)
+## Initial registration electronic directory
 
-### Chapter 1: Regulatory Information (监管信息)
+Annex 5 lists second-level headings from Chapter 1, Regulatory information, through Chapter 6, Quality management system documents. The folder numbers in the domestic Class III directory and the imported Class II and III directory are not the same numbering. Each chapter page uses the electronic directory numbers.
 
-| Section | Document | Ref |
-|---------|----------|-----|
-| 1.1 | Table of Contents | Notice 2021-121, Ch.1 |
-| 1.2 | Application Form | Notice 2021-121, Ch.1(二) |
-| 1.3 | Glossary of Terms and Abbreviations | Notice 2021-121, Ch.1(三) |
-| 1.4 | Product List (models, specs, configurations) | Notice 2021-121, Ch.1(四) |
-| 1.5 | Associated Documents (business license, authorization, etc.) | Notice 2021-121, Ch.1(五) |
-| 1.6 | Pre-submission Communication Records | Notice 2021-121, Ch.1(六) |
-| 1.7 | Conformity Declaration | Notice 2021-121, Ch.1(七) |
+| Chapter | Folders that carry a requirement |
+|---------|----------------------------------|
+| [Chapter 1, Regulatory information](/en/nmpa/td/regulatory-info) | CH1.2 Table of contents, CH1.3 List of terms and abbreviations, CH1.4 Application form, CH1.5 Product list, CH1.6 Quality management system, full quality system or other evidence, CH1.9 Pre-submission contacts and previous communications with the regulatory authority, CH1.11 Statements / certification / declaration and its children, CH1.12 Master file letter of authorisation, CH1.14 Other regulatory information. Import also has CH1.7 Certificate of free sale / marketing authorisation and CH1.13 Letter of authorisation for the agent |
+| [Chapter 2, Overview](/en/nmpa/td/product-summary) | CH2.2 Submission overview, CH2.4 Device description and its children, CH2.5 Indications and/or intended use and contraindications and its children, CH2.6 Global marketing history and its children, CH2.7 Other submission overview information |
+| [Chapter 3, Non-clinical data](/en/nmpa/td/non-clinical) | CH3.2 Risk management, CH3.3 Essential principles checklist, CH3.4 Standards (CH3.4.1 List of standards, CH3.4.2 Declaration of conformity and/or certification; there is no CH3.4.3), CH3.5 Non-clinical studies and its children, CH3.6 Non-clinical literature, CH3.7 Shelf life and packaging validation, CH3.8 Other information |
+| [Chapter 4, Clinical evaluation](/en/nmpa/td/clinical-evaluation) | CH4.2.1 Clinical evaluation data, CH4.2.2 Clinical trial data, CH4.3 Ethics committee approval documents, CH4.5 Other clinical evidence |
+| [Chapter 5, Instructions for use and labelling specimens](/en/nmpa/td/ifu-labels) | CH5.2 Product/package labels, CH5.3 Instructions for use, CH5.10 Other labelling materials |
+| [Chapter 6](/en/nmpa/td/qms) | Chapter 6A Quality management system documents (CH6A.1 to CH6A.9), Chapter 6B Quality management system information for the device under submission (CH6B.2) |
 
-### Chapter 2: Product Summary (综述资料)
+## Sources
 
-| Section | Document | Ref |
-|---------|----------|-----|
-| 2.1 | Table of Contents | Notice 2021-121, Ch.2 |
-| 2.2 | Product Overview (name, classification, intended use) | Notice 2021-121, Ch.2(二) |
-| 2.3 | Product Description (structure, principle, materials, sterilisation) | Notice 2021-121, Ch.2(三) |
-| 2.4 | Intended Use and Contraindications | Notice 2021-121, Ch.2(四) |
-| 2.5 | Market History | Notice 2021-121, Ch.2(五) |
-| 2.6 | Other Information | Notice 2021-121, Ch.2(六) |
-
-### Chapter 3: Non-Clinical Data (非临床资料)
-
-| Section | Document | Ref |
-|---------|----------|-----|
-| 3.1 | Table of Contents | Notice 2021-121, Ch.3 |
-| 3.2 | Risk Management Data (risk analysis, evaluation, control, residual risk) | Notice 2021-121, Ch.3(二) |
-| 3.3 | Essential Principles Checklist (医疗器械安全和性能基本原则清单) | Notice 2021-121, Ch.3(三) |
-| 3.4 | Product Technical Requirements & Test Reports | Notice 2021-121, Ch.3(四) |
-| 3.5 | Research Data (9 sub-categories, see below) | Notice 2021-121, Ch.3(五) |
-| 3.6 | Non-Clinical Literature | Notice 2021-121, Ch.3(六) |
-| 3.7 | Stability Studies (shelf-life, in-use, transport) | Notice 2021-121, Ch.3(七) |
-| 3.8 | Other Data | Notice 2021-121, Ch.3(八) |
-
-#### Chapter 3.5 Research Data Sub-categories
-
-| Sub-section | Content |
-|-------------|---------|
-| 3.5.1 | Chemical and Physical Performance |
-| 3.5.2 | Electrical System Safety |
-| 3.5.3 | Radiation Safety |
-| 3.5.4 | Software Research (including cybersecurity, AI, interoperability) |
-| 3.5.5 | Biological Characteristics (biocompatibility per ISO 10993) |
-| 3.5.6 | Biological Source Material Safety |
-| 3.5.7 | Cleaning, Disinfection, Sterilisation |
-| 3.5.8 | Animal Studies |
-| 3.5.9 | Other Safety and Efficacy Studies |
-
-### Chapter 4: Clinical Evaluation Data (临床评价资料)
-
-| Section | Document | Ref |
-|---------|----------|-----|
-| 4.1 | Table of Contents | Notice 2021-121, Ch.4 |
-| 4.2 | Clinical Evaluation Data Requirements | Notice 2021-121, Ch.4(二) |
-| 4.3 | Other Data | Notice 2021-121, Ch.4(三) |
-
-**Clinical evaluation pathways:**
-- Equivalent device pathway (同品种临床评价)
-- Clinical trial pathway (临床试验)
-- Exemption from clinical evaluation (免于临床评价, per published exemption list)
-
-### Chapter 5: IFU & Labels (产品说明书和标签样稿)
-
-| Section | Document | Ref |
-|---------|----------|-----|
-| 5.1 | Table of Contents | Notice 2021-121, Ch.5 |
-| 5.2 | Instructions for Use (产品说明书) | Notice 2021-121, Ch.5(二) |
-| 5.3 | Label Samples (标签样稿) | Notice 2021-121, Ch.5(三) |
-| 5.4 | Other | Notice 2021-121, Ch.5(四) |
-
-### Chapter 6: QMS Documentation (质量管理体系文件)
-
-| Section | Document | Ref |
-|---------|----------|-----|
-| 6.1 | QMS Overview | Notice 2021-121, Ch.6(一) |
-| 6.2 | Table of Contents | Notice 2021-121, Ch.6(二) |
-| 6.3 | Manufacturing Information | Notice 2021-121, Ch.6(三) |
-| 6.4 | QMS Procedures | Notice 2021-121, Ch.6(四) |
-| 6.5 | Management Responsibility | Notice 2021-121, Ch.6(五) |
-| 6.6 | Resource Management | Notice 2021-121, Ch.6(六) |
-| 6.7 | Product Realisation | Notice 2021-121, Ch.6(七) |
-| 6.8 | Measurement, Analysis, Improvement | Notice 2021-121, Ch.6(八) |
-| 6.9 | Other QMS Procedures | Notice 2021-121, Ch.6(九) |
-| 6.10 | QMS Inspection Documents | Notice 2021-121, Ch.6(十) |
-
-## Key Differences from EU MDR
-
-| Aspect | NMPA | EU MDR |
-|--------|------|--------|
-| Structure | 6 chapters | Annex II (7 sections) + Annex III |
-| Clinical evaluation | Equivalent device / Clinical trial / Exemption list | CEP + CER + PMCF (mandatory for all classes) |
-| Type testing | Mandatory at NMPA-designated laboratories | NB decides testing scope |
-| Product Technical Requirement | Unique NMPA document (产品技术要求) | No direct equivalent |
-| Essential Principles | 安全和性能基本原则清单 (Attachment 9) | GSPR Annex I checklist |
-| Software | Separate detailed requirements (AI, cybersecurity, interoperability) | Integrated into V&V section |
-| QMS | Full QMS documentation in submission (Ch.6) | QMS assessed separately during NB audit |
-| Post-market | Not part of registration dossier | Annex III (PMS Plan, PSUR) |
-| Language | Chinese mandatory; foreign docs need translated copies | NB language preference |
-
-## Key Regulatory References
-
-- Administrative Measures for Medical Device Registration and Filing (Order No. 47, 2021)
-- Notice 2021-121: Registration Dossier Format and Content Requirements (Attachment 4 & 5)
-- Attachment 9: Essential Principles Checklist (安全和性能基本原则清单)
-- GB/T 42062-2022: Application of risk management (ISO 14971 adoption)
-- GB 9706.1: Medical electrical equipment safety (IEC 60601-1 adoption)
-- GB/T 16886 series: Biological evaluation (ISO 10993 adoption)
+- Announcement No. 121 of 2021, Annexes 5, 6 and 7
+- Announcement No. 62 of 2022, Requirements and explanations for Class I medical device filing materials
+- Annex to Announcement No. 127 of 2018, Guide for preparing innovation special review application materials
+- The medical device electronic directories listed above

@@ -1,70 +1,62 @@
-# Chapter 5: IFU & Labels (产品说明书和标签样稿)
+# Chapter 5: Instructions for use and labelling specimens
 
-**NMPA Reference:** Notice 2021-121, Attachment 5, Chapter 5  
-**Document Code:** NMPA-CH5  
-**Responsible Party:** Manufacturer (CRO reviews for regulatory compliance)
+**Source:** NMPA Announcement No. 121 of 2021, Annex 5, Chapter 5  
+**Electronic directories:** domestic Class III registration dossier; imported Class II and Class III registration dossier
 
-## Requirements Checklist
+Section titles follow those electronic directories. The text under each section is a close translation of the official Chinese wording in Annex 5. Where a directory states the same point differently, that wording is included. A folder that has a name and no further official text is listed by name only.
 
-### 5.1 Table of Contents
+## CH5.1 Table of contents
 
-- [ ] All headings and sub-headings with page numbers
+The submitted dossier shall include a table of contents, covering every heading and subheading of this chapter, and shall state the contents number, the contents title, applicability, the uploaded file name, and the page numbers of the uploaded file, and shall give the page number of each item. Applicability shall state whether a CR folder applies.
 
-### 5.2 Instructions for Use (产品说明书)
+Annex 5: the table of contents shall include every heading and subheading of this chapter and the page number of each item.
 
-- [ ] Content complies with "Regulations on Medical Device Instructions for Use and Labels" (医疗器械说明书和标签管理规定)
-- [ ] Content complies with applicable regulations, rules, normative documents, and mandatory standards
-- [ ] For imported devices: provide original language IFU
+## CH5.2 Product / package labels
 
-**Key IFU content requirements (per Medical Device IFU & Label Regulations):**
+The content of the specimen label for the smallest sales unit shall meet the Provisions on the Administration of Medical Device Instructions for Use and Labelling and the requirements of the related laws, regulations, rules, normative documents, and mandatory standards.
 
-- [ ] Product name (matching registration certificate)
-- [ ] Registrant/filer name, residence, contact information
-- [ ] For imported devices: agent name, residence, contact information
-- [ ] Production enterprise name, residence, production address, contact information
-- [ ] Registration/filing certificate number
-- [ ] Product technical requirement number
-- [ ] Product description: structure, composition, working principle, intended use
-- [ ] Scope of application, indications, contraindications, warnings, precautions
-- [ ] Installation and use instructions (with diagrams if necessary)
-- [ ] Product performance, main specifications, technical parameters
-- [ ] Product maintenance, care information
-- [ ] Storage and transport conditions
-- [ ] Shelf life or use-by date
-- [ ] Accessories list
-- [ ] For single-use devices: clear single-use declaration
-- [ ] Explanation of label symbols
-- [ ] Manufacturer's post-market monitoring contact information
+Annex 5: the specimen label for the smallest sales unit shall be submitted, and its content shall meet the Provisions on the Administration of Medical Device Instructions for Use and Labelling and the requirements of the related laws, regulations, rules, normative documents, and mandatory standards.
 
-### 5.3 Label Samples (标签样稿)
+## CH5.3 Instructions for use
 
-- [ ] Minimum sales unit label sample
-- [ ] Content complies with IFU & Label Regulations and mandatory standards
-- [ ] Product name consistent with IFU and registration certificate
-- [ ] UDI barcode/carrier (if applicable)
-- [ ] Sterilisation status indication (if applicable)
-- [ ] Lot number / serial number location
-- [ ] Manufacturing date and expiry date format
+The instructions for use shall be submitted. Their content shall meet the Provisions on the Administration of Medical Device Instructions for Use and Labelling and the requirements of the related laws, regulations, rules, normative documents, and mandatory standards.
 
-### 5.4 Other Materials
+The imported Class II and Class III directory also states: submit the original-language instructions for use.
 
-- [ ] Supplementary documents for product information (if applicable)
+Annex 5: an overseas applicant shall submit the original-language instructions for use.
 
-## Comparison with EU MDR
+## CH5.4 Electronic instructions for use
 
-| Aspect | NMPA Ch.5 | EU MDR Annex II Section 2 |
-|--------|-----------|--------------------------|
-| IFU regulation | Dedicated IFU & Label regulation | Annex I Chapter III GSPR 23 |
-| Language | Chinese mandatory | Official language(s) of Member State |
-| Original language IFU | Required for imported devices | Not specifically required in TD |
-| Label standards | GB/T 15223 series (ISO 15223 adoption) | EN ISO 15223-1 |
-| e-IFU | Not yet widely adopted | Regulation (EU) 207/2012 |
-| Review depth | IFU is a core review document | IFU reviewed as part of TD |
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
 
-## Key Standards & References
+## CH5.5 Instructions for use for the physician
 
-- Regulations on Medical Device Instructions for Use and Labels (Order No. 6, 2014)
-- Notice 2021-121, Attachment 5, Chapter 5
-- GB/T 15223 series: Medical device symbols (ISO 15223 adoption)
-- YY/T 0466 series: Information supplied with medical devices (ISO 20417 adoption)
-- Applicable mandatory GB/YY standards for specific device categories
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
+
+## CH5.6 Instructions for use for the patient
+
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
+
+## CH5.7 Manual for technicians / operators
+
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
+
+## CH5.8 Patient file labels / cards and implant registration cards
+
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
+
+## CH5.9 Product promotional materials
+
+The domestic Class III directory and the imported Class II and Class III directory have only this folder name and no further requirement.
+
+## CH5.10 Other labelling materials
+
+The domestic Class III directory and Annex 5: where applicable, submit other documents that supplement the product information.
+
+The imported Class II and Class III directory states this folder as: where applicable, provide the abstract, report, and data of the evaluation for the corresponding item.
+
+## Sources
+
+- NMPA Announcement No. 121 of 2021, Annex 5, Chapter 5
+- Domestic Class III registration electronic directory, Chapter 5
+- Imported Class II and Class III registration electronic directory, Chapter 5
