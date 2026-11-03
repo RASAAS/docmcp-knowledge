@@ -1,7 +1,137 @@
 {
   "framework": "fda",
-  "last_updated": "2026-10-27T22:55:01Z",
+  "last_updated": "2026-11-03T01:27:53Z",
   "items": [
+    {
+      "id": "fda_20261103_pf4_assay_recall_instrumentation_laboratories_removes_hemosi",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "PF4 Assay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H) from Use",
+        "zh": "Instrumentation Laboratories召回HemosIL AcuStar HIT-IgG(PF4-H)血小板因子4检测试剂"
+      },
+      "summary": {
+        "en": "FDA has posted a recall notice for the Instrumentation Laboratories HemosIL AcuStar HIT-IgG(PF4-H) assay, a platelet factor 4 immunoassay used in heparin-induced thrombocytopenia testing. Clinical laboratories and healthcare providers using this product should stop use, quarantine remaining inventory, and contact the manufacturer for return or replacement instructions. Facilities should use alternative validated methods for HIT testing while this recall is resolved.",
+        "zh": "FDA发布Instrumentation Laboratories公司HemosIL AcuStar HIT-IgG(PF4-H)检测试剂召回通知，该产品为用于肝素诱导血小板减少症检测的血小板因子4免疫测定试剂。使用该产品的临床实验室和医疗机构应停止使用、隔离剩余库存，并联系制造商获取退货或更换说明。在召回解决前，机构应改用经验证的替代方法进行HIT检测。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
+      "source_name": "FDA",
+      "published_date": "2026-11-03",
+      "detected_date": "2026-11-03T01:27:53Z",
+      "importance": "high",
+      "tags": [
+        "recall",
+        "ivd",
+        "heparin_induced_thrombocytopenia",
+        "platelet_factor_4",
+        "instrumentation_laboratories",
+        "hemosil_acustar"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_class_i_recall_ventec_vocsn_japan_flow_transducer_cable_conn",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Ventec VOCSN (Japan) Flow Transducer Cable Connector May Disconnect",
+        "zh": "I级召回：Ventec VOCSN（日本）流量传感器电缆连接器可能断开"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall (#Z-0127-2027) for Ventec Life Systems, Inc.'s VOCSN (Japan) ventilator, model PRT-01100-100 / package PN PRT-01126-100. The recall was initiated because the internal flow transducer cable connector may disconnect from the internal board, potentially causing a system reboot and interruption of ventilation therapy. The recall covers 100 units distributed in Japan. Users should immediately follow Ventec Life Systems' recall notification, identify affected devices, and contact the firm for correction.",
+        "zh": "FDA发布I级召回（#Z-0127-2027），涉及Ventec Life Systems, Inc.的VOCSN（日本）呼吸机，型号PRT-01100-100/包装PN PRT-01126-100。召回原因是内部流量传感器电缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗。此次召回涉及在日本销售的100台设备。用户应立即按照Ventec Life Systems的召回通知识别受影响设备并联系厂家处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0127-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-28",
+      "detected_date": "2026-11-03T01:26:49Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "fda_recall",
+        "ventec_life_systems"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_class_i_recall_ventec_v_pro_emergency_ventilator_flow_transd",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Ventec V+ Pro Emergency Ventilator Flow Transducer Connector May Disconnect",
+        "zh": "Ventec V+ Pro急救呼吸机I级召回：流量传感器连接器可能断开"
+      },
+      "summary": {
+        "en": "FDA has classified Ventec Life Systems' recall of the V+ Pro Emergency ventilator (Model PRT-01201-000; package PNs PRT-01173-000, PRT-0122) as Class I. The internal flow transducer cable connector may disconnect from the internal board, potentially causing system reboot and interruption of ventilation therapy. The recall affects 30,120 units. Users should immediately follow Ventec's recall instructions, including quarantining affected devices and contacting the firm for correction or replacement.",
+        "zh": "FDA已将Ventec Life Systems对V+ Pro急救呼吸机（型号PRT-01201-000；包装PN PRT-01173-000、PRT-0122）的召回列为I级。该设备内部流量传感器线缆连接器可能从内部板断开，可能导致系统重启并中断通气治疗。此次召回涉及30,120台。用户应立即遵循Ventec的召回通知，隔离受影响设备并联系该公司进行纠正或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0132-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-28",
+      "detected_date": "2026-11-03T01:27:03Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_class_i_recall_ventec_vc_japan_ventilator_flow_transducer_ca",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Ventec VC(Japan) Ventilator Flow Transducer Cable Connector May Disconnect (Z-0131-2027)",
+        "zh": "Ventec VC(Japan)呼吸机I级召回：流量传感器线缆连接器可能断开"
+      },
+      "summary": {
+        "en": "FDA classified Ventec Life Systems, Inc.'s recall of VC(Japan) ventilators (Model PRT-01098-100; Package PN PRT-01125-100) as Class I, affecting 180 units. The internal flow transducer cable connector may disconnect from the internal board, potentially causing system reboot and interruption of ventilation therapy. Affected facilities should follow Ventec Life Systems' recall instructions and contact the firm for corrective action.",
+        "zh": "FDA将Ventec Life Systems, Inc.对VC(Japan)呼吸机（型号PRT-01098-100，包装PN PRT-01125-100）的召回列为I级，涉及180台。内部流量传感器线缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗。相关机构应遵循Ventec Life Systems的召回通知，联系厂家并采取纠正措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0131-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-28",
+      "detected_date": "2026-11-03T01:27:16Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator",
+        "ventec_life_systems"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_class_i_recall_ventec_life_systems_vcsn_pro_ventilator_flow",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Ventec Life Systems VCSN+Pro Ventilator Flow Transducer Cable Disconnection Risk",
+        "zh": "Ventec Life Systems VCSN+Pro呼吸机I级召回：内部流量传感器线缆连接器可能断开"
+      },
+      "summary": {
+        "en": "The FDA posted a Class I recall (#Z-0128-2027) by Ventec Life Systems, Inc. affecting 4,368 units of the VCSN+Pro ventilator (Model PRT-01184-000; Package PN PRT-01172-000), with distribution details not specified in the notice. The internal flow transducer cable connector may disconnect from the internal board, potentially causing a system reboot and interruption of ventilation therapy, which poses serious risks such as hypoxia or death. Facilities should identify affected units, follow Ventec Life Systems' recall instructions, and remove or quarantine devices as directed.",
+        "zh": "FDA发布Ventec Life Systems, Inc.的I级召回（#Z-0128-2027），涉及4,368台VCSN+Pro呼吸机（型号PRT-01184-000；包装PN PRT-01172-000），分销信息未在公告中详细说明。该设备内部流量传感器线缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗，带来缺氧或死亡等严重健康风险。相关机构应识别受影响产品，按照Ventec Life Systems的召回通知停用或隔离设备并联系厂家处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0128-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-28",
+      "detected_date": "2026-11-03T01:27:35Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "ventilator_safety",
+        "fda_recall",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261027_class_i_recall_instrumentation_laboratory_hemosil_acustar_hi",
       "framework": "fda",
@@ -211,6 +341,82 @@
       "status": "published"
     },
     {
+      "id": "fda_20261103_canon_medical_alphenix_infx_8000c_angiography_system_recalle",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Canon Medical Alphenix INFX-8000C Angiography System Recalled (Z-0289-2027) Due to Software Error",
+        "zh": "佳能医疗Alphenix INFX-8000C血管造影系统因软件问题被召回（Z-0289-2027）"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0289-2027 for Canon Medical Systems USA, Inc.'s Alphenix Interventional Angiography System (REF: INFX-8000C). The recall is due to a software issue that may cause an internal error if F-Store or image acquisition is performed while the clinical analysis function is in use, potentially interrupting imaging during interventional procedures. Affected facilities should identify impacted systems and follow Canon Medical's corrective action instructions.",
+        "zh": "FDA发布召回Z-0289-2027，涉及佳能医疗系统美国公司的Alphenix介入血管造影系统（型号：INFX-8000C）。召回原因是软件问题：在临床分析功能使用期间执行F-Store或图像采集，可能导致系统内部错误，进而可能中断介入手术中的成像。相关机构应识别受影响设备并遵循佳能医疗的纠正措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222828",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-12",
+      "detected_date": "2026-11-03T01:25:36Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "interventional_angiography",
+        "software_failure"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_fda_recall_z_0290_2027_canon_alphenix_interventional_angiogr",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall Z-0290-2027: Canon Alphenix Interventional Angiography System INFX-8000F Software Error",
+        "zh": "佳能医疗Alphenix介入血管造影系统INFX-8000F因软件问题被FDA召回"
+      },
+      "summary": {
+        "en": "The FDA posted recall Z-0290-2027 for Canon Medical Systems USA's Alphenix Interventional Angiography System (REF: INFX-8000F). A software issue can cause an internal error when F-Store or image acquisition is performed while the clinical analysis function is in use, potentially interrupting interventional imaging procedures. Affected facilities should follow Canon Medical Systems USA's recall instructions and contact the manufacturer for corrective action.",
+        "zh": "FDA发布召回Z-0290-2027，涉及佳能医疗系统美国公司的Alphenix介入血管造影系统（REF: INFX-8000F）。当临床分析功能使用中执行F-Store或图像采集时，软件问题可能导致系统内部错误，从而可能中断介入成像操作。受影响机构应遵循佳能医疗系统美国公司的召回说明，并联系制造商采取纠正措施。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222829",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-12",
+      "detected_date": "2026-11-03T01:25:51Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "angiography_system",
+        "software_issue"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_recall_z_0291_2027_canon_alphenix_infx_8000v_angiography_sys",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Recall Z-0291-2027: Canon Alphenix INFX-8000V Angiography System Software Error Risk",
+        "zh": "佳能Alphenix INFX-8000V血管造影系统召回Z-0291-2027：软件错误风险"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0291-2027 for the Canon Medical Systems USA Alphenix Interventional Angiography System, REF INFX-8000V. A software issue may cause the X-ray interventional system to experience an internal error if F-Store or image acquisition is performed while the clinical analysis function is in use. Facilities should identify affected units and follow Canon Medical Systems' recall instructions to reduce potential procedure interruptions.",
+        "zh": "FDA已发布佳能医疗系统美国公司Alphenix介入血管造影系统（REF INFX-8000V）的召回Z-0291-2027。软件问题可能导致在临床分析功能使用期间执行F-Store或图像采集时，X射线介入系统发生内部错误。医疗机构应识别受影响设备并遵循佳能医疗系统的召回说明，以降低手术中断风险。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222830",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-12",
+      "detected_date": "2026-11-03T01:26:16Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "medical_device_safety",
+        "software_issue",
+        "angiography_system"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "fda_20261013_class_i_recall_medline_basic_homecare_beds_and_medlite_homec",
       "framework": "fda",
       "category": "recall_class1",
@@ -369,6 +575,32 @@
         "fiscal_year_2027",
         "medical_devices",
         "regulatory_planning"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261103_philips_azurion_3_m12_recall_unspecified_ssds_may_cause_loss",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Philips Azurion 3 M12 Recall: Unspecified SSDs May Cause Loss of Imaging Function (Models 722063, 722221)",
+        "zh": "飞利浦 Azurion 3 M12 召回：未指定固态硬盘或致成像功能丧失（型号 722063、722221）"
+      },
+      "summary": {
+        "en": "FDA posted recall Z-0292-2027 for Philips Medical Systems Nederland B.V.'s Azurion 3 M12 systems, models 722063 and 722221, because solid-state drives not specified in the Medical Device File may have been installed in various PCs. These nonconforming SSDs may have different performance characteristics and reduced reliability over time, potentially leading to loss of imaging function. Affected facilities should contact Philips to schedule inspection or replacement and follow the firm's recall instructions.",
+        "zh": "FDA 已发布飞利浦医疗系统荷兰公司 Azurion 3 M12（型号 722063、722221）的召回（Z-0292-2027），原因可能是多台 PC 中安装了未列入医疗器械主文档的固态硬盘（SSD）。这些不符合要求的 SSD 可能具有不同性能特征，并随时间推移可靠性下降，可能导致成像功能丧失。受影响机构应联系飞利浦安排检查或更换，并遵循公司的召回通知。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222944",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-06",
+      "detected_date": "2026-11-03T01:26:30Z",
+      "importance": "high",
+      "tags": [
+        "fda_recall",
+        "solid_state_drive",
+        "imaging_system",
+        "philips"
       ],
       "related_docs": [],
       "status": "published"

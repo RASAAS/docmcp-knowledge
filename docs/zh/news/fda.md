@@ -6,6 +6,66 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Instrumentation Laboratories召回HemosIL AcuStar HIT-IgG(PF4-H)血小板因子4检测试剂
+
+**2026-11-03** | FDA | cdrh_news | !!! HIGH
+
+FDA发布Instrumentation Laboratories公司HemosIL AcuStar HIT-IgG(PF4-H)检测试剂召回通知，该产品为用于肝素诱导血小板减少症检测的血小板因子4免疫测定试剂。使用该产品的临床实验室和医疗机构应停止使用、隔离剩余库存，并联系制造商获取退货或更换说明。在召回解决前，机构应改用经验证的替代方法进行HIT检测。
+
+**标签**: `recall`, `ivd`, `heparin_induced_thrombocytopenia`, `platelet_factor_4`, `instrumentation_laboratories`, `hemosil_acustar`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar)
+
+---
+
+### I级召回：Ventec VOCSN（日本）流量传感器电缆连接器可能断开
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA发布I级召回（#Z-0127-2027），涉及Ventec Life Systems, Inc.的VOCSN（日本）呼吸机，型号PRT-01100-100/包装PN PRT-01126-100。召回原因是内部流量传感器电缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗。此次召回涉及在日本销售的100台设备。用户应立即按照Ventec Life Systems的召回通知识别受影响设备并联系厂家处理。
+
+**标签**: `class_i_recall`, `ventilator`, `fda_recall`, `ventec_life_systems`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0127-2027)
+
+---
+
+### Ventec V+ Pro急救呼吸机I级召回：流量传感器连接器可能断开
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA已将Ventec Life Systems对V+ Pro急救呼吸机（型号PRT-01201-000；包装PN PRT-01173-000、PRT-0122）的召回列为I级。该设备内部流量传感器线缆连接器可能从内部板断开，可能导致系统重启并中断通气治疗。此次召回涉及30,120台。用户应立即遵循Ventec的召回通知，隔离受影响设备并联系该公司进行纠正或更换。
+
+**标签**: `class_i_recall`, `ventilator`, `medical_device_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0132-2027)
+
+---
+
+### Ventec VC(Japan)呼吸机I级召回：流量传感器线缆连接器可能断开
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA将Ventec Life Systems, Inc.对VC(Japan)呼吸机（型号PRT-01098-100，包装PN PRT-01125-100）的召回列为I级，涉及180台。内部流量传感器线缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗。相关机构应遵循Ventec Life Systems的召回通知，联系厂家并采取纠正措施。
+
+**标签**: `class_i_recall`, `ventilator`, `ventec_life_systems`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0131-2027)
+
+---
+
+### Ventec Life Systems VCSN+Pro呼吸机I级召回：内部流量传感器线缆连接器可能断开
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA发布Ventec Life Systems, Inc.的I级召回（#Z-0128-2027），涉及4,368台VCSN+Pro呼吸机（型号PRT-01184-000；包装PN PRT-01172-000），分销信息未在公告中详细说明。该设备内部流量传感器线缆连接器可能从内部电路板断开，可能导致系统重启并中断通气治疗，带来缺氧或死亡等严重健康风险。相关机构应识别受影响产品，按照Ventec Life Systems的召回通知停用或隔离设备并联系厂家处理。
+
+**标签**: `class_i_recall`, `ventilator_safety`, `fda_recall`, `medical_device_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0128-2027)
+
+---
+
 ### 仪器实验室 HemosIL AcuStar HIT-IgG(PF-4)（部件号0009802028）I级召回
 
 **2026-10-21** | FDA | recall_class1 | !!! HIGH
@@ -102,6 +162,42 @@ FDA已发布2026年10月7日生物相容性与毒理学风险评估市政厅会�
 
 ---
 
+### 佳能医疗Alphenix INFX-8000C血管造影系统因软件问题被召回（Z-0289-2027）
+
+**2026-10-12** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-0289-2027，涉及佳能医疗系统美国公司的Alphenix介入血管造影系统（型号：INFX-8000C）。召回原因是软件问题：在临床分析功能使用期间执行F-Store或图像采集，可能导致系统内部错误，进而可能中断介入手术中的成像。相关机构应识别受影响设备并遵循佳能医疗的纠正措施。
+
+**标签**: `device_recall`, `interventional_angiography`, `software_failure`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222828)
+
+---
+
+### 佳能医疗Alphenix介入血管造影系统INFX-8000F因软件问题被FDA召回
+
+**2026-10-12** | FDA | 安全通报 | !!! HIGH
+
+FDA发布召回Z-0290-2027，涉及佳能医疗系统美国公司的Alphenix介入血管造影系统（REF: INFX-8000F）。当临床分析功能使用中执行F-Store或图像采集时，软件问题可能导致系统内部错误，从而可能中断介入成像操作。受影响机构应遵循佳能医疗系统美国公司的召回说明，并联系制造商采取纠正措施。
+
+**标签**: `fda_recall`, `angiography_system`, `software_issue`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222829)
+
+---
+
+### 佳能Alphenix INFX-8000V血管造影系统召回Z-0291-2027：软件错误风险
+
+**2026-10-12** | FDA | 安全通报 | !!! HIGH
+
+FDA已发布佳能医疗系统美国公司Alphenix介入血管造影系统（REF INFX-8000V）的召回Z-0291-2027。软件问题可能导致在临床分析功能使用期间执行F-Store或图像采集时，X射线介入系统发生内部错误。医疗机构应识别受影响设备并遵循佳能医疗系统的召回说明，以降低手术中断风险。
+
+**标签**: `fda_recall`, `medical_device_safety`, `software_issue`, `angiography_system`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222830)
+
+---
+
 ### Medline Basic/Medlite家用护理床及配件I级召回（MDR1070）
 
 **2026-10-07** | FDA | recall_class1 | !!! HIGH
@@ -171,6 +267,18 @@ FDA医疗器械与放射健康中心（CDRH）发布了2027财年拟制定的指
 **标签**: `cdrh`, `fda`, `guidance_documents`, `fiscal_year_2027`, `medical_devices`, `regulatory_planning`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027)
+
+---
+
+### 飞利浦 Azurion 3 M12 召回：未指定固态硬盘或致成像功能丧失（型号 722063、722221）
+
+**2026-10-06** | FDA | 安全通报 | !!! HIGH
+
+FDA 已发布飞利浦医疗系统荷兰公司 Azurion 3 M12（型号 722063、722221）的召回（Z-0292-2027），原因可能是多台 PC 中安装了未列入医疗器械主文档的固态硬盘（SSD）。这些不符合要求的 SSD 可能具有不同性能特征，并随时间推移可靠性下降，可能导致成像功能丧失。受影响机构应联系飞利浦安排检查或更换，并遵循公司的召回通知。
+
+**标签**: `fda_recall`, `solid_state_drive`, `imaging_system`, `philips`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222944)
 
 ---
 

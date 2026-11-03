@@ -6,6 +6,66 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PF4 Assay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H) from Use
+
+**2026-11-03** | FDA | cdrh_news | !!! HIGH
+
+FDA has posted a recall notice for the Instrumentation Laboratories HemosIL AcuStar HIT-IgG(PF4-H) assay, a platelet factor 4 immunoassay used in heparin-induced thrombocytopenia testing. Clinical laboratories and healthcare providers using this product should stop use, quarantine remaining inventory, and contact the manufacturer for return or replacement instructions. Facilities should use alternative validated methods for HIT testing while this recall is resolved.
+
+**Tags**: `recall`, `ivd`, `heparin_induced_thrombocytopenia`, `platelet_factor_4`, `instrumentation_laboratories`, `hemosil_acustar`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar)
+
+---
+
+### Class I Recall: Ventec VOCSN (Japan) Flow Transducer Cable Connector May Disconnect
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (#Z-0127-2027) for Ventec Life Systems, Inc.'s VOCSN (Japan) ventilator, model PRT-01100-100 / package PN PRT-01126-100. The recall was initiated because the internal flow transducer cable connector may disconnect from the internal board, potentially causing a system reboot and interruption of ventilation therapy. The recall covers 100 units distributed in Japan. Users should immediately follow Ventec Life Systems' recall notification, identify affected devices, and contact the firm for correction.
+
+**Tags**: `class_i_recall`, `ventilator`, `fda_recall`, `ventec_life_systems`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0127-2027)
+
+---
+
+### Class I Recall: Ventec V+ Pro Emergency Ventilator Flow Transducer Connector May Disconnect
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA has classified Ventec Life Systems' recall of the V+ Pro Emergency ventilator (Model PRT-01201-000; package PNs PRT-01173-000, PRT-0122) as Class I. The internal flow transducer cable connector may disconnect from the internal board, potentially causing system reboot and interruption of ventilation therapy. The recall affects 30,120 units. Users should immediately follow Ventec's recall instructions, including quarantining affected devices and contacting the firm for correction or replacement.
+
+**Tags**: `class_i_recall`, `ventilator`, `medical_device_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0132-2027)
+
+---
+
+### Class I Recall: Ventec VC(Japan) Ventilator Flow Transducer Cable Connector May Disconnect (Z-0131-2027)
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+FDA classified Ventec Life Systems, Inc.'s recall of VC(Japan) ventilators (Model PRT-01098-100; Package PN PRT-01125-100) as Class I, affecting 180 units. The internal flow transducer cable connector may disconnect from the internal board, potentially causing system reboot and interruption of ventilation therapy. Affected facilities should follow Ventec Life Systems' recall instructions and contact the firm for corrective action.
+
+**Tags**: `class_i_recall`, `ventilator`, `ventec_life_systems`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0131-2027)
+
+---
+
+### Class I Recall: Ventec Life Systems VCSN+Pro Ventilator Flow Transducer Cable Disconnection Risk
+
+**2026-10-28** | FDA | recall_class1 | !!! HIGH
+
+The FDA posted a Class I recall (#Z-0128-2027) by Ventec Life Systems, Inc. affecting 4,368 units of the VCSN+Pro ventilator (Model PRT-01184-000; Package PN PRT-01172-000), with distribution details not specified in the notice. The internal flow transducer cable connector may disconnect from the internal board, potentially causing a system reboot and interruption of ventilation therapy, which poses serious risks such as hypoxia or death. Facilities should identify affected units, follow Ventec Life Systems' recall instructions, and remove or quarantine devices as directed.
+
+**Tags**: `class_i_recall`, `ventilator_safety`, `fda_recall`, `medical_device_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0128-2027)
+
+---
+
 ### Class I Recall: Instrumentation Laboratory HemosIL AcuStar HIT-IgG(PF-4), Part 0009802028 (Recall #Z-0002-2027)
 
 **2026-10-21** | FDA | recall_class1 | !!! HIGH
@@ -102,6 +162,42 @@ FDA has posted the presentation, slides, and transcript from the October 7, 2026
 
 ---
 
+### Canon Medical Alphenix INFX-8000C Angiography System Recalled (Z-0289-2027) Due to Software Error
+
+**2026-10-12** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0289-2027 for Canon Medical Systems USA, Inc.'s Alphenix Interventional Angiography System (REF: INFX-8000C). The recall is due to a software issue that may cause an internal error if F-Store or image acquisition is performed while the clinical analysis function is in use, potentially interrupting imaging during interventional procedures. Affected facilities should identify impacted systems and follow Canon Medical's corrective action instructions.
+
+**Tags**: `device_recall`, `interventional_angiography`, `software_failure`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222828)
+
+---
+
+### FDA Recall Z-0290-2027: Canon Alphenix Interventional Angiography System INFX-8000F Software Error
+
+**2026-10-12** | FDA | Safety Communication | !!! HIGH
+
+The FDA posted recall Z-0290-2027 for Canon Medical Systems USA's Alphenix Interventional Angiography System (REF: INFX-8000F). A software issue can cause an internal error when F-Store or image acquisition is performed while the clinical analysis function is in use, potentially interrupting interventional imaging procedures. Affected facilities should follow Canon Medical Systems USA's recall instructions and contact the manufacturer for corrective action.
+
+**Tags**: `fda_recall`, `angiography_system`, `software_issue`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222829)
+
+---
+
+### Recall Z-0291-2027: Canon Alphenix INFX-8000V Angiography System Software Error Risk
+
+**2026-10-12** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0291-2027 for the Canon Medical Systems USA Alphenix Interventional Angiography System, REF INFX-8000V. A software issue may cause the X-ray interventional system to experience an internal error if F-Store or image acquisition is performed while the clinical analysis function is in use. Facilities should identify affected units and follow Canon Medical Systems' recall instructions to reduce potential procedure interruptions.
+
+**Tags**: `fda_recall`, `medical_device_safety`, `software_issue`, `angiography_system`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222830)
+
+---
+
 ### Class I Recall: Medline Basic Homecare Beds and Medlite Homecare Beds and Accessories (MDR1070)
 
 **2026-10-07** | FDA | recall_class1 | !!! HIGH
@@ -171,6 +267,18 @@ FDA’s Center for Devices and Radiological Health (CDRH) has published its prop
 **Tags**: `cdrh`, `fda`, `guidance_documents`, `fiscal_year_2027`, `medical_devices`, `regulatory_planning`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027)
+
+---
+
+### Philips Azurion 3 M12 Recall: Unspecified SSDs May Cause Loss of Imaging Function (Models 722063, 722221)
+
+**2026-10-06** | FDA | Safety Communication | !!! HIGH
+
+FDA posted recall Z-0292-2027 for Philips Medical Systems Nederland B.V.'s Azurion 3 M12 systems, models 722063 and 722221, because solid-state drives not specified in the Medical Device File may have been installed in various PCs. These nonconforming SSDs may have different performance characteristics and reduced reliability over time, potentially leading to loss of imaging function. Affected facilities should contact Philips to schedule inspection or replacement and follow the firm's recall instructions.
+
+**Tags**: `fda_recall`, `solid_state_drive`, `imaging_system`, `philips`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=222944)
 
 ---
 
