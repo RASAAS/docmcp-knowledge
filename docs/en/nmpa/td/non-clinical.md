@@ -1,227 +1,227 @@
-# Chapter 3: Non-Clinical Data (非临床资料)
+# Chapter 3: Non-Clinical Documentation
 
-**NMPA Reference:** Notice 2021-121, Attachment 5, Chapter 3  
-**Document Code:** NMPA-CH3  
-**Responsible Party:** Manufacturer (CRO supports V&V strategy and documentation)
+**Source:** NMPA Notice 2021 No. 121, Annex 5, Chapter 3  
+**Electronic directories:** domestic Class III registration dossier; imported Class II and Class III registration dossier
 
-## Requirements Checklist
+Section titles follow those electronic directories. The text under each section is a close translation of the official Chinese wording in Annex 5. Where a directory states the same point differently, that wording is included. A folder that has a name and no further official text is listed by name only.
 
-### 3.1 Table of Contents
+## CH3.1 Table of contents
 
-- [ ] All headings and sub-headings with page numbers
+The submitted dossier shall include a table of contents for this chapter, covering every heading and subheading, and shall state the contents number, the contents title, applicability, the uploaded file name, and the page numbers of the uploaded file, and shall give the page number of each item. Applicability shall state whether a CR folder applies.
 
-### 3.2 Risk Management Data (产品风险管理资料)
+Annex 5: the table of contents shall include every heading and subheading of this chapter and the page number of each item.
 
-Complete risk management documentation with traceability for each identified hazard:
+## CH3.2 Risk management
 
-- [ ] **Risk analysis**: intended use identification, safety-relevant characteristics, hazard identification, risk estimation per hazard situation
-- [ ] **Risk evaluation**: assessment of each identified hazard situation, determination of risk reduction needs
-- [ ] **Risk control**: risk control measures implemented, verification of effectiveness
-- [ ] **Residual risk acceptability**: evaluation of each individual residual risk
-- [ ] **Overall risk acceptability**: overall benefit-risk assessment confirming acceptability
+The product risk-management documentation records the risk-management process and the results of its review. The following shall be provided, with traceability through each of the following processes for every hazard that has been determined.
 
-**Key standard:** [GB/T 42062-2022](/en/nmpa/standards/general) (ISO 14971:2019 adoption)
+1. Risk analysis: identification of the scope of the device and of characteristics related to safety, identification of hazards, and estimation of the risk of each hazardous situation.
+2. Risk evaluation: for each identified hazardous situation, evaluate and decide whether the risk needs to be reduced and, if so, describe how the corresponding risk control is carried out.
+3. Risk control: describe what is done to control risk in order to reduce it.
+4. Judgment of the acceptability of any one or more residual risks.
+5. An overall evaluation that the product risk is acceptable in comparison with the benefit.
 
-### 3.3 Essential Principles Checklist (医疗器械安全和性能基本原则清单)
+## CH3.3 Essential principles of safety and performance checklist
 
-- [ ] Compliance with each applicable requirement from Attachment 9
-- [ ] For each applicable principle: method of compliance and evidence documents
-- [ ] For non-applicable principles: justification of non-applicability
-- [ ] Documents within the dossier: reference to specific dossier location
-- [ ] Documents outside the dossier: document name and QMS reference number
+State the method used to meet each applicable requirement of the Checklist of Essential Principles of Safety and Performance of Medical Devices (Annex 9), and the documents that demonstrate conformity. For each requirement in that checklist that does not apply, state the reason.
 
-> The NMPA Essential Principles Checklist (Attachment 9) is broadly equivalent to the EU MDR [GSPR (Annex I)](/en/eu_mdr/regulations/annex-i-gspr) but follows a Chinese regulatory structure.
+For a document included in the registration dossier, state its location in the dossier. For a document not included in the registration dossier, state the name of the evidence document and its number in the quality-management-system documentation, for inspection.
 
-### 3.4 Product Technical Requirements & Test Reports (产品技术要求及检验报告)
+## CH3.4 Standards
 
-#### 3.4.1 Applicable Standards
+This level has no content of its own. Documents are filed under the headings below. The electronic directory has no CH3.4.3.
 
-- [ ] List all applicable mandatory national (GB) and industry (YY) standards
-- [ ] For inapplicable mandatory standards: explanation with supporting evidence
-- [ ] Standards compliance checklist
+### CH3.4.1 List of standards
 
-#### 3.4.2 Declaration of Conformity and/or Certification (符合性声明和/或认证)
+The device under application shall meet the applicable mandatory standards. For a mandatory industry standard, if the structural characteristics, intended use, or manner of use of the device are not within the scope of that standard, the applicant shall state that the mandatory standard does not apply and shall provide verified supporting evidence.
 
-The eRPS electronic directories for domestic Class III devices, and for imported Class II and Class III devices, have CH3.4.2 only. There is no CH3.4.3 folder. Both the product technical requirement and the product test report are filed under CH3.4.2.
+### CH3.4.2 Declaration of conformity and/or certification
 
-**(1) Product technical requirement (产品技术要求)**
+1. Product technical requirement
 
-- [ ] Formatted per the NMPA guidance on writing product technical requirements
-- [ ] Includes performance specifications and test methods
+The product technical requirement for the medical device shall be prepared as required by the relevant provisions.
 
-> The product technical requirement combines product specifications, test methods, and acceptance criteria into a single regulatory document.
+2. Product test report
 
-**(2) Product test report (产品检验报告)**
+Either of the following test reports may be submitted:
 
-Acceptable forms (any one of):
+(1) a self-test report issued by the applicant;
 
-- [ ] Self-test report issued by the applicant, or
-- [ ] Test report issued by a qualified medical device testing laboratory
+(2) a test report issued by a qualified medical-device testing institution.
 
-### 3.5 Research Data (研究资料)
+## CH3.5 Non-clinical studies
 
-Provide a non-clinical research summary describing each study, its methodology, and conclusions. Each study should include a study protocol and study report.
+1. According to the scope and technical characteristics of the device, provide a non-clinical study summary, describe each study that was conducted, and outline the study method and the study conclusion.
+2. According to that summary, provide the corresponding study documentation under the headings below. Each study may be conducted as a literature study, a laboratory study, or a model study, and shall generally include a study protocol and a study report. Where a modelling study is used, provide the product modelling study documentation.
 
-#### 3.5.1 Chemical and Physical Performance (化学和物理性能研究)
+In the electronic directory, each study is filed under a folder named with the study description, study number, and start date, containing a summary, the full report, and the statistical data.
 
-- [ ] Material characterisation: chemical/material composition
-- [ ] Physical and/or mechanical performance indicators: determination basis, design inputs, clinical significance
-- [ ] Test standards/methods used with rationale and theoretical basis
-- [ ] **Flammability/explosion risk**: for devices exposed to flammable/explosive substances, demonstrate acceptable risk under normal and single-fault conditions
-- [ ] **Combination use**: for devices used with other medical devices, drugs, or non-medical products -- safety and efficacy data for combination use including interface compatibility, connection types, protocols, minimum performance, and limitations
-- [ ] **Drug compatibility**: for drug-device combinations, compatibility study data
-- [ ] **Dose-response and energy safety**: for therapeutic energy devices, demonstrate safe parameter settings and that non-target tissue is not unacceptably harmed
+The last item of the study documentation in Annex 5 is: other study documentation that demonstrates the safety and effectiveness of the product.
 
-#### 3.5.2 Electrical System Safety (电气系统安全性研究)
+### CH3.5.1 Physical and mechanical performance
 
-- [ ] Electrical safety studies per applicable standards
-- [ ] Mechanical and environmental protection studies
-- [ ] Electromagnetic compatibility (EMC) studies
-- [ ] Applicable standards compliance documentation
+1. Provide the basis for determining the physical and/or mechanical performance specifications, the source of the design input, and the clinical meaning, and the standard or method used, the reason for using it, and its theoretical basis.
+2. Risk of fire and explosion
 
-**Key standards:** [GB 9706.1](/en/nmpa/standards/general) (IEC 60601-1), GB/T 18268 (IEC 61326 for non-medical EMC)
+For a device exposed to flammable or explosive substances, or used together with other combustibles or ignition sources, provide study documentation on the risk of fire and explosion, demonstrating that the risk is acceptable in the normal condition and in the single-fault condition.
 
-#### 3.5.3 Radiation Safety (辐射安全研究)
+3. Combined use
 
-For devices with ionising or non-ionising radiation hazards:
+If the device is intended to be used together with another medical device, a medicine, or a non-device product to achieve the same intended use, provide study documentation demonstrating that the combined use is safe and effective, including the basic interconnection information (connection type, interface, protocol, minimum performance), the risks of combined use and the control measures, the limitations on combined use, and compatibility studies.
 
-- [ ] Applicable radiation safety standards (general and product-specific)
-- [ ] Justification for inapplicable standard clauses
-- [ ] Radiation type identification and verification data
-- [ ] Demonstrate controllable and adjustable radiation energy, distribution, and key characteristics
-- [ ] Radiation dose reduction measures for users, third parties, and patients during transport, storage, installation, and use
-- [ ] Misuse prevention methods
-- [ ] Installation acceptance testing, performance testing, acceptance criteria, and maintenance procedures (if applicable)
+Where a medicine is used together with the device, provide medicine-compatibility study documentation demonstrating that the performance of the medicine and the device used together meets the indication and the intended use.
 
-#### 3.5.4 Software Research (软件研究)
+4. Dose-effect relationship and energy safety
 
-**3.5.4.1 Software (含软件组件或独立软件)**
+For a device that delivers energy or a substance to the patient for treatment, provide study documentation on the dose-effect relationship and on energy safety, demonstrating that the treatment-parameter settings are safe, effective, and justified, and that, apart from the intended target tissue, the energy will not cause unacceptable harm to normal tissue.
 
-- [ ] Basic information: software identification, safety classification (serious/medium/minor), architecture and functions, physical topology, operating environment, registration history
-- [ ] Development process: development overview, risk management, requirements specification, lifecycle model, V&V activities, traceability analysis, defect management, update history
-- [ ] Core function and algorithm mapping to intended use
-- [ ] Detail level proportional to safety classification
+### CH3.5.2 Chemical / material characterization
 
-**3.5.4.2 Cybersecurity (网络安全)**
+Provide the basis for determining the chemical / material characterization, the source of the design input, and the clinical meaning, and the standard or method used, the reason for using it, and its theoretical basis.
 
-For software with electronic data exchange, remote control, or user access:
+### CH3.5.3 Electrical system: safety, mechanical and environmental protection, and electromagnetic compatibility
 
-- [ ] Basic information: software info, data architecture, cybersecurity capabilities, patch strategy, security software
-- [ ] Development process: risk management, requirements specification, V&V, traceability, maintenance plan
-- [ ] Vulnerability assessment: known vulnerability information and mitigations
+Provide study documentation on electrical safety, mechanical and environmental protection, and electromagnetic compatibility, and state the applicable standards and the studies conducted.
 
-**3.5.4.3 Off-the-shelf (OTS) Software (现成软件)**
+### CH3.5.4 Radiation safety
 
-- [ ] Software research and cybersecurity data appropriate to OTS type and usage
+For a product that has a radiation hazard or a potential radiation hazard, including ionizing and non-ionizing radiation, provide radiation-safety study documentation, including:
 
-**3.5.4.4 Artificial Intelligence (人工智能)**
+(1) the general and particular radiation-safety standards that are met, with a detailed reason for any clause of those standards that does not apply;
 
-For devices using deep learning or AI for intended function:
+(2) the type of radiation and the radiation-safety verification documentation. Radiation energy, radiation distribution, and other key radiation characteristics shall be capable of reasonable control and adjustment, and of being estimated and monitored during use (where applicable);
 
-- [ ] Algorithm basic information
-- [ ] Data collection methodology
-- [ ] Algorithm training process
-- [ ] Algorithm performance evaluation
-- [ ] Change management plan
+(3) protective measures that reduce the absorbed radiation dose to the user, other persons, and the patient during transport, storage, installation, and use, and methods of avoiding misuse. For a product that requires installation, state the information on acceptance and performance testing, the acceptance criteria, and the maintenance procedure.
 
-**3.5.4.5 Interoperability (互操作性)**
+### CH3.5.5 Standalone software / software component
 
-For devices exchanging and using information via electronic interfaces:
+1. Software: for a product that contains a software component, and for standalone software, provide software study documentation, including basic information, the realization process, core functions, and the conclusion. The level of detail depends on the software safety class (major, moderate, or minor). Basic information includes the software identification, safety class, structural functions, physical topology, operating environment, and registration history. The realization process includes the development overview, risk management, requirements specification, life cycle, verification and validation, traceability analysis, defect management, and update history. The correspondence among core functions, core algorithms, and the intended use shall be stated.
+2. Off-the-shelf software: if the product uses off-the-shelf software, provide the corresponding software study documentation and cybersecurity study documentation according to the type of that software and the way it is used.
+3. Artificial intelligence: if the product uses artificial-intelligence technology such as deep learning to achieve the intended function and use, provide algorithm study documentation, including basic algorithm information, data collection, algorithm training, and algorithm performance evaluation.
+4. Other: if the product uses information and communications technology such as mobile computing, cloud computing, or virtual reality to achieve the intended function and use, provide the corresponding technical study documentation, including basic information, the requirements specification, risk management, verification and validation, and the maintenance plan.
 
-- [ ] Basic information and interface specifications
-- [ ] Requirements specification
-- [ ] Risk management
-- [ ] V&V results
-- [ ] Maintenance plan
+The electronic directory also lists the following folders under this heading:
 
-**3.5.4.6 Other Technologies (移动计算/云计算/VR)**
+- CH3.5.5.1 Description of the standalone software / software component
+- CH3.5.5.2 Hazard analysis
+- CH3.5.5.3 Software requirements specification
+- CH3.5.5.4 Architecture diagram
+- CH3.5.5.5 Software design specification
+- CH3.5.5.6 Traceability analysis
+- CH3.5.5.7 Description of the software life-cycle process
+- CH3.5.5.8 Software verification and validation
+- CH3.5.5.9 Version-update history
+- CH3.5.5.10 Residual defects (errors, faults)
 
-- [ ] Basic information, requirements, risk management, V&V, maintenance plan
+#### CH3.5.5.11 Cybersecurity
 
-#### 3.5.5 Biological Characteristics (生物学特性研究)
+Standalone software, and a product containing a software component, that exchanges electronic data, is remotely controlled, or has a user-access function, shall have cybersecurity study documentation, including basic information, the realization process, vulnerability assessment, and the conclusion. The level of detail depends on the software safety class. Basic information includes software information, data architecture, cybersecurity capability, cybersecurity patches, and security software. The realization process includes risk management, the requirements specification, verification and validation, traceability analysis, and the update and maintenance plan. The vulnerability assessment states the information on known vulnerabilities.
 
-For devices with direct or indirect patient contact:
+#### CH3.5.5.12 Interoperability
 
-- [ ] Material description and contact nature with human body
-- [ ] Contaminants and residues from design/manufacturing
-- [ ] Leachables, extractables, degradation products, processing residues
-- [ ] Packaging materials in direct device contact
-- [ ] Physical and/or chemical characterisation (including physical action risks)
-- [ ] Biocompatibility evaluation strategy, basis, and methods
-- [ ] Evaluation of existing data and results
-- [ ] Justification for test selection or exemption
-- [ ] Additional data required for complete evaluation
-- [ ] **Nanoparticle risk**: for devices containing, generating, or composed of nanomaterials -- biological risk assessment
-- [ ] **Absorbable devices**: compatibility data between materials/substances and human tissues, cells, body fluids
+If the product exchanges and uses information with another medical device or a non-device through an electronic interface, provide interoperability study documentation, including basic information, the requirements specification, risk management, verification and validation, and the maintenance plan.
 
-**Key standard:** [GB/T 16886 series](/en/nmpa/standards/general) (ISO 10993 adoption)
+### CH3.5.6 Biocompatibility and toxicological evaluation
 
-#### 3.5.6 Biological Source Material Safety (生物源材料的安全性研究)
+A device that contacts the patient directly or indirectly shall undergo a biological evaluation. The biological-evaluation documentation shall include:
 
-For devices containing allogeneic, animal-origin, or bioactive substances:
+1. A description of the materials used in the product and the nature of contact with the human body; contaminants and residues that may be introduced during design and production; leachables (including leachables and/or volatiles), degradation products, and processing residues that may arise during design and production; and information on packaging materials in direct contact with the device.
+2. A description of the physical and/or chemical information of the device, taking material characterization into account where applicable. If a physical action of the device may create a biological risk, that risk shall be evaluated.
+3. The strategy, basis, and method of the biological evaluation.
+4. Evaluation of existing data and results.
+5. The reason and justification for selecting or waiving a biological test.
+6. Other data needed to complete the biological evaluation.
 
-- [ ] Material/substance source description
-- [ ] Tissue, cell, and material acquisition, processing, preservation, testing procedures
-- [ ] Virus inactivation/removal process and effectiveness validation data
-- [ ] Immunogenicity reduction methods and quality control data
-- [ ] Supporting safety documentation
+If a device material may release particles into the patient or the user and thereby create a risk related to particle size and nature, such as a nanomaterial, provide the relevant biological-risk study documentation for every device that contains, generates, or is composed of such material.
 
-#### 3.5.7 Cleaning, Disinfection, Sterilisation (清洁、消毒、灭菌研究)
+If, according to the intended use, the device will be absorbed or metabolized by the human body, such as an absorbable product, provide study documentation on the compatibility between the material or substance used and human tissue, cells, and body fluids.
 
-- [ ] **Manufacturer sterilisation**: sterilisation method, parameters, SAL level, validation and confirmation data
-- [ ] **User sterilisation**: recommended method and parameters, rationale, validation data; for multi-cycle devices: sterilisation tolerance data
-- [ ] **User cleaning and disinfection**: recommended methods, parameters, rationale, validation data
-- [ ] **Residual toxicity**: for post-sterilisation/disinfection residues -- residue identification, processing methods, study data
-- [ ] **Non-sterile delivery for user sterilisation**: packaging evidence for microbial contamination reduction and sterilisation method compatibility
+### CH3.5.7 Non-material-mediated pyrogen
 
-#### 3.5.8 Animal Studies (动物试验研究)
+The electronic directory has this folder. Annex 5 and the two directories above do not add a separate requirement.
 
-- [ ] Scientific decision documentation: justification for conducting or not conducting animal studies
-- [ ] If conducted: study objectives, animal information, test and control device details, animal numbers, evaluation endpoints, results
-- [ ] Design rationale for all study elements
+### CH3.5.8 Safety of materials of biological origin (human / animal)
 
-#### 3.5.9 Other Safety and Efficacy Studies
+For a product that contains allogeneic material, animal-derived material, a biologically active substance, or another material with a biosafety risk, provide the corresponding biosafety study documentation.
 
-- [ ] Any additional studies demonstrating product safety and efficacy
+The biosafety study documentation shall include:
 
-### 3.6 Non-Clinical Literature (非临床文献)
+1. The material or substance, and the collection, processing, preservation, testing, and handling of the tissue, cells, and material.
+2. The origin, the process used during production to inactivate and remove viruses and/or infectious agents, and validation data or related documentation of the effectiveness of that process.
+3. The method and/or process used to reduce immunogenic substances, and the quality-control specifications and confirmatory experimental data or related documentation.
+4. Other documentation supporting the safety of the material of biological origin.
 
-- [ ] Bibliography of published non-clinical studies relevant to the device (cadaver studies, biomechanical studies, etc.)
-- [ ] Copies of referenced publications (with Chinese translations for foreign-language documents)
-- [ ] If no relevant literature found: formal declaration
+The directory also has CH3.5.8.1 Certificates / certification. It does not add a separate requirement for that folder.
 
-### 3.7 Stability Studies (稳定性研究)
+### CH3.5.9 Sterilization validation
 
-#### 3.7.1 Shelf Life (货架有效期)
+This level has no content of its own. Documents are filed under the headings below.
 
-- [ ] Shelf-life and packaging study data
-- [ ] Demonstrate performance maintenance under manufacturer-specified transport and storage conditions
-- [ ] For devices with microbial limits: microbial limit compliance data
-- [ ] For sterile-delivered devices: sterility maintenance data
+#### CH3.5.9.1 Sterilization by the user
 
-#### 3.7.2 In-Use Stability (使用稳定性)
+Sterilization by the user: state the recommended sterilization process (method and parameters), the basis for that recommendation, and the related validation study documentation. For a product that can withstand two or more sterilizations, provide study documentation of the product's tolerance of the recommended sterilization process.
 
-- [ ] Reliability study data for the specified use period or use count
-- [ ] Demonstrate performance under normal use, maintenance, and calibration (if applicable)
+For a device delivered non-sterile and sterilized before use, provide study documentation demonstrating that the packaging can reduce the risk of microbial contamination of the product and is suitable for the sterilization method specified by the manufacturer.
 
-#### 3.7.3 Transport Stability (运输稳定性)
+#### CH3.5.9.2 Sterilization by the manufacturer
 
-- [ ] Transport stability and packaging data
-- [ ] Demonstrate that transport conditions (vibration, temperature, humidity fluctuations) do not adversely affect device characteristics, performance, integrity, or cleanliness
+Sterilization by the manufacturer: state the sterilization process (method and parameters) and the sterility assurance level (SAL), and provide the related study documentation of sterilization validation and confirmation.
 
-### 3.8 Other Data (其他资料)
+#### CH3.5.9.3 Residual toxicity
 
-- [ ] For Class II/III devices exempt from clinical evaluation: comparison with listed exempt products per NMPA Guidance Principles, covering: basic principle, structure, performance, safety, intended use
-- [ ] For single-use devices: supporting data proving non-reusability
+Residual toxicity: if sterilization or disinfection of the product may produce residual substances, study the residual toxicity of the product after sterilization or disinfection, state the residual substances and the treatment applied, and provide the related study documentation.
 
-## Comparison with EU MDR
+#### CH3.5.9.4 Cleaning and disinfection validation
 
-| Aspect | NMPA Ch.3 | EU MDR Annex II Section 5-6 |
-|--------|-----------|----------------------------|
-| Risk management | Same ISO 14971 basis | Same ISO 14971 basis |
-| Essential principles | Attachment 9 checklist | Annex I GSPR |
-| Software | 6 detailed sub-categories (AI, cyber, OTS, interop, cloud/VR) | Integrated into V&V |
-| Product Technical Req | Unique NMPA document | No equivalent |
-| Testing | Mandatory designated lab testing for Class II/III | NB decides scope |
-| Stability | 3 types required (shelf, in-use, transport) | Covered in V&V |
-| Animal studies | Decision justification required | Decision justification required |
+Cleaning and disinfection by the user: state the recommended cleaning and disinfection process (method and parameters), the basis for that process, and the related validation study documentation.
+
+#### CH3.5.9.5 Reprocessing validation for a single-use device
+
+The electronic directory has this folder. Annex 5 and the two directories above do not add a separate requirement.
+
+### CH3.5.10 Animal studies
+
+To avoid unnecessary animal studies, whether a medical device undergoes animal study shall be decided scientifically, and the argument or explanation shall be provided. Where the decision is that an animal study is needed to verify or confirm that a risk-control measure is effective, provide the animal-study documentation. It shall include the purpose of the study, information on the experimental animals, information on the test device and the control, the number of animals, the evaluation indicators and the study results, and the basis for determining the elements of the animal-study design.
+
+### CH3.5.11 Usability / human factors
+
+The electronic directory has this folder. Annex 5 and the two directories above do not add a separate requirement.
+
+## CH3.6 Non-clinical study literature
+
+Provide a list of published non-clinical studies related to the device (such as cadaver studies and biomechanical studies) and copies of the relevant content. A foreign-language item shall be accompanied by a translation. If no non-clinical literature related to the device is found, provide a statement to that effect.
+
+## CH3.7 Shelf life and packaging validation
+
+Under this heading the electronic directory states: product lifetime and packaging studies.
+
+### CH3.7.1 Product stability
+
+1. Shelf life
+
+Where applicable, provide shelf-life and packaging study documentation demonstrating that, within the shelf life and under the transport and storage conditions specified by the manufacturer, the product maintains the performance and function required for use. A product with a microbial-limit requirement shall also meet that requirement. A product delivered sterile shall also remain sterile.
+
+2. Stability in use
+
+Where applicable, provide use-stability / reliability study documentation demonstrating that, within the period of use or the number of uses specified by the manufacturer, and under normal use, maintenance, and calibration (where applicable), the performance and function of the product meet the requirements for use.
+
+### CH3.7.2 Packaging validation
+
+Provide transport-stability and packaging study documentation demonstrating that, under the transport conditions specified by the manufacturer, the environmental conditions during transport (for example vibration, shock, and fluctuations of temperature and humidity) will not adversely affect the characteristics and performance of the device, including integrity and cleanliness.
+
+The imported Class II and Class III directory places the words "transport stability" before this statement.
+
+## CH3.8 Other documentation
+
+For a Class II or Class III device that is exempt from clinical evaluation, the applicant shall, in accordance with the Technical Guideline on the Comparison Statement for Products Listed in the Catalogue of Medical Devices Exempt from Clinical Evaluation, demonstrate the safety and effectiveness of the product in respect of the principle of operation, structure and composition, performance, safety, and scope of application.
+
+For a single-use device, also provide supporting documentation demonstrating that it cannot be reused.
+
+The domestic Class III directory writes the first sentence as: for a device exempt from clinical evaluation, the applicant shall, in accordance with that same guideline, demonstrate the safety and effectiveness of the product in respect of the principle of operation, structure and composition, performance, safety, and scope of application.
+
+## Sources
+
+- NMPA Notice 2021 No. 121, Annex 5, Requirements and Explanations for Medical Device Registration Dossiers, Chapter 3
+- NMPA Notice 2021 No. 121, Annex 9, Checklist of Essential Principles of Safety and Performance of Medical Devices
+- Electronic directory of registration dossiers for domestic Class III medical devices, Chapter 3
+- Electronic directory of registration dossiers for imported Class II and Class III medical devices, Chapter 3
