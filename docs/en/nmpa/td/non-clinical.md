@@ -40,22 +40,23 @@ Complete risk management documentation with traceability for each identified haz
 - [ ] For inapplicable mandatory standards: explanation with supporting evidence
 - [ ] Standards compliance checklist
 
-#### 3.4.2 Product Technical Requirement (产品技术要求)
+#### 3.4.2 Declaration of Conformity and/or Certification (符合性声明和/或认证)
 
-- [ ] Formatted per NMPA Product Technical Requirement regulations
-- [ ] Submitted in editable Word format
-- [ ] Two physical copies required
+The eRPS electronic directories for domestic Class III devices, and for imported Class II and Class III devices, have CH3.4.2 only. There is no CH3.4.3 folder. Both the product technical requirement and the product test report are filed under CH3.4.2.
 
-> The Product Technical Requirement is a unique NMPA document that combines product specifications, test methods, and acceptance criteria into a single regulatory document. No direct EU MDR equivalent.
+**(1) Product technical requirement (产品技术要求)**
 
-#### 3.4.3 Test Reports
+- [ ] Formatted per the NMPA guidance on writing product technical requirements
+- [ ] Includes performance specifications and test methods
+
+> The product technical requirement combines product specifications, test methods, and acceptance criteria into a single regulatory document.
+
+**(2) Product test report (产品检验报告)**
 
 Acceptable forms (any one of):
 
-- [ ] Self-test report by the applicant, OR
-- [ ] Test report from an NMPA-designated testing laboratory
-
-> Note: For Class II/III devices, NMPA typically requires testing by designated laboratories, not self-testing.
+- [ ] Self-test report issued by the applicant, or
+- [ ] Test report issued by a qualified medical device testing laboratory
 
 ### 3.5 Research Data (研究资料)
 
