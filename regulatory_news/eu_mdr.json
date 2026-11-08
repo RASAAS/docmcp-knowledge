@@ -1,7 +1,59 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-09-13T21:14:31Z",
+  "last_updated": "2026-11-08T22:38:48Z",
   "items": [
+    {
+      "id": "eu_mdr_20261108_new_mdcg_2026_6_guidance_on_clinical_evidence_for_orphan_ivd",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "New MDCG 2026-6 Guidance on Clinical Evidence for Orphan IVDs",
+        "zh": "MDCG 2026-6 孤儿体外诊断试剂临床证据新指南发布"
+      },
+      "summary": {
+        "en": "The European Commission has published MDCG 2026-6, a new guidance document addressing clinical evidence requirements for orphan in vitro diagnostic medical devices (IVDs) under Regulation (EU) 2017/746 (IVDR). It is intended to assist manufacturers and notified bodies in demonstrating sufficient clinical evidence for orphan IVDs, which serve small patient populations and face unique evidence-generation challenges. Stakeholders should review the guidance and align their technical documentation and clinical evaluation plans accordingly.",
+        "zh": "欧盟委员会发布了MDCG 2026-6新指南，针对体外诊断医疗器械法规(EU) 2017/746（IVDR）下孤儿体外诊断试剂（orphan IVDs）的临床证据要求提供指导。该指南旨在帮助制造商和公告机构为服务于小患者群体的孤儿IVD产品证明充分的临床证据，应对独特的证据生成挑战。相关方应审阅该指南并相应调整技术文档和临床评价计划。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+      "source_name": "European Commission",
+      "published_date": "2026-11-03",
+      "detected_date": "2026-11-08T22:38:32Z",
+      "importance": "high",
+      "tags": [
+        "mdcg",
+        "orphan_ivds",
+        "clinical_evidence",
+        "ivdr",
+        "regulatory_guidance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20261108_new_mdcg_position_paper_revision_on_ss_c_p_management_in_eud",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "New MDCG Position Paper Revision on SS(C)P Management in EUDAMED After Mandatory Use",
+        "zh": "MDCG发布EUDAMED强制使用后SS(C)P管理立场文件新修订版"
+      },
+      "summary": {
+        "en": "The European Commission has published a new revision of the MDCG position paper on managing Summaries of Safety and Clinical Performance (SS(C)P) in EUDAMED once mandatory use applies. The update affects manufacturers of implantable and Class III devices, notified bodies, and other EUDAMED users involved in SSCP submission and validation. Affected parties should review the revised guidance and adjust their procedures for SSCP preparation, upload, and lifecycle management in EUDAMED accordingly.",
+        "zh": "欧盟委员会发布了MDCG立场文件的新修订版，涉及EUDAMED强制使用后安全与临床性能摘要（SS(C)P）的管理。该更新适用于植入式器械和III类器械制造商、公告机构以及参与SSCP提交和验证的其他EUDAMED用户。相关方应审查修订后的指南，并相应调整其在EUDAMED中编写、上传和生命周期管理SSCP的流程。"
+      },
+      "source_url": "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+      "source_name": "European Commission",
+      "published_date": "2026-10-30",
+      "detected_date": "2026-11-08T22:38:48Z",
+      "importance": "medium",
+      "tags": [
+        "mdcg",
+        "sscp",
+        "eudamed"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_20260913_mdcg_2020_16_rev_5_updated_ivdr_classification_rules_guidanc",
       "framework": "eu_mdr",

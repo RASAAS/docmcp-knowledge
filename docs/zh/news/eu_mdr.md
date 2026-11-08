@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### MDCG 2026-6 孤儿体外诊断试剂临床证据新指南发布
+
+**2026-11-03** | EU MDR/IVDR | 法规更新 | !!! HIGH
+
+欧盟委员会发布了MDCG 2026-6新指南，针对体外诊断医疗器械法规(EU) 2017/746（IVDR）下孤儿体外诊断试剂（orphan IVDs）的临床证据要求提供指导。该指南旨在帮助制造商和公告机构为服务于小患者群体的孤儿IVD产品证明充分的临床证据，应对独特的证据生成挑战。相关方应审阅该指南并相应调整技术文档和临床评价计划。
+
+**标签**: `mdcg`, `orphan_ivds`, `clinical_evidence`, `ivdr`, `regulatory_guidance`
+
+[查看来源 (European Commission)](https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en)
+
+---
+
+### MDCG发布EUDAMED强制使用后SS(C)P管理立场文件新修订版
+
+**2026-10-30** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧盟委员会发布了MDCG立场文件的新修订版，涉及EUDAMED强制使用后安全与临床性能摘要（SS(C)P）的管理。该更新适用于植入式器械和III类器械制造商、公告机构以及参与SSCP提交和验证的其他EUDAMED用户。相关方应审查修订后的指南，并相应调整其在EUDAMED中编写、上传和生命周期管理SSCP的流程。
+
+**标签**: `mdcg`, `sscp`, `eudamed`
+
+[查看来源 (European Commission)](https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en)
+
+---
+
 ### MDCG 2020-16 第5版：IVDR分类规则指南更新（2026年9月）
 
 **2026-09-09** | EU MDR/IVDR | 法规更新 | !! MEDIUM

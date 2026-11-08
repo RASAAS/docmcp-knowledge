@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### New MDCG 2026-6 Guidance on Clinical Evidence for Orphan IVDs
+
+**2026-11-03** | EU MDR/IVDR | Regulation Update | !!! HIGH
+
+The European Commission has published MDCG 2026-6, a new guidance document addressing clinical evidence requirements for orphan in vitro diagnostic medical devices (IVDs) under Regulation (EU) 2017/746 (IVDR). It is intended to assist manufacturers and notified bodies in demonstrating sufficient clinical evidence for orphan IVDs, which serve small patient populations and face unique evidence-generation challenges. Stakeholders should review the guidance and align their technical documentation and clinical evaluation plans accordingly.
+
+**Tags**: `mdcg`, `orphan_ivds`, `clinical_evidence`, `ivdr`, `regulatory_guidance`
+
+[View Source (European Commission)](https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en)
+
+---
+
 ### PF4 Assay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H) from Use
 
 **2026-11-03** | FDA | cdrh_news | !!! HIGH
@@ -15,6 +27,18 @@ FDA has posted a recall notice for the Instrumentation Laboratories HemosIL AcuS
 **Tags**: `recall`, `ivd`, `heparin_induced_thrombocytopenia`, `platelet_factor_4`, `instrumentation_laboratories`, `hemosil_acustar`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar)
+
+---
+
+### New MDCG Position Paper Revision on SS(C)P Management in EUDAMED After Mandatory Use
+
+**2026-10-30** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission has published a new revision of the MDCG position paper on managing Summaries of Safety and Clinical Performance (SS(C)P) in EUDAMED once mandatory use applies. The update affects manufacturers of implantable and Class III devices, notified bodies, and other EUDAMED users involved in SSCP submission and validation. Affected parties should review the revised guidance and adjust their procedures for SSCP preparation, upload, and lifecycle management in EUDAMED accordingly.
+
+**Tags**: `mdcg`, `sscp`, `eudamed`
+
+[View Source (European Commission)](https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en)
 
 ---
 
