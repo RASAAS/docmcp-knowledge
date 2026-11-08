@@ -1,8 +1,113 @@
 {
   "category": "insights/eu-mdr-updates",
-  "last_updated": "2026-09-16",
-  "count": 17,
+  "last_updated": "2026-11-08",
+  "count": 24,
   "entries": [
+    {
+      "id": "insights-management-transfer-of-ss-c-p-in-eudamed-after-mandatory-use-compliance-preparat",
+      "title": {
+        "zh": "EUDAMED强制使用下SS(C)P管理职责转移：制造商直接上传时代的合规准备与三大关键时间节点",
+        "en": "Management Transfer of SS(C)P in EUDAMED After Mandatory Use: Compliance Preparation and Three Critical Dates for Manufacturers in the Direct Upload Era"
+      },
+      "published_date": "2026-06-02",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf",
+      "excerpt": {
+        "zh": "# EUDAMED强制使用下SS(C)P管理职责转移：制造商直接上传时代的合规准备与三大关键时间节点  > **文件依据**：MDCG 2026-4《EUDAMED强制使用后SS(C)P管理职责转移》（MDCG 2026-4: Management of SS(C)P in EUDAMED After Mandatory Use） > **发布日期**：2026年6月2日 > **适用框架**：E",
+        "en": "# Management Transfer of SS(C)P in EUDAMED After Mandatory Use: Compliance Preparation and Three Critical Dates for Manufacturers in the Direct Upload Era  > **Document Basis**: MDCG 2026-4 \"Managemen"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-compliance-relief-for-well-established-technologies-ec-delegated-acts-expand-mdr",
+      "title": {
+        "zh": "成熟技术器械合规红利释放：欧盟MDR授权法案扩容临床调查豁免清单",
+        "en": "Compliance Relief for Well-Established Technologies: EC Delegated Acts Expand MDR Clinical Investigation Exemptions"
+      },
+      "published_date": "2026-06-30",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://ec.europa.eu/newsroom/sante/newsletter-archives/77013",
+      "excerpt": {
+        "zh": "# 成熟技术器械合规红利释放：欧盟MDR授权法案扩容临床调查豁免清单  ## 一、政策背景与出台意义  欧盟《医疗器械法规》（Regulation (EU) 2017/745，下称\"MDR\"）自2017年颁布、2021年全面适用以来，对临床评价和临床调查（clinical investigation）提出了远超其前身《有源植入性医疗器械指令》（AIMDD, 90/385/EEC）和《医疗器械指令》",
+        "en": "# Compliance Relief for Well-Established Technologies: EC Delegated Acts Expand MDR Clinical Investigation Exemptions  ## 1. Policy Background & Significance  Since its adoption in 2017 and full appli"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-eu-dashboard-v3-5-for-medical-device-availability-a-multi-source-data-benchmark",
+      "title": {
+        "zh": "欧盟医疗器械可用性监测仪表盘3.5版发布：多源数据驱动的供应链透明度与过渡期合规新基准",
+        "en": "EU Dashboard v3.5 for Medical Device Availability: A Multi-Source Data Benchmark for Supply Chain Transparency and Transition Compliance"
+      },
+      "published_date": "2026-07-14",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en",
+      "excerpt": {
+        "zh": "## 一、政策背景与意义  ### 1.1 MDR/IVDR过渡实施中的市场可及性隐忧  自《医疗器械法规》（Regulation (EU) 2017/745, 以下简称MDR）于2021年5月26日正式适用、以及《体外诊断医疗器械法规》（Regulation (EU) 2017/746, 以下简称IVDR）于2022年5月26日正式适用以来，欧盟医疗器械监管体系经历了数十年来最深刻的范式转换。新",
+        "en": "## 1. Policy Background & Significance  ### 1.1 Market Availability Concerns During the MDR/IVDR Transition  Since the Medical Devices Regulation (Regulation (EU) 2017/745, \"MDR\") became applicable on"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-new-eu-udi-assignment-responsibility-rules-mdcg-2026-5-position-paper-reshapes-c",
+      "title": {
+        "zh": "欧盟UDI分配责任新规：MDCG 2026-5立场文件重塑制造商与经销商合规边界",
+        "en": "New EU UDI Assignment Responsibility Rules: MDCG 2026-5 Position Paper Reshapes Compliance Boundaries Between Manufacturers and Distributors"
+      },
+      "published_date": "2026-07-22",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18",
+      "excerpt": {
+        "zh": "## 一、政策背景与监管意义  唯一器械标识（Unique Device Identifier, UDI）制度是欧盟《医疗器械法规》（Regulation (EU) 2017/745, MDR）与《体外诊断医疗器械法规》（Regulation (EU) 2017/746, IVDR）引入的核心可追溯性工具。根据MDR第27条及IVDR第24条，制造商须在器械投放市场前为其分配UDI，并确保UDI载",
+        "en": "## 1. Policy Background & Significance  The Unique Device Identifier (UDI) system is a core traceability tool introduced by the EU Medical Devices Regulation (Regulation (EU) 2017/745, MDR) and the In"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-fifth-revision-of-ivdr-classification-rules-risk-class-re-evaluation-and-conform",
+      "title": {
+        "zh": "IVDR分类规则指南第五次修订：体外诊断医疗器械风险等级再评估与符合性评定路径调整",
+        "en": "Fifth Revision of IVDR Classification Rules: Risk Class Re-evaluation and Conformity Assessment Pathway Adjustments for In Vitro Diagnostic Medical Devices"
+      },
+      "published_date": "2026-09-09",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en",
+      "excerpt": {
+        "zh": "## 政策背景与修订意义  2026年9月9日，欧盟委员会医疗器械协调小组（Medical Device Coordination Group, MDCG）正式发布了MDCG 2020-16第5版（Rev.5），该文件是对体外诊断医疗器械法规（EU）2017/746（以下简称“IVDR”）附录VIII分类规则适用指南的第五次修订。MDCG 2020-16自2020年1月首次发布以来，历经多次迭代，",
+        "en": "## Policy Background & Significance  On September 9, 2026, the European Commission's Medical Device Coordination Group (MDCG) officially published MDCG 2020-16 Revision 5 (Rev.5), representing the fif"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-post-mandatory-eudamed-ss-c-p-compliance-restructuring-key-changes-in-the-revise",
+      "title": {
+        "zh": "欧盟EUDAMED强制使用后SS(C)P合规重构：MDCG新立场文件的核心变化与全生命周期管理应对",
+        "en": "Post-Mandatory EUDAMED SS(C)P Compliance Restructuring: Key Changes in the Revised MDCG Position Paper and Lifecycle Management Strategies"
+      },
+      "published_date": "2026-10-30",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+      "excerpt": {
+        "zh": "## 一、政策背景与意义  2026年10月30日，欧盟委员会医疗器械协调小组（MDCG）发布了关于EUDAMED强制使用后安全与临床性能摘要（SSCP，也称SS(C)P）管理立场文件的新修订版。该修订版针对植入式器械和III类器械制造商、公告机构以及参与SSCP提交和验证的EUDAMED用户，对SSCP在EUDAMED中的编制、上传、验证、公开和生命周期管理提出了一揽子澄清与细化要求。  从法规",
+        "en": "The European Commission's Medical Device Coordination Group (MDCG) published a revised position paper on 30 October 2026 concerning the management of Summaries of Safety and Clinical Performance (SSCP"
+      },
+      "status": "active"
+    },
+    {
+      "id": "insights-a-regulatory-breakthrough-for-orphan-ivds-in-depth-interpretation-of-mdcg-2026-6",
+      "title": {
+        "zh": "孤儿体外诊断试剂监管新突破：MDCG 2026-6临床证据指南的深层解读与合规应对",
+        "en": "A Regulatory Breakthrough for Orphan IVDs: In-depth Interpretation of MDCG 2026-6 Clinical Evidence Guidance and Compliance Strategies"
+      },
+      "published_date": "2026-11-03",
+      "subcategory": "eu-mdr-updates",
+      "source_url": "https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+      "excerpt": {
+        "zh": "## 一、政策背景与意义  2026年11月3日，欧盟医疗器械协调小组（MDCG）正式发布MDCG 2026-6指南，针对体外诊断医疗器械法规(EU) 2017/746（IVDR）下孤儿体外诊断试剂（orphan IVDs）的临床证据要求提供专门指导。该指南是欧盟层面首个系统阐述孤儿IVD临床证据问题的协调性文件，旨在帮助制造商和公告机构在患者群体极小的现实条件下，仍能证明产品符合IVDR第56条",
+        "en": "## 1. Policy Background and Significance  On 3 November 2026, the European Union's Medical Device Coordination Group (MDCG) published MDCG 2026-6, dedicated guidance on clinical evidence requirements "
+      },
+      "status": "active"
+    },
     {
       "id": "insights-combine-safety-reporting",
       "title": {

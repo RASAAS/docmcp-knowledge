@@ -27,7 +27,56 @@
       "subcategory": "fda-updates",
       "has_fulltext": false,
       "timestamp": "2026-09-22T22:02:49.898871"
+    },
+    "eu_mdr_20261108_new_mdcg_2026_6_guidance_on_clinical_evidence_for_orphan_ivd": {
+      "status": "published",
+      "slug": "a-regulatory-breakthrough-for-orphan-ivds-in-depth-interpretation-of-mdcg-2026-6",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-11-08T22:41:05.345251"
+    },
+    "eu_mdr_20261108_new_mdcg_position_paper_revision_on_ss_c_p_management_in_eud": {
+      "status": "published",
+      "slug": "post-mandatory-eudamed-ss-c-p-compliance-restructuring-key-changes-in-the-revise",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-11-08T22:43:21.265011"
+    },
+    "eu_mdr_20260913_mdcg_2020_16_rev_5_updated_ivdr_classification_rules_guidanc": {
+      "status": "published",
+      "slug": "fifth-revision-of-ivdr-classification-rules-risk-class-re-evaluation-and-conform",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-11-08T22:45:57.524602"
+    },
+    "eu_mdr_20260726_new_mdcg_position_paper_clarifies_udi_assignment_responsibil": {
+      "status": "published",
+      "slug": "new-eu-udi-assignment-responsibility-rules-mdcg-2026-5-position-paper-reshapes-c",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-08T22:48:05.141859"
+    },
+    "eu_mdr_20260719_ec_publishes_dashboard_v3_5_for_monitoring_medical_device_av": {
+      "status": "published",
+      "slug": "eu-dashboard-v3-5-for-medical-device-availability-a-multi-source-data-benchmark",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-08T22:50:19.691849"
+    },
+    "eu_mdr_20260630_ec_publishes_delegated_acts_on_well_established_technologies": {
+      "status": "published",
+      "slug": "compliance-relief-for-well-established-technologies-ec-delegated-acts-expand-mdr",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-08T22:52:22.634751"
+    },
+    "eu_mdr_2026_mdcg_2026_4": {
+      "status": "published",
+      "slug": "management-transfer-of-ss-c-p-in-eudamed-after-mandatory-use-compliance-preparat",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-08T22:55:11.532267"
     }
   },
-  "last_run": "2026-09-22T22:02:52.899030"
+  "last_run": "2026-11-08T22:55:14.532481"
 }

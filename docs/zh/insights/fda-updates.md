@@ -1,6 +1,6 @@
 ---
 title: FDA 合规动态
-generated: '2026-09-22'
+generated: '2026-11-08'
 doc_count: 7
 ---
 
@@ -8,7 +8,7 @@ doc_count: 7
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **7** 篇文档，最后更新：2026-09-22
+> 共 **7** 篇文档，最后更新：2026-11-08
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|

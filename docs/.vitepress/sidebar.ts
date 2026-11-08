@@ -10,7 +10,7 @@ export default {
       "link": "/zh/nmpa/guidance"
     },
     {
-      "text": "其他 (527)",
+      "text": "其他 (524)",
       "collapsed": true,
       "items": [
         {
@@ -288,10 +288,6 @@ export default {
         {
           "text": "一次性使用静脉留置针注册审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-一次性使用静脉留置针注册审查指导原则-3e7e64"
-        },
-        {
-          "text": "一次性使用鼻氧管产品注册技术审查指导原则（2013年第8号）",
-          "link": "/zh/nmpa/guidance/disposable-nasal-oxygen-cannula-2013"
         },
         {
           "text": "一次性使用鼻氧管注册审查指导原则（2024年修订）",
@@ -1290,10 +1286,6 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2026-a70cfd44a0"
         },
         {
-          "text": "气管插管产品注册技术审查指导原则（食药监办械函[2009]95号）",
-          "link": "/zh/nmpa/guidance/cmde-2009-95"
-        },
-        {
           "text": "气腹机注册审查指导原则（2026年修订版）",
           "link": "/zh/nmpa/guidance/cmde-2026-c0cd79dfb1"
         },
@@ -1548,10 +1540,6 @@ export default {
         {
           "text": "磁疗产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/magnetic-therapy-device-2024"
-        },
-        {
-          "text": "磁疗产品注册技术审查指导原则（2016年第22号）",
-          "link": "/zh/nmpa/guidance/magnetic-therapy-device-2016"
         },
         {
           "text": "神经和肌肉刺激器用体内电极注册审查指导原则",
@@ -2552,7 +2540,7 @@ export default {
       ]
     },
     {
-      "text": "呼吸器械 (22)",
+      "text": "呼吸器械 (21)",
       "collapsed": true,
       "items": [
         {
@@ -2566,10 +2554,6 @@ export default {
         {
           "text": "医用雾化器注册审查指导原则（2024修订版）",
           "link": "/zh/nmpa/guidance/medical-nebulizer-2024"
-        },
-        {
-          "text": "医用雾化器注册技术审查指导原则（2016年修订版）",
-          "link": "/zh/nmpa/guidance/medical-nebulizer-2016"
         },
         {
           "text": "口咽/鼻咽通气道注册审查指导原则（2023年第22号）",
@@ -2794,7 +2778,7 @@ export default {
       ]
     },
     {
-      "text": "临床评价 (86)",
+      "text": "临床评价 (89)",
       "collapsed": true,
       "items": [
         {
@@ -3026,6 +3010,10 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2022-40"
         },
         {
+          "text": "植入式脑机接口手部运动功能代偿系统临床试验技术审评要点",
+          "link": "/zh/nmpa/guidance/cmde-2026-ce20c2d6b1"
+        },
+        {
           "text": "植入式骶神经刺激系统动物实验及临床评价注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-guidance-7ce9e33d12e9"
         },
@@ -3074,8 +3062,16 @@ export default {
           "link": "/zh/nmpa/guidance/cmde-2020-77"
         },
         {
+          "text": "硼中子俘获治疗系统临床试验设计技术审评要点",
+          "link": "/zh/nmpa/guidance/cmde-2026-1cddda63a0"
+        },
+        {
           "text": "离心式血液成分分离设备临床评价注册技术审查指导原则",
           "link": "/zh/nmpa/guidance/nmpa-gp-离心式血液成分分离设备临床评价注册技术审查指导原则-449022"
+        },
+        {
+          "text": "经导管三尖瓣置换及修复系统临床试验技术审评要点",
+          "link": "/zh/nmpa/guidance/cmde-2026-979b4e6549"
         },
         {
           "text": "经导管植入式人工主动脉瓣膜临床试验指导原则",
@@ -3492,7 +3488,7 @@ export default {
       ]
     },
     {
-      "text": "输液与护理器械 (24)",
+      "text": "输液与护理器械 (23)",
       "collapsed": true,
       "items": [
         {
@@ -3502,10 +3498,6 @@ export default {
         {
           "text": "一次性使用引流管产品注册审查指导原则（2024年修订版）",
           "link": "/zh/nmpa/guidance/disposable-drainage-tube-2024"
-        },
-        {
-          "text": "一次性使用引流管产品注册技术审查指导原则（2014年第7号）",
-          "link": "/zh/nmpa/guidance/drainage-tubes-guidance"
         },
         {
           "text": "一次性使用无菌尿液引流袋注册审查指导原则",
@@ -3710,7 +3702,7 @@ export default {
       "link": "/zh/nmpa/regulations"
     },
     {
-      "text": "法规全文 (54)",
+      "text": "法规全文 (59)",
       "collapsed": false,
       "items": [
         {
@@ -3736,6 +3728,10 @@ export default {
         {
           "text": "关于GB 9706.1-2020及配套并列标准、专用标准实施有关工作的通告",
           "link": "/zh/nmpa/regulations/nmpa-notice-2023-14"
+        },
+        {
+          "text": "关于严厉打击制售假劣药品医疗器械违法行为切实保障新型冠状病毒感染肺炎疫情防控药品医疗器械安全",
+          "link": "/zh/nmpa/regulations/gov-2020-6d2d826e55"
         },
         {
           "text": "关于做好第一批实施医疗器械唯一标识工作有关事项的通告",
@@ -3866,8 +3862,16 @@ export default {
           "link": "/zh/nmpa/regulations/nmpa-order-6"
         },
         {
+          "text": "医疗器械质量抽查检验管理办法",
+          "link": "/zh/nmpa/regulations/gov-2020-e6c2dcc0cc"
+        },
+        {
           "text": "医疗器械质量管理体系年度自查报告编写指南",
           "link": "/zh/nmpa/regulations/nmpa-notice-2022-13"
+        },
+        {
+          "text": "国家医疗器械监督抽检结果（第1号）",
+          "link": "/zh/nmpa/regulations/gov-2020-842bb662fc"
         },
         {
           "text": "国家卫生健康委关于发布医疗机构临床急需医疗器械临时进口使用管理要求",
@@ -3902,6 +3906,10 @@ export default {
           "link": "/zh/nmpa/regulations/gov-2020-53ca8c14d5"
         },
         {
+          "text": "综合司关于印发2020年国家医疗器械抽检产品检验方案",
+          "link": "/zh/nmpa/regulations/gov-2020-85ba2d06c5"
+        },
+        {
           "text": "综合司关于进一步做好医疗器械唯一标识示范推广工作",
           "link": "/zh/nmpa/regulations/gov-2022-3ab9048a7b"
         },
@@ -3912,6 +3920,10 @@ export default {
         {
           "text": "综合司市场监管总局办公厅关于推动医疗器械检验机构能力建设保障新版GB9706系列标准资质认定工作",
           "link": "/zh/nmpa/regulations/gov-2022-5c747669db"
+        },
+        {
+          "text": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查文书格式范本",
+          "link": "/zh/nmpa/regulations/gov-2020-7bebfc06f3"
         },
         {
           "text": "药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法",
@@ -3976,9 +3988,13 @@ export default {
       ]
     },
     {
-      "text": "EU MDR 合规动态 (17)",
+      "text": "EU MDR 合规动态 (24)",
       "collapsed": true,
       "items": [
+        {
+          "text": "孤儿体外诊断试剂监管新突破：MDCG 2026-6临床证据指南的深层解读与合规应对",
+          "link": "/zh/insights/eu-mdr-updates/a-regulatory-breakthrough-for-orphan-ivds-in-depth-interpretation-of-mdcg-2026-6"
+        },
         {
           "text": "欧盟AI法案对医疗器械的影响：合规路线图与实施策略解析",
           "link": "/zh/insights/eu-mdr-updates/ai-act-compliance"
@@ -3994,6 +4010,14 @@ export default {
         {
           "text": "COMBINE计划：联合研究安全报告赞助商指南深度解读",
           "link": "/zh/insights/eu-mdr-updates/combine-safety-reporting"
+        },
+        {
+          "text": "成熟技术器械合规红利释放：欧盟MDR授权法案扩容临床调查豁免清单",
+          "link": "/zh/insights/eu-mdr-updates/compliance-relief-for-well-established-technologies-ec-delegated-acts-expand-mdr"
+        },
+        {
+          "text": "欧盟医疗器械可用性监测仪表盘3.5版发布：多源数据驱动的供应链透明度与过渡期合规新基准",
+          "link": "/zh/insights/eu-mdr-updates/eu-dashboard-v3-5-for-medical-device-availability-a-multi-source-data-benchmark"
         },
         {
           "text": "EU IVDR 分类",
@@ -4016,8 +4040,16 @@ export default {
           "link": "/zh/insights/eu-mdr-updates/eudamed-udi-user-guide-v3110"
         },
         {
+          "text": "IVDR分类规则指南第五次修订：体外诊断医疗器械风险等级再评估与符合性评定路径调整",
+          "link": "/zh/insights/eu-mdr-updates/fifth-revision-of-ivdr-classification-rules-risk-class-re-evaluation-and-conform"
+        },
+        {
           "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)",
           "link": "/zh/insights/eu-mdr-updates/ivdr-rules-examples"
+        },
+        {
+          "text": "EUDAMED强制使用下SS(C)P管理职责转移：制造商直接上传时代的合规准备与三大关键时间节点",
+          "link": "/zh/insights/eu-mdr-updates/management-transfer-of-ss-c-p-in-eudamed-after-mandatory-use-compliance-preparat"
         },
         {
           "text": "MDCG 2019-6 Rev5关于公告机构要求问答解析",
@@ -4032,8 +4064,16 @@ export default {
           "link": "/zh/insights/eu-mdr-updates/mdr-td-bpg"
         },
         {
+          "text": "欧盟UDI分配责任新规：MDCG 2026-5立场文件重塑制造商与经销商合规边界",
+          "link": "/zh/insights/eu-mdr-updates/new-eu-udi-assignment-responsibility-rules-mdcg-2026-5-position-paper-reshapes-c"
+        },
+        {
           "text": "PMCF 问卷调查的伦理审查和知情同意",
           "link": "/zh/insights/eu-mdr-updates/pmcf-survey-ec-ic"
+        },
+        {
+          "text": "欧盟EUDAMED强制使用后SS(C)P合规重构：MDCG新立场文件的核心变化与全生命周期管理应对",
+          "link": "/zh/insights/eu-mdr-updates/post-mandatory-eudamed-ss-c-p-compliance-restructuring-key-changes-in-the-revise"
         },
         {
           "text": "Practical issues and examples",
