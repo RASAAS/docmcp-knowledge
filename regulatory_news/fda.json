@@ -1,6 +1,6 @@
 {
   "framework": "fda",
-  "last_updated": "2026-11-10T01:51:34Z",
+  "last_updated": "2026-11-10T23:58:38Z",
   "items": [
     {
       "id": "fda_20261110_convenience_kit_correction_cardinal_health_updates_use_instr",
@@ -44,6 +44,112 @@
         "medical_device_cybersecurity",
         "cdrh",
         "premarket_submission"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_fda_early_alert_arrow_international_removes_products_with_sp",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA Early Alert: Arrow International Removes Products with Spring Wire Guide Components",
+        "zh": "FDA早期预警：Arrow International移除含弹簧导丝组件产品"
+      },
+      "summary": {
+        "en": "FDA CDRH issued an early alert regarding Arrow International's removal of products containing spring wire guide components due to potential safety concerns. Healthcare facilities and distributors should identify and quarantine affected Arrow products immediately, follow the manufacturer's removal/return instructions, and report related adverse events to FDA. No specific deadline was provided, but prompt action is advised.",
+        "zh": "FDA CDRH发布早期预警，Arrow International正在移除含有弹簧导丝组件的产品，原因涉及潜在安全风险。相关医疗机构和经销商应立即识别并隔离受影响的Arrow产品，遵循制造商的移除/退货说明，并向FDA报告相关不良事件。该预警未提供具体截止日期，但建议立即采取行动。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components",
+      "source_name": "FDA",
+      "published_date": "2026-11-10",
+      "detected_date": "2026-11-10T23:58:38Z",
+      "importance": "high",
+      "tags": [
+        "early_alert",
+        "device_recall",
+        "spring_wire_guide",
+        "arrow_international"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_class_i_recall_abiomed_automated_impella_controller_aic_for",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Automated Impella Controller (AIC) for RFID Firmware/Hardware Failure Risk",
+        "zh": "I类召回：Abiomed自动Impella控制器（AIC）存在RFID固件/硬件故障风险"
+      },
+      "summary": {
+        "en": "The FDA has posted a Class I recall (Z-0208-2027) by Abiomed, Inc. covering 428 Automated Impella Controller (AIC) units. The recall was initiated because a retrospective review of servicing records identified units requiring hardware, firmware, and/or software updates, including an RFID firmware issue that may prevent the AIC from recognizing the Impella catheter. Distribution details are provided in the FDA recall notice. Healthcare facilities should locate and quarantine affected AIC units, follow Abiomed’s recall instructions, and contact the firm to arrange correction or return.",
+        "zh": "FDA发布Abiomed, Inc.的I类召回（编号Z-0208-2027），涉及428台Automated Impella Controller（AIC）设备。召回原因是维修记录回顾发现部分设备需进行硬件、固件和/或软件更新，其中RFID固件问题可能导致AIC无法识别Impella导管。具体分销范围见FDA召回通知。医疗机构应识别并停止使用/隔离受影响设备，按照Abiomed召回通知安排更新或退回。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0208-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-04",
+      "detected_date": "2026-11-10T23:57:55Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella_controller",
+        "rfid_firmware"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_class_i_recall_z_0209_2027_abiomed_impella_optical_controlle",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall Z-0209-2027: Abiomed Impella Optical Controller (AIC) Hardware/Firmware/Software Updates",
+        "zh": "一级召回Z-0209-2027：Abiomed Impella光学控制器需更新硬件/固件/软件"
+      },
+      "summary": {
+        "en": "The FDA classified Abiomed's recall of 179 Impella Optical Controller (AIC) units as Class I due to hardware, firmware, and software deficiencies identified during retrospective service record review, including an RFID firmware issue that may prevent the controller from recognizing components. The AIC is the primary user control interface for Impella cardiac assist systems, and malfunction could pose serious patient risk. Healthcare facilities should identify affected units and follow Abiomed's recall instructions for updates or replacement.",
+        "zh": "FDA将Abiomed对179台Impella光学控制器（AIC）的召回定为一级召回，原因是回顾性维修记录发现部分设备需要硬件、固件和/或软件更新，包括RFID固件问题可能导致设备无法识别组件。该设备是Impella心脏辅助系统的主要用户控制接口，故障可能带来严重患者风险。医疗机构应识别受影响设备并遵循Abiomed的召回通知进行更新或退货处理。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0209-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-04",
+      "detected_date": "2026-11-10T23:58:07Z",
+      "importance": "high",
+      "tags": [
+        "fda_class_i_recall",
+        "impella_optical_controller",
+        "abiomed",
+        "firmware_update",
+        "cardiac_assist_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_class_i_recall_abiomed_impella_connect_optical_aic_packaged",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Abiomed Impella Connect Optical AIC (Packaged) - 293 Units for Firmware/Software Updates",
+        "zh": "Abiomed Impella Connect Optical AIC一级召回：需更新固件/软件（293台）"
+      },
+      "summary": {
+        "en": "The FDA has classified Abiomed, Inc.'s recall of the Impella Connect Optical AIC, the primary user control interface for the Impella heart pump system, as Class I. A retrospective review of servicing records identified 293 AIC units requiring hardware, firmware, and/or software updates, including an RFID firmware issue that may result in failure of the AIC to recognize the catheter and could lead to serious patient harm. Affected devices were distributed to healthcare facilities. Users should immediately identify and quarantine affected units, follow Abiomed's instructions for required updates/remediation, and report adverse events to the FDA.",
+        "zh": "FDA将Abiomed公司对Impella Connect Optical AIC（Impella心脏泵系统的主要用户控制接口）的召回列为一级召回。对维修记录的回顾性审查发现293台AIC需要硬件、固件和/或软件更新，其中RFID固件问题可能导致AIC无法识别导管，进而可能造成严重患者伤害。受影响设备已分发至医疗机构。使用者应立即识别并隔离相关设备，联系Abiomed完成更新/整改，并向FDA报告不良事件。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0210-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-04",
+      "detected_date": "2026-11-10T23:58:25Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "abiomed",
+        "impella",
+        "firmware_software_update",
+        "cardiovascular_device"
       ],
       "related_docs": [],
       "status": "published"

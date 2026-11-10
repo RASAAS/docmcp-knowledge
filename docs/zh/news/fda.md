@@ -28,6 +28,54 @@ FDA器械与放射健康中心（CDRH）在其医疗器械网络安全网页上�
 
 ---
 
+### FDA早期预警：Arrow International移除含弹簧导丝组件产品
+
+**2026-11-10** | FDA | cdrh_news | !!! HIGH
+
+FDA CDRH发布早期预警，Arrow International正在移除含有弹簧导丝组件的产品，原因涉及潜在安全风险。相关医疗机构和经销商应立即识别并隔离受影响的Arrow产品，遵循制造商的移除/退货说明，并向FDA报告相关不良事件。该预警未提供具体截止日期，但建议立即采取行动。
+
+**标签**: `early_alert`, `device_recall`, `spring_wire_guide`, `arrow_international`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components)
+
+---
+
+### I类召回：Abiomed自动Impella控制器（AIC）存在RFID固件/硬件故障风险
+
+**2026-11-04** | FDA | recall_class1 | !!! HIGH
+
+FDA发布Abiomed, Inc.的I类召回（编号Z-0208-2027），涉及428台Automated Impella Controller（AIC）设备。召回原因是维修记录回顾发现部分设备需进行硬件、固件和/或软件更新，其中RFID固件问题可能导致AIC无法识别Impella导管。具体分销范围见FDA召回通知。医疗机构应识别并停止使用/隔离受影响设备，按照Abiomed召回通知安排更新或退回。
+
+**标签**: `class_i_recall`, `abiomed`, `impella_controller`, `rfid_firmware`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0208-2027)
+
+---
+
+### 一级召回Z-0209-2027：Abiomed Impella光学控制器需更新硬件/固件/软件
+
+**2026-11-04** | FDA | recall_class1 | !!! HIGH
+
+FDA将Abiomed对179台Impella光学控制器（AIC）的召回定为一级召回，原因是回顾性维修记录发现部分设备需要硬件、固件和/或软件更新，包括RFID固件问题可能导致设备无法识别组件。该设备是Impella心脏辅助系统的主要用户控制接口，故障可能带来严重患者风险。医疗机构应识别受影响设备并遵循Abiomed的召回通知进行更新或退货处理。
+
+**标签**: `fda_class_i_recall`, `impella_optical_controller`, `abiomed`, `firmware_update`, `cardiac_assist_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0209-2027)
+
+---
+
+### Abiomed Impella Connect Optical AIC一级召回：需更新固件/软件（293台）
+
+**2026-11-04** | FDA | recall_class1 | !!! HIGH
+
+FDA将Abiomed公司对Impella Connect Optical AIC（Impella心脏泵系统的主要用户控制接口）的召回列为一级召回。对维修记录的回顾性审查发现293台AIC需要硬件、固件和/或软件更新，其中RFID固件问题可能导致AIC无法识别导管，进而可能造成严重患者伤害。受影响设备已分发至医疗机构。使用者应立即识别并隔离相关设备，联系Abiomed完成更新/整改，并向FDA报告不良事件。
+
+**标签**: `class_i_recall`, `abiomed`, `impella`, `firmware_software_update`, `cardiovascular_device`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0210-2027)
+
+---
+
 ### Instrumentation Laboratories召回HemosIL AcuStar HIT-IgG(PF4-H)血小板因子4检测试剂
 
 **2026-11-03** | FDA | cdrh_news | !!! HIGH
