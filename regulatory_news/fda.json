@@ -1,7 +1,53 @@
 {
   "framework": "fda",
-  "last_updated": "2026-11-03T01:27:53Z",
+  "last_updated": "2026-11-10T01:51:34Z",
   "items": [
+    {
+      "id": "fda_20261110_convenience_kit_correction_cardinal_health_updates_use_instr",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus",
+        "zh": "Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus"
+      },
+      "summary": {
+        "en": "CDRH News",
+        "zh": "CDRH News"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd",
+      "source_name": "FDA",
+      "published_date": "2026-11-10",
+      "detected_date": "2026-11-10T01:51:08Z",
+      "importance": "medium",
+      "tags": [],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_fda_cdrh_posts_two_new_updates_on_medical_device_cybersecuri",
+      "framework": "fda",
+      "category": "cdrh_news",
+      "title": {
+        "en": "FDA CDRH Posts Two New Updates on Medical Device Cybersecurity Webpage",
+        "zh": "FDA CDRH发布医疗器械网络安全网页两项新更新"
+      },
+      "summary": {
+        "en": "FDA's Center for Devices and Radiological Health (CDRH) has posted two new cybersecurity updates on its Medical Device Cybersecurity webpage. The updates are relevant to medical device manufacturers, particularly those with cyber devices subject to premarket cybersecurity expectations under Section 524B of the FD&C Act. Manufacturers should review the updated webpage promptly and ensure cybersecurity risk management, vulnerability disclosure, and premarket submission documentation align with current FDA expectations. No specific compliance deadline is identified in this item; action is recommended as soon as possible.",
+        "zh": "FDA器械与放射健康中心（CDRH）在其医疗器械网络安全网页上发布了两项新的网络安全更新。相关更新适用于医疗器械制造商，尤其是须遵守《联邦食品、药品和化妆品法案》第524B条上市前网络安全要求的联网器械制造商。制造商应尽快查看更新内容，确保网络安全风险管理、漏洞披露和上市前提交文件符合FDA现行要求。本条目未列明具体合规截止日期，建议尽快采取行动。"
+      },
+      "source_url": "https://www.fda.gov/medical-devices/medical-device-cybersecurity",
+      "source_name": "FDA",
+      "published_date": "2026-11-10",
+      "detected_date": "2026-11-10T01:51:34Z",
+      "importance": "medium",
+      "tags": [
+        "medical_device_cybersecurity",
+        "cdrh",
+        "premarket_submission"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261103_pf4_assay_recall_instrumentation_laboratories_removes_hemosi",
       "framework": "fda",
@@ -257,6 +303,33 @@
         "convenience_kit_recall",
         "chloraprep_applicator",
         "avid_medical"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261110_fda_recall_z_0355_2027_remel_yeastone_broth_may_report_false",
+      "framework": "fda",
+      "category": "safety_communication",
+      "title": {
+        "en": "FDA Recall Z-0355-2027: Remel Yeastone Broth May Report False Azole Susceptibility",
+        "zh": "FDA召回Z-0355-2027：Remel Yeastone肉汤或致唑类假敏感"
+      },
+      "summary": {
+        "en": "The FDA has posted recall Z-0355-2027 for Remel, Inc. Yeastone Broth, 11 mL, 10/box, used in antifungal susceptibility testing of mycological clinical specimens. The affected lot did not meet specifications and may report false susceptibility to azole-class antifungal agents, which could lead to ineffective azole therapy and poor patient outcomes. Users should quarantine and discontinue use of the affected lot and follow the manufacturer's recall instructions.",
+        "zh": "FDA发布Remel, Inc. Yeastone肉汤（11 mL，10支/盒）召回Z-0355-2027，该产品用于真菌临床标本的抗真菌药敏试验。受影响批次未达到规格，可能对唑类抗真菌药报告假敏感，导致唑类治疗无效并影响患者预后。用户应隔离并停用受影响批次，并遵循制造商召回说明。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=223399",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-10-19",
+      "detected_date": "2026-11-10T01:50:37Z",
+      "importance": "high",
+      "tags": [
+        "device_recall",
+        "antifungal_susceptibility_testing",
+        "false_susceptibility",
+        "azole_antifungals",
+        "ivd"
       ],
       "related_docs": [],
       "status": "published"

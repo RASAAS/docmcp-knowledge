@@ -6,6 +6,28 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
+
+**2026-11-10** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd)
+
+---
+
+### FDA CDRH Posts Two New Updates on Medical Device Cybersecurity Webpage
+
+**2026-11-10** | FDA | cdrh_news | !! MEDIUM
+
+FDA's Center for Devices and Radiological Health (CDRH) has posted two new cybersecurity updates on its Medical Device Cybersecurity webpage. The updates are relevant to medical device manufacturers, particularly those with cyber devices subject to premarket cybersecurity expectations under Section 524B of the FD&C Act. Manufacturers should review the updated webpage promptly and ensure cybersecurity risk management, vulnerability disclosure, and premarket submission documentation align with current FDA expectations. No specific compliance deadline is identified in this item; action is recommended as soon as possible.
+
+**Tags**: `medical_device_cybersecurity`, `cdrh`, `premarket_submission`
+
+[View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-cybersecurity)
+
+---
+
 ### New MDCG 2026-6 Guidance on Clinical Evidence for Orphan IVDs
 
 **2026-11-03** | EU MDR/IVDR | Regulation Update | !!! HIGH
@@ -459,6 +481,18 @@ Swissmedic has issued a Field Safety Corrective Action (FSCA) for the Medtrum Te
 **Tags**: `swissmedic`, `fsca`, `glucose_sensor`
 
 [View Source (Swissmedic)](https://fsca.swissmedic.ch/mep/#?q=Vk_20261002_012)
+
+---
+
+### FDA Recall Z-0355-2027: Remel Yeastone Broth May Report False Azole Susceptibility
+
+**2026-10-19** | FDA | Safety Communication | !!! HIGH
+
+The FDA has posted recall Z-0355-2027 for Remel, Inc. Yeastone Broth, 11 mL, 10/box, used in antifungal susceptibility testing of mycological clinical specimens. The affected lot did not meet specifications and may report false susceptibility to azole-class antifungal agents, which could lead to ineffective azole therapy and poor patient outcomes. Users should quarantine and discontinue use of the affected lot and follow the manufacturer's recall instructions.
+
+**Tags**: `device_recall`, `antifungal_susceptibility_testing`, `false_susceptibility`, `azole_antifungals`, `ivd`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=223399)
 
 ---
 

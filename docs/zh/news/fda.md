@@ -6,6 +6,28 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
+
+**2026-11-10** | FDA | cdrh_news | !! MEDIUM
+
+CDRH News
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd)
+
+---
+
+### FDA CDRH发布医疗器械网络安全网页两项新更新
+
+**2026-11-10** | FDA | cdrh_news | !! MEDIUM
+
+FDA器械与放射健康中心（CDRH）在其医疗器械网络安全网页上发布了两项新的网络安全更新。相关更新适用于医疗器械制造商，尤其是须遵守《联邦食品、药品和化妆品法案》第524B条上市前网络安全要求的联网器械制造商。制造商应尽快查看更新内容，确保网络安全风险管理、漏洞披露和上市前提交文件符合FDA现行要求。本条目未列明具体合规截止日期，建议尽快采取行动。
+
+**标签**: `medical_device_cybersecurity`, `cdrh`, `premarket_submission`
+
+[查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-cybersecurity)
+
+---
+
 ### Instrumentation Laboratories召回HemosIL AcuStar HIT-IgG(PF4-H)血小板因子4检测试剂
 
 **2026-11-03** | FDA | cdrh_news | !!! HIGH
@@ -123,6 +145,18 @@ FDA/CDRH发布通知，AVID Medical正在移除含有受BD ChloraPrep涂药器�
 **标签**: `convenience_kit_recall`, `chloraprep_applicator`, `avid_medical`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0)
+
+---
+
+### FDA召回Z-0355-2027：Remel Yeastone肉汤或致唑类假敏感
+
+**2026-10-19** | FDA | 安全通报 | !!! HIGH
+
+FDA发布Remel, Inc. Yeastone肉汤（11 mL，10支/盒）召回Z-0355-2027，该产品用于真菌临床标本的抗真菌药敏试验。受影响批次未达到规格，可能对唑类抗真菌药报告假敏感，导致唑类治疗无效并影响患者预后。用户应隔离并停用受影响批次，并遵循制造商召回说明。
+
+**标签**: `device_recall`, `antifungal_susceptibility_testing`, `false_susceptibility`, `azole_antifungals`, `ivd`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=223399)
 
 ---
 
