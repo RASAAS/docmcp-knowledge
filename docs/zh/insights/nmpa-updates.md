@@ -1,6 +1,6 @@
 ---
 title: NMPA 合规动态
-generated: '2026-11-08'
+generated: '2026-11-15'
 doc_count: 8
 ---
 
@@ -8,7 +8,7 @@ doc_count: 8
 
 <!-- AUTO-GENERATED: do not edit below this line -->
 
-> 共 **8** 篇文档，最后更新：2026-11-08
+> 共 **8** 篇文档，最后更新：2026-11-15
 
 | 文档名称 | 文号 | 发布年份 |
 |----------|------|----------|

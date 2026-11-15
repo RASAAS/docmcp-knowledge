@@ -16,11 +16,11 @@ export default {
       ]
     },
     {
-      "text": "EU MDR Updates (24)",
+      "text": "EU MDR Updates (27)",
       "collapsed": true,
       "items": [
         {
-          "text": "View in Chinese (24 articles)",
+          "text": "View in Chinese (27 articles)",
           "link": "/zh/insights/eu-mdr-updates"
         }
       ]

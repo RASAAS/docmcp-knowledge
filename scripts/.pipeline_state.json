@@ -76,7 +76,28 @@
       "subcategory": "eu-mdr-updates",
       "has_fulltext": true,
       "timestamp": "2026-11-08T22:55:11.532267"
+    },
+    "eu_mdr_20261115_ec_publishes_recording_of_webinar_on_pilot_coordinated_asses": {
+      "status": "published",
+      "slug": "from-two-year-pilot-to-institutionalization-operational-practice-and-compliance",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-15T23:20:14.925375"
+    },
+    "eu_mdr_20261115_eu_and_singapore_sign_working_arrangement_on_public_health_c": {
+      "status": "published",
+      "slug": "a-new-eu-singapore-public-health-cooperation-mechanism-in-depth-analysis-of-the",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": true,
+      "timestamp": "2026-11-15T23:21:42.743599"
+    },
+    "eu_mdr_2026_cid_1231": {
+      "status": "published",
+      "slug": "nine-category-harmonised-standards-upgrade-under-the-eu-mdr-presumption-of-confo",
+      "subcategory": "eu-mdr-updates",
+      "has_fulltext": false,
+      "timestamp": "2026-11-15T23:23:20.832877"
     }
   },
-  "last_run": "2026-11-08T22:55:14.532481"
+  "last_run": "2026-11-15T23:23:23.833124"
 }

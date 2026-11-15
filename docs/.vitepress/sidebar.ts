@@ -3988,9 +3988,13 @@ export default {
       ]
     },
     {
-      "text": "EU MDR 合规动态 (24)",
+      "text": "EU MDR 合规动态 (27)",
       "collapsed": true,
       "items": [
+        {
+          "text": "欧盟-新加坡公共卫生合作新机制：医疗器械监管协作框架的深层解读与合规应对",
+          "link": "/zh/insights/eu-mdr-updates/a-new-eu-singapore-public-health-cooperation-mechanism-in-depth-analysis-of-the"
+        },
         {
           "text": "孤儿体外诊断试剂监管新突破：MDCG 2026-6临床证据指南的深层解读与合规应对",
           "link": "/zh/insights/eu-mdr-updates/a-regulatory-breakthrough-for-orphan-ivds-in-depth-interpretation-of-mdcg-2026-6"
@@ -4044,6 +4048,10 @@ export default {
           "link": "/zh/insights/eu-mdr-updates/fifth-revision-of-ivdr-classification-rules-risk-class-re-evaluation-and-conform"
         },
         {
+          "text": "从两年试点到制度成型：欧盟医疗器械协调评估机制的运行实践与合规路径",
+          "link": "/zh/insights/eu-mdr-updates/from-two-year-pilot-to-institutionalization-operational-practice-and-compliance"
+        },
+        {
           "text": "IVDR 分类规则与实例汇总 (基于 MDCG 2020-16 Rev.5)",
           "link": "/zh/insights/eu-mdr-updates/ivdr-rules-examples"
         },
@@ -4066,6 +4074,10 @@ export default {
         {
           "text": "欧盟UDI分配责任新规：MDCG 2026-5立场文件重塑制造商与经销商合规边界",
           "link": "/zh/insights/eu-mdr-updates/new-eu-udi-assignment-responsibility-rules-mdcg-2026-5-position-paper-reshapes-c"
+        },
+        {
+          "text": "欧盟MDR协调标准九大类别升级：从(EU) 2026/1231看符合性推定与制造商文件审查新要求",
+          "link": "/zh/insights/eu-mdr-updates/nine-category-harmonised-standards-upgrade-under-the-eu-mdr-presumption-of-confo"
         },
         {
           "text": "PMCF 问卷调查的伦理审查和知情同意",
