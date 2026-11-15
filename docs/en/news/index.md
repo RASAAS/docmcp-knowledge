@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### EC Publishes Recording of Webinar on Pilot Coordinated Assessment for Medical Devices
+
+**2026-11-13** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission has published the recording of its webinar on the pilot coordinated assessment for medical devices under the EU Medical Device Regulation. The session is relevant for notified bodies, manufacturers and competent authorities involved in conformity assessment, particularly for devices subject to coordinated clinical evaluation. Stakeholders should watch the recording to understand the pilot's objectives, procedures, participation criteria and next steps.
+
+**Tags**: `coordinated_assessment`, `medical_devices`, `mdr`
+
+[View Source (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81425)
+
+---
+
+### EU and Singapore Sign Working Arrangement on Public Health Collaboration
+
+**2026-11-11** | EU MDR/IVDR | Regulation Update | !! MEDIUM
+
+The European Commission and Singapore have signed a working arrangement to strengthen collaboration on public health. The arrangement aims to facilitate information exchange and regulatory cooperation in areas of mutual interest, potentially including medical devices. Regulatory affairs professionals should monitor resulting EU-Singapore work streams and assess any potential impact on compliance or market access.
+
+**Tags**: `eu_singapore`, `public_health`, `regulatory_cooperation`
+
+[View Source (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81351)
+
+---
+
 ### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
 
 **2026-11-10** | FDA | cdrh_news | !! MEDIUM

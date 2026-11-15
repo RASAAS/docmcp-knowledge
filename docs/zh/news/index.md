@@ -6,6 +6,30 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 欧盟委员会发布医疗器械协调评估试点网络研讨会录像
+
+**2026-11-13** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧洲委员会已发布关于欧盟医疗器械法规下医疗器械协调评估试点项目的网络研讨会录像。该内容面向参与符合性评估的公告机构、制造商和主管当局，尤其是需要协调临床评估的器械。相关方可观看录像，了解试点的目标、程序、参与条件和后续安排。
+
+**标签**: `coordinated_assessment`, `medical_devices`, `mdr`
+
+[查看来源 (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81425)
+
+---
+
+### 欧盟与新加坡签署公共卫生合作工作安排
+
+**2026-11-11** | EU MDR/IVDR | 法规更新 | !! MEDIUM
+
+欧盟委员会与新加坡签署工作安排，加强公共卫生领域合作。该安排旨在促进信息交流和监管协作，可能涉及医疗器械等共同关注领域。法规事务专业人员应关注后续欧盟-新加坡合作动态，并评估对合规或市场准入的潜在影响。
+
+**标签**: `eu_singapore`, `public_health`, `regulatory_cooperation`
+
+[查看来源 (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81351)
+
+---
+
 ### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
 
 **2026-11-10** | FDA | cdrh_news | !! MEDIUM

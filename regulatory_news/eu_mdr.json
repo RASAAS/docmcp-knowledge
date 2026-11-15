@@ -1,7 +1,57 @@
 {
   "framework": "eu_mdr",
-  "last_updated": "2026-11-08T22:38:48Z",
+  "last_updated": "2026-11-15T23:18:56Z",
   "items": [
+    {
+      "id": "eu_mdr_20261115_ec_publishes_recording_of_webinar_on_pilot_coordinated_asses",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EC Publishes Recording of Webinar on Pilot Coordinated Assessment for Medical Devices",
+        "zh": "欧盟委员会发布医疗器械协调评估试点网络研讨会录像"
+      },
+      "summary": {
+        "en": "The European Commission has published the recording of its webinar on the pilot coordinated assessment for medical devices under the EU Medical Device Regulation. The session is relevant for notified bodies, manufacturers and competent authorities involved in conformity assessment, particularly for devices subject to coordinated clinical evaluation. Stakeholders should watch the recording to understand the pilot's objectives, procedures, participation criteria and next steps.",
+        "zh": "欧洲委员会已发布关于欧盟医疗器械法规下医疗器械协调评估试点项目的网络研讨会录像。该内容面向参与符合性评估的公告机构、制造商和主管当局，尤其是需要协调临床评估的器械。相关方可观看录像，了解试点的目标、程序、参与条件和后续安排。"
+      },
+      "source_url": "https://ec.europa.eu/newsroom/sante/newsletter-archives/81425",
+      "source_name": "European Commission",
+      "published_date": "2026-11-13",
+      "detected_date": "2026-11-15T23:18:46Z",
+      "importance": "medium",
+      "tags": [
+        "coordinated_assessment",
+        "medical_devices",
+        "mdr"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "eu_mdr_20261115_eu_and_singapore_sign_working_arrangement_on_public_health_c",
+      "framework": "eu_mdr",
+      "category": "regulation_update",
+      "title": {
+        "en": "EU and Singapore Sign Working Arrangement on Public Health Collaboration",
+        "zh": "欧盟与新加坡签署公共卫生合作工作安排"
+      },
+      "summary": {
+        "en": "The European Commission and Singapore have signed a working arrangement to strengthen collaboration on public health. The arrangement aims to facilitate information exchange and regulatory cooperation in areas of mutual interest, potentially including medical devices. Regulatory affairs professionals should monitor resulting EU-Singapore work streams and assess any potential impact on compliance or market access.",
+        "zh": "欧盟委员会与新加坡签署工作安排，加强公共卫生领域合作。该安排旨在促进信息交流和监管协作，可能涉及医疗器械等共同关注领域。法规事务专业人员应关注后续欧盟-新加坡合作动态，并评估对合规或市场准入的潜在影响。"
+      },
+      "source_url": "https://ec.europa.eu/newsroom/sante/newsletter-archives/81351",
+      "source_name": "European Commission",
+      "published_date": "2026-11-11",
+      "detected_date": "2026-11-15T23:18:56Z",
+      "importance": "medium",
+      "tags": [
+        "eu_singapore",
+        "public_health",
+        "regulatory_cooperation"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "eu_mdr_20261108_new_mdcg_2026_6_guidance_on_clinical_evidence_for_orphan_ivd",
       "framework": "eu_mdr",
