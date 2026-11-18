@@ -6,6 +6,18 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### 日本PMDA II级召回：Paramount Bed KA-86牵引装置（召回编号2-13041）
+
+**2026-11-16** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布一项II级召回（编号2-13041），涉及Paramount Bed株式会社生产的KA-86非能动型简易牵引装置。该召回列入医疗器械安全/召回行动。医疗机构应查阅PMDA正式通知了解具体安全原因，并按照Paramount Bed的指示处理受影响设备。
+
+**标签**: `japan_pmda`, `medical_device_recall`, `class_ii`, `traction_device`, `paramount_bed`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13041)
+
+---
+
 ### 欧盟委员会发布医疗器械协调评估试点网络研讨会录像
 
 **2026-11-13** | EU MDR/IVDR | 法规更新 | !! MEDIUM
@@ -15,6 +27,42 @@ title: 法规速递
 **标签**: `coordinated_assessment`, `medical_devices`, `mdr`
 
 [查看来源 (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81425)
+
+---
+
+### 日本PMDA II类召回：Getinge FLOW-i麻醉系统（编号2-13040）
+
+**2026-11-12** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了对Getinge Group Japan K.K.销售的FLOW-i麻醉系统的II类召回（召回编号2-13040）。该召回为II类，属于中等风险问题；目前可获取的通知摘要未说明具体故障模式。医疗机构应查阅PMDA官方通知及制造商指引，确认受影响设备并完成必要的纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `anesthesia_system`, `getinge`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13040)
+
+---
+
+### PMDA II类召回：百多力Acticor 7 CRT-D/ICD ProMRI系列（召回编号2-13039）
+
+**2026-11-12** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布II类召回（编号2-13039），涉及百多力日本公司的Acticor 7 CRT-D ProMRI、Acticor 7 ICD ProMRI及Acticor 7 ICD VR-T DX ProMRI植入式除颤器/心脏再同步除颤器。具体安全风险应以PMDA官方通知为准。医疗机构应识别受影响设备，联系百多力日本公司，并遵循制造商召回要求进行患者管理和设备随访。
+
+**标签**: `pmda_recall`, `class_ii`, `implantable_defibrillator`, `biotronik_japan`, `crt_d_icd`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13039)
+
+---
+
+### PMDA II类召回 #2-13036：村中医療器 KYRA 手臂板（手术台附件）
+
+**2026-11-12** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA已发布编号为2-13036的II类召回，涉及村中医療器株式会社生产的KYRA手臂板（手术台附件）。该召回为中等风险级别。相关医疗机构应核查库存，识别受影响产品，并按照制造商召回通知执行停用或纠正措施。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `operating_table_accessory`, `arm_board`, `medical_device_recall`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13036)
 
 ---
 
@@ -61,6 +109,18 @@ FDA CDRH发布早期预警，Arrow International正在移除含有弹簧导丝�
 **标签**: `early_alert`, `device_recall`, `spring_wire_guide`, `arrow_international`
 
 [查看来源 (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components)
+
+---
+
+### 日本PMDA I级召回1-2505号：泰利福ARROW PIC导管套件HP（PICC导引器套件）
+
+**2026-11-06** | Japan PMDA | 安全通报 | !!! HIGH
+
+日本PMDA发布1-2505号I级召回，涉及泰利福医疗日本株式会社制造的ARROW PIC导管套件HP（经外周静脉置入中心静脉导管导引器套件）。I级为最严重召回级别，提示存在导致严重健康损害或死亡的合理可能性。公告未详细说明具体缺陷；相关医疗机构应立即识别并隔离该产品，停止使用，并按制造商召回通知处理。
+
+**标签**: `japan_pmda`, `class_i_recall`, `picc_introducer_kit`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=1-2505)
 
 ---
 

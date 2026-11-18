@@ -1,7 +1,140 @@
 {
   "framework": "japan_pmda",
-  "last_updated": "2026-10-28T22:58:16Z",
+  "last_updated": "2026-11-18T01:34:40Z",
   "items": [
+    {
+      "id": "japan_pmda_20261118_pmda_class_ii_recall_paramount_bed_ka_86_traction_device_rec",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Paramount Bed KA-86 Traction Device (Recall #2-13041)",
+        "zh": "日本PMDA II级召回：Paramount Bed KA-86牵引装置（召回编号2-13041）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has issued a Class II recall (No. 2-13041) for the KA-86 non-active simple traction device manufactured by Paramount Bed Co., Ltd. The recall is listed under medical device safety/recall actions. Healthcare facilities should review the official PMDA notice for the specific safety issue and follow Paramount Bed's instructions for affected devices.",
+        "zh": "日本PMDA已发布一项II级召回（编号2-13041），涉及Paramount Bed株式会社生产的KA-86非能动型简易牵引装置。该召回列入医疗器械安全/召回行动。医疗机构应查阅PMDA正式通知了解具体安全原因，并按照Paramount Bed的指示处理受影响设备。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13041",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-11-16",
+      "detected_date": "2026-11-18T01:33:47Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "medical_device_recall",
+        "class_ii",
+        "traction_device",
+        "paramount_bed"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261118_japan_pmda_class_ii_recall_getinge_flow_i_anesthesia_system",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class II Recall: Getinge FLOW-i Anesthesia System (Recall #2-13040)",
+        "zh": "日本PMDA II类召回：Getinge FLOW-i麻醉系统（编号2-13040）"
+      },
+      "summary": {
+        "en": "Japan's PMDA has published a Class II recall (recall #2-13040) for the FLOW-i anesthesia system, a medical device marketed by Getinge Group Japan K.K. The recall is classified as Class II, indicating a moderate-risk issue, though the specific failure mode is not detailed in the available notice summary. Healthcare facilities should consult the official PMDA notice and the manufacturer's instructions to verify affected units and complete required corrective actions.",
+        "zh": "日本PMDA发布了对Getinge Group Japan K.K.销售的FLOW-i麻醉系统的II类召回（召回编号2-13040）。该召回为II类，属于中等风险问题；目前可获取的通知摘要未说明具体故障模式。医疗机构应查阅PMDA官方通知及制造商指引，确认受影响设备并完成必要的纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13040",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-11-12",
+      "detected_date": "2026-11-18T01:34:09Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "anesthesia_system",
+        "getinge",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261118_pmda_class_ii_recall_biotronik_acticor_7_crt_d_icd_promri_se",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall: Biotronik Acticor 7 CRT-D/ICD ProMRI Series (Recall No. 2-13039)",
+        "zh": "PMDA II类召回：百多力Acticor 7 CRT-D/ICD ProMRI系列（召回编号2-13039）"
+      },
+      "summary": {
+        "en": "Japan's PMDA issued a Class II recall (No. 2-13039) for Biotronik Japan's Acticor 7 CRT-D ProMRI, Acticor 7 ICD ProMRI, and Acticor 7 ICD VR-T DX ProMRI implantable defibrillator devices. The recall covers implantable cardioverter defibrillators and cardiac resynchronization therapy defibrillators distributed in Japan; the specific safety issue should be confirmed in the official PMDA notice. Healthcare providers should identify affected devices, consult Biotronik Japan, and follow the manufacturer's recall instructions for patient management and device follow-up.",
+        "zh": "日本PMDA发布II类召回（编号2-13039），涉及百多力日本公司的Acticor 7 CRT-D ProMRI、Acticor 7 ICD ProMRI及Acticor 7 ICD VR-T DX ProMRI植入式除颤器/心脏再同步除颤器。具体安全风险应以PMDA官方通知为准。医疗机构应识别受影响设备，联系百多力日本公司，并遵循制造商召回要求进行患者管理和设备随访。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13039",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-11-12",
+      "detected_date": "2026-11-18T01:34:24Z",
+      "importance": "medium",
+      "tags": [
+        "pmda_recall",
+        "class_ii",
+        "implantable_defibrillator",
+        "biotronik_japan",
+        "crt_d_icd"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261118_pmda_class_ii_recall_2_13036_kyra_arm_board_operating_table",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "PMDA Class II Recall #2-13036: KYRA Arm Board (Operating Table Accessory) - Murakami Medical Instruments Co.",
+        "zh": "PMDA II类召回 #2-13036：村中医療器 KYRA 手臂板（手术台附件）"
+      },
+      "summary": {
+        "en": "The Japanese PMDA has issued a Class II recall (Recall No. 2-13036) for the KYRA Arm Board, an operating table accessory manufactured by Murakami Medical Instruments Co., Ltd. This recall is classified as moderate risk. Healthcare facilities using this device should check inventory, identify affected units, and follow the manufacturer's recall instructions, including any required stop-use or corrective actions.",
+        "zh": "日本PMDA已发布编号为2-13036的II类召回，涉及村中医療器株式会社生产的KYRA手臂板（手术台附件）。该召回为中等风险级别。相关医疗机构应核查库存，识别受影响产品，并按照制造商召回通知执行停用或纠正措施。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13036",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-11-12",
+      "detected_date": "2026-11-18T01:34:40Z",
+      "importance": "medium",
+      "tags": [
+        "japan_pmda",
+        "class_ii_recall",
+        "operating_table_accessory",
+        "arm_board",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "japan_pmda_20261118_japan_pmda_class_i_recall_no_1_2505_teleflex_arrow_pic_cathe",
+      "framework": "japan_pmda",
+      "category": "safety_communication",
+      "title": {
+        "en": "Japan PMDA Class I Recall No.1-2505: Teleflex ARROW PIC Catheter Kit HP (PICC Introducer Kit)",
+        "zh": "日本PMDA I级召回1-2505号：泰利福ARROW PIC导管套件HP（PICC导引器套件）"
+      },
+      "summary": {
+        "en": "Japan's PMDA issued a Class I recall (No. 1-2505) for the ARROW PIC Catheter Kit HP, a peripheral intravenous central venous catheter introducer kit, manufactured by Teleflex Medical Japan Co., Ltd. Class I is the most serious recall category, indicating a reasonable probability of serious health consequences or death. The specific defect is not detailed in the notice; affected healthcare facilities should immediately identify and quarantine the product, stop use, and follow the manufacturer's recall instructions.",
+        "zh": "日本PMDA发布1-2505号I级召回，涉及泰利福医疗日本株式会社制造的ARROW PIC导管套件HP（经外周静脉置入中心静脉导管导引器套件）。I级为最严重召回级别，提示存在导致严重健康损害或死亡的合理可能性。公告未详细说明具体缺陷；相关医疗机构应立即识别并隔离该产品，停止使用，并按制造商召回通知处理。"
+      },
+      "source_url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=1-2505",
+      "source_name": "PMDA (Japan)",
+      "published_date": "2026-11-06",
+      "detected_date": "2026-11-18T01:33:29Z",
+      "importance": "high",
+      "tags": [
+        "japan_pmda",
+        "class_i_recall",
+        "picc_introducer_kit"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "japan_pmda_20261028_japan_pmda_class_ii_recall_philips_spectral_ct_7500_whole_bo",
       "framework": "japan_pmda",

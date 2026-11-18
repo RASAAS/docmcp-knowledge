@@ -6,6 +6,18 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### PMDA Class II Recall: Paramount Bed KA-86 Traction Device (Recall #2-13041)
+
+**2026-11-16** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has issued a Class II recall (No. 2-13041) for the KA-86 non-active simple traction device manufactured by Paramount Bed Co., Ltd. The recall is listed under medical device safety/recall actions. Healthcare facilities should review the official PMDA notice for the specific safety issue and follow Paramount Bed's instructions for affected devices.
+
+**Tags**: `japan_pmda`, `medical_device_recall`, `class_ii`, `traction_device`, `paramount_bed`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13041)
+
+---
+
 ### EC Publishes Recording of Webinar on Pilot Coordinated Assessment for Medical Devices
 
 **2026-11-13** | EU MDR/IVDR | Regulation Update | !! MEDIUM
@@ -15,6 +27,42 @@ The European Commission has published the recording of its webinar on the pilot 
 **Tags**: `coordinated_assessment`, `medical_devices`, `mdr`
 
 [View Source (European Commission)](https://ec.europa.eu/newsroom/sante/newsletter-archives/81425)
+
+---
+
+### Japan PMDA Class II Recall: Getinge FLOW-i Anesthesia System (Recall #2-13040)
+
+**2026-11-12** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (recall #2-13040) for the FLOW-i anesthesia system, a medical device marketed by Getinge Group Japan K.K. The recall is classified as Class II, indicating a moderate-risk issue, though the specific failure mode is not detailed in the available notice summary. Healthcare facilities should consult the official PMDA notice and the manufacturer's instructions to verify affected units and complete required corrective actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `anesthesia_system`, `getinge`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13040)
+
+---
+
+### PMDA Class II Recall: Biotronik Acticor 7 CRT-D/ICD ProMRI Series (Recall No. 2-13039)
+
+**2026-11-12** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA issued a Class II recall (No. 2-13039) for Biotronik Japan's Acticor 7 CRT-D ProMRI, Acticor 7 ICD ProMRI, and Acticor 7 ICD VR-T DX ProMRI implantable defibrillator devices. The recall covers implantable cardioverter defibrillators and cardiac resynchronization therapy defibrillators distributed in Japan; the specific safety issue should be confirmed in the official PMDA notice. Healthcare providers should identify affected devices, consult Biotronik Japan, and follow the manufacturer's recall instructions for patient management and device follow-up.
+
+**Tags**: `pmda_recall`, `class_ii`, `implantable_defibrillator`, `biotronik_japan`, `crt_d_icd`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13039)
+
+---
+
+### PMDA Class II Recall #2-13036: KYRA Arm Board (Operating Table Accessory) - Murakami Medical Instruments Co.
+
+**2026-11-12** | Japan PMDA | Safety Communication | !! MEDIUM
+
+The Japanese PMDA has issued a Class II recall (Recall No. 2-13036) for the KYRA Arm Board, an operating table accessory manufactured by Murakami Medical Instruments Co., Ltd. This recall is classified as moderate risk. Healthcare facilities using this device should check inventory, identify affected units, and follow the manufacturer's recall instructions, including any required stop-use or corrective actions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `operating_table_accessory`, `arm_board`, `medical_device_recall`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13036)
 
 ---
 
@@ -61,6 +109,18 @@ FDA CDRH issued an early alert regarding Arrow International's removal of produc
 **Tags**: `early_alert`, `device_recall`, `spring_wire_guide`, `arrow_international`
 
 [View Source (FDA)](https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components)
+
+---
+
+### Japan PMDA Class I Recall No.1-2505: Teleflex ARROW PIC Catheter Kit HP (PICC Introducer Kit)
+
+**2026-11-06** | Japan PMDA | Safety Communication | !!! HIGH
+
+Japan's PMDA issued a Class I recall (No. 1-2505) for the ARROW PIC Catheter Kit HP, a peripheral intravenous central venous catheter introducer kit, manufactured by Teleflex Medical Japan Co., Ltd. Class I is the most serious recall category, indicating a reasonable probability of serious health consequences or death. The specific defect is not detailed in the notice; affected healthcare facilities should immediately identify and quarantine the product, stop use, and follow the manufacturer's recall instructions.
+
+**Tags**: `japan_pmda`, `class_i_recall`, `picc_introducer_kit`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=1-2505)
 
 ---
 
