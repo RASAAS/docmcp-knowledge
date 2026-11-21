@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "id": "argentina_anmat_20261121_anmat_cancels_authorizations_of_55_establishments_for_interj",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Cancels Authorizations of 55 Establishments for Interjurisdictional Transit of Medical Devices and IVDs",
+        "zh": "ANMAT注销55家医疗器械和体外诊断产品跨辖区运输机构资质"
+      },
+      "summary": {
+        "en": "On 18 November 2026, Argentina's ANMAT revoked the authorizations of 55 establishments that were authorized to conduct interjurisdictional transit of medical devices and in vitro diagnostic (IVD) products. The cancellation applies to the medical devices and IVD products handled by those 55 establishments; no specific product lots are identified in the notice. Regulatory affairs professionals should verify whether their distribution chain includes any of the delisted establishments and take immediate steps to ensure that only ANMAT-authorized facilities are used for interjurisdictional transit.",
+        "zh": "2026年11月18日，阿根廷ANMAT注销了55家获准从事医疗器械和体外诊断产品跨辖区运输的机构的资质。该措施影响这些机构在阿根廷各省之间分销、运输或转移相关产品的能力。相关监管事务人员应核查其分销链是否涉及被注销机构，并立即确保仅使用ANMAT授权的设施进行跨辖区运输。公告未涉及特定产品批次。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-las-habilitaciones-de-55-establecimientos-que-realizan-transito",
+      "source_name": "Official Source",
+      "published_date": "2026-11-18",
+      "detected_date": "2026-11-21T00:27:01Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "medical_devices",
+        "ivd",
+        "authorization_cancellation",
+        "distribution_compliance"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "argentina_anmat_20261121_anmat_cancels_femedical_s_a_authorization",
+      "framework": "argentina_anmat",
+      "category": "safety_communication",
+      "title": {
+        "en": "ANMAT Cancels FEMEDICAL S.A. Authorization",
+        "zh": "ANMAT撤销FEMEDICAL S.A.公司许可"
+      },
+      "summary": {
+        "en": "Argentina’s ANMAT has cancelled the habilitation/registration of medical device company FEMEDICAL S.A. as of November 18, 2026. The alert does not identify specific devices, lots, or the underlying reason; the cancellation affects all products authorized under FEMEDICAL S.A. Regulatory professionals should check inventories for this manufacturer and stop distribution/use while following ANMAT guidance.",
+        "zh": "阿根廷ANMAT于2026年11月18日撤销了医疗器械公司FEMEDICAL S.A.的注册/许可。该警报未说明具体器械名称、批次或撤销原因；此次撤销影响FEMEDICAL S.A.名下所有已授权产品。监管事务人员应核查库存中是否有该公司产品，并按照ANMAT指引停止销售/使用。"
+      },
+      "source_url": "https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-la-habilitacion-de-la-firma-femedical-sa",
+      "source_name": "Official Source",
+      "published_date": "2026-11-18",
+      "detected_date": "2026-11-21T00:27:16Z",
+      "importance": "high",
+      "tags": [
+        "anmat",
+        "authorization_cancellation",
+        "medical_device"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
       "id": "argentina_anmat_20261003_anmat_prohibits_smith_nephew_medical_device_product",
       "framework": "argentina_anmat",
       "category": "safety_communication",
@@ -186,5 +238,5 @@
       "status": "published"
     }
   ],
-  "last_updated": "2026-10-03T21:54:50Z"
+  "last_updated": "2026-11-21T00:27:16Z"
 }

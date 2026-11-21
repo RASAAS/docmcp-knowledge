@@ -6,6 +6,30 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### ANMAT Cancels Authorizations of 55 Establishments for Interjurisdictional Transit of Medical Devices and IVDs
+
+**2026-11-18** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+On 18 November 2026, Argentina's ANMAT revoked the authorizations of 55 establishments that were authorized to conduct interjurisdictional transit of medical devices and in vitro diagnostic (IVD) products. The cancellation applies to the medical devices and IVD products handled by those 55 establishments; no specific product lots are identified in the notice. Regulatory affairs professionals should verify whether their distribution chain includes any of the delisted establishments and take immediate steps to ensure that only ANMAT-authorized facilities are used for interjurisdictional transit.
+
+**Tags**: `anmat`, `medical_devices`, `ivd`, `authorization_cancellation`, `distribution_compliance`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-las-habilitaciones-de-55-establecimientos-que-realizan-transito)
+
+---
+
+### ANMAT Cancels FEMEDICAL S.A. Authorization
+
+**2026-11-18** | Argentina ANMAT | Safety Communication | !!! HIGH
+
+Argentina’s ANMAT has cancelled the habilitation/registration of medical device company FEMEDICAL S.A. as of November 18, 2026. The alert does not identify specific devices, lots, or the underlying reason; the cancellation affects all products authorized under FEMEDICAL S.A. Regulatory professionals should check inventories for this manufacturer and stop distribution/use while following ANMAT guidance.
+
+**Tags**: `anmat`, `authorization_cancellation`, `medical_device`
+
+[View Source (Official Source)](https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-la-habilitacion-de-la-firma-femedical-sa)
+
+---
+
 ### PMDA Class II Recall: Paramount Bed KA-86 Traction Device (Recall #2-13041)
 
 **2026-11-16** | Japan PMDA | Safety Communication | !! MEDIUM

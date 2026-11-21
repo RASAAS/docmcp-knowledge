@@ -45,6 +45,30 @@ title: 法规速递
 
 ## 最新动态
 
+### ANMAT注销55家医疗器械和体外诊断产品跨辖区运输机构资质
+
+**2026-11-18** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+2026年11月18日，阿根廷ANMAT注销了55家获准从事医疗器械和体外诊断产品跨辖区运输的机构的资质。该措施影响这些机构在阿根廷各省之间分销、运输或转移相关产品的能力。相关监管事务人员应核查其分销链是否涉及被注销机构，并立即确保仅使用ANMAT授权的设施进行跨辖区运输。公告未涉及特定产品批次。
+
+**标签**: `anmat`, `medical_devices`, `ivd`, `authorization_cancellation`, `distribution_compliance`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-las-habilitaciones-de-55-establecimientos-que-realizan-transito)
+
+---
+
+### ANMAT撤销FEMEDICAL S.A.公司许可
+
+**2026-11-18** | Argentina ANMAT | 安全通报 | !!! HIGH
+
+阿根廷ANMAT于2026年11月18日撤销了医疗器械公司FEMEDICAL S.A.的注册/许可。该警报未说明具体器械名称、批次或撤销原因；此次撤销影响FEMEDICAL S.A.名下所有已授权产品。监管事务人员应核查库存中是否有该公司产品，并按照ANMAT指引停止销售/使用。
+
+**标签**: `anmat`, `authorization_cancellation`, `medical_device`
+
+[查看来源 (Official Source)](https://www.argentina.gob.ar/noticias/anmat-dio-de-baja-la-habilitacion-de-la-firma-femedical-sa)
+
+---
+
 ### ANMAT禁止Smith & Nephew一款医疗器械
 
 **2026-10-01** | Argentina ANMAT | 安全通报 | !!! HIGH
