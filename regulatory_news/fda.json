@@ -1,7 +1,112 @@
 {
   "framework": "fda",
-  "last_updated": "2026-11-10T23:58:38Z",
+  "last_updated": "2026-11-24T04:09:08Z",
   "items": [
+    {
+      "id": "fda_20261124_class_i_recall_tandem_mobi_insulin_pump_due_to_false_positiv",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Tandem Mobi Insulin Pump Due to False-Positive Occlusion Alarms (80,938 Units)",
+        "zh": "FDA一级召回：Tandem Mobi胰岛素泵假性堵塞报警（80,938台）"
+      },
+      "summary": {
+        "en": "Tandem Diabetes Care, Inc. is conducting a Class I recall (Z-0316-2027) of 80,938 Tandem Mobi insulin pumps (77,559 U.S., 3,379 OUS) because certain pumps may generate false-positive occlusion alarms when no actual insulin flow obstruction is present. This may interrupt insulin delivery and could lead to hyperglycemia or diabetic ketoacidosis if unresolved. Affected users should follow Tandem's recall instructions, verify blood glucose and infusion set when alarms occur, and contact Tandem for support or replacement.",
+        "zh": "Tandem Diabetes Care, Inc. 正在对80,938台Tandem Mobi胰岛素泵（美国77,559台，海外3,379台）实施一级召回（Z-0316-2027），原因是部分设备在胰岛素流路无实际阻塞时可能产生假性堵塞报警。该问题可能导致胰岛素输注中断，若不及时处理可能引起高血糖或糖尿病酮症酸中毒。受影响用户应遵循Tandem召回通知，发生报警时核对血糖和输注管路，并联系Tandem获取支持或更换设备。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0316-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-11",
+      "detected_date": "2026-11-24T04:08:11Z",
+      "importance": "high",
+      "tags": [
+        "fda_class_i_recall",
+        "insulin_pump",
+        "false_occlusion_alarm",
+        "tandem_diabetes_care",
+        "medical_device_safety"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261124_class_i_recall_cardinal_health_presource_pbds_kits_containin",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Cardinal Health Presource PBDS Kits Containing Recalled BD Alaris Infusion Sets",
+        "zh": "I级召回：Cardinal Health Presource PBDS套件（含被召回的BD Alaris输注器）"
+      },
+      "summary": {
+        "en": "Cardinal Health 200, LLC is recalling 3,702 Cardinal Health Presource PBDS kits because they contain BD Alaris pump infusion sets that were previously recalled for performance issues. These performance issues could create serious health risks during infusion therapy. FDA has classified this as a Class I recall, the most serious type. Healthcare facilities should immediately identify and quarantine affected kits and follow Cardinal Health's recall instructions.",
+        "zh": "Cardinal Health 200, LLC正在召回3,702套Cardinal Health Presource PBDS套件，因为其中包含因性能问题被召回的BD Alaris泵输注器。这些性能问题可能在输液治疗过程中造成严重健康风险。FDA已将此次召回列为I级召回，即最严重级别。医疗机构应立即识别并隔离受影响套件，并遵循Cardinal Health的召回指示。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0216-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-11",
+      "detected_date": "2026-11-24T04:08:33Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "infusion_set",
+        "cardinal_health",
+        "bd_alaris"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261124_class_i_recall_cardinal_health_presource_pbds_kits_with_reca",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Cardinal Health Presource PBDS Kits with Recalled BD Alaris Pump Infusion Sets",
+        "zh": "I级召回：Cardinal Health Presource PBDS套装含BD Alaris输注泵管路"
+      },
+      "summary": {
+        "en": "Cardinal Health 200, LLC is recalling 21,429 Cardinal Health Presource PBDS kits because they contain BD Alaris Pump Infusion Sets that were previously recalled for performance issues. This is a Class I recall, meaning use of the affected infusion sets may cause serious adverse health consequences. Users should immediately identify and quarantine affected kits, stop use, and follow Cardinal Health's recall instructions for return or replacement.",
+        "zh": "Cardinal Health 200, LLC正在召回21,429套Cardinal Health Presource PBDS套装，原因是其中含有此前因性能问题被召回的BD Alaris输注泵管路。这是一次I级召回，使用受影响输注管路可能导致严重不良健康后果。用户应立即识别并隔离受影响套装，停止使用，并按照Cardinal Health的召回通知进行退货或更换。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0215-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-11",
+      "detected_date": "2026-11-24T04:08:50Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "cardinal_health",
+        "infusion_set"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
+    {
+      "id": "fda_20261124_class_i_recall_cardinal_health_presource_pbds_kits_with_bd_a",
+      "framework": "fda",
+      "category": "recall_class1",
+      "title": {
+        "en": "Class I Recall: Cardinal Health Presource PBDS Kits with BD Alaris Pump Infusion Sets",
+        "zh": "Cardinal Health Presource PBDS套件含BD Alaris泵输液器 I级召回"
+      },
+      "summary": {
+        "en": "Cardinal Health 200, LLC has initiated a Class I recall of 221,554 Cardinal Health Presource PBDS kits because they contain BD Alaris pump infusion sets that were previously recalled for performance issues, which may pose serious health risks. Affected kits should be immediately identified and quarantined. Users should follow the recall notice and contact Cardinal Health for return or correction.",
+        "zh": "Cardinal Health 200, LLC发起I级召回，涉及221,554套Cardinal Health Presource PBDS套件，原因是其中包含的BD Alaris泵输液器因性能问题已被召回，可能带来严重健康风险。相关机构应立即识别并隔离受影响套件，并按照召回通知联系Cardinal Health进行退货或纠正。"
+      },
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0218-2027",
+      "source_name": "FDA CDRH",
+      "published_date": "2026-11-11",
+      "detected_date": "2026-11-24T04:09:08Z",
+      "importance": "high",
+      "tags": [
+        "class_i_recall",
+        "infusion_set",
+        "cardinal_health",
+        "bd_alaris",
+        "medical_device_recall"
+      ],
+      "related_docs": [],
+      "status": "published"
+    },
     {
       "id": "fda_20261110_convenience_kit_correction_cardinal_health_updates_use_instr",
       "framework": "fda",

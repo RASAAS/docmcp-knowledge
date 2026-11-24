@@ -102,6 +102,54 @@ The European Commission and Singapore have signed a working arrangement to stren
 
 ---
 
+### Class I Recall: Tandem Mobi Insulin Pump Due to False-Positive Occlusion Alarms (80,938 Units)
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Tandem Diabetes Care, Inc. is conducting a Class I recall (Z-0316-2027) of 80,938 Tandem Mobi insulin pumps (77,559 U.S., 3,379 OUS) because certain pumps may generate false-positive occlusion alarms when no actual insulin flow obstruction is present. This may interrupt insulin delivery and could lead to hyperglycemia or diabetic ketoacidosis if unresolved. Affected users should follow Tandem's recall instructions, verify blood glucose and infusion set when alarms occur, and contact Tandem for support or replacement.
+
+**Tags**: `fda_class_i_recall`, `insulin_pump`, `false_occlusion_alarm`, `tandem_diabetes_care`, `medical_device_safety`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0316-2027)
+
+---
+
+### Class I Recall: Cardinal Health Presource PBDS Kits Containing Recalled BD Alaris Infusion Sets
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC is recalling 3,702 Cardinal Health Presource PBDS kits because they contain BD Alaris pump infusion sets that were previously recalled for performance issues. These performance issues could create serious health risks during infusion therapy. FDA has classified this as a Class I recall, the most serious type. Healthcare facilities should immediately identify and quarantine affected kits and follow Cardinal Health's recall instructions.
+
+**Tags**: `class_i_recall`, `infusion_set`, `cardinal_health`, `bd_alaris`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0216-2027)
+
+---
+
+### Class I Recall: Cardinal Health Presource PBDS Kits with Recalled BD Alaris Pump Infusion Sets
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC is recalling 21,429 Cardinal Health Presource PBDS kits because they contain BD Alaris Pump Infusion Sets that were previously recalled for performance issues. This is a Class I recall, meaning use of the affected infusion sets may cause serious adverse health consequences. Users should immediately identify and quarantine affected kits, stop use, and follow Cardinal Health's recall instructions for return or replacement.
+
+**Tags**: `class_i_recall`, `cardinal_health`, `infusion_set`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0215-2027)
+
+---
+
+### Class I Recall: Cardinal Health Presource PBDS Kits with BD Alaris Pump Infusion Sets
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC has initiated a Class I recall of 221,554 Cardinal Health Presource PBDS kits because they contain BD Alaris pump infusion sets that were previously recalled for performance issues, which may pose serious health risks. Affected kits should be immediately identified and quarantined. Users should follow the recall notice and contact Cardinal Health for return or correction.
+
+**Tags**: `class_i_recall`, `infusion_set`, `cardinal_health`, `bd_alaris`, `medical_device_recall`
+
+[View Source (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0218-2027)
+
+---
+
 ### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
 
 **2026-11-10** | FDA | cdrh_news | !! MEDIUM

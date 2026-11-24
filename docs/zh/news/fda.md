@@ -6,6 +6,54 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### FDA一级召回：Tandem Mobi胰岛素泵假性堵塞报警（80,938台）
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Tandem Diabetes Care, Inc. 正在对80,938台Tandem Mobi胰岛素泵（美国77,559台，海外3,379台）实施一级召回（Z-0316-2027），原因是部分设备在胰岛素流路无实际阻塞时可能产生假性堵塞报警。该问题可能导致胰岛素输注中断，若不及时处理可能引起高血糖或糖尿病酮症酸中毒。受影响用户应遵循Tandem召回通知，发生报警时核对血糖和输注管路，并联系Tandem获取支持或更换设备。
+
+**标签**: `fda_class_i_recall`, `insulin_pump`, `false_occlusion_alarm`, `tandem_diabetes_care`, `medical_device_safety`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0316-2027)
+
+---
+
+### I级召回：Cardinal Health Presource PBDS套件（含被召回的BD Alaris输注器）
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC正在召回3,702套Cardinal Health Presource PBDS套件，因为其中包含因性能问题被召回的BD Alaris泵输注器。这些性能问题可能在输液治疗过程中造成严重健康风险。FDA已将此次召回列为I级召回，即最严重级别。医疗机构应立即识别并隔离受影响套件，并遵循Cardinal Health的召回指示。
+
+**标签**: `class_i_recall`, `infusion_set`, `cardinal_health`, `bd_alaris`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0216-2027)
+
+---
+
+### I级召回：Cardinal Health Presource PBDS套装含BD Alaris输注泵管路
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC正在召回21,429套Cardinal Health Presource PBDS套装，原因是其中含有此前因性能问题被召回的BD Alaris输注泵管路。这是一次I级召回，使用受影响输注管路可能导致严重不良健康后果。用户应立即识别并隔离受影响套装，停止使用，并按照Cardinal Health的召回通知进行退货或更换。
+
+**标签**: `class_i_recall`, `cardinal_health`, `infusion_set`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0215-2027)
+
+---
+
+### Cardinal Health Presource PBDS套件含BD Alaris泵输液器 I级召回
+
+**2026-11-11** | FDA | recall_class1 | !!! HIGH
+
+Cardinal Health 200, LLC发起I级召回，涉及221,554套Cardinal Health Presource PBDS套件，原因是其中包含的BD Alaris泵输液器因性能问题已被召回，可能带来严重健康风险。相关机构应立即识别并隔离受影响套件，并按照召回通知联系Cardinal Health进行退货或纠正。
+
+**标签**: `class_i_recall`, `infusion_set`, `cardinal_health`, `bd_alaris`, `medical_device_recall`
+
+[查看来源 (FDA CDRH)](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=Z-0218-2027)
+
+---
+
 ### Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infus
 
 **2026-11-10** | FDA | cdrh_news | !! MEDIUM
