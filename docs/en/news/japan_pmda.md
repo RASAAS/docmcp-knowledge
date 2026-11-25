@@ -6,6 +6,48 @@ title: Regulatory News
 
 > Latest regulatory updates, standard revisions, and guidance publications in the medical device compliance space.
 
+### [Class II] (1)PET/CT装置　uMI　Panvivo(2)PET/CT装置　ClariTom uMI 550 (X線CT組合せ型ポジトロンCT装置) - United Imaging Healthcare Japan株式会社
+
+**2026-11-24** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-13054: X線CT組合せ型ポジトロンCT装置 / (1)PET/CT装置　uMI　Panvivo(2)PET/CT装置　ClariTom uMI 550 by United Imaging Healthcare Japan株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13054)
+
+---
+
+### [Class II] (1)インテグリス　アルーラ　フラットディテクター(2)血管造影X線診断装置　Azurion (据置型デジタル式循環器用X線透視診断装置) - 株式会社フィリップス・ジャパン
+
+**2026-11-24** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-13053: 据置型デジタル式循環器用X線透視診断装置 / (1)インテグリス　アルーラ　フラットディテクター(2)血管造影X線診断装置　Azurion by 株式会社フィリップス・ジャパン. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13053)
+
+---
+
+### Japan PMDA Class II Recall: Arthrex NanoScope Camera System (Rigid Arthroscope)
+
+**2026-11-20** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Japan's PMDA has published a Class II recall (No. 2-13049) for the NanoScope Camera System, a rigid arthroscope marketed by Arthrex Japan G.K. The Class II classification indicates a moderate-risk safety issue; the specific hazard and corrective actions should be confirmed in the official PMDA recall notice. Healthcare facilities using this device should review the notice and follow the manufacturer's instructions.
+
+**Tags**: `japan_pmda`, `class_ii_recall`, `arthroscope`
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13049)
+
+---
+
+### [Class II] インターサージカル呼吸回路シリーズ (呼吸回路セット) - エム・シー・メディカル株式会社
+
+**2026-11-20** | Japan PMDA | Safety Communication | !! MEDIUM
+
+Recall #2-13048: 呼吸回路セット / インターサージカル呼吸回路シリーズ by エム・シー・メディカル株式会社. Type: 医療機器.
+
+[View Source (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13048)
+
+---
+
 ### PMDA Class II Recall: Paramount Bed KA-86 Traction Device (Recall #2-13041)
 
 **2026-11-16** | Japan PMDA | Safety Communication | !! MEDIUM

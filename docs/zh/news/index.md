@@ -6,6 +6,48 @@ title: 法规速递
 
 > 医疗器械合规领域的最新法规动态、标准更新和指南发布。
 
+### [Class II] (1)PET/CT装置　uMI　Panvivo(2)PET/CT装置　ClariTom uMI 550 (X線CT組合せ型ポジトロンCT装置) - United Imaging Healthcare Japan株式会社
+
+**2026-11-24** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-13054: X線CT組合せ型ポジトロンCT装置 / (1)PET/CT装置　uMI　Panvivo(2)PET/CT装置　ClariTom uMI 550 by United Imaging Healthcare Japan株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13054)
+
+---
+
+### [Class II] (1)インテグリス　アルーラ　フラットディテクター(2)血管造影X線診断装置　Azurion (据置型デジタル式循環器用X線透視診断装置) - 株式会社フィリップス・ジャパン
+
+**2026-11-24** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-13053: 据置型デジタル式循環器用X線透視診断装置 / (1)インテグリス　アルーラ　フラットディテクター(2)血管造影X線診断装置　Azurion by 株式会社フィリップス・ジャパン. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13053)
+
+---
+
+### 日本PMDA二级召回：Arthrex NanoScope摄像系统（硬性关节镜）
+
+**2026-11-20** | Japan PMDA | 安全通报 | !! MEDIUM
+
+日本PMDA发布了一项二级召回（编号2-13049），涉及Arthrex Japan合同会社的NanoScope摄像系统（硬性关节镜）。该召回为二级，表明存在中等风险的安全问题；具体危害和纠正措施需以PMDA官方召回通知为准。使用该设备的医疗机构应查阅通知并遵循制造商的指示。
+
+**标签**: `japan_pmda`, `class_ii_recall`, `arthroscope`
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13049)
+
+---
+
+### [Class II] インターサージカル呼吸回路シリーズ (呼吸回路セット) - エム・シー・メディカル株式会社
+
+**2026-11-20** | Japan PMDA | 安全通报 | !! MEDIUM
+
+Recall #2-13048: 呼吸回路セット / インターサージカル呼吸回路シリーズ by エム・シー・メディカル株式会社. Type: 医療機器.
+
+[查看来源 (PMDA (Japan))](https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13048)
+
+---
+
 ### ANMAT注销55家医疗器械和体外诊断产品跨辖区运输机构资质
 
 **2026-11-18** | Argentina ANMAT | 安全通报 | !!! HIGH
